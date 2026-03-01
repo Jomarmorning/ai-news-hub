@@ -1,18 +1,10 @@
-/**
- * AI Hub - Vercel Serverless API
- * 简化版本，直接返回静态数据
- */
-
 const express = require('express');
 const cors = require('cors');
 
 const app = express();
-
-// 中间件
 app.use(cors());
 app.use(express.json());
 
-// 默认数据
 const DEFAULT_DATA = {
     downloadRankings: [
         { name: 'ChatGPT', description: 'OpenAI开发的AI聊天助手', category: 'AI对话', downloads: 5200000, trend: 15 },
@@ -46,7 +38,6 @@ const DEFAULT_DATA = {
     ]
 };
 
-// API 路由
 app.get('/api/rankings/download', (req, res) => {
     res.json(DEFAULT_DATA.downloadRankings);
 });
@@ -71,9 +62,7 @@ app.get('/api/health', (req, res) => {
     res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
-// 首页 HTML
-app.get('/', (req, res) => {
-    res.send(`<!DOCTYPE html>
+const HTML = `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -146,7 +135,10 @@ app.get('/', (req, res) => {
         load();
     </script>
 </body>
-</html>`);
+</html>`;
+
+app.get('/', (req, res) => {
+    res.send(HTML);
 });
 
 module.exports = app;
