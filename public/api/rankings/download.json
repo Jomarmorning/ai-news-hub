@@ -1,0 +1,12 @@
+[
+  { "name": "ChatGPT", "description": "OpenAI开发的AI聊天助手", "category": "AI对话", "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg", "downloads": 5200000, "trend": 15 },
+  { "name": "Midjourney", "description": "AI图像生成工具", "category": "AI绘画", "icon": "https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg", "downloads": 3800000, "trend": 8 },
+  { "name": "Claude", "description": "Anthropic AI助手", "category": "AI对话", "icon": "https://www.anthropic.com/images/icons/apple-touch-icon.png", "downloads": 3200000, "trend": 25 },
+  { "name": "Runway", "description": "AI视频生成与编辑", "category": "AI视频", "icon": "https://runwayml.com/favicon.ico", "downloads": 2800000, "trend": 12 },
+  { "name": "Jasper", "description": "AI写作助手", "category": "AI写作", "icon": "https://www.jasper.ai/favicon.ico", "downloads": 2400000, "trend": -3 },
+  { "name": "Synthesia", "description": "AI视频生成平台", "category": "AI视频", "icon": "https://www.synthesia.io/favicon.ico", "downloads": 2100000, "trend": 18 },
+  { "name": "Copy.ai", "description": "营销文案AI工具", "category": "AI写作", "icon": "https://www.copy.ai/favicon.ico", "downloads": 1900000, "trend": 5 },
+  { "name": "Notion AI", "description": "智能笔记与协作", "category": "生产力", "icon": "https://www.notion.so/images/favicon.ico", "downloads": 1750000, "trend": 22 },
+  { "name": "Grammarly", "description": "AI写作辅助工具", "category": "AI写作", "icon": "https://www.grammarly.com/favicon.ico", "downloads": 1600000, "trend": -5 },
+  { "name": "DALL-E 3", "description": "OpenAI图像生成", "category": "AI绘画", "icon": "https://openai.com/favicon.ico", "downloads": 1450000, "trend": 30 }
+]

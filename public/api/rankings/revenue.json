@@ -1,0 +1,8 @@
+[
+  { "name": "ChatGPT Plus", "category": "AI对话", "revenue": "$180M", "arpu": "$20", "conversion": "5.2%", "growth": "+28%", "subscribers": "9M+" },
+  { "name": "Midjourney Pro", "category": "AI绘画", "revenue": "$85M", "arpu": "$30", "conversion": "8.5%", "growth": "+15%", "subscribers": "2.8M" },
+  { "name": "Jasper", "category": "AI写作", "revenue": "$42M", "arpu": "$49", "conversion": "12%", "growth": "+8%", "subscribers": "850K" },
+  { "name": "Grammarly Premium", "category": "AI写作", "revenue": "$38M", "arpu": "$12", "conversion": "3.8%", "growth": "+5%", "subscribers": "3.2M" },
+  { "name": "Runway", "category": "AI视频", "revenue": "$32M", "arpu": "$35", "conversion": "6.2%", "growth": "+45%", "subscribers": "900K" },
+  { "name": "Claude Pro", "category": "AI对话", "revenue": "$28M", "arpu": "$20", "conversion": "4.5%", "growth": "+55%", "subscribers": "1.4M" }
+]
