@@ -1,13 +1,10 @@
 /**
  * AI Hub - Vercel Serverless API
- * 简化版本，移除定时任务
+ * 简化版本，直接返回静态数据
  */
 
 const express = require('express');
 const cors = require('cors');
-
-// 数据服务
-const dataService = require('./services/dataService');
 
 const app = express();
 
@@ -28,66 +25,53 @@ const DEFAULT_DATA = {
         { name: 'Notion AI', description: '智能笔记与协作', category: '生产力', downloads: 1750000, trend: 22 },
         { name: 'Grammarly', description: 'AI写作辅助工具', category: 'AI写作', downloads: 1600000, trend: -5 },
         { name: 'DALL-E 3', description: 'OpenAI图像生成', category: 'AI绘画', downloads: 1450000, trend: 30 }
+    ],
+    revenueRankings: [
+        { name: 'ChatGPT Plus', category: 'AI对话', revenue: '$180M', arpu: '$20', conversion: '5.2%', growth: '+28%', subscribers: '9M+' },
+        { name: 'Midjourney Pro', category: 'AI绘画', revenue: '$85M', arpu: '$30', conversion: '8.5%', growth: '+15%', subscribers: '2.8M' },
+        { name: 'Jasper', category: 'AI写作', revenue: '$42M', arpu: '$49', conversion: '12%', growth: '+8%', subscribers: '850K' },
+        { name: 'Grammarly Premium', category: 'AI写作', revenue: '$38M', arpu: '$12', conversion: '3.8%', growth: '+5%', subscribers: '3.2M' },
+        { name: 'Runway', category: 'AI视频', revenue: '$32M', arpu: '$35', conversion: '6.2%', growth: '+45%', subscribers: '900K' },
+        { name: 'Claude Pro', category: 'AI对话', revenue: '$28M', arpu: '$20', conversion: '4.5%', growth: '+55%', subscribers: '1.4M' }
+    ],
+    news: [
+        { title: 'OpenAI发布GPT-5预览版，推理能力大幅提升', excerpt: 'OpenAI今日发布了GPT-5的预览版本，新模型在逻辑推理、代码生成和多模态理解方面均有显著改进。', source: 'OpenAI Blog', tag: '大模型' },
+        { title: 'Google Gemini 2.0支持实时视频理解', excerpt: 'Google DeepMind宣布Gemini 2.0将支持实时视频流分析，可同时进行视觉理解和自然语言交互。', source: 'DeepMind', tag: '多模态' },
+        { title: 'Midjourney V7发布：图像生成质量再创新高', excerpt: 'Midjourney发布V7版本，引入新的神经网络架构，生成图像的细节表现力大幅提升。', source: 'Midjourney', tag: 'AI绘画' }
+    ],
+    newAppsRankings: [
+        { name: 'Kimi K2', description: 'Moonshot最新多模态AI助手', category: 'AI对话', downloads: 1250000, trend: 156 },
+        { name: 'Pika 2.0', description: '新一代AI视频生成工具', category: 'AI视频', downloads: 980000, trend: 89 },
+        { name: 'Ideogram 2.0', description: '文本渲染增强的AI绘画工具', category: 'AI绘画', downloads: 850000, trend: 67 }
     ]
 };
 
 // API 路由
-app.get('/api/rankings/download', async (req, res) => {
-    try {
-        const rankings = await dataService.getDownloadRankings();
-        res.json(rankings);
-    } catch (error) {
-        console.error('获取下载排名失败:', error);
-        res.json(DEFAULT_DATA.downloadRankings);
-    }
+app.get('/api/rankings/download', (req, res) => {
+    res.json(DEFAULT_DATA.downloadRankings);
 });
 
-app.get('/api/rankings/revenue', async (req, res) => {
-    try {
-        const rankings = await dataService.getRevenueRankings();
-        res.json(rankings);
-    } catch (error) {
-        res.status(500).json({ error: '获取数据失败' });
-    }
+app.get('/api/rankings/revenue', (req, res) => {
+    res.json(DEFAULT_DATA.revenueRankings);
 });
 
-app.get('/api/news', async (req, res) => {
-    try {
-        const news = await dataService.getNews();
-        res.json(news);
-    } catch (error) {
-        res.status(500).json({ error: '获取数据失败' });
-    }
+app.get('/api/news', (req, res) => {
+    res.json(DEFAULT_DATA.news);
 });
 
-app.get('/api/rankings/new-apps', async (req, res) => {
-    try {
-        const rankings = await dataService.getNewAppsRankings();
-        res.json(rankings);
-    } catch (error) {
-        res.status(500).json({ error: '获取数据失败' });
-    }
+app.get('/api/rankings/new-apps', (req, res) => {
+    res.json(DEFAULT_DATA.newAppsRankings);
 });
 
-app.get('/api/all', async (req, res) => {
-    try {
-        const [downloads, revenue, news, newApps] = await Promise.all([
-            dataService.getDownloadRankings(),
-            dataService.getRevenueRankings(),
-            dataService.getNews(),
-            dataService.getNewAppsRankings()
-        ]);
-        res.json({ downloadRankings: downloads, revenueRankings: revenue, news, newAppsRankings: newApps });
-    } catch (error) {
-        res.json({ downloadRankings: DEFAULT_DATA.downloadRankings, revenueRankings: [], news: [], newAppsRankings: [] });
-    }
+app.get('/api/all', (req, res) => {
+    res.json(DEFAULT_DATA);
 });
 
 app.get('/api/health', (req, res) => {
     res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
-// 首页
+// 首页 HTML
 app.get('/', (req, res) => {
     res.send(`<!DOCTYPE html>
 <html lang="zh-CN">
@@ -141,8 +125,8 @@ app.get('/', (req, res) => {
             try {
                 const res = await fetch('/api/rankings/download');
                 const data = await res.json();
-                document.getElementById('ranking').innerHTML = data.slice(0, 10).map((app, i) =>
-                    '<div class="item">' +
+                document.getElementById('ranking').innerHTML = data.slice(0, 10).map(function(app, i) {
+                    return '<div class="item">' +
                         '<div class="rank ' + (i<3?['gold','silver','bronze'][i]:'') + '">' + (i+1) + '</div>' +
                         '<div class="info">' +
                             '<h3>' + app.name + '</h3>' +
@@ -153,8 +137,8 @@ app.get('/', (req, res) => {
                             '<div class="num">' + (app.downloads/10000).toFixed(1) + '万</div>' +
                             '<div class="label">周下载</div>' +
                         '</div>' +
-                    '</div>'
-                ).join('');
+                    '</div>';
+                }).join('');
             } catch(e) {
                 document.getElementById('ranking').innerHTML = '<div class="error">加载失败，请刷新重试</div>';
             }
