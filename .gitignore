@@ -7,6 +7,7 @@ yarn-error.log*
 # 数据文件
 data/
 *.json
+!vercel.json
 
 # 环境变量
 .env.local
