@@ -9,7 +9,10 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const redisService = require('./redisService');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
+// Vercel Serverless 环境不支持文件系统写入，使用内存存储
+let memoryData = null;
+
+const DATA_DIR = '/tmp/data';
 const DATA_FILE = path.join(DATA_DIR, 'aiData.json');
 
 // 默认数据 - 当抓取失败时使用
@@ -328,38 +331,32 @@ async function ensureDataDir() {
     }
 }
 
-// 读取数据（优先从Redis，其次本地文件）
+// 读取数据（优先从Redis，其次内存，最后默认数据）
 async function readLocalData() {
     // 首先尝试从Redis读取
     const redisData = await redisService.readFromRedis();
     if (redisData) {
         console.log('从Redis读取数据成功');
+        memoryData = redisData;
         return redisData;
     }
 
-    // 尝试从本地文件读取
-    try {
-        await ensureDataDir();
-        const data = await fs.readFile(DATA_FILE, 'utf8');
-        return JSON.parse(data);
-    } catch (error) {
-        // 文件不存在或读取失败，返回默认数据
-        return DEFAULT_DATA;
+    // 使用内存数据
+    if (memoryData) {
+        return memoryData;
     }
+
+    // 返回默认数据
+    return DEFAULT_DATA;
 }
 
-// 保存数据（同时保存到Redis和本地文件）
+// 保存数据（保存到Redis和内存）
 async function saveLocalData(data) {
+    // 保存到内存
+    memoryData = data;
+
     // 保存到Redis（如果配置了）
     await redisService.saveToRedis(data);
-
-    // 保存到本地文件
-    try {
-        await ensureDataDir();
-        await fs.writeFile(DATA_FILE, JSON.stringify(data, null, 2), 'utf8');
-    } catch (error) {
-        console.error('保存数据到文件失败:', error);
-    }
 }
 
 // 抓取AI应用排名数据
