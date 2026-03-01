@@ -3,8 +3,8 @@
  * 负责数据获取、渲染和交互
  */
 
-// API 基础URL
-const API_BASE = '';
+// API 基础URL - 使用静态JSON文件
+const API_BASE = '/api';
 
 // 初始化应用
 document.addEventListener('DOMContentLoaded', () => {
@@ -50,7 +50,7 @@ async function loadNewAppsRanking() {
         container.innerHTML = generateRankingSkeleton(10);
 
         // 获取数据
-        const response = await fetch(`${API_BASE}/api/rankings/new-apps`);
+        const response = await fetch(`${API_BASE}/rankings/new-apps.json`);
         console.log('API 响应状态:', response.status);
         const data = await response.json();
         console.log('获取到新应用数据:', data.length, '条');
@@ -74,7 +74,7 @@ async function loadDownloadRanking() {
         container.innerHTML = generateRankingSkeleton(10);
 
         // 获取数据
-        const response = await fetch(`${API_BASE}/api/rankings/download`);
+        const response = await fetch(`${API_BASE}/rankings/download.json`);
         const data = await response.json();
 
         // 渲染数据
@@ -95,7 +95,7 @@ async function loadRevenueRanking() {
         container.innerHTML = generateRevenueSkeleton(6);
 
         // 获取数据
-        const response = await fetch(`${API_BASE}/api/rankings/revenue`);
+        const response = await fetch(`${API_BASE}/rankings/revenue.json`);
         const data = await response.json();
 
         // 渲染数据
@@ -116,7 +116,7 @@ async function loadNews() {
         container.innerHTML = generateNewsSkeleton(6);
 
         // 获取数据
-        const response = await fetch(`${API_BASE}/api/news`);
+        const response = await fetch(`${API_BASE}/news.json`);
         const data = await response.json();
 
         // 渲染数据
