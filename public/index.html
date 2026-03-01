@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Hub - AI应用排名与资讯</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 动态背景 -->
+    <div class="bg-animation">
+        <div class="gradient-sphere sphere-1"></div>
+        <div class="gradient-sphere sphere-2"></div>
+        <div class="gradient-sphere sphere-3"></div>
+        <div class="grid-overlay"></div>
+    </div>
+
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="nav-brand">
+            <div class="logo">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">AI Hub</span>
+            </div>
+        </div>
+        <div class="nav-links">
+            <a href="#new-apps" class="nav-link active">新发行</a>
+            <a href="#rankings" class="nav-link">应用排名</a>
+            <a href="#revenue" class="nav-link">盈利榜单</a>
+            <a href="#news" class="nav-link">热点资讯</a>
+        </div>
+        <div class="nav-actions">
+            <span class="update-time">更新于 <span id="lastUpdate">--</span></span>
+        </div>
+    </nav>
+
+    <!-- 主内容区 -->
+    <main class="main-container">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span class="pulse-dot"></span>
+                    实时数据
+                </div>
+                <h1 class="hero-title">
+                    <span class="title-line">探索AI世界</span>
+                    <span class="title-line highlight">洞察前沿趋势</span>
+                </h1>
+                <p class="hero-subtitle">
+                    聚合全球AI应用下载热度、盈利能力与最新资讯，<br>
+                    助你把握人工智能时代脉搏
+                </p>
+            </div>
+            <div class="hero-stats">
+                <div class="stat-card">
+                    <div class="stat-number" id="totalApps">--</div>
+                    <div class="stat-label">收录应用</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="totalNews">--</div>
+                    <div class="stat-label">今日资讯</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="updateFreq">24h</div>
+                    <div class="stat-label">更新频率</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 新发行AI应用排名 -->
+        <section class="section" id="new-apps">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">🆕</span>
+                    <h2 class="section-title">新发行AI应用</h2>
+                </div>
+                <p class="section-desc">两周内新发布的AI应用下载热度Top 10</p>
+            </div>
+            <div class="ranking-container new-apps-container">
+                <div class="ranking-list" id="newAppsRanking">
+                    <!-- 动态生成 -->
+                </div>
+            </div>
+        </section>
+
+        <!-- 下载热度排名 -->
+        <section class="section" id="rankings">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">🔥</span>
+                    <h2 class="section-title">下载热度排行</h2>
+                </div>
+                <p class="section-desc">近一周全球AI应用下载量Top 10</p>
+            </div>
+            <div class="ranking-container">
+                <div class="ranking-list" id="downloadRanking">
+                    <!-- 动态生成 -->
+                </div>
+            </div>
+        </section>
+
+        <!-- 盈利能力排名 -->
+        <section class="section" id="revenue">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">💰</span>
+                    <h2 class="section-title">盈利能力榜单</h2>
+                </div>
+                <p class="section-desc">AI应用收入与付费能力排名</p>
+            </div>
+            <div class="revenue-grid" id="revenueRanking">
+                <!-- 动态生成 -->
+            </div>
+        </section>
+
+        <!-- 热点资讯 -->
+        <section class="section" id="news">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">📰</span>
+                    <h2 class="section-title">AI热点资讯</h2>
+                </div>
+                <p class="section-desc">最新人工智能行业动态与突破</p>
+            </div>
+            <div class="news-container">
+                <div class="news-grid" id="newsGrid">
+                    <!-- 动态生成 -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <span class="logo-icon">◈</span>
+                <span>AI Hub</span>
+            </div>
+            <p class="footer-text">数据来源于公开渠道，仅供参考</p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
