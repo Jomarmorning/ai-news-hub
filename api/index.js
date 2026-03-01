@@ -141,20 +141,20 @@ app.get('/', (req, res) => {
             try {
                 const res = await fetch('/api/rankings/download');
                 const data = await res.json();
-                document.getElementById('ranking').innerHTML = data.slice(0, 10).map((app, i) => \`
-                    <div class="item">
-                        <div class="rank \${i<3?['gold','silver','bronze'][i]:''}">${i+1}</div>
-                        <div class="info">
-                            <h3>${app.name}</h3>
-                            <p>${app.description}</p>
-                        </div>
-                        <span class="category">${app.category}</span>
-                        <div class="stats">
-                            <div class="num">${(app.downloads/10000).toFixed(1)}万</div>
-                            <div class="label">周下载</div>
-                        </div>
-                    </div>
-                \`).join('');
+                document.getElementById('ranking').innerHTML = data.slice(0, 10).map((app, i) =>
+                    '<div class="item">' +
+                        '<div class="rank ' + (i<3?['gold','silver','bronze'][i]:'') + '">' + (i+1) + '</div>' +
+                        '<div class="info">' +
+                            '<h3>' + app.name + '</h3>' +
+                            '<p>' + app.description + '</p>' +
+                        '</div>' +
+                        '<span class="category">' + app.category + '</span>' +
+                        '<div class="stats">' +
+                            '<div class="num">' + (app.downloads/10000).toFixed(1) + '万</div>' +
+                            '<div class="label">周下载</div>' +
+                        '</div>' +
+                    '</div>'
+                ).join('');
             } catch(e) {
                 document.getElementById('ranking').innerHTML = '<div class="error">加载失败，请刷新重试</div>';
             }
