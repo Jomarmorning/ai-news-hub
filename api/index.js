@@ -7,7 +7,7 @@ const express = require('express');
 const cors = require('cors');
 
 // 数据服务
-const dataService = require('../services/dataService');
+const dataService = require('./services/dataService');
 
 const app = express();
 
