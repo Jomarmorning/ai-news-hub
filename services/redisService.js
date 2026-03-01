@@ -5,17 +5,22 @@
 
 const { Redis } = require('@upstash/redis');
 
-// 初始化 Redis 客户端
-const redis = new Redis({
-    url: process.env.UPSTASH_REDIS_REST_URL || '',
-    token: process.env.UPSTASH_REDIS_REST_TOKEN || '',
-});
-
 const DATA_KEY = 'ai-hub:data';
 
 // 检查 Redis 是否配置
 function isRedisConfigured() {
     return process.env.UPSTASH_REDIS_REST_URL && process.env.UPSTASH_REDIS_REST_TOKEN;
+}
+
+// 获取 Redis 客户端（延迟初始化）
+function getRedis() {
+    if (!isRedisConfigured()) {
+        return null;
+    }
+    return new Redis({
+        url: process.env.UPSTASH_REDIS_REST_URL,
+        token: process.env.UPSTASH_REDIS_REST_TOKEN,
+    });
 }
 
 // 从 Redis 读取数据
@@ -25,6 +30,8 @@ async function readFromRedis() {
     }
 
     try {
+        const redis = getRedis();
+        if (!redis) return null;
         const data = await redis.get(DATA_KEY);
         return data;
     } catch (error) {
@@ -41,6 +48,8 @@ async function saveToRedis(data) {
     }
 
     try {
+        const redis = getRedis();
+        if (!redis) return false;
         await redis.set(DATA_KEY, data);
         console.log('数据已保存到 Redis');
         return true;
