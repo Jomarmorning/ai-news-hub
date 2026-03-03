@@ -386,8 +386,15 @@ function initNavigation() {
     // 点击导航
     navLinks.forEach(link => {
         link.addEventListener('click', (e) => {
+            const href = link.getAttribute('href');
+
+            // 如果是外部链接（不以#开头），允许默认跳转
+            if (!href.startsWith('#')) {
+                return;
+            }
+
             e.preventDefault();
-            const targetId = link.getAttribute('href').slice(1);
+            const targetId = href.slice(1);
             const targetSection = document.getElementById(targetId);
 
             if (targetSection) {

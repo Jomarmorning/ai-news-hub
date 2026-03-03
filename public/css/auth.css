@@ -1,0 +1,511 @@
+/* ========================================
+   Auth 页面样式 - 登录/注册
+   ======================================== */
+
+/* 导航栏简化 */
+.auth-navbar {
+    background: transparent;
+    border-bottom: none;
+}
+
+.auth-navbar .nav-links {
+    gap: 16px;
+}
+
+/* 主容器 */
+.auth-container {
+    min-height: calc(100vh - 140px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 24px;
+}
+
+/* 认证卡片 */
+.auth-card {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    max-width: 1000px;
+    width: 100%;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 24px;
+    overflow: hidden;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+}
+
+/* 左侧装饰 */
+.auth-decoration {
+    background: linear-gradient(135deg, var(--openclaw-primary) 0%, var(--openclaw-primary-dark) 100%);
+    padding: 48px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.auth-decoration::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+    animation: rotate 20s linear infinite;
+}
+
+@keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.decoration-content {
+    position: relative;
+    z-index: 1;
+    color: white;
+}
+
+.decoration-icon {
+    font-size: 4rem;
+    display: block;
+    margin-bottom: 24px;
+}
+
+.decoration-content h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    line-height: 1.3;
+}
+
+.decoration-content p {
+    font-size: 1rem;
+    opacity: 0.9;
+    margin-bottom: 32px;
+}
+
+.decoration-features {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 0.95rem;
+}
+
+.feature-icon {
+    font-size: 1.25rem;
+}
+
+/* 右侧表单 */
+.auth-form-wrapper {
+    padding: 48px 40px;
+}
+
+/* 标签切换 */
+.auth-tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 32px;
+    padding: 4px;
+    background: var(--bg-secondary);
+    border-radius: 12px;
+}
+
+.auth-tab {
+    flex: 1;
+    padding: 12px 24px;
+    background: transparent;
+    border: none;
+    border-radius: 8px;
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.auth-tab:hover {
+    color: var(--text-primary);
+}
+
+.auth-tab.active {
+    background: var(--bg-card);
+    color: var(--text-primary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 表单 */
+.auth-form {
+    animation: fadeIn 0.3s ease;
+}
+
+.auth-form.hidden {
+    display: none;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.form-header {
+    text-align: center;
+    margin-bottom: 28px;
+}
+
+.form-header h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.form-header p {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+}
+
+.input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-icon {
+    position: absolute;
+    left: 16px;
+    font-size: 1rem;
+    opacity: 0.6;
+}
+
+.input-wrapper input {
+    width: 100%;
+    padding: 14px 16px 14px 48px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    color: var(--text-primary);
+    font-size: 0.95rem;
+    outline: none;
+    transition: all var(--transition-fast);
+}
+
+.input-wrapper input:focus {
+    border-color: var(--openclaw-primary);
+    box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.1);
+}
+
+.input-wrapper input::placeholder {
+    color: var(--text-muted);
+}
+
+.toggle-password {
+    position: absolute;
+    right: 12px;
+    background: transparent;
+    border: none;
+    padding: 4px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: opacity var(--transition-fast);
+}
+
+.toggle-password:hover {
+    opacity: 1;
+}
+
+.eye-icon {
+    font-size: 1rem;
+}
+
+/* 密码强度 */
+.password-strength {
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.strength-bar {
+    flex: 1;
+    height: 4px;
+    background: var(--border-color);
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.strength-bar::after {
+    content: '';
+    display: block;
+    height: 100%;
+    width: 0;
+    background: var(--openclaw-pro);
+    border-radius: 2px;
+    transition: all var(--transition-fast);
+}
+
+.strength-bar.weak::after {
+    width: 33%;
+    background: #ef4444;
+}
+
+.strength-bar.medium::after {
+    width: 66%;
+    background: #f59e0b;
+}
+
+.strength-bar.strong::after {
+    width: 100%;
+    background: #10b981;
+}
+
+.strength-text {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+/* 表单选项 */
+.form-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    font-size: 0.85rem;
+}
+
+.checkbox-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    color: var(--text-secondary);
+}
+
+.checkbox-wrapper input {
+    display: none;
+}
+
+.checkmark {
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--border-color);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-fast);
+}
+
+.checkbox-wrapper input:checked + .checkmark {
+    background: var(--openclaw-primary);
+    border-color: var(--openclaw-primary);
+}
+
+.checkbox-wrapper input:checked + .checkmark::after {
+    content: '✓';
+    color: white;
+    font-size: 0.75rem;
+    font-weight: bold;
+}
+
+.checkbox-wrapper a {
+    color: var(--openclaw-primary-light);
+    text-decoration: none;
+}
+
+.checkbox-wrapper a:hover {
+    text-decoration: underline;
+}
+
+.forgot-link {
+    color: var(--openclaw-primary-light);
+    text-decoration: none;
+    font-size: 0.85rem;
+}
+
+.forgot-link:hover {
+    text-decoration: underline;
+}
+
+/* 提交按钮 */
+.btn-auth {
+    width: 100%;
+    padding: 14px 24px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.btn-auth:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(139, 92, 246, 0.3);
+}
+
+/* 分隔线 */
+.divider {
+    display: flex;
+    align-items: center;
+    margin: 24px 0;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+}
+
+.divider::before,
+.divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border-color);
+}
+
+.divider span {
+    padding: 0 16px;
+}
+
+/* 社交登录 */
+.social-login {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.btn-social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 16px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.btn-social:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-glow);
+}
+
+.social-icon {
+    font-size: 1.25rem;
+}
+
+/* 页脚 */
+.auth-footer {
+    background: transparent;
+    border-top: none;
+    padding: 24px;
+}
+
+.auth-footer .footer-text {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+}
+
+/* ========================================
+   响应式设计
+   ======================================== */
+@media (max-width: 768px) {
+    .auth-card {
+        grid-template-columns: 1fr;
+    }
+
+    .auth-decoration {
+        display: none;
+    }
+
+    .auth-form-wrapper {
+        padding: 32px 24px;
+    }
+
+    .social-login {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 加载动画 */
+.btn-auth.loading {
+    pointer-events: none;
+    opacity: 0.8;
+}
+
+.btn-auth.loading::after {
+    content: '';
+    width: 16px;
+    height: 16px;
+    border: 2px solid transparent;
+    border-top-color: currentColor;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* 错误提示 */
+.form-error {
+    color: #ef4444;
+    font-size: 0.8rem;
+    margin-top: 6px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.form-error::before {
+    content: '⚠️';
+}
+
+.input-wrapper.error input {
+    border-color: #ef4444;
+}
+
+/* 成功提示 */
+.form-success {
+    color: #10b981;
+    font-size: 0.8rem;
+    margin-top: 6px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.form-success::before {
+    content: '✅';
+}

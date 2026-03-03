@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenClaw Hub - AI自动化技能市场与教程</title>
+    <meta name="description" content="OpenClaw技能市场 - 最热门的AI自动化技能排名、安装教程、Skill Lab。发现、分享、交易OpenClaw技能，提升工作效率。">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/openclaw.css">
+</head>
+<body>
+    <!-- 动态背景 -->
+    <div class="bg-animation">
+        <div class="gradient-sphere sphere-1"></div>
+        <div class="gradient-sphere sphere-2"></div>
+        <div class="gradient-sphere sphere-3"></div>
+        <div class="grid-overlay"></div>
+    </div>
+
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="nav-brand">
+            <a href="index.html" class="logo">
+                <span class="logo-icon">◈</span>
+                <span class="logo-text">AI Hub</span>
+            </a>
+            <span class="nav-divider">/</span>
+            <a href="openclaw.html" class="sub-logo">
+                <span class="sub-logo-icon">⚡</span>
+                <span class="sub-logo-text">OpenClaw</span>
+            </a>
+        </div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link">🏠 首页</a>
+            <a href="#skill-rankings" class="nav-link active">Skill排名</a>
+            <a href="#quick-start" class="nav-link">快速入门</a>
+            <a href="#skill-lab" class="nav-link">Skill Lab</a>
+            <a href="#troubleshooting" class="nav-link">故障排查</a>
+        </div>
+        <div class="nav-actions">
+            <a href="auth.html" class="btn-login" id="navLoginBtn">
+                <span>🔑 登录</span>
+            </a>
+            <div class="user-menu hidden" id="userMenu">
+                <span class="user-name">--</span>
+                <button class="btn-logout" onclick="logout()">退出</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主内容区 -->
+    <main class="main-container">
+        <!-- Hero Section -->
+        <section class="hero openclaw-hero">
+            <div class="hero-content">
+                <div class="hero-badge openclaw-badge">
+                    <span class="pulse-dot"></span>
+                    OpenClaw 生态
+                </div>
+                <h1 class="hero-title">
+                    <span class="title-line">AI自动化</span>
+                    <span class="title-line highlight">技能市场</span>
+                </h1>
+                <p class="hero-subtitle">
+                    发现、分享、交易 OpenClaw 技能<br>
+                    让AI Agent为你自动化一切重复工作
+                </p>
+                <div class="hero-cta">
+                    <a href="#quick-start" class="btn-primary">
+                        <span>开始部署</span>
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M5 12h14M12 5l7 7-7 7"/>
+                        </svg>
+                    </a>
+                    <a href="#skill-rankings" class="btn-secondary">浏览热门Skill</a>
+                </div>
+            </div>
+            <div class="hero-stats openclaw-stats">
+                <div class="stat-card">
+                    <div class="stat-number" id="totalSkills">--</div>
+                    <div class="stat-label">收录技能</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="weeklyDownloads">--</div>
+                    <div class="stat-label">周下载量</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="activeUsers">--</div>
+                    <div class="stat-label">活跃用户</div>
+                </div>
+                <div class="stat-card featured">
+                    <div class="stat-number" id="proSkills">--</div>
+                    <div class="stat-label">Pro技能</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skill 排名榜单 -->
+        <section class="section" id="skill-rankings">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">🏆</span>
+                    <h2 class="section-title">Weekly Hot Skills</h2>
+                </div>
+                <p class="section-desc">本周最热门的 OpenClaw 自动化技能排名</p>
+            </div>
+
+            <!-- 筛选标签 -->
+            <div class="filter-tabs">
+                <button class="filter-tab active" data-category="all">全部</button>
+                <button class="filter-tab" data-category="productivity">效率办公</button>
+                <button class="filter-tab" data-category="social">社媒运营</button>
+                <button class="filter-tab" data-category="data">数据采集</button>
+                <button class="filter-tab" data-category="trading">交易监控</button>
+                <button class="filter-tab" data-category="pro">🔥 Pro版</button>
+            </div>
+
+            <div class="skill-ranking-container">
+                <div class="skill-list" id="skillRanking">
+                    <!-- 动态生成 -->
+                </div>
+            </div>
+
+            <!-- 榜单说明 -->
+            <div class="ranking-info">
+                <div class="info-item">
+                    <span class="info-icon">📊</span>
+                    <span>排名基于下载量、用户评分、更新频率综合计算</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-icon">🔄</span>
+                    <span>每24小时自动更新 · 下次更新: <span id="nextUpdate">--</span></span>
+                </div>
+                <div class="info-item">
+                    <span class="info-icon">⏰</span>
+                    <span>最后更新: <span id="lastUpdateTime">--</span></span>
+                </div>
+            </div>
+        </section>
+
+        <!-- 快速入门 -->
+        <section class="section" id="quick-start">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">🚀</span>
+                    <h2 class="section-title">Quick Start</h2>
+                </div>
+                <p class="section-desc">全平台安装教程，10分钟完成 OpenClaw 部署</p>
+            </div>
+
+            <!-- 平台选择 -->
+            <div class="platform-tabs">
+                <button class="platform-tab active" data-platform="docker">
+                    <span class="platform-icon">🐳</span>
+                    <span>Docker (推荐)</span>
+                </button>
+                <button class="platform-tab" data-platform="macos">
+                    <span class="platform-icon">🍎</span>
+                    <span>macOS</span>
+                </button>
+                <button class="platform-tab" data-platform="linux">
+                    <span class="platform-icon">🐧</span>
+                    <span>Linux</span>
+                </button>
+                <button class="platform-tab" data-platform="windows">
+                    <span class="platform-icon">🪟</span>
+                    <span>Windows</span>
+                </button>
+            </div>
+
+            <!-- 安装步骤 -->
+            <div class="install-guide" id="installGuide">
+                <!-- Docker 安装 (默认显示) -->
+                <div class="guide-content active" data-platform="docker">
+                    <div class="guide-steps">
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div class="step-content">
+                                <h3>安装 Docker</h3>
+                                <p>确保已安装 Docker Desktop 或 Docker Engine</p>
+                                <div class="code-block">
+                                    <code>docker --version</code>
+                                    <button class="copy-btn" data-clipboard="docker --version">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div class="step-content">
+                                <h3>拉取 OpenClaw 镜像</h3>
+                                <p>从 Docker Hub 获取最新版本</p>
+                                <div class="code-block">
+                                    <code>docker pull openclaw/openclaw:latest</code>
+                                    <button class="copy-btn" data-clipboard="docker pull openclaw/openclaw:latest">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div class="step-content">
+                                <h3>启动容器</h3>
+                                <p>运行 OpenClaw Gateway 服务</p>
+                                <div class="code-block">
+                                    <code>docker run -d -p 18789:18789 --name openclaw openclaw/openclaw:latest</code>
+                                    <button class="copy-btn" data-clipboard="docker run -d -p 18789:18789 --name openclaw openclaw/openclaw:latest">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">4</div>
+                            <div class="step-content">
+                                <h3>验证安装</h3>
+                                <p>检查服务是否正常运行</p>
+                                <div class="code-block">
+                                    <code>curl http://localhost:18789/health</code>
+                                    <button class="copy-btn" data-clipboard="curl http://localhost:18789/health">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="guide-tips">
+                        <div class="tip-card">
+                            <span class="tip-icon">💡</span>
+                            <div class="tip-content">
+                                <h4>Pro Tip</h4>
+                                <p>使用 docker-compose 可以更方便地管理配置和持久化数据</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- macOS 安装 -->
+                <div class="guide-content" data-platform="macos">
+                    <div class="guide-steps">
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div class="step-content">
+                                <h3>安装 Homebrew</h3>
+                                <p>macOS 包管理器（如已安装可跳过）</p>
+                                <div class="code-block">
+                                    <code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code>
+                                    <button class="copy-btn" data-clipboard="/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div class="step-content">
+                                <h3>安装 OpenClaw</h3>
+                                <p>通过 Homebrew 安装</p>
+                                <div class="code-block">
+                                    <code>brew tap openclaw/tap && brew install openclaw</code>
+                                    <button class="copy-btn" data-clipboard="brew tap openclaw/tap && brew install openclaw">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div class="step-content">
+                                <h3>初始化配置</h3>
+                                <p>运行引导程序配置 API 密钥</p>
+                                <div class="code-block">
+                                    <code>openclaw onboard</code>
+                                    <button class="copy-btn" data-clipboard="openclaw onboard">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">4</div>
+                            <div class="step-content">
+                                <h3>启动 Gateway</h3>
+                                <p>启动本地 Gateway 服务</p>
+                                <div class="code-block">
+                                    <code>openclaw gateway --port 18789</code>
+                                    <button class="copy-btn" data-clipboard="openclaw gateway --port 18789">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Linux 安装 -->
+                <div class="guide-content" data-platform="linux">
+                    <div class="guide-steps">
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div class="step-content">
+                                <h3>下载安装脚本</h3>
+                                <p>使用官方安装脚本</p>
+                                <div class="code-block">
+                                    <code>curl -fsSL https://openclaw.dev/install.sh | bash</code>
+                                    <button class="copy-btn" data-clipboard="curl -fsSL https://openclaw.dev/install.sh | bash">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div class="step-content">
+                                <h3>添加到 PATH</h3>
+                                <p>将 OpenClaw 添加到系统路径</p>
+                                <div class="code-block">
+                                    <code>echo 'export PATH="$HOME/.openclaw/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc</code>
+                                    <button class="copy-btn" data-clipboard="echo 'export PATH=\"$HOME/.openclaw/bin:$PATH\"' >> ~/.bashrc && source ~/.bashrc">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div class="step-content">
+                                <h3>初始化配置</h3>
+                                <p>运行引导程序</p>
+                                <div class="code-block">
+                                    <code>openclaw onboard</code>
+                                    <button class="copy-btn" data-clipboard="openclaw onboard">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">4</div>
+                            <div class="step-content">
+                                <h3>启动服务</h3>
+                                <p>后台运行 Gateway</p>
+                                <div class="code-block">
+                                    <code>nohup openclaw gateway --port 18789 > /tmp/openclaw.log 2>&1 &</code>
+                                    <button class="copy-btn" data-clipboard="nohup openclaw gateway --port 18789 > /tmp/openclaw.log 2>&1 &">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Windows 安装 -->
+                <div class="guide-content" data-platform="windows">
+                    <div class="guide-steps">
+                        <div class="step">
+                            <div class="step-number">1</div>
+                            <div class="step-content">
+                                <h3>安装 PowerShell 7+</h3>
+                                <p>确保使用 PowerShell 7 或更高版本</p>
+                                <div class="code-block">
+                                    <code>winget install Microsoft.PowerShell</code>
+                                    <button class="copy-btn" data-clipboard="winget install Microsoft.PowerShell">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">2</div>
+                            <div class="step-content">
+                                <h3>安装 OpenClaw</h3>
+                                <p>使用 PowerShell 安装</p>
+                                <div class="code-block">
+                                    <code>Invoke-WebRequest -Uri "https://openclaw.dev/install.ps1" -OutFile "install.ps1"; .\install.ps1</code>
+                                    <button class="copy-btn" data-clipboard="Invoke-WebRequest -Uri \"https://openclaw.dev/install.ps1\" -OutFile \"install.ps1\"; .\\install.ps1">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">3</div>
+                            <div class="step-content">
+                                <h3>初始化配置</h3>
+                                <p>运行引导程序</p>
+                                <div class="code-block">
+                                    <code>openclaw onboard</code>
+                                    <button class="copy-btn" data-clipboard="openclaw onboard">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="step">
+                            <div class="step-number">4</div>
+                            <div class="step-content">
+                                <h3>启动 Gateway</h3>
+                                <p>启动服务</p>
+                                <div class="code-block">
+                                    <code>openclaw gateway --port 18789</code>
+                                    <button class="copy-btn" data-clipboard="openclaw gateway --port 18789">复制</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skill Lab -->
+        <section class="section" id="skill-lab">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">🔬</span>
+                    <h2 class="section-title">Skill Lab</h2>
+                </div>
+                <p class="section-desc">精选高级 Skill 代码与配置，提升你的自动化能力</p>
+            </div>
+
+            <!-- 技能分类 -->
+            <div class="skill-categories">
+                <div class="category-card">
+                    <div class="category-header">
+                        <span class="category-icon">🆓</span>
+                        <h3>免费版</h3>
+                        <span class="category-badge">开源社区</span>
+                    </div>
+                    <div class="category-desc">
+                        <p>社区贡献的通用 Skill，适合入门学习和日常使用</p>
+                    </div>
+                    <div class="skill-examples">
+                        <div class="skill-tag">LinkedIn自动连接</div>
+                        <div class="skill-tag">AI新闻发布</div>
+                        <div class="skill-tag">邮件自动回复</div>
+                        <div class="skill-tag">文件智能整理</div>
+                        <div class="skill-tag">RSS同步</div>
+                        <div class="skill-tag">天气预警</div>
+                    </div>
+                    <button class="category-link" onclick="showFreeSkillsModal()" style="background:none;border:none;cursor:pointer;font:inherit;padding:0;">浏览全部 →</button>
+                </div>
+
+                <div class="category-card pro">
+                    <div class="category-header">
+                        <span class="category-icon">⭐</span>
+                        <h3>Pro版</h3>
+                        <span class="category-badge premium">付费专享</span>
+                    </div>
+                    <div class="category-desc">
+                        <p>针对高价值场景的独家 Skill，专业级自动化解决方案</p>
+                    </div>
+                    <div class="skill-examples">
+                        <div class="skill-tag">LinkedIn自动开发</div>
+                        <div class="skill-tag">发票自动处理</div>
+                        <div class="skill-tag">Polymarket监控</div>
+                        <div class="skill-tag">加密货币追踪</div>
+                    </div>
+                    <button class="category-link" onclick="showPricingModal()" style="background:none;border:none;cursor:pointer;font:inherit;padding:0;">查看定价 →</button>
+                </div>
+
+                <div class="category-card featured">
+                    <div class="category-header">
+                        <span class="category-icon">🎯</span>
+                        <h3>实战案例</h3>
+                        <span class="category-badge new">NEW</span>
+                    </div>
+                    <div class="category-desc">
+                        <p>用 OpenClaw 自动抓取 AI 新闻并发布到本站 — 完整教程</p>
+                    </div>
+                    <div class="case-preview">
+                        <div class="case-meta">
+                            <span class="case-level">中级</span>
+                            <span class="case-time">30分钟</span>
+                        </div>
+                        <p class="case-title">自动化内容采集与发布系统</p>
+                    </div>
+                    <a href="#" class="category-link">开始学习 →</a>
+                </div>
+            </div>
+
+            <!-- 精选 Skill 展示 -->
+            <div class="featured-skills">
+                <h3 class="featured-title">本周精选 Skill</h3>
+                <div class="featured-grid" id="featuredSkills">
+                    <!-- 动态生成 -->
+                </div>
+            </div>
+        </section>
+
+        <!-- 故障排查 -->
+        <section class="section" id="troubleshooting">
+            <div class="section-header">
+                <div class="section-title-wrapper">
+                    <span class="section-icon">🔧</span>
+                    <h2 class="section-title">Troubleshooting</h2>
+                </div>
+                <p class="section-desc">常见问题解决方案与 API 优化指南</p>
+            </div>
+
+            <div class="troubleshooting-grid">
+                <div class="troubleshooting-card">
+                    <div class="troubleshooting-icon">❌</div>
+                    <h3>安装报错</h3>
+                    <ul class="issue-list">
+                        <li>
+                            <span class="issue-name">Gateway 启动失败</span>
+                            <span class="issue-fix">检查端口 18789 是否被占用</span>
+                        </li>
+                        <li>
+                            <span class="issue-name">权限不足</span>
+                            <span class="issue-fix">使用 sudo 或以管理员身份运行</span>
+                        </li>
+                        <li>
+                            <span class="issue-name">依赖缺失</span>
+                            <span class="issue-fix">运行 openclaw doctor 诊断</span>
+                        </li>
+                    </ul>
+                    <a href="#" class="troubleshooting-link">查看全部 →</a>
+                </div>
+
+                <div class="troubleshooting-card">
+                    <div class="troubleshooting-icon">🔑</div>
+                    <h3>API 配置</h3>
+                    <ul class="issue-list">
+                        <li>
+                            <span class="issue-name">API Key 无效</span>
+                            <span class="issue-fix">检查密钥格式和余额</span>
+                        </li>
+                        <li>
+                            <span class="issue-name">模型切换</span>
+                            <span class="issue-fix">openclaw config set model</span>
+                        </li>
+                        <li>
+                            <span class="issue-name">本地模型</span>
+                            <span class="issue-fix">配置 Ollama 本地部署</span>
+                        </li>
+                    </ul>
+                    <a href="#" class="troubleshooting-link">查看全部 →</a>
+                </div>
+
+                <div class="troubleshooting-card">
+                    <div class="troubleshooting-icon">⚡</div>
+                    <h3>性能优化</h3>
+                    <ul class="issue-list">
+                        <li>
+                            <span class="issue-name">响应慢</span>
+                            <span class="issue-fix">切换更快的 API 节点</span>
+                        </li>
+                        <li>
+                            <span class="issue-name">内存占用高</span>
+                            <span class="issue-fix">限制并发任务数</span>
+                        </li>
+                        <li>
+                            <span class="issue-name">Skill 冲突</span>
+                            <span class="issue-fix">检查端口和依赖冲突</span>
+                        </li>
+                    </ul>
+                    <a href="#" class="troubleshooting-link">查看全部 →</a>
+                </div>
+
+                <div class="troubleshooting-card highlight">
+                    <div class="troubleshooting-icon">💰</div>
+                    <h3>API 中转推荐</h3>
+                    <p class="troubleshooting-desc">高性价比的 API 聚合服务，支持 OpenAI、Claude、Gemini 等</p>
+                    <div class="api-providers">
+                        <a href="#" class="provider-link">
+                            <span class="provider-name">API2D</span>
+                            <span class="provider-tag">国内稳定</span>
+                        </a>
+                        <a href="#" class="provider-link">
+                            <span class="provider-name">OhMyGPT</span>
+                            <span class="provider-tag">价格优惠</span>
+                        </a>
+                        <a href="#" class="provider-link">
+                            <span class="provider-name">CloseAI</span>
+                            <span class="provider-tag">企业级</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 订阅与商业服务 -->
+        <section class="section cta-section" id="newsletter">
+            <div class="cta-container">
+                <div class="cta-content">
+                    <h2>订阅 OpenClaw Weekly</h2>
+                    <p>每周获取最新 Skill 排名、独家教程和优惠信息</p>
+                    <form class="subscribe-form" id="subscribeForm">
+                        <input type="email" placeholder="输入你的邮箱" required>
+                        <button type="submit" class="btn-primary">
+                            <span>订阅</span>
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M5 12h14M12 5l7 7-7 7"/>
+                            </svg>
+                        </button>
+                    </form>
+                    <p class="form-note">已有 2,000+ 开发者订阅，随时可取消</p>
+                </div>
+                <div class="cta-services">
+                    <h3>商业服务</h3>
+                    <div class="service-list">
+                        <a href="#" class="service-item">
+                            <span class="service-icon">🛠️</span>
+                            <div class="service-info">
+                                <span class="service-name">远程代部署</span>
+                                <span class="service-price">¥199起</span>
+                            </div>
+                        </a>
+                        <a href="#" class="service-item">
+                            <span class="service-icon">🎓</span>
+                            <div class="service-info">
+                                <span class="service-name">Skill 定制开发</span>
+                                <span class="service-price">¥500起</span>
+                            </div>
+                        </a>
+                        <a href="#" class="service-item">
+                            <span class="service-icon">👥</span>
+                            <div class="service-info">
+                                <span class="service-name">企业培训</span>
+                                <span class="service-price">预约咨询</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <span class="logo-icon">⚡</span>
+                <span>OpenClaw Hub</span>
+            </div>
+            <div class="footer-links">
+                <a href="#skill-rankings">Skill排名</a>
+                <a href="#quick-start">安装教程</a>
+                <a href="#skill-lab">Skill Lab</a>
+                <a href="#troubleshooting">故障排查</a>
+            </div>
+            <p class="footer-text">OpenClaw 是开源项目，本站与 OpenClaw 官方无直接关联</p>
+        </div>
+    </footer>
+
+    <!-- 免费技能列表弹窗 -->
+    <div class="modal-overlay hidden" id="freeSkillsModal">
+        <div class="modal-container">
+            <div class="modal-header">
+                <h3>🆓 免费 Skill 列表</h3>
+                <p>社区开源技能，一键安装使用</p>
+                <button class="modal-close" onclick="closeFreeSkillsModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="free-skills-search">
+                    <input type="text" id="freeSkillsSearch" placeholder="🔍 搜索免费技能..." oninput="filterFreeSkills()">
+                </div>
+                <div class="free-skills-categories" id="freeSkillsCategories">
+                    <button class="category-filter active" data-category="all" onclick="filterByCategory('all')">全部</button>
+                    <button class="category-filter" data-category="productivity" onclick="filterByCategory('productivity')">效率办公</button>
+                    <button class="category-filter" data-category="social" onclick="filterByCategory('social')">社媒运营</button>
+                    <button class="category-filter" data-category="data" onclick="filterByCategory('data')">数据采集</button>
+                    <button class="category-filter" data-category="devtools" onclick="filterByCategory('devtools')">开发工具</button>
+                    <button class="category-filter" data-category="lifestyle" onclick="filterByCategory('lifestyle')">生活助手</button>
+                    <button class="category-filter" data-category="security" onclick="filterByCategory('security')">安全工具</button>
+                </div>
+                <div class="free-skills-list" id="freeSkillsList">
+                    <!-- 动态生成 -->
+                </div>
+                <div class="free-skills-footer">
+                    <span class="last-update" id="freeSkillsLastUpdate">上次更新: 刚刚</span>
+                    <button class="btn-refresh" onclick="refreshFreeSkills()">🔄 立即更新</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pro版定价弹窗 -->
+    <div class="modal-overlay hidden" id="pricingModal">
+        <div class="modal-container pricing-modal">
+            <div class="modal-header">
+                <h3>⭐ Pro Skill 定价</h3>
+                <p>专业级自动化解决方案，一次购买永久使用</p>
+                <button class="modal-close" onclick="closePricingModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <!-- 价格套餐 -->
+                <div class="pricing-tiers">
+                    <div class="pricing-tier">
+                        <div class="tier-header">
+                            <h4>单技能购买</h4>
+                            <div class="tier-price">
+                                <span class="price-from">$5</span>
+                            </div>
+                        </div>
+                        <ul class="tier-features">
+                            <li>✓ 单个Pro技能永久授权</li>
+                            <li>✓ 终身免费更新</li>
+                            <li>✓ 社区技术支持</li>
+                            <li>✓ 源码可审计</li>
+                        </ul>
+                        <button class="btn-tier" onclick="showToast('请先登录后购买')">选择技能</button>
+                    </div>
+                    <div class="pricing-tier popular">
+                        <div class="tier-badge">最受欢迎</div>
+                        <div class="tier-header">
+                            <h4>Pro会员</h4>
+                            <div class="tier-price">
+                                <span class="price">$29.9</span>
+                                <span class="price-period">/月</span>
+                            </div>
+                        </div>
+                        <ul class="tier-features">
+                            <li>✓ 所有Pro技能无限使用</li>
+                            <li>✓ 新技能优先体验</li>
+                            <li>✓ 1对1技术支持</li>
+                            <li>✓ 自定义Skill开发咨询</li>
+                            <li>✓ 专属Discord频道</li>
+                        </ul>
+                        <button class="btn-tier primary" onclick="showToast('请先登录后订阅')">立即订阅</button>
+                    </div>
+                    <div class="pricing-tier">
+                        <div class="tier-header">
+                            <h4>企业版</h4>
+                            <div class="tier-price">
+                                <span class="price-custom">定制</span>
+                            </div>
+                        </div>
+                        <ul class="tier-features">
+                            <li>✓ 团队多账号管理</li>
+                            <li>✓ 私有化部署支持</li>
+                            <li>✓ 专属Skill定制开发</li>
+                            <li>✓ SLA服务保障</li>
+                            <li>✓ 优先技术支持</li>
+                        </ul>
+                        <button class="btn-tier" onclick="showToast('请联系 sales@openclaw.ai')">联系销售</button>
+                    </div>
+                </div>
+
+                <!-- Pro技能列表 -->
+                <div class="pro-skills-section">
+                    <h4 class="pro-skills-title">全部 Pro Skills</h4>
+                    <div class="pro-skills-search">
+                        <input type="text" id="proSkillsSearch" placeholder="🔍 搜索Pro技能..." oninput="filterProSkills()">
+                    </div>
+                    <div class="pro-skills-list" id="proSkillsList">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/openclaw.js"></script>
+</body>
+</html>
