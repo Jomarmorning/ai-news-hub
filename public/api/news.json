@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772588218793,
+    "title": "OpenAI发布GPT-4.5正式版：推理能力大幅提升",
+    "summary": "OpenAI正式发布GPT-4.5版本，在数学推理、代码生成和多模态理解方面实现重大突破。新模型支持128K上下文窗口，在多项基准测试中超越前代产品。",
+    "category": "AI模型",
+    "source": "OpenAI Blog",
+    "date": "2026-03-04",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "url": "https://openai.com/blog/gpt-4-5"
+  },
+  {
+    "id": 1772588218794,
+    "title": "Google Gemini 2.5 Pro发布：多模态能力再升级",
+    "summary": "Google DeepMind发布Gemini 2.5 Pro，新增实时视频流理解和音频分析功能。该模型在复杂推理任务上表现优异，企业级API已开放申请。",
+    "category": "AI模型",
+    "source": "Google DeepMind",
+    "date": "2026-03-04",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+    "url": "https://deepmind.google/gemini-2-5"
+  },
+  {
     "id": 1772555677006,
     "title": "算力需求攀升、智能体价值兑现 2026年AI产业全面提速",
     "summary": "AI办公智能体产品一站式覆盖办公与开发，可以完成高质量数据分析，上线两年以来，已拥有数千家下游客户，2026年有望迎来更大规模的商业化兑现。",
