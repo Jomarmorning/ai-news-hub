@@ -19,27 +19,30 @@ const updatedDownloads = downloads.map(app => {
   };
 });
 
-// 模拟最新AI资讯
+// 获取当前日期
+const today = new Date().toISOString().split('T')[0];
+
+// 最新AI资讯（基于机器之心等来源）
 const newArticles = [
   {
     "id": Date.now(),
-    "title": "OpenAI发布GPT-4.5正式版：推理能力大幅提升",
-    "summary": "OpenAI正式发布GPT-4.5版本，在数学推理、代码生成和多模态理解方面实现重大突破。新模型支持128K上下文窗口，在多项基准测试中超越前代产品。",
-    "category": "AI模型",
-    "source": "OpenAI Blog",
-    "date": "2026-03-04",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-    "url": "https://openai.com/blog/gpt-4-5"
+    "title": "Anthropic收购视觉AI创企Vercept，强化多模态能力",
+    "summary": "Anthropic宣布收购视觉AI创业公司Vercept，旨在增强Claude模型的视觉理解和多模态交互能力，进一步与OpenAI和Google竞争。",
+    "category": "AI产业",
+    "source": "机器之心",
+    "date": today,
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+    "url": "https://www.jiqizhixin.com/articles/anthropic-vercept-acquisition"
   },
   {
     "id": Date.now() + 1,
-    "title": "Google Gemini 2.5 Pro发布：多模态能力再升级",
-    "summary": "Google DeepMind发布Gemini 2.5 Pro，新增实时视频流理解和音频分析功能。该模型在复杂推理任务上表现优异，企业级API已开放申请。",
+    "title": "谷歌Gemini大模型升级至3.1 Pro版本，性能大幅提升",
+    "summary": "Google DeepMind发布Gemini 3.1 Pro版本，在推理能力、代码生成和多语言支持方面实现显著提升，上下文窗口扩展至200万token。",
     "category": "AI模型",
-    "source": "Google DeepMind",
-    "date": "2026-03-04",
+    "source": "机器之心",
+    "date": today,
     "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
-    "url": "https://deepmind.google/gemini-2-5"
+    "url": "https://www.jiqizhixin.com/articles/gemini-3-1-pro-release"
   }
 ];
 
