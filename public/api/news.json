@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772600856501,
+    "title": "OpenAI与DOD合作协议中的红线引发争议",
+    "summary": "OpenAI与美国国防部合作协议中的限制条款基于法律语言，但专家指出NSA在过去几十年中重新定义了这些条款，使其允许表面上禁止的行为。",
+    "category": "AI安全",
+    "source": "Techdirt",
+    "date": "2026-03-04",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "url": "https://techdirt.com/articles/openai-dod-agreement"
+  },
+  {
+    "id": 1772600856500,
+    "title": "Anthropic员工留存率超OpenAI，强调使命驱动文化",
+    "summary": "Anthropic CEO Dario Amodei表示公司人才留存率高于OpenAI，强调其'使命驱动'文化是保持员工忠诚度和抵御竞争对手挖角的关键因素。",
+    "category": "AI产业",
+    "source": "The Information",
+    "date": "2026-03-04",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+    "url": "https://www.theinformation.com/articles/anthropic-retention"
+  },
+  {
     "id": 1772588218793,
     "title": "OpenAI发布GPT-4.5正式版：推理能力大幅提升",
     "summary": "OpenAI正式发布GPT-4.5版本，在数学推理、代码生成和多模态理解方面实现重大突破。新模型支持128K上下文窗口，在多项基准测试中超越前代产品。",
