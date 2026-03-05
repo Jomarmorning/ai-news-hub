@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772679245370,
+    "title": "黄仁勋：Nvidia将减少对OpenAI和Anthropic的投资",
+    "summary": "Nvidia CEO黄仁勋表示，公司对OpenAI和Anthropic的投资可能是最后一次，但其解释可能并未透露全部真相。这一表态引发业界对AI投资格局变化的猜测。",
+    "category": "AI产业",
+    "source": "TechCrunch",
+    "date": "2026-03-05",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/"
+  },
+  {
+    "id": 1772679245371,
+    "title": "Google搜索向美国所有用户推出Gemini Canvas AI模式",
+    "summary": "Google正在向美国所有用户推出Gemini的Canvas功能，该功能允许用户在AI模式下进行更直观的交互式内容创作和编辑。",
+    "category": "AI产品",
+    "source": "TechCrunch",
+    "date": "2026-03-05",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+    "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/"
+  },
+  {
     "id": 1772641176984,
     "title": "Anthropic收购视觉AI创企Vercept，强化多模态能力",
     "summary": "Anthropic宣布收购视觉AI创业公司Vercept，旨在增强Claude模型的视觉理解和多模态交互能力，进一步与OpenAI和Google竞争。",
