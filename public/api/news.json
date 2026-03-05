@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772686621777,
+    "title": "OpenAI发布GPT-4o图像生成功能，支持原生多模态创作",
+    "summary": "OpenAI宣布GPT-4o新增原生图像生成能力，用户可直接通过对话生成、编辑和优化图像，无需切换工具。该功能支持复杂提示词理解和风格一致性控制。",
+    "category": "AI模型",
+    "source": "OpenAI Blog",
+    "date": "2026-03-05",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "url": "https://openai.com/blog/gpt-4o-image-generation"
+  },
+  {
+    "id": 1772686621778,
+    "title": "Claude 3.7 Sonnet发布：混合推理模式引领新趋势",
+    "summary": "Anthropic发布Claude 3.7 Sonnet，首次引入混合推理模式，可在快速响应和深度思考之间无缝切换。新模型在编程和复杂问题解决方面表现突出。",
+    "category": "AI模型",
+    "source": "Anthropic",
+    "date": "2026-03-05",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+    "url": "https://www.anthropic.com/news/claude-3-7-sonnet"
+  },
+  {
     "id": 1772679245370,
     "title": "黄仁勋：Nvidia将减少对OpenAI和Anthropic的投资",
     "summary": "Nvidia CEO黄仁勋表示，公司对OpenAI和Anthropic的投资可能是最后一次，但其解释可能并未透露全部真相。这一表态引发业界对AI投资格局变化的猜测。",
@@ -178,15 +198,5 @@
     "sourceIcon": "https://ai.meta.com/favicon.ico",
     "tag": "开源模型",
     "publishedAt": "2026-03-01T01:44:56.000Z"
-  },
-  {
-    "title": "Sora正式开放：OpenAI视频生成工具上线",
-    "excerpt": "经过数月测试，OpenAI的Sora视频生成模型正式向公众开放。支持最长60秒1080p视频生成，月付20美元起。",
-    "url": "https://openai.com/sora",
-    "image": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800",
-    "source": "OpenAI",
-    "sourceIcon": "https://openai.com/favicon.ico",
-    "tag": "AI视频",
-    "publishedAt": "2026-02-28T21:44:56.000Z"
   }
 ]
