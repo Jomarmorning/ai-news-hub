@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772772916610,
+    "title": "OpenAI推出GPT-4.1系列：更高效的AI模型",
+    "summary": "OpenAI发布GPT-4.1系列模型，包含GPT-4.1、GPT-4.1 mini和GPT-4.1 nano。新系列在保持高性能的同时显著降低延迟和成本，特别适合企业级应用和边缘设备部署。",
+    "category": "AI模型",
+    "source": "OpenAI Blog",
+    "date": "2026-03-06",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+    "url": "https://openai.com/blog/gpt-4-1"
+  },
+  {
+    "id": 1772772916609,
+    "title": "Anthropic发布Claude 4系列模型，推理能力大幅提升",
+    "summary": "Anthropic正式发布Claude 4系列模型，包括Claude 4 Opus和Claude 4 Sonnet。新模型在编程、推理和长文本处理方面实现重大突破，支持更复杂的Agent任务执行。",
+    "category": "AI模型",
+    "source": "Anthropic",
+    "date": "2026-03-06",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+    "url": "https://www.anthropic.com/news/claude-4"
+  },
+  {
     "id": 1772763735198,
     "title": "腾讯AI变形记：AI的尽头是人才",
     "summary": "腾讯在AI领域加速布局，从AI社交到AI+游戏不断探索。文章深度分析腾讯AI战略转型，强调AI竞争的核心在于人才储备与技术创新。",
@@ -178,25 +198,5 @@
     "date": "2026-03-02",
     "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
     "url": "https://cloud.tencent.com.cn/developer/article/2631820"
-  },
-  {
-    "id": 1772512462796,
-    "title": "OpenAI发布GPT-4.5研究预览版",
-    "summary": "OpenAI推出GPT-4.5研究预览版，在推理能力和代码生成方面有显著提升，支持更长的上下文窗口。",
-    "category": "AI模型",
-    "source": "OpenAI Blog",
-    "date": "2026-03-03",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-    "url": "https://openai.com/blog"
-  },
-  {
-    "title": "OpenAI发布GPT-5预览版，推理能力大幅提升",
-    "excerpt": "OpenAI今日发布了GPT-5的预览版本，新模型在逻辑推理、代码生成和多模态理解方面均有显著改进。据内部测试，数学推理准确率提升了40%。",
-    "url": "https://openai.com/blog",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-    "source": "OpenAI Blog",
-    "sourceIcon": "https://openai.com/favicon.ico",
-    "tag": "大模型",
-    "publishedAt": "2026-03-01T11:44:56.000Z"
   }
 ]
