@@ -1,13 +1,112 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const crypto = require('crypto');
 
 // Product Hunt API 配置
 const PRODUCT_HUNT_API = 'https://api.producthunt.com/v2/api/graphql';
 const PRODUCT_HUNT_TOKEN = process.env.PRODUCT_HUNT_TOKEN;
 
+// 有道翻译 API 配置
+const YOUDAO_APP_KEY = process.env.YOUDAO_APP_KEY;
+const YOUDAO_APP_SECRET = process.env.YOUDAO_APP_SECRET;
+
 // 新应用数据文件路径
 const newAppsPath = path.join(__dirname, '../public/api/rankings/new-apps.json');
+
+// 翻译缓存文件路径
+const translationCachePath = path.join(__dirname, '../.translation-cache.json');
+
+// 加载翻译缓存
+function loadTranslationCache() {
+  try {
+    return JSON.parse(fs.readFileSync(translationCachePath, 'utf8'));
+  } catch (e) {
+    return {};
+  }
+}
+
+// 保存翻译缓存
+function saveTranslationCache(cache) {
+  fs.writeFileSync(translationCachePath, JSON.stringify(cache, null, 2));
+}
+
+// 有道翻译 API
+async function translateWithYoudao(text) {
+  if (!YOUDAO_APP_KEY || !YOUDAO_APP_SECRET) {
+    console.log('未配置有道翻译 API，跳过翻译');
+    return text;
+  }
+
+  const salt = Date.now().toString();
+  const curtime = Math.round(Date.now() / 1000).toString();
+  const str = YOUDAO_APP_KEY + truncate(text) + salt + curtime + YOUDAO_APP_SECRET;
+  const sign = crypto.createHash('sha256').update(str).digest('hex');
+
+  const params = new URLSearchParams({
+    q: text,
+    from: 'en',
+    to: 'zh-CHS',
+    appKey: YOUDAO_APP_KEY,
+    salt: salt,
+    sign: sign,
+    signType: 'v3',
+    curtime: curtime
+  });
+
+  return new Promise((resolve, reject) => {
+    const req = https.request(`https://openapi.youdao.com/api?${params.toString()}`, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const json = JSON.parse(data);
+          if (json.translation && json.translation[0]) {
+            resolve(json.translation[0]);
+          } else {
+            console.log('翻译失败:', json);
+            resolve(text);
+          }
+        } catch (e) {
+          resolve(text);
+        }
+      });
+    });
+
+    req.on('error', () => resolve(text));
+    req.end();
+  });
+}
+
+function truncate(q) {
+  const len = q.length;
+  if (len <= 20) return q;
+  return q.substring(0, 10) + len + q.substring(len - 10, len);
+}
+
+// 判断是否为英文
+function isEnglish(text) {
+  return /^[\x00-\x7F]+$/.test(text) && /[a-zA-Z]/.test(text);
+}
+
+// 翻译描述（带缓存）
+async function translateDescription(text, cache) {
+  if (!text || !isEnglish(text)) {
+    return text;
+  }
+
+  // 检查缓存
+  if (cache[text]) {
+    console.log(`   使用缓存翻译: ${text} -> ${cache[text]}`);
+    return cache[text];
+  }
+
+  // 调用翻译 API
+  console.log(`   翻译中: ${text}`);
+  const translated = await translateWithYoudao(text);
+  cache[text] = translated;
+  return translated;
+}
 
 // AI 相关关键词
 const AI_KEYWORDS = [
@@ -134,6 +233,9 @@ async function updateNewApps() {
       console.log('现有数据文件不存在，将创建新文件');
     }
 
+    // 加载翻译缓存
+    const translationCache = loadTranslationCache();
+
     // 获取新数据
     let newProducts = [];
     try {
@@ -167,24 +269,31 @@ async function updateNewApps() {
       return updatedApps;
     }
 
-    // 过滤 AI 产品并转换格式
-    const aiProducts = newProducts
-      .filter(isAIProduct)
-      .map(product => {
-        const stats = generateStats();
-        return {
-          name: product.name,
-          description: product.tagline || 'AI应用',
-          category: mapCategory(product),
-          icon: product.thumbnail?.url || `https://www.google.com/s2/favicons?domain=${product.website}&sz=128`,
-          downloads: stats.downloads,
-          trend: stats.trend,
-          releasedAt: product.createdAt,
-          isNew: true,
-          source: 'Product Hunt',
-          url: product.website
-        };
+    console.log('🔄 开始翻译英文描述...\n');
+
+    // 过滤 AI 产品并转换格式（带翻译）
+    const aiProducts = [];
+    for (const product of newProducts.filter(isAIProduct)) {
+      const stats = generateStats();
+      const originalDesc = product.tagline || 'AI应用';
+      const translatedDesc = await translateDescription(originalDesc, translationCache);
+
+      aiProducts.push({
+        name: product.name,
+        description: translatedDesc,
+        category: mapCategory(product),
+        icon: product.thumbnail?.url || `https://www.google.com/s2/favicons?domain=${product.website}&sz=128`,
+        downloads: stats.downloads,
+        trend: stats.trend,
+        releasedAt: product.createdAt,
+        isNew: true,
+        source: 'Product Hunt',
+        url: product.website
       });
+    }
+
+    // 保存翻译缓存
+    saveTranslationCache(translationCache);
 
     // 合并数据，去重（根据名称）
     const mergedApps = [...aiProducts];
@@ -201,7 +310,7 @@ async function updateNewApps() {
     // 保存数据
     fs.writeFileSync(newAppsPath, JSON.stringify(finalApps, null, 2));
 
-    console.log('✅ 新发行应用数据已更新');
+    console.log('\n✅ 新发行应用数据已更新');
     console.log(`   从 Product Hunt 获取 ${aiProducts.length} 个AI产品`);
     console.log(`   共保留 ${finalApps.length} 个应用`);
     finalApps.forEach((app, i) => {

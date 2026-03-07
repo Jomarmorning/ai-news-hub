@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Test</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: #050508;
+            color: white;
+            font-family: sans-serif;
+        }
+
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 1rem;
+            background: rgba(5, 5, 8, 0.9);
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .nav-brand {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #00d4ff;
+        }
+
+        .mobile-menu-toggle {
+            display: none;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 40px;
+            height: 40px;
+            background: transparent;
+            border: 1px solid rgba(255,255,255,0.3);
+            border-radius: 8px;
+            cursor: pointer;
+            padding: 8px;
+            gap: 5px;
+        }
+
+        .mobile-menu-toggle span {
+            display: block;
+            width: 24px;
+            height: 2px;
+            background: white;
+            border-radius: 2px;
+        }
+
+        /* Mobile styles */
+        @media (max-width: 768px) {
+            .mobile-menu-toggle {
+                display: flex !important;
+            }
+        }
+
+        .content {
+            padding-top: 80px;
+            padding: 80px 20px 20px;
+        }
+
+        .debug {
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid #00d4ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .debug h2 {
+            color: #00d4ff;
+            margin-bottom: 10px;
+        }
+
+        .viewport-info {
+            font-family: monospace;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AI Hub</div>
+        <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="菜单">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+    </nav>
+
+    <div class="content">
+        <h1>Mobile Menu Test</h1>
+        <p>If you see a hamburger menu button (three lines) in the top right corner on mobile, it's working!</p>
+
+        <div class="debug">
+            <h2>Debug Info</h2>
+            <p class="viewport-info" id="viewportInfo">Loading...</p>
+        </div>
+    </div>
+
+    <script>
+        function updateViewportInfo() {
+            const info = document.getElementById('viewportInfo');
+            info.innerHTML = `
+                Screen width: ${window.screen.width}px<br>
+                Window width: ${window.innerWidth}px<br>
+                User Agent: ${navigator.userAgent.includes('Mobile') ? 'Mobile' : 'Desktop'}
+            `;
+        }
+        updateViewportInfo();
+        window.addEventListener('resize', updateViewportInfo);
+
+        // Test button click
+        const btn = document.getElementById('mobileMenuToggle');
+        btn.addEventListener('click', () => {
+            btn.style.background = btn.style.background ? '' : 'rgba(0, 212, 255, 0.3)';
+            alert('Menu button clicked!');
+        });
+    </script>
+</body>
+</html>
