@@ -3,14 +3,14 @@
    设计理念: 极光实验室 + 自动化工作流美学
    ======================================== */
 
-/* OpenClaw 专属变量 - 明亮科技配色 */
+/* OpenClaw 专属变量 - 与首页专区同步的绿色主题 */
 :root {
-    /* 主色调 - 极光紫 + 电光青 */
-    --aurora-purple: #8b5cf6;
-    --aurora-purple-light: #a78bfa;
-    --aurora-purple-dark: #7c3aed;
-    --electric-cyan: #06b6d4;
-    --electric-cyan-light: #22d3ee;
+    /* 主色调 - 青柠绿 */
+    --aurora-purple: #a3e635;
+    --aurora-purple-light: #bef264;
+    --aurora-purple-dark: #84cc16;
+    --electric-cyan: #84cc16;
+    --electric-cyan-light: #a3e635;
     --neon-amber: #f59e0b;
     --neon-amber-light: #fbbf24;
     --success-green: #10b981;
@@ -31,9 +31,9 @@
 
     /* 边框与发光 */
     --border-subtle: rgba(255, 255, 255, 0.08);
-    --border-glow: rgba(139, 92, 246, 0.4);
-    --glow-purple: 0 0 30px rgba(139, 92, 246, 0.4);
-    --glow-cyan: 0 0 30px rgba(6, 182, 212, 0.3);
+    --border-glow: rgba(163, 230, 53, 0.4);
+    --glow-purple: 0 0 30px rgba(163, 230, 53, 0.4);
+    --glow-cyan: 0 0 30px rgba(132, 204, 22, 0.3);
     --glow-amber: 0 0 30px rgba(245, 158, 11, 0.3);
 
     /* 字体 */
@@ -80,17 +80,17 @@
     justify-content: center;
     width: 36px;
     height: 36px;
-    background: linear-gradient(135deg, var(--aurora-purple), var(--electric-cyan));
+    background: linear-gradient(135deg, #a3e635, #84cc16);
     border-radius: 10px;
     font-size: 1.1rem;
-    box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);
+    box-shadow: 0 4px 15px rgba(163, 230, 53, 0.3);
 }
 
 .sub-logo-text {
     font-family: var(--font-display);
     font-size: 1.25rem;
     font-weight: 700;
-    background: linear-gradient(135deg, var(--aurora-purple-light), var(--electric-cyan-light));
+    background: linear-gradient(135deg, #bef264, #a3e635);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -160,8 +160,8 @@
    ======================================== */
 .openclaw-hero {
     background: linear-gradient(180deg,
-        rgba(139, 92, 246, 0.15) 0%,
-        rgba(6, 182, 212, 0.08) 30%,
+        rgba(163, 230, 53, 0.12) 0%,
+        rgba(132, 204, 22, 0.06) 30%,
         transparent 60%);
     position: relative;
 }
@@ -182,8 +182,8 @@
 }
 
 .openclaw-badge {
-    background: rgba(139, 92, 246, 0.12) !important;
-    border-color: rgba(139, 92, 246, 0.3) !important;
+    background: rgba(163, 230, 53, 0.12) !important;
+    border-color: rgba(163, 230, 53, 0.3) !important;
     color: var(--aurora-purple-light) !important;
 }
 
@@ -299,14 +299,14 @@
 
 .openclaw-stats .stat-card.featured {
     background: linear-gradient(135deg,
-        rgba(139, 92, 246, 0.2) 0%,
+        rgba(163, 230, 53, 0.2) 0%,
         rgba(245, 158, 11, 0.1) 100%);
     border-color: var(--neon-amber);
 }
 
 .openclaw-stats .stat-card.featured::before {
     opacity: 1;
-    background: linear-gradient(90deg, var(--aurora-purple), var(--neon-amber));
+    background: linear-gradient(90deg, #a3e635, var(--neon-amber));
 }
 
 /* ========================================
@@ -768,9 +768,9 @@
     gap: 16px;
     padding: 20px;
     background: linear-gradient(135deg,
-        rgba(139, 92, 246, 0.1) 0%,
-        rgba(6, 182, 212, 0.05) 100%);
-    border: 1px solid rgba(139, 92, 246, 0.2);
+        rgba(163, 230, 53, 0.1) 0%,
+        rgba(132, 204, 22, 0.05) 100%);
+    border: 1px solid rgba(163, 230, 53, 0.2);
     border-radius: 12px;
 }
 
@@ -782,7 +782,7 @@
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 4px;
-    color: var(--aurora-purple-light);
+    color: #bef264;
 }
 
 .tip-content p {
@@ -836,24 +836,24 @@
 .category-card.pro {
     background: linear-gradient(135deg,
         rgba(244, 63, 94, 0.08) 0%,
-        rgba(139, 92, 246, 0.05) 100%);
+        rgba(163, 230, 53, 0.05) 100%);
     border-color: rgba(244, 63, 94, 0.3);
 }
 
 .category-card.pro::before {
-    background: linear-gradient(90deg, var(--pro-rose), var(--aurora-purple));
+    background: linear-gradient(90deg, var(--pro-rose), #a3e635);
     opacity: 1;
 }
 
 .category-card.featured {
     background: linear-gradient(135deg,
         rgba(16, 185, 129, 0.08) 0%,
-        rgba(139, 92, 246, 0.05) 100%);
+        rgba(163, 230, 53, 0.05) 100%);
     border-color: rgba(16, 185, 129, 0.3);
 }
 
 .category-card.featured::before {
-    background: linear-gradient(90deg, var(--success-green), var(--aurora-purple));
+    background: linear-gradient(90deg, var(--success-green), #a3e635);
     opacity: 1;
 }
 
@@ -1122,9 +1122,9 @@
 
 .troubleshooting-card.highlight {
     background: linear-gradient(135deg,
-        rgba(139, 92, 246, 0.1) 0%,
+        rgba(163, 230, 53, 0.1) 0%,
         rgba(245, 158, 11, 0.05) 100%);
-    border-color: var(--aurora-purple);
+    border-color: #a3e635;
 }
 
 .troubleshooting-card.highlight::before {
@@ -1239,14 +1239,14 @@
 }
 
 /* ========================================
-   CTA Section - 极光渐变
+   CTA Section - 绿色渐变
    ======================================== */
 .cta-section {
     background: linear-gradient(135deg,
-        rgba(139, 92, 246, 0.15) 0%,
-        rgba(6, 182, 212, 0.1) 50%,
-        rgba(245, 158, 11, 0.08) 100%);
-    border: 1px solid rgba(139, 92, 246, 0.2);
+        rgba(163, 230, 53, 0.12) 0%,
+        rgba(132, 204, 22, 0.08) 50%,
+        rgba(245, 158, 11, 0.06) 100%);
+    border: 1px solid rgba(163, 230, 53, 0.2);
     border-radius: 24px;
     margin: 0 24px 60px;
     padding: 60px 40px;
@@ -1744,10 +1744,10 @@
 }
 
 .pricing-tier.popular {
-    border-color: var(--aurora-purple);
+    border-color: #a3e635;
     background: linear-gradient(135deg,
-        rgba(139, 92, 246, 0.15),
-        rgba(139, 92, 246, 0.05));
+        rgba(163, 230, 53, 0.15),
+        rgba(163, 230, 53, 0.05));
 }
 
 .tier-badge {
@@ -1756,9 +1756,9 @@
     left: 50%;
     transform: translateX(-50%);
     padding: 4px 12px;
-    background: linear-gradient(135deg, var(--aurora-purple), var(--aurora-purple-dark));
+    background: linear-gradient(135deg, #a3e635, #84cc16);
     border-radius: 20px;
-    color: white;
+    color: #0a0a0f;
     font-size: 0.75rem;
     font-weight: 600;
     font-family: var(--font-display);
@@ -1781,14 +1781,14 @@
 .tier-price .price {
     font-size: 2.5rem;
     font-weight: 700;
-    color: var(--aurora-purple-light);
+    color: #bef264;
     font-family: var(--font-display);
 }
 
 .tier-price .price-from {
     font-size: 1.5rem;
     font-weight: 600;
-    color: var(--aurora-purple-light);
+    color: #bef264;
     font-family: var(--font-display);
 }
 
