@@ -49,12 +49,22 @@ const newArticles = [
 // 添加新文章到开头
 const allNews = [...newArticles, ...news];
 
+// 根据URL去重，保留最新的
+const seenUrls = new Set();
+const uniqueNews = allNews.filter(article => {
+  if (seenUrls.has(article.url)) {
+    return false;
+  }
+  seenUrls.add(article.url);
+  return true;
+});
+
 // 过滤掉两天前的文章，只保留两天内的
 const twoDaysAgo = new Date();
 twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
 twoDaysAgo.setHours(0, 0, 0, 0);
 
-const updatedNews = allNews.filter(article => {
+const updatedNews = uniqueNews.filter(article => {
   const articleDate = new Date(article.date);
   return articleDate >= twoDaysAgo;
 });
@@ -77,7 +87,11 @@ console.log('   - 新增文章:');
 newArticles.forEach(article => {
   console.log(`     * ${article.title}`);
 });
-const removedCount = allNews.length - updatedNews.length;
+const removedCount = uniqueNews.length - updatedNews.length;
+const duplicateCount = allNews.length - uniqueNews.length;
+if (duplicateCount > 0) {
+  console.log(`   - 删除重复文章: ${duplicateCount} 条`);
+}
 if (removedCount > 0) {
   console.log(`   - 删除两天前文章: ${removedCount} 条`);
 }
