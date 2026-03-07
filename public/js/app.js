@@ -247,21 +247,24 @@ function createRevenueCard(app, rank) {
 
 // 创建资讯卡片HTML
 function createNewsCard(news) {
-    const timeAgo = getTimeAgo(news.publishedAt);
+    const timeAgo = getTimeAgo(news.date || news.publishedAt);
+    const tag = news.category || news.tag || 'AI资讯';
+    const excerpt = news.summary || news.excerpt || '';
+    const sourceIcon = news.sourceIcon || '';
 
     return `
         <article class="news-card">
             <img src="${news.image}" alt="${news.title}" class="news-image" onerror="this.style.display='none'">
             <div class="news-content">
                 <div class="news-meta">
-                    <span class="news-tag">${news.tag}</span>
+                    <span class="news-tag">${tag}</span>
                     <span class="news-time">${timeAgo}</span>
                 </div>
                 <h3 class="news-title">${news.title}</h3>
-                <p class="news-excerpt">${news.excerpt}</p>
+                <p class="news-excerpt">${excerpt}</p>
                 <div class="news-footer">
                     <div class="news-source">
-                        <span class="source-icon" style="background-image: url('${news.sourceIcon}')"></span>
+                        ${sourceIcon ? `<span class="source-icon" style="background-image: url('${sourceIcon}')"></span>` : ''}
                         <span>${news.source}</span>
                     </div>
                     <a href="${news.url}" target="_blank" class="read-more">阅读更多 →</a>
