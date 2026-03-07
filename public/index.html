@@ -231,16 +231,18 @@
         // 加载API数据
         async function loadData() {
             try {
-                const [downloadRes, newsRes] = await Promise.all([
+                const [downloadRes, newAppsRes, newsRes] = await Promise.all([
                     fetch('/api/rankings/download.json'),
+                    fetch('/api/rankings/new-apps.json'),
                     fetch('/api/news.json')
                 ]);
 
                 const downloadData = await downloadRes.json();
+                const newAppsData = await newAppsRes.json();
                 const newsData = await newsRes.json();
 
                 renderDownloadRankings(downloadData.slice(0, 10));
-                renderNewApps(downloadData.slice(0, 10));
+                renderNewApps(newAppsData.slice(0, 10));
                 renderNews(newsData.slice(0, 8));
             } catch (error) {
                 console.error('加载数据失败:', error);
