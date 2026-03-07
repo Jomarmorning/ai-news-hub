@@ -49,7 +49,7 @@
   },
   {
     "name": "CoChat",
-    "description": "Openclaw for Teams that is secure, collaborative, autonomous",
+    "description": "安全、协作、自主的团队版Openclaw",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/c4917257-3466-4f42-bcb5-0d69ffbd8766.png?auto=format",
     "downloads": 381437,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Contibase",
-    "description": "Backend for Solo Builders and AI Agents",
+    "description": "独立开发者和AI智能体的后端服务",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/311942aa-2400-4e2c-b2a4-98e28cf9ff7d.png?auto=format",
     "downloads": 374245,
@@ -73,7 +73,7 @@
   },
   {
     "name": "ChatCat AI: All in 1 Chatbot",
-    "description": "First-ever cat-themed chatbot for coding, writing & more.",
+    "description": "首款猫咪主题聊天机器人，支持编程、写作等多种功能",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/9dc33483-884f-4192-a056-d1c5d0e76b95.png?auto=format",
     "downloads": 243707,
