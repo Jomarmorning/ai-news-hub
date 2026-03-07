@@ -1,0 +1,26 @@
+name: Update AI Hub Data
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    - name: Update data
+      env:
+        PRODUCT_HUNT_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
+      run: node update-data.js
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/api/rankings/
+        git add public/api/news.json
+        git diff --quiet && git commit -m "Auto-update data: $(date '+%Y-%m-%d %H:%M UTC')" && git push || echo "No changes"
