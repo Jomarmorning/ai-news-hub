@@ -1,182 +1,82 @@
 [
   {
-    "id": 1772863897357,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
+    "id": 1772900000001,
+    "title": "Scale AI公布2025最佳模型榜单",
+    "summary": "Gemini 3夺得多模态冠军，GPT-5 Pro获最佳推理能力，Claude Opus 4.5领先代理任务。AI模型竞争进入新阶段。",
     "category": "AI模型",
-    "source": "EvoLink.AI",
+    "source": "Scale AI",
     "date": "2026-03-07",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
+    "url": "https://www.threads.com/@future.ai.tw/post/DSV12nIkhDD"
   },
   {
-    "id": 1772863897356,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
+    "id": 1772900000002,
+    "title": "谷歌发布Gemini 3，AI竞赛转向比拼执行力",
+    "summary": "Google正式发布Gemini 3系列模型，强调实际任务执行能力。新版本在多模态理解和代码生成方面表现突出。",
     "category": "AI模型",
-    "source": "AI资讯",
+    "source": "21世纪经济报道",
     "date": "2026-03-07",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
+    "url": "https://m.21jingji.com/article/20251120/a8f49ee4eaff0c5cb649bca03910f1db.html"
   },
   {
-    "id": 1772861530469,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
+    "id": 1772900000003,
+    "title": "2025年中国AI核心产业规模超1.2万亿元",
+    "summary": "中国AI产业持续高速增长，核心产业规模突破1.2万亿元。政府工作报告中首提打造智能经济新形态。",
+    "category": "政策",
+    "source": "ESM China",
     "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+    "url": "https://www.esmchina.com/news/13974.html"
   },
   {
-    "id": 1772861530468,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
-    "category": "AI模型",
-    "source": "AI资讯",
+    "id": 1772900000004,
+    "title": "上海AI产业规模超6370亿元，增速领跑全国",
+    "summary": "上海人工智能产业规模再创新高，超过6370亿元。在智能制造、自动驾驶、医疗AI等领域形成产业集群优势。",
+    "category": "产业",
+    "source": "人民网",
     "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    "url": "http://sh.people.com.cn/BIG5/n2/2026/0307/c134768-41517546.html"
   },
   {
-    "id": 1772861383303,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
+    "id": 1772900000005,
+    "title": "AI手机发展加速，产业先发优势持续巩固",
+    "summary": "科技日报报道，AI手机成为智能终端新赛道。各大厂商加速布局，推动AI芯片、算法与硬件深度融合。",
+    "category": "AI硬件",
+    "source": "科技日报",
     "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=80",
+    "url": "https://news.ruc.edu.cn/2030089650727788545.html"
   },
   {
-    "id": 1772861383302,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
-    "category": "AI模型",
-    "source": "AI资讯",
+    "id": 1772900000006,
+    "title": "联合国：人工智能重塑工作环境",
+    "summary": "联合国发布报告，探讨AI对全球就业市场的影响。强调人工智能应服务人类而非替代人，呼吁建立包容性AI治理框架。",
+    "category": "AI伦理",
+    "source": "联合国新闻",
     "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "url": "https://news.un.org/zh/story/2026/03/1141730"
   },
   {
-    "id": 1772856058924,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
-  },
-  {
-    "id": 1772856058923,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
-    "category": "AI模型",
-    "source": "AI资讯",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
-  },
-  {
-    "id": 1772855424815,
-    "title": "Anthropic收购视觉AI创企Vercept，强化多模态能力",
-    "summary": "Anthropic宣布收购视觉AI创业公司Vercept，旨在增强Claude模型的视觉理解和多模态交互能力，进一步与OpenAI和Google竞争。",
-    "category": "AI产业",
-    "source": "机器之心",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
-    "url": "https://www.jiqizhixin.com/articles/anthropic-vercept-acquisition"
-  },
-  {
-    "id": 1772855424816,
-    "title": "谷歌Gemini大模型升级至3.1 Pro版本，性能大幅提升",
-    "summary": "Google DeepMind发布Gemini 3.1 Pro版本，在推理能力、代码生成和多语言支持方面实现显著提升，上下文窗口扩展至200万token。",
-    "category": "AI模型",
-    "source": "机器之心",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
-    "url": "https://www.jiqizhixin.com/articles/gemini-3-1-pro-release"
-  },
-  {
-    "id": 1772814010499,
-    "title": "MWC26首日：AI重构智能网络底座，厂商6G卡位抢跑",
-    "summary": "2026年世界移动通信大会（MWC）开幕，AI重构智能网络底座与6G成为焦点。中兴通讯首席战略官王翔表示人机共生，智启新程，具身智能正引领AI发展新范式。",
-    "category": "AI趋势",
-    "source": "新浪科技",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-    "url": "https://news.sina.cn/2026-03-03/detail-inhptein4611107.d.html"
-  },
-  {
-    "id": 1772814010498,
-    "title": "《政府工作报告》起草组：拓展规模化应用，努力使人工智能惠及更多企业",
-    "summary": "2026年3月5日，国务院新闻办公室举行吹风会解读《政府工作报告》。当前人工智能+正与生产生活加速融合，未来将拓展规模化应用，努力使人工智能惠及更多企业。",
-    "category": "AI产业",
-    "source": "腾讯新闻",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&q=80",
-    "url": "https://news.qq.com/rain/a/20260305A075OU00"
-  },
-  {
-    "id": 1772772916610,
-    "title": "OpenAI推出GPT-4.1系列：更高效的AI模型",
-    "summary": "OpenAI发布GPT-4.1系列模型，包含GPT-4.1、GPT-4.1 mini和GPT-4.1 nano。新系列在保持高性能的同时显著降低延迟和成本，特别适合企业级应用和边缘设备部署。",
-    "category": "AI模型",
-    "source": "OpenAI Blog",
+    "id": 1772900000007,
+    "title": "2025最强编程大模型对决：Gemini vs GPT vs Claude",
+    "summary": "开发者社区热议2025年编程AI模型性能对比。各大模型在代码生成、调试辅助、架构设计等方面展开激烈竞争。",
+    "category": "开发工具",
+    "source": "CSDN",
     "date": "2026-03-06",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-4-1"
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+    "url": "https://blog.csdn.net/star_nwe/article/details/156650657"
   },
   {
-    "id": 1772772916609,
-    "title": "Anthropic发布Claude 4系列模型，推理能力大幅提升",
-    "summary": "Anthropic正式发布Claude 4系列模型，包括Claude 4 Opus和Claude 4 Sonnet。新模型在编程、推理和长文本处理方面实现重大突破，支持更复杂的Agent任务执行。",
-    "category": "AI模型",
-    "source": "Anthropic",
+    "id": 1772900000008,
+    "title": "Poe发布2025夏季AI模型使用趋势报告",
+    "summary": "AI对话平台Poe公布最新用户数据，揭示开发者与消费者的模型偏好变化。多模态模型使用量显著增长。",
+    "category": "AI对话",
+    "source": "Poe",
     "date": "2026-03-06",
-    "image": "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80",
-    "url": "https://www.anthropic.com/news/claude-4"
-  },
-  {
-    "id": 1772763735198,
-    "title": "腾讯AI变形记：AI的尽头是人才",
-    "summary": "腾讯在AI领域加速布局，从AI社交到AI+游戏不断探索。文章深度分析腾讯AI战略转型，强调AI竞争的核心在于人才储备与技术创新。",
-    "category": "AI产业",
-    "source": "36氪",
-    "date": "2026-03-06",
-    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
-    "url": "https://36kr.com/p/3710023769714820"
-  },
-  {
-    "id": 1772763735197,
-    "title": "阿里正式批准林俊旸辞职！将成立基础模型支持小组、坚持开源、加大人才投入",
-    "summary": "阿里巴巴正式批准通义千问负责人林俊旸辞职，同时宣布将成立基础模型支持小组，坚持开源路线并加大AI人才投入，确保千问发展不减速。",
-    "category": "AI产业",
-    "source": "机器之心/36氪",
-    "date": "2026-03-06",
-    "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80",
-    "url": "https://www.jiqizhixin.com/articles/2026-03-05-alibaba-linjunyang"
-  },
-  {
-    "id": 1772679245370,
-    "title": "黄仁勋：Nvidia将减少对OpenAI和Anthropic的投资",
-    "summary": "Nvidia CEO黄仁勋表示，公司对OpenAI和Anthropic的投资可能是最后一次，但其解释可能并未透露全部真相。这一表态引发业界对AI投资格局变化的猜测。",
-    "category": "AI产业",
-    "source": "TechCrunch",
-    "date": "2026-03-05",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/"
-  },
-  {
-    "id": 1772679245371,
-    "title": "Google搜索向美国所有用户推出Gemini Canvas AI模式",
-    "summary": "Google正在向美国所有用户推出Gemini的Canvas功能，该功能允许用户在AI模式下进行更直观的交互式内容创作和编辑。",
-    "category": "AI产品",
-    "source": "TechCrunch",
-    "date": "2026-03-05",
-    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&q=80",
-    "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/"
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80",
+    "url": "https://poe.com/zh/blog/report-summer-2025-ai-model-usage-trends"
   }
 ]
