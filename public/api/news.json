@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772901824022,
+    "title": "Claude 4系列模型正式发布，推理能力大幅提升",
+    "summary": "Anthropic发布Claude 4系列模型，包括Claude Opus 4和Claude Sonnet 4。新模型在复杂推理、代码生成和多步骤任务执行方面表现卓越，支持更长的上下文窗口和更精准的工具调用。",
+    "category": "AI模型",
+    "source": "Anthropic",
+    "date": "2026-03-07",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.anthropic.com/news/claude-4-family"
+  },
+  {
+    "id": 1772901824023,
+    "title": "Google Gemini 2.5 Pro发布，多模态能力再突破",
+    "summary": "谷歌发布Gemini 2.5 Pro模型，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持原生多模态输入输出，可处理长达100万token的上下文。",
+    "category": "AI模型",
+    "source": "Google DeepMind",
+    "date": "2026-03-07",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://deepmind.google/gemini-2-5-pro"
+  },
+  {
     "id": 1772887458896,
     "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
     "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
