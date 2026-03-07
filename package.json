@@ -1,0 +1,31 @@
+{
+  "name": "ai-news-hub",
+  "version": "1.0.0",
+  "description": "AI资讯聚合平台 - 聚合全球AI应用下载热度、盈利能力与最新热点资讯",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "update": "node update-data.js"
+  },
+  "keywords": [
+    "ai",
+    "news",
+    "rankings",
+    "analytics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.3",
+    "@upstash/redis": "^1.25.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -8,6 +8,8 @@ yarn-error.log*
 data/
 *.json
 !vercel.json
+!package.json
+!package-lock.json
 !public/api/**/*.json
 
 # 环境变量
