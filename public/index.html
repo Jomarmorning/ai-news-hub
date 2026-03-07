@@ -320,27 +320,80 @@ function formatTime(dateStr) {
             `}).join('');
         }
 
-        // 分类图片映射 - 使用 Unsplash 主题图片
+        // 分类图片映射 - 使用 Unsplash 主题图片（每个分类多张，用于轮换）
         const categoryImages = {
-            'AI模型': 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80',
-            '大模型': 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80',
-            'AI绘画': 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80',
-            'AI视频': 'https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&q=80',
-            'AI音频': 'https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800&q=80',
-            'AI对话': 'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80',
-            'AI搜索': 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80',
-            'AI写作': 'https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80',
-            '开发工具': 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80',
-            '生产力': 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80',
-            'API': 'https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80',
-            '新产品': 'https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80',
-            '政策': 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80',
-            '默认': 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80'
+            'AI模型': [
+                'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80',
+                'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80',
+                'https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80',
+                'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80'
+            ],
+            '大模型': [
+                'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80',
+                'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80'
+            ],
+            'AI绘画': [
+                'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80',
+                'https://images.unsplash.com/photo-1549490349-8643362247b5?w=800&q=80',
+                'https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=800&q=80'
+            ],
+            'AI视频': [
+                'https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&q=80',
+                'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80',
+                'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&q=80'
+            ],
+            'AI音频': [
+                'https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800&q=80',
+                'https://images.unsplash.com/photo-1516280440614-6697288d5d38?w=800&q=80',
+                'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&q=80'
+            ],
+            'AI对话': [
+                'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80',
+                'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80',
+                'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80'
+            ],
+            'AI搜索': [
+                'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80',
+                'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80'
+            ],
+            'AI写作': [
+                'https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80',
+                'https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&q=80',
+                'https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=800&q=80'
+            ],
+            '开发工具': [
+                'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80',
+                'https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80',
+                'https://images.unsplash.com/photo-1551033406-611cf9a28f67?w=800&q=80'
+            ],
+            '生产力': [
+                'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80',
+                'https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80'
+            ],
+            'API': [
+                'https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80',
+                'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80'
+            ],
+            '新产品': [
+                'https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80',
+                'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80'
+            ],
+            '政策': [
+                'https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80',
+                'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80'
+            ],
+            '默认': [
+                'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80',
+                'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80',
+                'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80',
+                'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80'
+            ]
         };
 
-        // 获取分类图片
-        function getCategoryImage(category) {
-            return categoryImages[category] || categoryImages['默认'];
+        // 获取分类图片（根据索引轮换）
+        function getCategoryImage(category, index) {
+            const images = categoryImages[category] || categoryImages['默认'];
+            return images[index % images.length];
         }
 
         // 渲染AI热点资讯
@@ -357,7 +410,7 @@ function formatTime(dateStr) {
             }
             container.innerHTML = newsList.map((news, i) => {
                 try {
-                    const imageUrl = getCategoryImage(news.category);
+                    const imageUrl = getCategoryImage(news.category, i);
                     return `
                     <div class="news-card ${i === 0 ? 'featured' : ''} reveal reveal-delay-${i % 4}">
                         <div class="news-image" style="background-image: url('${imageUrl}'); background-size: cover; background-position: center;">
