@@ -218,15 +218,24 @@
         }
 
         // 格式化日期
-        function formatTime(dateStr) {
-            const date = new Date(dateStr);
-            const now = new Date();
-            const diff = now - date;
-            const hours = Math.floor(diff / 3600000);
-            if (hours < 1) return '刚刚';
-            if (hours < 24) return hours + '小时前';
-            return Math.floor(hours / 24) + '天前';
-        }
+function formatTime(dateStr) {
+    // 如果只有日期没有时分秒，加上当前时间
+    let date;
+    if (dateStr.length <= 10) {
+        // 格式为 YYYY-MM-DD，加上当前时间
+        const now = new Date();
+        const timeStr = now.toTimeString().split(' ')[0];
+        date = new Date(dateStr + 'T' + timeStr);
+    } else {
+        date = new Date(dateStr);
+    }
+    const now = new Date();
+    const diff = now - date;
+    const hours = Math.floor(diff / 3600000);
+    if (hours < 1) return '刚刚';
+    if (hours < 24) return hours + '小时前';
+    return Math.floor(hours / 24) + '天前';
+}
 
         // 加载API数据
         async function loadData() {
