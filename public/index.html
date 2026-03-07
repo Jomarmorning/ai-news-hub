@@ -34,18 +34,23 @@
                 <span class="logo-text">AI<span>Hub</span></span>
             </a>
         </div>
-        <div class="nav-links">
+        <div class="nav-links" id="navLinks">
             <a href="#new-apps" class="nav-link active">新发行</a>
             <a href="#rankings" class="nav-link">应用排名</a>
             <a href="#revenue" class="nav-link">盈利榜单</a>
             <a href="#news" class="nav-link">热点资讯</a>
             <a href="openclaw.html" class="nav-link highlight">⚡ OpenClaw</a>
         </div>
-        <div class="nav-actions">
-            <span class="update-time">
+        <div class="nav-actions" style="display: flex; align-items: center; gap: 0.5rem;">
+            <span class="update-time" style="display: none;">
                 <span class="pulse-dot"></span>
                 更新于 <span id="lastUpdate">--</span>
             </span>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="菜单" style="display: flex; background: red; border: 2px solid white; width: 40px; height: 40px; flex-direction: column; justify-content: center; align-items: center; gap: 5px; cursor: pointer;">
+                <span style="display: block; width: 24px; height: 2px; background: white;"></span>
+                <span style="display: block; width: 24px; height: 2px; background: white;"></span>
+                <span style="display: block; width: 24px; height: 2px; background: white;"></span>
+            </button>
         </div>
     </nav>
 
@@ -175,6 +180,25 @@
     </footer>
 
     <script>
+        // 移动端菜单切换
+        const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+        const navLinks = document.getElementById('navLinks');
+
+        if (mobileMenuToggle && navLinks) {
+            mobileMenuToggle.addEventListener('click', () => {
+                mobileMenuToggle.classList.toggle('active');
+                navLinks.classList.toggle('active');
+            });
+
+            // 点击导航链接后关闭菜单
+            navLinks.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', () => {
+                    mobileMenuToggle.classList.remove('active');
+                    navLinks.classList.remove('active');
+                });
+            });
+        }
+
         // 导航栏滚动效果
         const navbar = document.getElementById('navbar');
         window.addEventListener('scroll', () => {
