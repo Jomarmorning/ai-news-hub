@@ -41,6 +41,13 @@
             <a href="openclaw.html" class="nav-link highlight">⚡ OpenClaw</a>
         </div>
         <div class="nav-actions" style="display: flex; align-items: center; gap: 0.5rem;">
+            <a href="auth.html" class="btn-login" id="navLoginBtn">
+                <span>🔑 登录</span>
+            </a>
+            <div class="user-menu hidden" id="userMenu">
+                <span class="user-name">--</span>
+                <button class="btn-logout" onclick="logout()">退出</button>
+            </div>
             <span class="update-time" style="display: none;">
                 <span class="pulse-dot"></span>
                 更新于 <span id="lastUpdate">--</span>
@@ -486,7 +493,34 @@ function formatTime(dateStr) {
             console.log('新闻渲染完成');
         }
 
+        // 检查登录状态
+        function checkAuth() {
+            const token = localStorage.getItem('openclaw_token');
+            const user = localStorage.getItem('openclaw_user');
+            const loginBtn = document.getElementById('navLoginBtn');
+            const userMenu = document.getElementById('userMenu');
+
+            if (token && user) {
+                if (loginBtn) loginBtn.classList.add('hidden');
+                if (userMenu) {
+                    userMenu.classList.remove('hidden');
+                    userMenu.querySelector('.user-name').textContent = JSON.parse(user).username || '用户';
+                }
+            } else {
+                if (loginBtn) loginBtn.classList.remove('hidden');
+                if (userMenu) userMenu.classList.add('hidden');
+            }
+        }
+
+        // 退出登录
+        function logout() {
+            localStorage.removeItem('openclaw_token');
+            localStorage.removeItem('openclaw_user');
+            checkAuth();
+        }
+
         // 初始化
+        checkAuth();
         loadData().then(() => {
             // 数据加载完成后，重新观察新渲染的元素
             console.log('重新观察 reveal 元素');

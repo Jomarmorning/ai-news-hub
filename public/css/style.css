@@ -384,6 +384,69 @@ body::before {
     100% { transform: translate(-50%, -50%) scale(4); opacity: 0; }
 }
 
+/* 登录按钮 */
+.btn-login {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: transparent;
+    border: 1px solid var(--border-subtle);
+    border-radius: 10px;
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all var(--duration-fast);
+    font-family: var(--font-display);
+}
+
+.btn-login:hover {
+    background: rgba(0, 212, 255, 0.1);
+    border-color: var(--neon-blue);
+    color: var(--neon-blue);
+}
+
+/* 用户菜单 */
+.user-menu {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.user-menu.hidden {
+    display: none;
+}
+
+.user-name {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-family: var(--font-display);
+}
+
+.btn-logout {
+    padding: 8px 16px;
+    background: var(--void-light);
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all var(--duration-fast);
+    font-family: var(--font-display);
+}
+
+.btn-logout:hover {
+    background: #ef4444;
+    border-color: #ef4444;
+    color: white;
+}
+
+.hidden {
+    display: none !important;
+}
+
 /* ========================================
    主内容区
    ======================================== */
