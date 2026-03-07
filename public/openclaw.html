@@ -7,25 +7,33 @@
     <meta name="description" content="OpenClaw技能市场 - 最热门的AI自动化技能排名、安装教程、Skill Lab。发现、分享、交易OpenClaw技能，提升工作效率。">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/openclaw.css">
 </head>
 <body>
     <!-- 动态背景 -->
     <div class="bg-animation">
-        <div class="gradient-sphere sphere-1"></div>
-        <div class="gradient-sphere sphere-2"></div>
-        <div class="gradient-sphere sphere-3"></div>
         <div class="grid-overlay"></div>
+        <div class="particles-container">
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+        </div>
+        <div class="floating-geo geo-1"></div>
+        <div class="floating-geo geo-2"></div>
+        <div class="floating-geo geo-3"></div>
     </div>
 
     <!-- 导航栏 -->
-    <nav class="navbar">
+    <nav class="navbar" id="navbar">
         <div class="nav-brand">
             <a href="index.html" class="logo">
                 <span class="logo-icon">◈</span>
-                <span class="logo-text">AI Hub</span>
+                <span class="logo-text">AI<span>Hub</span></span>
             </a>
             <span class="nav-divider">/</span>
             <a href="openclaw.html" class="sub-logo">
@@ -62,7 +70,7 @@
                 </div>
                 <h1 class="hero-title">
                     <span class="title-line">AI自动化</span>
-                    <span class="title-line highlight">技能市场</span>
+                    <span class="title-line accent">技能市场</span>
                 </h1>
                 <p class="hero-subtitle">
                     发现、分享、交易 OpenClaw 技能<br>
@@ -71,28 +79,26 @@
                 <div class="hero-cta">
                     <a href="#quick-start" class="btn-primary">
                         <span>开始部署</span>
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M5 12h14M12 5l7 7-7 7"/>
-                        </svg>
+                        <span>→</span>
                     </a>
                     <a href="#skill-rankings" class="btn-secondary">浏览热门Skill</a>
                 </div>
             </div>
             <div class="hero-stats openclaw-stats">
-                <div class="stat-card">
-                    <div class="stat-number" id="totalSkills">--</div>
+                <div class="stat-card reveal">
+                    <div class="stat-number" id="totalSkills">1,247</div>
                     <div class="stat-label">收录技能</div>
                 </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="weeklyDownloads">--</div>
+                <div class="stat-card reveal reveal-delay-1">
+                    <div class="stat-number" id="weeklyDownloads">45.2K</div>
                     <div class="stat-label">周下载量</div>
                 </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="activeUsers">--</div>
+                <div class="stat-card reveal reveal-delay-2">
+                    <div class="stat-number" id="activeUsers">12.8K</div>
                     <div class="stat-label">活跃用户</div>
                 </div>
-                <div class="stat-card featured">
-                    <div class="stat-number" id="proSkills">--</div>
+                <div class="stat-card featured reveal reveal-delay-3">
+                    <div class="stat-number" id="proSkills">89</div>
                     <div class="stat-label">Pro技能</div>
                 </div>
             </div>
@@ -100,16 +106,16 @@
 
         <!-- Skill 排名榜单 -->
         <section class="section" id="skill-rankings">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">🏆</span>
-                    <h2 class="section-title">Weekly Hot Skills</h2>
+                    <span class="section-eyebrow">Weekly Hot</span>
+                    <h2 class="section-title">Skill 排名榜单</h2>
                 </div>
                 <p class="section-desc">本周最热门的 OpenClaw 自动化技能排名</p>
             </div>
 
             <!-- 筛选标签 -->
-            <div class="filter-tabs">
+            <div class="filter-tabs reveal reveal-delay-1">
                 <button class="filter-tab active" data-category="all">全部</button>
                 <button class="filter-tab" data-category="productivity">效率办公</button>
                 <button class="filter-tab" data-category="social">社媒运营</button>
@@ -118,7 +124,7 @@
                 <button class="filter-tab" data-category="pro">🔥 Pro版</button>
             </div>
 
-            <div class="skill-ranking-container">
+            <div class="skill-ranking-container reveal reveal-delay-2">
                 <div class="skill-list" id="skillRanking">
                     <!-- 动态生成 -->
                 </div>
@@ -132,7 +138,7 @@
                 </div>
                 <div class="info-item">
                     <span class="info-icon">🔄</span>
-                    <span>每24小时自动更新 · 下次更新: <span id="nextUpdate">--</span></span>
+                    <span>每24小时自动更新 · 下次更新: <span id="nextUpdate">02:00</span></span>
                 </div>
                 <div class="info-item">
                     <span class="info-icon">⏰</span>
@@ -143,16 +149,16 @@
 
         <!-- 快速入门 -->
         <section class="section" id="quick-start">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">🚀</span>
-                    <h2 class="section-title">Quick Start</h2>
+                    <span class="section-eyebrow">Quick Start</span>
+                    <h2 class="section-title">快速入门</h2>
                 </div>
                 <p class="section-desc">全平台安装教程，10分钟完成 OpenClaw 部署</p>
             </div>
 
             <!-- 平台选择 -->
-            <div class="platform-tabs">
+            <div class="platform-tabs reveal reveal-delay-1">
                 <button class="platform-tab active" data-platform="docker">
                     <span class="platform-icon">🐳</span>
                     <span>Docker (推荐)</span>
@@ -172,7 +178,7 @@
             </div>
 
             <!-- 安装步骤 -->
-            <div class="install-guide" id="installGuide">
+            <div class="install-guide reveal reveal-delay-2" id="installGuide">
                 <!-- Docker 安装 (默认显示) -->
                 <div class="guide-content active" data-platform="docker">
                     <div class="guide-steps">
@@ -242,7 +248,7 @@
                                 <p>macOS 包管理器（如已安装可跳过）</p>
                                 <div class="code-block">
                                     <code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</code>
-                                    <button class="copy-btn" data-clipboard="/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"">复制</button>
+                                    <button class="copy-btn" data-clipboard='/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"'>复制</button>
                                 </div>
                             </div>
                         </div>
@@ -303,7 +309,7 @@
                                 <p>将 OpenClaw 添加到系统路径</p>
                                 <div class="code-block">
                                     <code>echo 'export PATH="$HOME/.openclaw/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc</code>
-                                    <button class="copy-btn" data-clipboard="echo 'export PATH=\"$HOME/.openclaw/bin:$PATH\"' >> ~/.bashrc && source ~/.bashrc">复制</button>
+                                    <button class="copy-btn" data-clipboard='echo '"'"'export PATH="$HOME/.openclaw/bin:$PATH"'"'"' >> ~/.bashrc && source ~/.bashrc'>复制</button>
                                 </div>
                             </div>
                         </div>
@@ -353,7 +359,7 @@
                                 <p>使用 PowerShell 安装</p>
                                 <div class="code-block">
                                     <code>Invoke-WebRequest -Uri "https://openclaw.dev/install.ps1" -OutFile "install.ps1"; .\install.ps1</code>
-                                    <button class="copy-btn" data-clipboard="Invoke-WebRequest -Uri \"https://openclaw.dev/install.ps1\" -OutFile \"install.ps1\"; .\\install.ps1">复制</button>
+                                    <button class="copy-btn" data-clipboard='Invoke-WebRequest -Uri "https://openclaw.dev/install.ps1" -OutFile "install.ps1"; .\install.ps1'>复制</button>
                                 </div>
                             </div>
                         </div>
@@ -386,17 +392,17 @@
 
         <!-- Skill Lab -->
         <section class="section" id="skill-lab">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">🔬</span>
-                    <h2 class="section-title">Skill Lab</h2>
+                    <span class="section-eyebrow">Skill Lab</span>
+                    <h2 class="section-title">技能实验室</h2>
                 </div>
                 <p class="section-desc">精选高级 Skill 代码与配置，提升你的自动化能力</p>
             </div>
 
             <!-- 技能分类 -->
             <div class="skill-categories">
-                <div class="category-card">
+                <div class="category-card reveal">
                     <div class="category-header">
                         <span class="category-icon">🆓</span>
                         <h3>免费版</h3>
@@ -413,10 +419,10 @@
                         <div class="skill-tag">RSS同步</div>
                         <div class="skill-tag">天气预警</div>
                     </div>
-                    <button class="category-link" onclick="showFreeSkillsModal()" style="background:none;border:none;cursor:pointer;font:inherit;padding:0;">浏览全部 →</button>
+                    <button class="category-link" onclick="showFreeSkillsModal()">浏览全部 →</button>
                 </div>
 
-                <div class="category-card pro">
+                <div class="category-card pro reveal reveal-delay-1">
                     <div class="category-header">
                         <span class="category-icon">⭐</span>
                         <h3>Pro版</h3>
@@ -431,10 +437,10 @@
                         <div class="skill-tag">Polymarket监控</div>
                         <div class="skill-tag">加密货币追踪</div>
                     </div>
-                    <button class="category-link" onclick="showPricingModal()" style="background:none;border:none;cursor:pointer;font:inherit;padding:0;">查看定价 →</button>
+                    <button class="category-link" onclick="showPricingModal()">查看定价 →</button>
                 </div>
 
-                <div class="category-card featured">
+                <div class="category-card featured reveal reveal-delay-2">
                     <div class="category-header">
                         <span class="category-icon">🎯</span>
                         <h3>实战案例</h3>
@@ -465,16 +471,16 @@
 
         <!-- 故障排查 -->
         <section class="section" id="troubleshooting">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">🔧</span>
-                    <h2 class="section-title">Troubleshooting</h2>
+                    <span class="section-eyebrow">Troubleshooting</span>
+                    <h2 class="section-title">故障排查</h2>
                 </div>
                 <p class="section-desc">常见问题解决方案与 API 优化指南</p>
             </div>
 
             <div class="troubleshooting-grid">
-                <div class="troubleshooting-card">
+                <div class="troubleshooting-card reveal">
                     <div class="troubleshooting-icon">❌</div>
                     <h3>安装报错</h3>
                     <ul class="issue-list">
@@ -494,7 +500,7 @@
                     <a href="#" class="troubleshooting-link">查看全部 →</a>
                 </div>
 
-                <div class="troubleshooting-card">
+                <div class="troubleshooting-card reveal reveal-delay-1">
                     <div class="troubleshooting-icon">🔑</div>
                     <h3>API 配置</h3>
                     <ul class="issue-list">
@@ -514,7 +520,7 @@
                     <a href="#" class="troubleshooting-link">查看全部 →</a>
                 </div>
 
-                <div class="troubleshooting-card">
+                <div class="troubleshooting-card reveal reveal-delay-2">
                     <div class="troubleshooting-icon">⚡</div>
                     <h3>性能优化</h3>
                     <ul class="issue-list">
@@ -534,7 +540,7 @@
                     <a href="#" class="troubleshooting-link">查看全部 →</a>
                 </div>
 
-                <div class="troubleshooting-card highlight">
+                <div class="troubleshooting-card highlight reveal reveal-delay-3">
                     <div class="troubleshooting-icon">💰</div>
                     <h3>API 中转推荐</h3>
                     <p class="troubleshooting-desc">高性价比的 API 聚合服务，支持 OpenAI、Claude、Gemini 等</p>
@@ -559,21 +565,19 @@
         <!-- 订阅与商业服务 -->
         <section class="section cta-section" id="newsletter">
             <div class="cta-container">
-                <div class="cta-content">
+                <div class="cta-content reveal">
                     <h2>订阅 OpenClaw Weekly</h2>
                     <p>每周获取最新 Skill 排名、独家教程和优惠信息</p>
                     <form class="subscribe-form" id="subscribeForm">
                         <input type="email" placeholder="输入你的邮箱" required>
                         <button type="submit" class="btn-primary">
                             <span>订阅</span>
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M5 12h14M12 5l7 7-7 7"/>
-                            </svg>
+                            <span>→</span>
                         </button>
                     </form>
                     <p class="form-note">已有 2,000+ 开发者订阅，随时可取消</p>
                 </div>
-                <div class="cta-services">
+                <div class="cta-services reveal reveal-delay-1">
                     <h3>商业服务</h3>
                     <div class="service-list">
                         <a href="#" class="service-item">
@@ -616,7 +620,7 @@
                 <a href="#skill-lab">Skill Lab</a>
                 <a href="#troubleshooting">故障排查</a>
             </div>
-            <p class="footer-text">OpenClaw 是开源项目，本站与 OpenClaw 官方无直接关联</p>
+            <p class="footer-text">OpenClaw 是开源项目，本站与 OpenClaw 官方无直接关联 // SYSTEM.ONLINE</p>
         </div>
     </footer>
 
@@ -729,5 +733,304 @@
     </div>
 
     <script src="js/openclaw.js"></script>
+    <script>
+        // 导航栏滚动效果
+        const navbar = document.getElementById('navbar');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // 滚动显示动画
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+        // 更新时间
+        function updateTime() {
+            const now = new Date();
+            const timeStr = now.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
+            document.getElementById('lastUpdateTime').textContent = timeStr;
+        }
+        updateTime();
+        setInterval(updateTime, 60000);
+
+        // 模拟 Skill 数据
+        const mockSkills = [
+            { rank: 1, name: 'LinkedIn Auto Connect', category: '社媒运营', downloads: '12.5K', rating: 4.9, desc: '自动发送LinkedIn连接请求，支持个性化消息模板', badges: ['hot'], isPro: false },
+            { rank: 2, name: 'AI News Publisher', category: '内容创作', downloads: '9.8K', rating: 4.8, desc: '自动抓取AI新闻并发布到多个平台', badges: ['new'], isPro: false },
+            { rank: 3, name: 'Email Auto Responder', category: '效率办公', downloads: '8.2K', rating: 4.7, desc: '智能识别邮件内容并自动回复', badges: [], isPro: false },
+            { rank: 4, name: 'Crypto Price Tracker', category: '交易监控', downloads: '7.5K', rating: 4.6, desc: '实时监控加密货币价格变动并推送通知', badges: ['pro'], isPro: true },
+            { rank: 5, name: 'Invoice Processor', category: '效率办公', downloads: '6.9K', rating: 4.8, desc: '自动识别发票信息并录入财务系统', badges: ['pro'], isPro: true },
+        ];
+
+        // 渲染 Skill 列表
+        function renderSkills() {
+            const container = document.getElementById('skillRanking');
+            container.innerHTML = mockSkills.map(skill => `
+                <div class="skill-item ${skill.rank <= 3 ? 'top-3' : ''}">
+                    <div class="skill-rank ${skill.rank === 1 ? 'gold' : skill.rank === 2 ? 'silver' : skill.rank === 3 ? 'bronze' : 'normal'}">${skill.rank}</div>
+                    <div class="skill-info">
+                        <div class="skill-header">
+                            <span class="skill-name">${skill.name}</span>
+                            <div class="skill-badges">
+                                ${skill.badges.map(b => `<span class="skill-badge ${b}">${b.toUpperCase()}</span>`).join('')}
+                                ${skill.isPro ? '<span class="skill-badge pro">PRO</span>' : ''}
+                            </div>
+                        </div>
+                        <p class="skill-desc">${skill.desc}</p>
+                        <div class="skill-meta">
+                            <span>⭐ ${skill.rating}</span>
+                            <span>📥 ${skill.downloads}</span>
+                        </div>
+                    </div>
+                    <div class="skill-category">${skill.category}</div>
+                    <div class="skill-stats">
+                        <div class="skill-downloads">${skill.downloads}</div>
+                        <div class="skill-downloads-label">下载量</div>
+                        <div class="skill-rating">⭐ ${skill.rating}</div>
+                    </div>
+                    <div class="skill-actions">
+                        <button class="btn-install">安装</button>
+                        <button class="btn-details">详情</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 渲染精选 Skills
+        function renderFeaturedSkills() {
+            const container = document.getElementById('featuredSkills');
+            const featured = [
+                { name: 'GitHub Auto PR', category: '开发工具', price: '免费', desc: '自动创建PR并分配审查者', isFree: true },
+                { name: 'Twitter Thread Maker', category: '社媒运营', price: '$12', desc: '将长文自动拆分为Twitter线程', isFree: false },
+                { name: 'Meeting Summarizer', category: '效率办公', price: '$19', desc: '自动总结会议录音并生成纪要', isFree: false },
+                { name: 'SEO Content Optimizer', category: '内容创作', price: '免费', desc: '优化文章SEO关键词密度', isFree: true },
+            ];
+
+            container.innerHTML = featured.map(skill => `
+                <div class="featured-skill-card reveal">
+                    <div class="featured-skill-header">
+                        <div class="featured-skill-icon">⚡</div>
+                        <div class="featured-skill-info">
+                            <h4>${skill.name}</h4>
+                            <span>${skill.category}</span>
+                        </div>
+                    </div>
+                    <p class="featured-skill-desc">${skill.desc}</p>
+                    <div class="featured-skill-footer">
+                        <span class="featured-skill-price ${skill.isFree ? 'free' : ''}">${skill.price}</span>
+                        <button class="btn-install">查看</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 平台切换
+        document.querySelectorAll('.platform-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.platform-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+
+                const platform = tab.dataset.platform;
+                document.querySelectorAll('.guide-content').forEach(content => {
+                    content.classList.remove('active');
+                    if (content.dataset.platform === platform) {
+                        content.classList.add('active');
+                    }
+                });
+            });
+        });
+
+        // 筛选标签切换
+        document.querySelectorAll('.filter-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+            });
+        });
+
+        // 复制按钮功能
+        document.querySelectorAll('.copy-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const text = btn.dataset.clipboard;
+                navigator.clipboard.writeText(text).then(() => {
+                    btn.textContent = '已复制';
+                    btn.classList.add('copied');
+                    setTimeout(() => {
+                        btn.textContent = '复制';
+                        btn.classList.remove('copied');
+                    }, 2000);
+                });
+            });
+        });
+
+        // 弹窗控制
+        function showFreeSkillsModal() {
+            document.getElementById('freeSkillsModal').classList.remove('hidden');
+            renderFreeSkills();
+        }
+
+        function closeFreeSkillsModal() {
+            document.getElementById('freeSkillsModal').classList.add('hidden');
+        }
+
+        function showPricingModal() {
+            document.getElementById('pricingModal').classList.remove('hidden');
+            renderProSkills();
+        }
+
+        function closePricingModal() {
+            document.getElementById('pricingModal').classList.add('hidden');
+        }
+
+        // 渲染免费技能列表
+        function renderFreeSkills() {
+            const container = document.getElementById('freeSkillsList');
+            const freeSkills = [
+                { name: 'LinkedIn Auto Connect', desc: '自动发送LinkedIn连接请求', downloads: '12.5K', rating: '4.9', category: 'social' },
+                { name: 'AI News Publisher', desc: '自动抓取AI新闻并发布', downloads: '9.8K', rating: '4.8', category: 'data' },
+                { name: 'Email Auto Responder', desc: '智能识别邮件自动回复', downloads: '8.2K', rating: '4.7', category: 'productivity' },
+                { name: 'File Organizer', desc: '智能整理文件到对应文件夹', downloads: '6.5K', rating: '4.6', category: 'productivity' },
+                { name: 'RSS Sync', desc: '自动同步RSS订阅到笔记软件', downloads: '5.8K', rating: '4.5', category: 'data' },
+            ];
+
+            container.innerHTML = freeSkills.map(skill => `
+                <div class="free-skill-item" data-category="${skill.category}">
+                    <div class="free-skill-icon">⚡</div>
+                    <div class="free-skill-info">
+                        <h4>${skill.name}</h4>
+                        <p>${skill.desc}</p>
+                        <span class="skill-category-tag">${skill.category}</span>
+                    </div>
+                    <div class="free-skill-meta">
+                        <div class="free-skill-stats">
+                            <div class="downloads">${skill.downloads}</div>
+                            <div class="rating">⭐ ${skill.rating}</div>
+                        </div>
+                        <button class="btn-copy-install" data-cmd="openclaw install ${skill.name.toLowerCase().replace(/\s/g, '-')}">复制命令</button>
+                    </div>
+                </div>
+            `).join('');
+
+            // 绑定复制命令按钮
+            document.querySelectorAll('.btn-copy-install').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const cmd = btn.dataset.cmd;
+                    navigator.clipboard.writeText(cmd).then(() => {
+                        btn.textContent = '已复制';
+                        btn.classList.add('copied');
+                        setTimeout(() => {
+                            btn.textContent = '复制命令';
+                            btn.classList.remove('copied');
+                        }, 2000);
+                    });
+                });
+            });
+        }
+
+        // 渲染 Pro 技能列表
+        function renderProSkills() {
+            const container = document.getElementById('proSkillsList');
+            const proSkills = [
+                { name: 'LinkedIn Auto Outreach', desc: '高级LinkedIn自动化开发工具', price: '$29' },
+                { name: 'Invoice Auto Processor', desc: '智能发票识别与财务系统对接', price: '$49' },
+                { name: 'Polymarket Monitor', desc: '预测市场实时监控与预警', price: '$39' },
+                { name: 'Crypto Arbitrage Bot', desc: '跨交易所套利机会捕捉', price: '$99' },
+            ];
+
+            container.innerHTML = proSkills.map(skill => `
+                <div class="pro-skill-item">
+                    <div class="pro-skill-icon">⭐</div>
+                    <div class="pro-skill-info">
+                        <h4>${skill.name}</h4>
+                        <p>${skill.desc}</p>
+                    </div>
+                    <div class="pro-skill-price">${skill.price}</div>
+                    <div class="pro-skill-action">
+                        <button class="btn-buy-skill" onclick="showToast('请先登录后购买')">购买</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 分类筛选
+        function filterByCategory(category) {
+            document.querySelectorAll('.category-filter').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.category === category);
+            });
+
+            document.querySelectorAll('.free-skill-item').forEach(item => {
+                if (category === 'all' || item.dataset.category === category) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+
+        // 搜索筛选
+        function filterFreeSkills() {
+            const query = document.getElementById('freeSkillsSearch').value.toLowerCase();
+            document.querySelectorAll('.free-skill-item').forEach(item => {
+                const name = item.querySelector('h4').textContent.toLowerCase();
+                const desc = item.querySelector('p').textContent.toLowerCase();
+                item.style.display = (name.includes(query) || desc.includes(query)) ? 'flex' : 'none';
+            });
+        }
+
+        function filterProSkills() {
+            const query = document.getElementById('proSkillsSearch').value.toLowerCase();
+            document.querySelectorAll('.pro-skill-item').forEach(item => {
+                const name = item.querySelector('h4').textContent.toLowerCase();
+                const desc = item.querySelector('p').textContent.toLowerCase();
+                item.style.display = (name.includes(query) || desc.includes(query)) ? 'flex' : 'none';
+            });
+        }
+
+        // Toast 提示
+        function showToast(message) {
+            const toast = document.createElement('div');
+            toast.style.cssText = `
+                position: fixed;
+                bottom: 24px;
+                left: 50%;
+                transform: translateX(-50%);
+                padding: 12px 24px;
+                background: var(--surface);
+                border: 1px solid var(--border-subtle);
+                border-radius: 12px;
+                color: var(--text-primary);
+                font-family: var(--font-display);
+                font-size: 0.9rem;
+                z-index: 100000;
+                animation: slideInUp 0.3s ease;
+            `;
+            toast.textContent = message;
+            document.body.appendChild(toast);
+            setTimeout(() => toast.remove(), 3000);
+        }
+
+        // 初始化
+        renderSkills();
+        renderFeaturedSkills();
+
+        // 重新观察新渲染的元素
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    </script>
 </body>
 </html>

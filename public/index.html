@@ -6,24 +6,32 @@
     <title>AI Hub - AI应用排名与资讯</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <!-- 动态背景 -->
     <div class="bg-animation">
-        <div class="gradient-sphere sphere-1"></div>
-        <div class="gradient-sphere sphere-2"></div>
-        <div class="gradient-sphere sphere-3"></div>
         <div class="grid-overlay"></div>
+        <div class="particles-container">
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+            <div class="data-stream"></div>
+        </div>
+        <div class="floating-geo geo-1"></div>
+        <div class="floating-geo geo-2"></div>
+        <div class="floating-geo geo-3"></div>
     </div>
 
     <!-- 导航栏 -->
-    <nav class="navbar">
+    <nav class="navbar" id="navbar">
         <div class="nav-brand">
             <a href="index.html" class="logo">
                 <span class="logo-icon">◈</span>
-                <span class="logo-text">AI Hub</span>
+                <span class="logo-text">AI<span>Hub</span></span>
             </a>
         </div>
         <div class="nav-links">
@@ -31,10 +39,13 @@
             <a href="#rankings" class="nav-link">应用排名</a>
             <a href="#revenue" class="nav-link">盈利榜单</a>
             <a href="#news" class="nav-link">热点资讯</a>
-            <a href="openclaw.html" class="nav-link">⚡ OpenClaw</a>
+            <a href="openclaw.html" class="nav-link highlight">⚡ OpenClaw</a>
         </div>
         <div class="nav-actions">
-            <span class="update-time">更新于 <span id="lastUpdate">--</span></span>
+            <span class="update-time">
+                <span class="pulse-dot"></span>
+                更新于 <span id="lastUpdate">--</span>
+            </span>
         </div>
     </nav>
 
@@ -44,29 +55,48 @@
         <section class="hero">
             <div class="hero-content">
                 <div class="hero-badge">
-                    <span class="pulse-dot"></span>
-                    实时数据
+                    <span>◉</span> 实时数据流
                 </div>
                 <h1 class="hero-title">
-                    <span class="title-line">探索AI世界</span>
-                    <span class="title-line highlight">洞察前沿趋势</span>
+                    <span class="title-line">探索AI</span>
+                    <span class="title-line accent">无限可能</span>
                 </h1>
                 <p class="hero-subtitle">
-                    聚合全球AI应用下载热度、盈利能力与最新资讯，<br>
-                    助你把握人工智能时代脉搏
+                    聚合全球AI应用下载热度、盈利能力与最新资讯，
+                    以数据驱动的方式助你把握人工智能时代脉搏
                 </p>
+                <div class="hero-cta">
+                    <button class="btn-primary">探索排名 →</button>
+                    <button class="btn-secondary">查看资讯</button>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="data-visualization">
+                    <div class="orbit-ring orbit-ring-1">
+                        <div class="orbit-dot"></div>
+                    </div>
+                    <div class="orbit-ring orbit-ring-2">
+                        <div class="orbit-dot"></div>
+                    </div>
+                    <div class="orbit-ring orbit-ring-3">
+                        <div class="orbit-dot"></div>
+                    </div>
+                    <div class="center-core">
+                        <span class="core-icon">◈</span>
+                    </div>
+                </div>
             </div>
             <div class="hero-stats">
-                <div class="stat-card">
-                    <div class="stat-number" id="totalApps">--</div>
+                <div class="stat-card reveal">
+                    <div class="stat-number" id="totalApps">2,847</div>
                     <div class="stat-label">收录应用</div>
                 </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="totalNews">--</div>
+                <div class="stat-card reveal reveal-delay-1">
+                    <div class="stat-number" id="totalNews">156</div>
                     <div class="stat-label">今日资讯</div>
                 </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="updateFreq">24h</div>
+                <div class="stat-card reveal reveal-delay-2">
+                    <div class="stat-number" id="updateFreq">24H</div>
                     <div class="stat-label">更新频率</div>
                 </div>
             </div>
@@ -74,14 +104,14 @@
 
         <!-- 新发行AI应用排名 -->
         <section class="section" id="new-apps">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">🆕</span>
+                    <span class="section-eyebrow">New Releases</span>
                     <h2 class="section-title">新发行AI应用</h2>
                 </div>
                 <p class="section-desc">两周内新发布的AI应用下载热度Top 10</p>
             </div>
-            <div class="ranking-container new-apps-container">
+            <div class="ranking-container new-apps-container reveal reveal-delay-1">
                 <div class="ranking-list" id="newAppsRanking">
                     <!-- 动态生成 -->
                 </div>
@@ -90,14 +120,14 @@
 
         <!-- 下载热度排名 -->
         <section class="section" id="rankings">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">🔥</span>
+                    <span class="section-eyebrow">Trending</span>
                     <h2 class="section-title">下载热度排行</h2>
                 </div>
-                <p class="section-desc">近一周全球AI应用下载量Top 10</p>
+                <a href="#" class="view-all">查看全部 →</a>
             </div>
-            <div class="ranking-container">
+            <div class="ranking-container reveal reveal-delay-1">
                 <div class="ranking-list" id="downloadRanking">
                     <!-- 动态生成 -->
                 </div>
@@ -106,9 +136,9 @@
 
         <!-- 盈利能力排名 -->
         <section class="section" id="revenue">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">💰</span>
+                    <span class="section-eyebrow">Revenue</span>
                     <h2 class="section-title">盈利能力榜单</h2>
                 </div>
                 <p class="section-desc">AI应用收入与付费能力排名</p>
@@ -120,17 +150,15 @@
 
         <!-- 热点资讯 -->
         <section class="section" id="news">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <div class="section-title-wrapper">
-                    <span class="section-icon">📰</span>
+                    <span class="section-eyebrow">News Feed</span>
                     <h2 class="section-title">AI热点资讯</h2>
                 </div>
-                <p class="section-desc">最新人工智能行业动态与突破</p>
+                <a href="#" class="view-all">更多资讯 →</a>
             </div>
-            <div class="news-container">
-                <div class="news-grid" id="newsGrid">
-                    <!-- 动态生成 -->
-                </div>
+            <div class="news-grid" id="newsGrid">
+                <!-- 动态生成 -->
             </div>
         </section>
     </main>
@@ -142,10 +170,185 @@
                 <span class="logo-icon">◈</span>
                 <span>AI Hub</span>
             </div>
-            <p class="footer-text">数据来源于公开渠道，仅供参考</p>
+            <p class="footer-text">数据来源于公开渠道，仅供参考 // SYSTEM.ONLINE</p>
         </div>
     </footer>
 
-    <script src="js/app.js"></script>
+    <script>
+        // 导航栏滚动效果
+        const navbar = document.getElementById('navbar');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // 滚动显示动画
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+        // 更新时间
+        function updateTime() {
+            const now = new Date();
+            const timeStr = now.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
+            document.getElementById('lastUpdate').textContent = timeStr;
+        }
+        updateTime();
+        setInterval(updateTime, 60000);
+
+        // 模拟数据加载
+        const mockNewApps = [
+            { rank: 1, name: 'NeuralChat Pro', category: '聊天机器人', downloads: '128K', trend: 'up', isNew: true },
+            { rank: 2, name: 'VisionAI Studio', category: '图像生成', downloads: '96K', trend: 'up', isNew: true },
+            { rank: 3, name: 'CodePilot X', category: '编程助手', downloads: '84K', trend: 'up', isNew: true },
+            { rank: 4, name: 'VoiceSynth Pro', category: '语音合成', downloads: '72K', trend: 'down', isNew: true },
+            { rank: 5, name: 'DataMind Analytics', category: '数据分析', downloads: '65K', trend: 'up', isNew: true },
+        ];
+
+        const mockRankings = [
+            { rank: 1, name: 'ChatGPT', category: '聊天机器人', downloads: '50M+', trend: 'up' },
+            { rank: 2, name: 'Midjourney', category: '图像生成', downloads: '25M+', trend: 'up' },
+            { rank: 3, name: 'Claude', category: 'AI助手', downloads: '18M+', trend: 'up' },
+            { rank: 4, name: 'Stable Diffusion', category: '图像生成', downloads: '15M+', trend: 'down' },
+            { rank: 5, name: 'GitHub Copilot', category: '编程助手', downloads: '12M+', trend: 'up' },
+        ];
+
+        const mockRevenue = [
+            { rank: 1, name: 'ChatGPT Plus', revenue: '$180M', growth: '+23%', users: '15M' },
+            { rank: 2, name: 'Midjourney', revenue: '$85M', growth: '+45%', users: '8M' },
+            { rank: 3, name: 'Jasper AI', revenue: '$42M', growth: '+12%', users: '3M' },
+        ];
+
+        const mockNews = [
+            { title: 'OpenAI发布GPT-5预览版，性能提升300%', excerpt: '新一代大语言模型在多模态理解和推理能力上实现重大突破...', tag: '大模型', time: '2小时前', featured: true },
+            { title: 'Google Gemini 2.0正式开放API', excerpt: '开发者现在可以接入更强大的多模态AI能力...', tag: 'API', time: '4小时前' },
+            { title: 'Anthropic发布Claude 4，上下文窗口突破200万token', excerpt: '长文本处理能力大幅提升，可处理整本书籍...', tag: '新产品', time: '6小时前' },
+            { title: 'AI绘画版权法案在美通过', excerpt: '新法案明确了AI生成内容的版权归属问题...', tag: '政策', time: '8小时前' },
+        ];
+
+        // 渲染新应用
+        function renderNewApps() {
+            const container = document.getElementById('newAppsRanking');
+            container.innerHTML = mockNewApps.map(app => `
+                <div class="ranking-item new-app-item ${app.rank <= 3 ? 'top-3' : ''}">
+                    <div class="rank-number ${app.rank === 1 ? 'gold' : app.rank === 2 ? 'silver' : app.rank === 3 ? 'bronze' : 'normal'}">${app.rank}</div>
+                    <div class="app-info">
+                        <div class="app-icon" style="background: linear-gradient(135deg, #6366f1, #a855f7);"></div>
+                        <div class="app-details">
+                            <h3>${app.name} ${app.isNew ? '<span class="new-badge">NEW</span>' : ''}</h3>
+                            <p>${app.category}</p>
+                        </div>
+                    </div>
+                    <div class="app-category">${app.category}</div>
+                    <div class="app-stats">
+                        <div class="download-count">${app.downloads}</div>
+                        <div class="download-label">下载量</div>
+                        <div class="trend ${app.trend}">${app.trend === 'up' ? '↑' : '↓'} 12%</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 渲染排行榜
+        function renderRankings() {
+            const container = document.getElementById('downloadRanking');
+            container.innerHTML = mockRankings.map(app => `
+                <div class="ranking-item ${app.rank <= 3 ? 'top-3' : ''}">
+                    <div class="rank-number ${app.rank === 1 ? 'gold' : app.rank === 2 ? 'silver' : app.rank === 3 ? 'bronze' : 'normal'}">${app.rank}</div>
+                    <div class="app-info">
+                        <div class="app-icon" style="background: linear-gradient(135deg, #06b6d4, #22d3ee);"></div>
+                        <div class="app-details">
+                            <h3>${app.name}</h3>
+                            <p>全球领先的AI应用</p>
+                        </div>
+                    </div>
+                    <div class="app-category">${app.category}</div>
+                    <div class="app-stats">
+                        <div class="download-count">${app.downloads}</div>
+                        <div class="download-label">总下载</div>
+                        <div class="trend ${app.trend}">${app.trend === 'up' ? '↑' : '↓'} 趋势</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 渲染收入榜单
+        function renderRevenue() {
+            const container = document.getElementById('revenueRanking');
+            container.innerHTML = mockRevenue.map((app, i) => `
+                <div class="revenue-card ${i === 0 ? 'featured' : ''} reveal reveal-delay-${i}">
+                    <div class="revenue-header">
+                        <div class="revenue-rank">${app.rank}</div>
+                        <div class="revenue-app-info">
+                            <h3>${app.name}</h3>
+                            <span>月收入</span>
+                        </div>
+                    </div>
+                    <div class="revenue-amount">
+                        <div class="amount">${app.revenue}</div>
+                        <div class="period">月度收入</div>
+                    </div>
+                    <div class="revenue-metrics">
+                        <div class="metric">
+                            <div class="metric-value" style="color: #a3e635;">${app.growth}</div>
+                            <div class="metric-label">环比增长</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">${app.users}</div>
+                            <div class="metric-label">付费用户</div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 渲染新闻
+        function renderNews() {
+            const container = document.getElementById('newsGrid');
+            container.innerHTML = mockNews.map((news, i) => `
+                <div class="news-card ${news.featured ? 'featured' : ''} reveal reveal-delay-${i}">
+                    <div class="news-image" style="background: linear-gradient(135deg, ${i % 2 === 0 ? '#6366f1, #a855f7' : '#06b6d4, #22d3ee'});"></div>
+                    <div class="news-content">
+                        <div class="news-meta">
+                            <span class="news-tag">${news.tag}</span>
+                            <span class="news-time">${news.time}</span>
+                        </div>
+                        <h3 class="news-title">${news.title}</h3>
+                        <p class="news-excerpt">${news.excerpt}</p>
+                        <div class="news-footer">
+                            <div class="news-source">
+                                <div class="source-icon"></div>
+                                <span>AI Hub</span>
+                            </div>
+                            <a href="#" class="read-more">阅读 →</a>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 初始化
+        renderNewApps();
+        renderRankings();
+        renderRevenue();
+        renderNews();
+
+        // 重新观察新渲染的元素
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    </script>
 </body>
 </html>
