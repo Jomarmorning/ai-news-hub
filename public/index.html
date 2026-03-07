@@ -210,131 +210,117 @@
         updateTime();
         setInterval(updateTime, 60000);
 
-        // 模拟数据加载
-        const mockNewApps = [
-            { rank: 1, name: 'NeuralChat Pro', category: '聊天机器人', downloads: '128K', trend: 'up', isNew: true },
-            { rank: 2, name: 'VisionAI Studio', category: '图像生成', downloads: '96K', trend: 'up', isNew: true },
-            { rank: 3, name: 'CodePilot X', category: '编程助手', downloads: '84K', trend: 'up', isNew: true },
-            { rank: 4, name: 'VoiceSynth Pro', category: '语音合成', downloads: '72K', trend: 'down', isNew: true },
-            { rank: 5, name: 'DataMind Analytics', category: '数据分析', downloads: '65K', trend: 'up', isNew: true },
-        ];
-
-        const mockRankings = [
-            { rank: 1, name: 'ChatGPT', category: '聊天机器人', downloads: '50M+', trend: 'up' },
-            { rank: 2, name: 'Midjourney', category: '图像生成', downloads: '25M+', trend: 'up' },
-            { rank: 3, name: 'Claude', category: 'AI助手', downloads: '18M+', trend: 'up' },
-            { rank: 4, name: 'Stable Diffusion', category: '图像生成', downloads: '15M+', trend: 'down' },
-            { rank: 5, name: 'GitHub Copilot', category: '编程助手', downloads: '12M+', trend: 'up' },
-        ];
-
-        const mockRevenue = [
-            { rank: 1, name: 'ChatGPT Plus', revenue: '$180M', growth: '+23%', users: '15M' },
-            { rank: 2, name: 'Midjourney', revenue: '$85M', growth: '+45%', users: '8M' },
-            { rank: 3, name: 'Jasper AI', revenue: '$42M', growth: '+12%', users: '3M' },
-        ];
-
-        const mockNews = [
-            { title: 'OpenAI发布GPT-5预览版，性能提升300%', excerpt: '新一代大语言模型在多模态理解和推理能力上实现重大突破...', tag: '大模型', time: '2小时前', featured: true },
-            { title: 'Google Gemini 2.0正式开放API', excerpt: '开发者现在可以接入更强大的多模态AI能力...', tag: 'API', time: '4小时前' },
-            { title: 'Anthropic发布Claude 4，上下文窗口突破200万token', excerpt: '长文本处理能力大幅提升，可处理整本书籍...', tag: '新产品', time: '6小时前' },
-            { title: 'AI绘画版权法案在美通过', excerpt: '新法案明确了AI生成内容的版权归属问题...', tag: '政策', time: '8小时前' },
-        ];
-
-        // 渲染新应用
-        function renderNewApps() {
-            const container = document.getElementById('newAppsRanking');
-            container.innerHTML = mockNewApps.map(app => `
-                <div class="ranking-item new-app-item ${app.rank <= 3 ? 'top-3' : ''}">
-                    <div class="rank-number ${app.rank === 1 ? 'gold' : app.rank === 2 ? 'silver' : app.rank === 3 ? 'bronze' : 'normal'}">${app.rank}</div>
-                    <div class="app-info">
-                        <div class="app-icon" style="background: linear-gradient(135deg, #6366f1, #a855f7);"></div>
-                        <div class="app-details">
-                            <h3>${app.name} ${app.isNew ? '<span class="new-badge">NEW</span>' : ''}</h3>
-                            <p>${app.category}</p>
-                        </div>
-                    </div>
-                    <div class="app-category">${app.category}</div>
-                    <div class="app-stats">
-                        <div class="download-count">${app.downloads}</div>
-                        <div class="download-label">下载量</div>
-                        <div class="trend ${app.trend}">${app.trend === 'up' ? '↑' : '↓'} 12%</div>
-                    </div>
-                </div>
-            `).join('');
+        // 格式化下载数
+        function formatDownloads(num) {
+            if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
+            if (num >= 1000) return (num / 1000).toFixed(0) + 'K';
+            return num.toString();
         }
 
-        // 渲染排行榜
-        function renderRankings() {
+        // 格式化日期
+        function formatTime(dateStr) {
+            const date = new Date(dateStr);
+            const now = new Date();
+            const diff = now - date;
+            const hours = Math.floor(diff / 3600000);
+            if (hours < 1) return '刚刚';
+            if (hours < 24) return hours + '小时前';
+            return Math.floor(hours / 24) + '天前';
+        }
+
+        // 加载API数据
+        async function loadData() {
+            try {
+                const [downloadRes, newsRes] = await Promise.all([
+                    fetch('/api/rankings/download.json'),
+                    fetch('/api/news.json')
+                ]);
+
+                const downloadData = await downloadRes.json();
+                const newsData = await newsRes.json();
+
+                renderDownloadRankings(downloadData.slice(0, 10));
+                renderNewApps(downloadData.slice(0, 10));
+                renderNews(newsData.slice(0, 8));
+            } catch (error) {
+                console.error('加载数据失败:', error);
+            }
+        }
+
+        // 渲染下载热度排行 (Top 10)
+        function renderDownloadRankings(apps) {
             const container = document.getElementById('downloadRanking');
-            container.innerHTML = mockRankings.map(app => `
-                <div class="ranking-item ${app.rank <= 3 ? 'top-3' : ''}">
-                    <div class="rank-number ${app.rank === 1 ? 'gold' : app.rank === 2 ? 'silver' : app.rank === 3 ? 'bronze' : 'normal'}">${app.rank}</div>
+            container.innerHTML = apps.map((app, index) => {
+                const rank = index + 1;
+                const trendClass = app.trend > 0 ? 'up' : 'down';
+                return `
+                <div class="ranking-item ${rank <= 3 ? 'top-3' : ''}">
+                    <div class="rank-number ${rank === 1 ? 'gold' : rank === 2 ? 'silver' : rank === 3 ? 'bronze' : 'normal'}">${rank}</div>
                     <div class="app-info">
-                        <div class="app-icon" style="background: linear-gradient(135deg, #06b6d4, #22d3ee);"></div>
+                        <img src="${app.icon}" alt="${app.name}" class="app-icon" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%236366f1%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2260%22 font-size=%2240%22 fill=%22white%22 text-anchor=%22middle%22%3E${app.name[0]}%3C/text%3E%3C/svg%3E'">
                         <div class="app-details">
                             <h3>${app.name}</h3>
-                            <p>全球领先的AI应用</p>
+                            <p>${app.description}</p>
                         </div>
                     </div>
                     <div class="app-category">${app.category}</div>
                     <div class="app-stats">
-                        <div class="download-count">${app.downloads}</div>
+                        <div class="download-count">${formatDownloads(app.downloads)}</div>
                         <div class="download-label">总下载</div>
-                        <div class="trend ${app.trend}">${app.trend === 'up' ? '↑' : '↓'} 趋势</div>
+                        <div class="trend ${trendClass}">${app.trend > 0 ? '↑' : '↓'} ${Math.abs(app.trend)}%</div>
                     </div>
                 </div>
-            `).join('');
+            `}).join('');
         }
 
-        // 渲染收入榜单
-        function renderRevenue() {
-            const container = document.getElementById('revenueRanking');
-            container.innerHTML = mockRevenue.map((app, i) => `
-                <div class="revenue-card ${i === 0 ? 'featured' : ''} reveal reveal-delay-${i}">
-                    <div class="revenue-header">
-                        <div class="revenue-rank">${app.rank}</div>
-                        <div class="revenue-app-info">
-                            <h3>${app.name}</h3>
-                            <span>月收入</span>
+        // 渲染新发行应用 (Top 10，使用相同数据但显示NEW标签)
+        function renderNewApps(apps) {
+            const container = document.getElementById('newAppsRanking');
+            container.innerHTML = apps.map((app, index) => {
+                const rank = index + 1;
+                const trendClass = app.trend > 0 ? 'up' : 'down';
+                return `
+                <div class="ranking-item new-app-item ${rank <= 3 ? 'top-3' : ''}">
+                    <div class="rank-number ${rank === 1 ? 'gold' : rank === 2 ? 'silver' : rank === 3 ? 'bronze' : 'normal'}">${rank}</div>
+                    <div class="app-info">
+                        <img src="${app.icon}" alt="${app.name}" class="app-icon" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%23a855f7%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2260%22 font-size=%2240%22 fill=%22white%22 text-anchor=%22middle%22%3E${app.name[0]}%3C/text%3E%3C/svg%3E'">
+                        <div class="app-details">
+                            <h3>${app.name} <span class="new-badge">NEW</span></h3>
+                            <p>${app.description}</p>
                         </div>
                     </div>
-                    <div class="revenue-amount">
-                        <div class="amount">${app.revenue}</div>
-                        <div class="period">月度收入</div>
-                    </div>
-                    <div class="revenue-metrics">
-                        <div class="metric">
-                            <div class="metric-value" style="color: #a3e635;">${app.growth}</div>
-                            <div class="metric-label">环比增长</div>
-                        </div>
-                        <div class="metric">
-                            <div class="metric-value">${app.users}</div>
-                            <div class="metric-label">付费用户</div>
-                        </div>
+                    <div class="app-category">${app.category}</div>
+                    <div class="app-stats">
+                        <div class="download-count">${formatDownloads(app.downloads)}</div>
+                        <div class="download-label">下载量</div>
+                        <div class="trend ${trendClass}">${app.trend > 0 ? '↑' : '↓'} ${Math.abs(app.trend)}%</div>
                     </div>
                 </div>
-            `).join('');
+            `}).join('');
         }
 
-        // 渲染新闻
-        function renderNews() {
+        // 渲染AI热点资讯
+        function renderNews(newsList) {
             const container = document.getElementById('newsGrid');
-            container.innerHTML = mockNews.map((news, i) => `
-                <div class="news-card ${news.featured ? 'featured' : ''} reveal reveal-delay-${i}">
-                    <div class="news-image" style="background: linear-gradient(135deg, ${i % 2 === 0 ? '#6366f1, #a855f7' : '#06b6d4, #22d3ee'});"></div>
+            container.innerHTML = newsList.map((news, i) => `
+                <div class="news-card ${i === 0 ? 'featured' : ''} reveal reveal-delay-${i % 4}">
+                    <div class="news-image" style="background-image: url('${news.image}'); background-size: cover; background-position: center;">
+                        <div class="news-image-overlay"></div>
+                    </div>
                     <div class="news-content">
                         <div class="news-meta">
-                            <span class="news-tag">${news.tag}</span>
-                            <span class="news-time">${news.time}</span>
+                            <span class="news-tag">${news.category}</span>
+                            <span class="news-source-tag">${news.source}</span>
+                            <span class="news-time">${formatTime(news.date)}</span>
                         </div>
                         <h3 class="news-title">${news.title}</h3>
-                        <p class="news-excerpt">${news.excerpt}</p>
+                        <p class="news-excerpt">${news.summary}</p>
                         <div class="news-footer">
                             <div class="news-source">
-                                <div class="source-icon"></div>
-                                <span>AI Hub</span>
+                                <div class="source-icon" style="background: ${i % 2 === 0 ? '#6366f1' : '#06b6d4'};"></div>
+                                <span>${news.source}</span>
                             </div>
-                            <a href="#" class="read-more">阅读 →</a>
+                            <a href="${news.url}" target="_blank" class="read-more">阅读 →</a>
                         </div>
                     </div>
                 </div>
@@ -342,10 +328,7 @@
         }
 
         // 初始化
-        renderNewApps();
-        renderRankings();
-        renderRevenue();
-        renderNews();
+        loadData();
 
         // 重新观察新渲染的元素
         document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
