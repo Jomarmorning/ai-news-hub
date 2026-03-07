@@ -111,6 +111,96 @@ app.get('/api/health', (req, res) => {
     });
 });
 
+// 测试 Product Hunt API 连接
+app.get('/api/test-producthunt', async (req, res) => {
+    const https = require('https');
+    const PRODUCT_HUNT_TOKEN = process.env.PRODUCT_HUNT_TOKEN;
+
+    if (!PRODUCT_HUNT_TOKEN) {
+        return res.json({
+            status: 'error',
+            message: 'PRODUCT_HUNT_TOKEN not configured',
+            env: Object.keys(process.env).filter(k => k.includes('TOKEN') || k.includes('HUNT'))
+        });
+    }
+
+    const query = JSON.stringify({
+        query: `query {
+            posts(first: 3, order: NEWEST) {
+                edges {
+                    node {
+                        id
+                        name
+                        tagline
+                        createdAt
+                        website
+                    }
+                }
+            }
+        }`
+    });
+
+    const options = {
+        hostname: 'api.producthunt.com',
+        path: '/v2/api/graphql',
+        method: 'POST',
+        headers: {
+            'Authorization': `Bearer ${PRODUCT_HUNT_TOKEN}`,
+            'Content-Type': 'application/json',
+            'Accept': 'application/json'
+        },
+        timeout: 10000
+    };
+
+    const requestPromise = new Promise((resolve, reject) => {
+        const req = https.request(options, (response) => {
+            let data = '';
+            response.on('data', chunk => data += chunk);
+            response.on('end', () => {
+                try {
+                    const json = JSON.parse(data);
+                    resolve(json);
+                } catch(e) {
+                    reject(new Error('Parse error: ' + e.message));
+                }
+            });
+        });
+
+        req.on('error', reject);
+        req.on('timeout', () => reject(new Error('Timeout')));
+        req.write(query);
+        req.end();
+    });
+
+    try {
+        const result = await requestPromise;
+        if (result.errors) {
+            res.json({
+                status: 'error',
+                message: 'Product Hunt API error',
+                errors: result.errors
+            });
+        } else {
+            res.json({
+                status: 'ok',
+                message: 'Product Hunt API connected successfully',
+                tokenConfigured: true,
+                products: result.data.posts.edges.map(e => ({
+                    name: e.node.name,
+                    tagline: e.node.tagline,
+                    createdAt: e.node.createdAt
+                }))
+            });
+        }
+    } catch (error) {
+        res.json({
+            status: 'error',
+            message: error.message,
+            tokenConfigured: true
+        });
+    }
+});
+
 // 首页路由 - 直接发送HTML内容
 app.get('/', (req, res) => {
     res.send(`<!DOCTYPE html>
