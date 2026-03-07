@@ -333,12 +333,67 @@ function formatTime(dateStr) {
             `}).join('');
         }
 
+        // 描述翻译映射
+        const descriptionTranslations = {
+            'AI-powered writing assistant': 'AI驱动的写作助手',
+            'AI writing assistant': 'AI写作助手',
+            'AI image generation': 'AI图像生成',
+            'AI image generator': 'AI图像生成器',
+            'AI video generator': 'AI视频生成器',
+            'AI video creation': 'AI视频创作',
+            'AI music generator': 'AI音乐生成器',
+            'AI audio generator': 'AI音频生成器',
+            'AI code assistant': 'AI代码助手',
+            'AI coding assistant': 'AI编程助手',
+            'AI chatbot': 'AI聊天机器人',
+            'AI assistant': 'AI助手',
+            'AI search engine': 'AI搜索引擎',
+            'AI productivity tool': 'AI生产力工具',
+            'AI design tool': 'AI设计工具',
+            'AI presentation tool': 'AI演示工具',
+            'AI meeting assistant': 'AI会议助手',
+            'AI translation tool': 'AI翻译工具',
+            'AI voice generator': 'AI语音生成器',
+            'AI text to speech': 'AI文本转语音',
+            'AI speech to text': 'AI语音转文本',
+            'AI data analysis': 'AI数据分析',
+            'AI research assistant': 'AI研究助手',
+            'AI learning platform': 'AI学习平台',
+            'AI content creation': 'AI内容创作',
+            'AI marketing tool': 'AI营销工具',
+            'AI social media tool': 'AI社交媒体工具',
+            'AI customer service': 'AI客户服务',
+            'AI automation tool': 'AI自动化工具',
+            'AI workflow automation': 'AI工作流自动化'
+        };
+
+        // 翻译描述
+        function translateDescription(desc) {
+            if (!desc) return '智能AI应用';
+            // 直接匹配
+            if (descriptionTranslations[desc]) {
+                return descriptionTranslations[desc];
+            }
+            // 部分匹配
+            for (const [en, zh] of Object.entries(descriptionTranslations)) {
+                if (desc.toLowerCase().includes(en.toLowerCase())) {
+                    return zh;
+                }
+            }
+            // 包含AI关键词的通用处理
+            if (desc.toLowerCase().includes('ai') || desc.toLowerCase().includes('artificial intelligence')) {
+                return desc.replace(/AI/g, 'AI').replace(/artificial intelligence/gi, '人工智能');
+            }
+            return desc;
+        }
+
         // 渲染新发行应用 (Top 10，使用相同数据但显示NEW标签)
         function renderNewApps(apps) {
             const container = document.getElementById('newAppsRanking');
             container.innerHTML = apps.map((app, index) => {
                 const rank = index + 1;
                 const trendClass = app.trend > 0 ? 'up' : 'down';
+                const translatedDesc = translateDescription(app.description);
                 return `
                 <div class="ranking-item new-app-item ${rank <= 3 ? 'top-3' : ''}">
                     <div class="rank-number ${rank === 1 ? 'gold' : rank === 2 ? 'silver' : rank === 3 ? 'bronze' : 'normal'}">${rank}</div>
@@ -346,7 +401,7 @@ function formatTime(dateStr) {
                         <img src="${app.icon}" alt="${app.name}" class="app-icon" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%23a855f7%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2260%22 font-size=%2240%22 fill=%22white%22 text-anchor=%22middle%22%3E${app.name[0]}%3C/text%3E%3C/svg%3E'">
                         <div class="app-details">
                             <h3>${app.name} <span class="new-badge">NEW</span></h3>
-                            <p>${app.description}</p>
+                            <p>${translatedDesc}</p>
                         </div>
                     </div>
                     <div class="app-category">${app.category}</div>
