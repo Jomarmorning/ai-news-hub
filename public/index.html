@@ -366,10 +366,11 @@ function formatTime(dateStr) {
         }
 
         // 初始化
-        loadData();
-
-        // 重新观察新渲染的元素
-        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+        loadData().then(() => {
+            // 数据加载完成后，重新观察新渲染的元素
+            console.log('重新观察 reveal 元素');
+            document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+        });
     </script>
 </body>
 </html>
