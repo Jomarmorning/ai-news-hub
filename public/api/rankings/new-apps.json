@@ -1,12 +1,102 @@
 [
-  { "name": "Kimi K2", "description": "Moonshot最新多模态AI助手", "category": "AI对话", "icon": "https://kimi.moonshot.cn/favicon.ico", "downloads": 1250000, "trend": 156, "releasedAt": "2026-02-24T00:00:00.000Z", "isNew": true },
-  { "name": "Pika 2.0", "description": "新一代AI视频生成工具", "category": "AI视频", "icon": "https://pika.art/favicon.ico", "downloads": 980000, "trend": 89, "releasedAt": "2026-02-21T00:00:00.000Z", "isNew": true },
-  { "name": "Ideogram 2.0", "description": "文本渲染增强的AI绘画工具", "category": "AI绘画", "icon": "https://ideogram.ai/favicon.ico", "downloads": 850000, "trend": 67, "releasedAt": "2026-02-23T00:00:00.000Z", "isNew": true },
-  { "name": "AutoGen Studio", "description": "微软多智能体协作平台", "category": "开发工具", "icon": "https://microsoft.github.io/autogen/favicon.ico", "downloads": 720000, "trend": 45, "releasedAt": "2026-02-19T00:00:00.000Z", "isNew": true },
-  { "name": "HeyGen Avatar", "description": "AI数字人视频生成", "category": "AI视频", "icon": "https://www.heygen.com/favicon.ico", "downloads": 680000, "trend": 78, "releasedAt": "2026-02-25T00:00:00.000Z", "isNew": true },
-  { "name": "Stable Audio 2.0", "description": "Stability AI音乐生成工具", "category": "AI音频", "icon": "https://www.stableaudio.com/favicon.ico", "downloads": 540000, "trend": 34, "releasedAt": "2026-02-17T00:00:00.000Z", "isNew": true },
-  { "name": "Luma Dream Machine", "description": "高质量AI视频生成", "category": "AI视频", "icon": "https://lumalabs.ai/favicon.ico", "downloads": 490000, "trend": 92, "releasedAt": "2026-02-22T00:00:00.000Z", "isNew": true },
-  { "name": "Cohere Command R+", "description": "企业级RAG增强模型", "category": "AI对话", "icon": "https://cohere.com/favicon.ico", "downloads": 420000, "trend": 28, "releasedAt": "2026-02-20T00:00:00.000Z", "isNew": true },
-  { "name": "Udio Beta", "description": "AI音乐创作平台", "category": "AI音频", "icon": "https://www.udio.com/favicon.ico", "downloads": 380000, "trend": 56, "releasedAt": "2026-02-18T00:00:00.000Z", "isNew": true },
-  { "name": "Perplexity Pro", "description": "AI搜索引擎高级版", "category": "AI搜索", "icon": "https://www.perplexity.ai/favicon.ico", "downloads": 350000, "trend": 41, "releasedAt": "2026-02-26T00:00:00.000Z", "isNew": true }
+  {
+    "name": "Kimi K2",
+    "description": "Moonshot最新多模态AI助手",
+    "category": "AI对话",
+    "icon": "https://kimi.moonshot.cn/favicon.ico",
+    "downloads": 1308459,
+    "trend": 33,
+    "releasedAt": "2026-02-24T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Pika 2.0",
+    "description": "新一代AI视频生成工具",
+    "category": "AI视频",
+    "icon": "https://pika.art/favicon.ico",
+    "downloads": 1013707,
+    "trend": 81,
+    "releasedAt": "2026-02-21T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Ideogram 2.0",
+    "description": "文本渲染增强的AI绘画工具",
+    "category": "AI绘画",
+    "icon": "https://ideogram.ai/favicon.ico",
+    "downloads": 860850,
+    "trend": 66,
+    "releasedAt": "2026-02-23T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "AutoGen Studio",
+    "description": "微软多智能体协作平台",
+    "category": "开发工具",
+    "icon": "https://microsoft.github.io/autogen/favicon.ico",
+    "downloads": 738496,
+    "trend": -3,
+    "releasedAt": "2026-02-19T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "HeyGen Avatar",
+    "description": "AI数字人视频生成",
+    "category": "AI视频",
+    "icon": "https://www.heygen.com/favicon.ico",
+    "downloads": 696272,
+    "trend": 26,
+    "releasedAt": "2026-02-25T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Stable Audio 2.0",
+    "description": "Stability AI音乐生成工具",
+    "category": "AI音频",
+    "icon": "https://www.stableaudio.com/favicon.ico",
+    "downloads": 583229,
+    "trend": 93,
+    "releasedAt": "2026-02-17T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Luma Dream Machine",
+    "description": "高质量AI视频生成",
+    "category": "AI视频",
+    "icon": "https://lumalabs.ai/favicon.ico",
+    "downloads": 520406,
+    "trend": 56,
+    "releasedAt": "2026-02-22T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Cohere Command R+",
+    "description": "企业级RAG增强模型",
+    "category": "AI对话",
+    "icon": "https://cohere.com/favicon.ico",
+    "downloads": 465396,
+    "trend": 54,
+    "releasedAt": "2026-02-20T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Udio Beta",
+    "description": "AI音乐创作平台",
+    "category": "AI音频",
+    "icon": "https://www.udio.com/favicon.ico",
+    "downloads": 433692,
+    "trend": 119,
+    "releasedAt": "2026-02-18T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Perplexity Pro",
+    "description": "AI搜索引擎高级版",
+    "category": "AI搜索",
+    "icon": "https://www.perplexity.ai/favicon.ico",
+    "downloads": 404689,
+    "trend": 1,
+    "releasedAt": "2026-02-26T00:00:00.000Z",
+    "isNew": true
+  }
 ]
