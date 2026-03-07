@@ -513,6 +513,93 @@ body::before {
     background: rgba(0, 212, 255, 0.05);
 }
 
+/* OpenClaw CTA Button */
+.btn-openclaw {
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #a3e635, #84cc16);
+    border: none;
+    border-radius: 12px;
+    color: #0a0a0f;
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-out-expo);
+    position: relative;
+    overflow: visible;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+}
+
+.btn-openclaw::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+    transition: left 0.5s;
+}
+
+.btn-openclaw:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 30px rgba(163, 230, 53, 0.5);
+}
+
+.btn-openclaw:hover::before {
+    left: 100%;
+}
+
+.btn-openclaw .btn-icon {
+    font-size: 1.2rem;
+}
+
+.btn-openclaw .btn-text {
+    font-weight: 600;
+}
+
+.btn-openclaw .btn-arrow {
+    transition: transform 0.3s ease;
+}
+
+.btn-openclaw:hover .btn-arrow {
+    transform: translateX(4px);
+}
+
+.hot-badge {
+    position: absolute;
+    top: -8px;
+    right: -12px;
+    background: linear-gradient(135deg, #ef4444, #dc2626);
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 0.25rem 0.5rem;
+    border-radius: 20px;
+    animation: hotPulse 1.5s ease-in-out infinite;
+    box-shadow: 0 2px 8px rgba(239, 68, 68, 0.4);
+}
+
+@keyframes hotPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+/* OpenClaw Hero Badge */
+.openclaw-hero-badge {
+    background: rgba(163, 230, 53, 0.15) !important;
+    border: 1px solid rgba(163, 230, 53, 0.3) !important;
+    color: #a3e635 !important;
+}
+
+.openclaw-hero-badge .pulse-dot {
+    background: #a3e635 !important;
+    box-shadow: 0 0 10px #a3e635 !important;
+}
+
 /* Hero 右侧数据可视化 */
 .hero-visual {
     position: relative;
