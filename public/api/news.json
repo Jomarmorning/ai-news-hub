@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772887458896,
+    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
+    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
+    "category": "AI模型",
+    "source": "EvoLink.AI",
+    "date": "2026-03-07",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
+  },
+  {
+    "id": 1772887458895,
+    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
+    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
+    "category": "AI模型",
+    "source": "AI资讯",
+    "date": "2026-03-07",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://openai.com/blog/gpt-5-4"
+  },
+  {
     "id": 1772900000001,
     "title": "2025年AI模型大战白热化：四大厂商旗舰模型完整对比",
     "summary": "OpenAI发布GPT-5.2 Codex强攻程式设计，Google Gemini 3夺得多模态冠军，Claude Opus 4.5领先代理任务，GPT-5 Pro获最佳推理能力。Scale AI最新评测显示，顶级AI模型在推理能力、代码生成和多模态处理方面各有千秋，AI竞赛已从单纯比拼参数规模转向实际执行力较量。开发者应根据具体场景选择最适合的模型，而非盲目追求最新版本。随着AI技术的快速发展，各大厂商在模型性能、应用场景和商业化方面展开全方位竞争，推动整个行业进入新的发展阶段。",

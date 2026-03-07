@@ -1,5 +1,53 @@
 [
   {
+    "name": "Clanker Talk",
+    "description": "AI phone calls that get things done",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d8b2b0a4-fc7a-42c3-b571-61de3c2750d5.png?auto=format",
+    "downloads": 523457,
+    "trend": 95,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RVLWW2NKJ2GFBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sixty10",
+    "description": "CRM Workflow Automation for Law Firms Healthcare Real Estate",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/95341e55-10af-4e47-9493-0624648abd2a.jpeg?auto=format",
+    "downloads": 287170,
+    "trend": 57,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YBQO6GSSGJQ2VC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mobizo",
+    "description": "Bheja Hai Kuch?? Mobizo Hai Na!!",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f5395079-32a0-4752-865a-a67742634cf7.png?auto=format",
+    "downloads": 744764,
+    "trend": 36,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JLJVTVFVTOBYAQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Still With You",
+    "description": "Keep Their Voice, Their Memories, Their Love",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/38ab3d4a-af50-498c-a31e-4fb34e47e067.jpeg?auto=format",
+    "downloads": 767753,
+    "trend": 71,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NER2KZNZMRIW2M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "CoChat",
     "description": "Openclaw for Teams that is secure, collaborative, autonomous",
     "category": "AI对话",
@@ -63,46 +111,6 @@
     "downloads": 1286073,
     "trend": 48,
     "releasedAt": "2026-02-24T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Ideogram 2.0",
-    "description": "文本渲染增强的AI绘画工具",
-    "category": "AI绘画",
-    "icon": "https://ideogram.ai/favicon.ico",
-    "downloads": 898805,
-    "trend": 27,
-    "releasedAt": "2026-02-23T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Luma Dream Machine",
-    "description": "高质量AI视频生成",
-    "category": "AI视频",
-    "icon": "https://lumalabs.ai/favicon.ico",
-    "downloads": 528900,
-    "trend": 51,
-    "releasedAt": "2026-02-22T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Pika 2.0",
-    "description": "新一代AI视频生成工具",
-    "category": "AI视频",
-    "icon": "https://pika.art/favicon.ico",
-    "downloads": 1029018,
-    "trend": -2,
-    "releasedAt": "2026-02-21T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Cohere Command R+",
-    "description": "企业级RAG增强模型",
-    "category": "AI对话",
-    "icon": "https://cohere.com/favicon.ico",
-    "downloads": 431702,
-    "trend": 79,
-    "releasedAt": "2026-02-20T00:00:00.000Z",
     "isNew": true
   }
 ]
