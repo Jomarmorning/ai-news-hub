@@ -46,8 +46,18 @@ const newArticles = [
   }
 ];
 
-// 添加新文章到开头，保持最多20条
-const updatedNews = [...newArticles, ...news].slice(0, 20);
+// 添加新文章到开头
+const allNews = [...newArticles, ...news];
+
+// 过滤掉两天前的文章，只保留两天内的
+const twoDaysAgo = new Date();
+twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
+twoDaysAgo.setHours(0, 0, 0, 0);
+
+const updatedNews = allNews.filter(article => {
+  const articleDate = new Date(article.date);
+  return articleDate >= twoDaysAgo;
+});
 
 // 保存更新后的文件
 fs.writeFileSync(downloadPath, JSON.stringify(updatedDownloads, null, 2));
@@ -67,6 +77,10 @@ console.log('   - 新增文章:');
 newArticles.forEach(article => {
   console.log(`     * ${article.title}`);
 });
-console.log(`   - 当前文章总数: ${updatedNews.length}`);
+const removedCount = allNews.length - updatedNews.length;
+if (removedCount > 0) {
+  console.log(`   - 删除两天前文章: ${removedCount} 条`);
+}
+console.log(`   - 当前文章总数: ${updatedNews.length} (仅保留两天内)`);
 
 console.log('\n✅ 数据更新完成!');
