@@ -240,21 +240,31 @@ function formatTime(dateStr) {
         // 加载API数据
         async function loadData() {
             try {
+                console.log('开始加载数据...');
                 const [downloadRes, newAppsRes, newsRes] = await Promise.all([
                     fetch('/api/rankings/download.json'),
                     fetch('/api/rankings/new-apps.json'),
                     fetch('/api/news.json')
                 ]);
 
+                console.log('API响应状态:', downloadRes.status, newAppsRes.status, newsRes.status);
+
                 const downloadData = await downloadRes.json();
                 const newAppsData = await newAppsRes.json();
                 const newsData = await newsRes.json();
+
+                console.log('数据加载成功:', {
+                    downloadCount: downloadData.length,
+                    newAppsCount: newAppsData.length,
+                    newsCount: newsData.length
+                });
 
                 renderDownloadRankings(downloadData.slice(0, 10));
                 renderNewApps(newAppsData.slice(0, 10));
                 renderNews(newsData.slice(0, 8));
             } catch (error) {
                 console.error('加载数据失败:', error);
+                document.getElementById('newsGrid').innerHTML = '<p style="color: red; padding: 20px;">加载失败: ' + error.message + '</p>';
             }
         }
 
@@ -312,30 +322,47 @@ function formatTime(dateStr) {
 
         // 渲染AI热点资讯
         function renderNews(newsList) {
+            console.log('渲染新闻:', newsList.length, '条');
             const container = document.getElementById('newsGrid');
-            container.innerHTML = newsList.map((news, i) => `
-                <div class="news-card ${i === 0 ? 'featured' : ''} reveal reveal-delay-${i % 4}">
-                    <div class="news-image" style="background-image: url('${news.image}'); background-size: cover; background-position: center;">
-                        <div class="news-image-overlay"></div>
-                    </div>
-                    <div class="news-content">
-                        <div class="news-meta">
-                            <span class="news-tag">${news.category}</span>
-                            <span class="news-source-tag">${news.source}</span>
-                            <span class="news-time">${formatTime(news.date)}</span>
+            if (!container) {
+                console.error('找不到 newsGrid 元素');
+                return;
+            }
+            if (!newsList || newsList.length === 0) {
+                container.innerHTML = '<p style="padding: 20px;">暂无新闻数据</p>';
+                return;
+            }
+            container.innerHTML = newsList.map((news, i) => {
+                try {
+                    return `
+                    <div class="news-card ${i === 0 ? 'featured' : ''} reveal reveal-delay-${i % 4}">
+                        <div class="news-image" style="background-image: url('${news.image || ''}'); background-size: cover; background-position: center;">
+                            <div class="news-image-overlay"></div>
                         </div>
-                        <h3 class="news-title">${news.title}</h3>
-                        <p class="news-excerpt">${news.summary}</p>
-                        <div class="news-footer">
-                            <div class="news-source">
-                                <div class="source-icon" style="background: ${i % 2 === 0 ? '#6366f1' : '#06b6d4'};"></div>
-                                <span>${news.source}</span>
+                        <div class="news-content">
+                            <div class="news-meta">
+                                <span class="news-tag">${news.category || '资讯'}</span>
+                                <span class="news-source-tag">${news.source || 'AI Hub'}</span>
+                                <span class="news-time">${formatTime(news.date || new Date().toISOString())}</span>
                             </div>
-                            <a href="${news.url}" target="_blank" class="read-more">阅读 →</a>
+                            <h3 class="news-title">${news.title || '无标题'}</h3>
+                            <p class="news-excerpt">${news.summary || news.excerpt || ''}</p>
+                            <div class="news-footer">
+                                <div class="news-source">
+                                    <div class="source-icon" style="background: ${i % 2 === 0 ? '#6366f1' : '#06b6d4'};"></div>
+                                    <span>${news.source || 'AI Hub'}</span>
+                                </div>
+                                <a href="${news.url || '#'}" target="_blank" class="read-more">阅读 →</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-            `).join('');
+                `;
+                } catch (e) {
+                    console.error('渲染新闻项失败:', e, news);
+                    return '';
+                }
+            }).join('');
+            console.log('新闻渲染完成');
         }
 
         // 初始化
