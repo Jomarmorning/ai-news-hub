@@ -1,42 +1,48 @@
 [
   {
-    "name": "Kimi K2",
-    "description": "Moonshot最新多模态AI助手",
+    "name": "CoChat",
+    "description": "Openclaw for Teams that is secure, collaborative, autonomous",
     "category": "AI对话",
-    "icon": "https://kimi.moonshot.cn/favicon.ico",
-    "downloads": 1286073,
-    "trend": 48,
-    "releasedAt": "2026-02-24T00:00:00.000Z",
-    "isNew": true
+    "icon": "https://ph-files.imgix.net/c4917257-3466-4f42-bcb5-0d69ffbd8766.png?auto=format",
+    "downloads": 381437,
+    "trend": 101,
+    "releasedAt": "2026-03-06T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QDRCIGCVTC7BM5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Pika 2.0",
-    "description": "新一代AI视频生成工具",
-    "category": "AI视频",
-    "icon": "https://pika.art/favicon.ico",
-    "downloads": 1029018,
-    "trend": -2,
-    "releasedAt": "2026-02-21T00:00:00.000Z",
-    "isNew": true
+    "name": "Contibase",
+    "description": "Backend for Solo Builders and AI Agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/311942aa-2400-4e2c-b2a4-98e28cf9ff7d.png?auto=format",
+    "downloads": 374245,
+    "trend": 46,
+    "releasedAt": "2026-03-06T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HL2SEWMC5R4DZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Ideogram 2.0",
-    "description": "文本渲染增强的AI绘画工具",
-    "category": "AI绘画",
-    "icon": "https://ideogram.ai/favicon.ico",
-    "downloads": 898805,
-    "trend": 27,
-    "releasedAt": "2026-02-23T00:00:00.000Z",
-    "isNew": true
+    "name": "ChatCat AI: All in 1 Chatbot",
+    "description": "First-ever cat-themed chatbot for coding, writing & more.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9dc33483-884f-4192-a056-d1c5d0e76b95.png?auto=format",
+    "downloads": 243707,
+    "trend": 97,
+    "releasedAt": "2026-03-06T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JZ5L7POW3J7RDF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "AutoGen Studio",
-    "description": "微软多智能体协作平台",
-    "category": "开发工具",
-    "icon": "https://microsoft.github.io/autogen/favicon.ico",
-    "downloads": 751556,
-    "trend": 121,
-    "releasedAt": "2026-02-19T00:00:00.000Z",
+    "name": "Perplexity Pro",
+    "description": "AI搜索引擎高级版",
+    "category": "AI搜索",
+    "icon": "https://www.perplexity.ai/favicon.ico",
+    "downloads": 406636,
+    "trend": 79,
+    "releasedAt": "2026-02-26T00:00:00.000Z",
     "isNew": true
   },
   {
@@ -50,13 +56,23 @@
     "isNew": true
   },
   {
-    "name": "Stable Audio 2.0",
-    "description": "Stability AI音乐生成工具",
-    "category": "AI音频",
-    "icon": "https://www.stableaudio.com/favicon.ico",
-    "downloads": 558456,
-    "trend": 104,
-    "releasedAt": "2026-02-17T00:00:00.000Z",
+    "name": "Kimi K2",
+    "description": "Moonshot最新多模态AI助手",
+    "category": "AI对话",
+    "icon": "https://kimi.moonshot.cn/favicon.ico",
+    "downloads": 1286073,
+    "trend": 48,
+    "releasedAt": "2026-02-24T00:00:00.000Z",
+    "isNew": true
+  },
+  {
+    "name": "Ideogram 2.0",
+    "description": "文本渲染增强的AI绘画工具",
+    "category": "AI绘画",
+    "icon": "https://ideogram.ai/favicon.ico",
+    "downloads": 898805,
+    "trend": 27,
+    "releasedAt": "2026-02-23T00:00:00.000Z",
     "isNew": true
   },
   {
@@ -70,6 +86,16 @@
     "isNew": true
   },
   {
+    "name": "Pika 2.0",
+    "description": "新一代AI视频生成工具",
+    "category": "AI视频",
+    "icon": "https://pika.art/favicon.ico",
+    "downloads": 1029018,
+    "trend": -2,
+    "releasedAt": "2026-02-21T00:00:00.000Z",
+    "isNew": true
+  },
+  {
     "name": "Cohere Command R+",
     "description": "企业级RAG增强模型",
     "category": "AI对话",
@@ -77,26 +103,6 @@
     "downloads": 431702,
     "trend": 79,
     "releasedAt": "2026-02-20T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Udio Beta",
-    "description": "AI音乐创作平台",
-    "category": "AI音频",
-    "icon": "https://www.udio.com/favicon.ico",
-    "downloads": 431722,
-    "trend": 111,
-    "releasedAt": "2026-02-18T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Perplexity Pro",
-    "description": "AI搜索引擎高级版",
-    "category": "AI搜索",
-    "icon": "https://www.perplexity.ai/favicon.ico",
-    "downloads": 406636,
-    "trend": 79,
-    "releasedAt": "2026-02-26T00:00:00.000Z",
     "isNew": true
   }
 ]
