@@ -2028,14 +2028,44 @@
     }
 
     .skill-item {
-        grid-template-columns: 50px 1fr;
+        grid-template-columns: 50px 1fr auto;
         gap: 12px;
+        padding: 16px;
     }
 
-    .skill-category,
-    .skill-stats,
-    .skill-actions {
+    .skill-category {
         display: none;
+    }
+
+    .skill-stats {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        font-size: 0.75rem;
+    }
+
+    .skill-actions {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .skill-downloads {
+        font-size: 1rem;
+    }
+
+    .skill-info h4 {
+        font-size: 0.95rem;
+    }
+
+    .skill-desc {
+        font-size: 0.8rem;
+    }
+
+    .btn-install,
+    .btn-details {
+        padding: 8px 14px;
+        font-size: 0.8rem;
     }
 
     .skill-categories {
