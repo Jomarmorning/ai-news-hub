@@ -969,6 +969,9 @@
     font-weight: 500;
     transition: gap var(--duration-fast);
     font-family: var(--font-display);
+    background: transparent;
+    border: none;
+    cursor: pointer;
 }
 
 .category-link:hover {
