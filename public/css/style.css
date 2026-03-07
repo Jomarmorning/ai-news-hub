@@ -1198,6 +1198,12 @@ body::before {
     flex: 1;
 }
 
+.news-card.featured .news-excerpt {
+    -webkit-line-clamp: 6;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
 .news-footer {
     display: flex;
     align-items: center;
