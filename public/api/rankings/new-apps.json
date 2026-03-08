@@ -1,15 +1,63 @@
 [
   {
     "name": "Clanker Talk",
-    "description": "能帮你完成任务的AI电话助手",
+    "description": "AI phone calls that get things done",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/d8b2b0a4-fc7a-42c3-b571-61de3c2750d5.png?auto=format",
-    "downloads": 523457,
-    "trend": 95,
+    "downloads": 446337,
+    "trend": 38,
     "releasedAt": "2026-03-07T08:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/RVLWW2NKJ2GFBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mobizo",
+    "description": "Bheja Hai Kuch?? Mobizo Hai Na!!",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f5395079-32a0-4752-865a-a67742634cf7.png?auto=format",
+    "downloads": 628297,
+    "trend": 42,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JLJVTVFVTOBYAQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Still With You",
+    "description": "Keep Their Voice, Their Memories, Their Love",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/38ab3d4a-af50-498c-a31e-4fb34e47e067.jpeg?auto=format",
+    "downloads": 102708,
+    "trend": 109,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NER2KZNZMRIW2M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NoEyes – Blind E2EE Terminal ChatGitHub",
+    "description": "Terminal messaging, zero plaintext on server",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3ba92ff7-a889-466f-8f02-71adbc80ee8e.png?auto=format",
+    "downloads": 1053623,
+    "trend": 94,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/63U7RCD2MANIFD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PolyClaude",
+    "description": "Using math to pay less for Claude",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/97bb49a4-dca8-4689-b3ad-23fea3e297dd.svg?auto=format",
+    "downloads": 125078,
+    "trend": 44,
+    "releasedAt": "2026-03-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VKA3TDCXMAJYEH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Sixty10",
@@ -22,30 +70,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/YBQO6GSSGJQ2VC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Mobizo",
-    "description": "全能型AI助手，帮你搞定一切事务",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f5395079-32a0-4752-865a-a67742634cf7.png?auto=format",
-    "downloads": 744764,
-    "trend": 36,
-    "releasedAt": "2026-03-07T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JLJVTVFVTOBYAQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Still With You",
-    "description": "用AI留住他们的声音、记忆与爱",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/38ab3d4a-af50-498c-a31e-4fb34e47e067.jpeg?auto=format",
-    "downloads": 767753,
-    "trend": 71,
-    "releasedAt": "2026-03-07T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NER2KZNZMRIW2M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "CoChat",
@@ -91,26 +115,6 @@
     "downloads": 406636,
     "trend": 79,
     "releasedAt": "2026-02-26T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "HeyGen Avatar",
-    "description": "AI数字人视频生成",
-    "category": "AI视频",
-    "icon": "https://www.heygen.com/favicon.ico",
-    "downloads": 723126,
-    "trend": 118,
-    "releasedAt": "2026-02-25T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Kimi K2",
-    "description": "Moonshot最新多模态AI助手",
-    "category": "AI对话",
-    "icon": "https://kimi.moonshot.cn/favicon.ico",
-    "downloads": 1286073,
-    "trend": 48,
-    "releasedAt": "2026-02-24T00:00:00.000Z",
     "isNew": true
   }
 ]
