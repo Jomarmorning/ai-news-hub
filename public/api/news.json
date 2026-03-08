@@ -1,5 +1,25 @@
 [
   {
+    "id": 1772949407966,
+    "title": "AI聊天机器人市场份额大洗牌：ChatGPT份额下滑，竞争加剧",
+    "summary": "2025年8月至2026年2月期间，ChatGPT在美国AI聊天机器人市场的日活跃用户份额从57%下降至42%，全球市场份额从73%降至57%。Google Gemini和Claude等竞争对手正在快速蚕食市场份额。",
+    "category": "AI趋势",
+    "source": "Digital Information World",
+    "date": "2026-03-08",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://www.digitalinformationworld.com/2026/03/whos-winning-ai-chatbot-race-openais.html"
+  },
+  {
+    "id": 1772949407965,
+    "title": "OpenAI o3 vs Google Gemini 3.0 vs Claude 4：2026年AGI竞赛白热化",
+    "summary": "人工智能通用智能（AGI）竞赛达到关键时刻。OpenAI的o3、Google的Gemini 3.0和Anthropic的Claude 4三大巨头展开激烈竞争，各自在推理能力、代码生成和多模态处理方面展现独特优势。",
+    "category": "AI模型",
+    "source": "Clear AI News",
+    "date": "2026-03-08",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://clearainews.com/company-news/agi-comparison-2026-openai-o3-vs-gemini-3-vs-claude-4/"
+  },
+  {
     "id": 1772939684606,
     "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
     "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
@@ -178,15 +198,5 @@
     "date": "2026-03-06",
     "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
     "url": "https://blog.csdn.net/star_nwe/article/details/156650657"
-  },
-  {
-    "id": 1772900000008,
-    "title": "Poe发布2025夏季AI模型使用趋势报告",
-    "summary": "AI对话平台Poe公布最新用户数据，揭示开发者与消费者的模型偏好变化。多模态模型使用量显著增长。",
-    "category": "AI对话",
-    "source": "Poe",
-    "date": "2026-03-06",
-    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80",
-    "url": "https://poe.com/zh/blog/report-summer-2025-ai-model-usage-trends"
   }
 ]
