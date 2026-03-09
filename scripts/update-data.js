@@ -22,27 +22,27 @@ const updatedDownloads = downloads.map(app => {
 // 获取当前日期
 const today = new Date().toISOString().split('T')[0];
 
-// 最新AI资讯（2026年3月8日更新）
+// 最新AI资讯（2026年3月10日更新）
 const newArticles = [
   {
     "id": Date.now(),
-    "title": "Claude 4系列模型正式发布，推理能力大幅提升",
-    "summary": "Anthropic发布Claude 4系列模型，包括Claude Opus 4和Claude Sonnet 4。新模型在复杂推理、代码生成和多步骤任务执行方面表现卓越，支持更长的上下文窗口和更精准的工具调用。",
+    "title": "谷歌Gemini 3 Pro预览版正式停用，开发者迁移至Gemini 3.1 Pro",
+    "summary": "谷歌于3月9日正式停用Gemini 3 Pro预览版，要求所有开发者迁移至功能更强大的Gemini 3.1 Pro。新版本在多模态理解和长文本处理方面实现显著提升，支持更复杂的推理任务。",
     "category": "AI模型",
-    "source": "Anthropic",
+    "source": "Google",
     "date": today,
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.anthropic.com/news/claude-4-family"
+    "url": "https://xix.ai/zh/live"
   },
   {
     "id": Date.now() + 1,
-    "title": "Google Gemini 2.5 Pro发布，多模态能力再突破",
-    "summary": "谷歌发布Gemini 2.5 Pro模型，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持原生多模态输入输出，可处理长达100万token的上下文。",
+    "title": "DeepSeek V4多模态模型即将发布，支持图像视频文本生成",
+    "summary": "全新多模态AI模型DeepSeek V4即将正式发布，该模型支持图像、视频及文本生成，将在多模态AI领域与GPT-5.4展开激烈竞争，标志着中国AI技术的重大突破。",
     "category": "AI模型",
-    "source": "Google DeepMind",
+    "source": "DeepSeek",
     "date": today,
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://deepmind.google/gemini-2-5-pro"
+    "url": "https://xix.ai/zh/live"
   }
 ];
 
