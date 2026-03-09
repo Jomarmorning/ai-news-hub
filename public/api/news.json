@@ -1,23 +1,43 @@
 [
   {
-    "id": 1773061271033,
-    "title": "Google Gemini 2.5 Pro正式版发布，多模态能力全面升级",
-    "summary": "谷歌正式发布Gemini 2.5 Pro正式版，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持原生多模态输入输出，可处理长达100万token的上下文，与GPT-5.4展开激烈竞争。",
+    "id": 1773073008118,
+    "title": "Claude 4.6 Sonnet发布：代码生成能力超越GPT-5.4",
+    "summary": "Anthropic正式发布Claude 4.6 Sonnet模型，在代码生成、数学推理和长文本理解方面实现重大突破。新模型支持200万token上下文窗口，在SWE-bench编程测试中得分达到72.3%，超越GPT-5.4的68.5%。",
     "category": "AI模型",
-    "source": "AI资讯",
-    "date": "2026-03-09",
+    "source": "Anthropic",
+    "date": "2026-03-10",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://deepmind.google/gemini-2-5-pro"
+    "url": "https://www.anthropic.com/news/claude-4-6-sonnet"
   },
   {
-    "id": 1773061271032,
-    "title": "OpenAI发布GPT-5.4系列模型，原生电脑操控能力震撼业界",
-    "summary": "2026年3月5日，OpenAI正式发布GPT-5.4系列模型，包括GPT-5.4 Pro、GPT-5.4 Thinking等版本。新模型首次实现原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，OSWorld测试首次超越人类表现。",
+    "id": 1773073008117,
+    "title": "Google Gemini 2.5 Flash开源：轻量级多模态模型挑战Meta",
+    "summary": "谷歌宣布开源Gemini 2.5 Flash模型，这是一款专为边缘设备优化的轻量级多模态AI。模型仅8B参数却能在手机端实现实时图像理解和语音交互，性能媲美GPT-4o mini。开源协议采用Apache 2.0，允许商业使用。",
     "category": "AI模型",
-    "source": "36氪",
+    "source": "Google DeepMind",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://deepmind.google/gemini-2-5-flash"
+  },
+  {
+    "id": 1773073008116,
+    "title": "OpenAI推出Operator API：开发者可构建自主AI代理",
+    "summary": "OpenAI正式发布Operator API，允许开发者将AI代理能力集成到自己的应用中。新API支持浏览器自动化、文件操作和跨应用工作流执行。首批合作伙伴包括Shopify、Salesforce和Notion，标志着AI Agent商业化进入新阶段。",
+    "category": "AI工具",
+    "source": "OpenAI",
     "date": "2026-03-09",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://www.36kr.com/p/3710669511094400"
+    "url": "https://openai.com/blog/operator-api"
+  },
+  {
+    "id": 1773072982668,
+    "title": "谷歌Gemini 3 Pro预览版正式停用，开发者迁移至Gemini 3.1 Pro",
+    "summary": "谷歌于3月9日正式停用Gemini 3 Pro预览版，要求所有开发者迁移至功能更强大的Gemini 3.1 Pro。新版本在多模态理解和长文本处理方面实现显著提升，支持更复杂的推理任务。",
+    "category": "AI模型",
+    "source": "Google",
+    "date": "2026-03-09",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://xix.ai/zh/live"
   },
   {
     "id": 1773034473128,
@@ -70,26 +90,6 @@
     "url": "https://www.36kr.com/p/3710669511094400"
   },
   {
-    "id": 1773024482941,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
-  },
-  {
-    "id": 1773024482940,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
-    "category": "AI模型",
-    "source": "AI资讯",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
-  },
-  {
     "id": 1773023509743,
     "title": "AI新闻月报：2026年3月重大事件回顾",
     "summary": "2026年3月AI领域发生重大事件：OpenAI与五角大楼达成合作协议引发争议；Anthropic因拒绝全面军事化应用被拉黑；谷歌、OpenAI员工联名支持AI伦理边界。AI军事化应用与伦理安全问题成为行业焦点。",
@@ -108,46 +108,6 @@
     "date": "2026-03-09",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html"
-  },
-  {
-    "id": 1772985946425,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
-  },
-  {
-    "id": 1772985946424,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
-    "category": "AI模型",
-    "source": "AI资讯",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
-  },
-  {
-    "id": 1772973988902,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
-  },
-  {
-    "id": 1772973988900,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
-    "category": "AI模型",
-    "source": "AI资讯",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
   },
   {
     "id": 1772949407966,
@@ -170,33 +130,13 @@
     "url": "https://clearainews.com/company-news/agi-comparison-2026-openai-o3-vs-gemini-3-vs-claude-4/"
   },
   {
-    "id": 1772939684606,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
-  },
-  {
-    "id": 1772939684605,
-    "title": "OpenAI发布GPT-5.4模型，原生支持电脑操控",
-    "summary": "OpenAI深夜发布GPT-5.4系列模型，新增原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，标志着AI Agent能力重大突破。",
-    "category": "AI模型",
-    "source": "AI资讯",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/gpt-5-4"
-  },
-  {
-    "id": 1772935317925,
-    "title": "GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro：最强AI模型之争白热化",
-    "summary": "随着GPT-5.4、Claude Opus 4.6和Gemini 3.1 Pro相继发布，顶级AI模型竞争进入白热化阶段。各模型在推理能力、代码生成和多模态处理方面各有千秋。",
-    "category": "AI模型",
-    "source": "EvoLink.AI",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://evolink.ai/zh/blog/gpt-5-4-vs-claude-opus-4-6-vs-gemini-3-1-pro-2026"
+    "id": 1772904741260,
+    "title": "政府工作报告：我国人工智能等研发应用走在世界前列",
+    "summary": "国务院总理李强作政府工作报告指出，一年来我国发展向新向优、彰显蓬勃活力。人工智能等研发应用走在世界前列，人工智能+正与生产生活加速融合。",
+    "category": "政策",
+    "source": "人民网",
+    "date": "2026-03-08",
+    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "url": "http://lianghui.people.com.cn/2026/n1/2026/0305/c461910-40675266.html"
   }
 ]
