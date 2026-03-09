@@ -1,5 +1,35 @@
 [
   {
+    "id": 1773034473128,
+    "title": "DeepSeek V4即将发布：万亿参数多模态AI挑战美国巨头",
+    "summary": "DeepSeek计划于本周发布V4旗舰模型，这是一款万亿参数的多模态AI系统，能够生成文本、图像和视频。该模型将在两会前亮相，标志着中国AI技术在开源领域的重大突破。",
+    "category": "AI模型",
+    "source": "TechNode",
+    "date": "2026-03-09",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://technode.com/2026/03/02/deepseek-plans-v4-multimodal-model-release-this-week-sources-say/"
+  },
+  {
+    "id": 1773034473127,
+    "title": "2026年3月AI模型大战：GPT-5.4、Claude与Gemini三方混战",
+    "summary": "OpenAI发布GPT-5.4具备原生电脑操控能力和百万token上下文窗口；Google强化Gemini轻量化与多场景落地；Anthropic持续押注企业级AI。模型竞争正从参数竞赛转向真实工作流竞争。",
+    "category": "AI趋势",
+    "source": "CSDN",
+    "date": "2026-03-09",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://blog.csdn.net/cucibala/article/details/158836932"
+  },
+  {
+    "id": 1773034473126,
+    "title": "Meta收购Manus后新动向：AI Agent赛道攻防战升级",
+    "summary": "Meta以20亿美元收购Manus后，AI Agent领域呈现两大阵营对决：Manus代表的云端智能代理服务与OpenClaw引领的开源本地部署路线。这场云端黑盒与本地透明的竞争将重塑AI Agent生态。",
+    "category": "产业",
+    "source": "腾讯云",
+    "date": "2026-03-09",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://cloud.tencent.com/developer/article/2630710"
+  },
+  {
     "id": 1773032725849,
     "title": "Google Gemini 2.5 Pro正式版发布，多模态能力全面升级",
     "summary": "谷歌正式发布Gemini 2.5 Pro正式版，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持原生多模态输入输出，可处理长达100万token的上下文，与GPT-5.4展开激烈竞争。",
@@ -168,35 +198,5 @@
     "date": "2026-03-08",
     "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     "url": "http://lianghui.people.com.cn/2026/n1/2026/0305/c461910-40675266.html"
-  },
-  {
-    "id": 1772904741261,
-    "title": "AI浪潮的下一个爆发点在哪？代表委员热议具身智能",
-    "summary": "当生成式人工智能的热度逐渐沉淀，全球科技界都在追问AI浪潮的下一个爆发点。今年全国两会代表委员热议具身智能，认为人工智能正从数字世界走向物理世界。",
-    "category": "AI趋势",
-    "source": "新华网",
-    "date": "2026-03-08",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://www.news.cn/fortune/20260305/ec1ac702a31f41ad89e8d02c58566338/c.html"
-  },
-  {
-    "id": 1772904741262,
-    "title": "工信部部长：全力推进新一代人工智能产品的攻关和迭代",
-    "summary": "工信部部长李乐成表示，2026年工信部将按照政府工作报告部署，全力推进新一代人工智能产品的攻关和迭代，推动人工智能赋能新型工业化。",
-    "category": "产业",
-    "source": "经济观察网",
-    "date": "2026-03-08",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    "url": "https://www.eeo.com.cn/2026/0305/805640.shtml"
-  },
-  {
-    "id": 1772901824022,
-    "title": "Claude 4系列模型正式发布，推理能力大幅提升",
-    "summary": "Anthropic发布Claude 4系列模型，包括Claude Opus 4和Claude Sonnet 4。新模型在复杂推理、代码生成和多步骤任务执行方面表现卓越，支持更长的上下文窗口和更精准的工具调用。",
-    "category": "AI模型",
-    "source": "Anthropic",
-    "date": "2026-03-07",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.anthropic.com/news/claude-4-family"
   }
 ]
