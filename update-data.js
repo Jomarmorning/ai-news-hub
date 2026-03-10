@@ -42,27 +42,27 @@ downloadData.forEach(app => {
 // 2. 添加新新闻
 console.log('\n=== 更新新闻数据 ===');
 
-// 基于搜索到的最新AI新闻 (2026-03-09)
+// 基于最新AI新闻 (2026-03-10)
 const newArticles = [
   {
     id: Date.now(),
-    title: "OpenAI发布GPT-5.4系列模型，原生电脑操控能力震撼业界",
-    summary: "2026年3月5日，OpenAI正式发布GPT-5.4系列模型，包括GPT-5.4 Pro、GPT-5.4 Thinking等版本。新模型首次实现原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，OSWorld测试首次超越人类表现。",
+    title: "xAI Grok 3正式发布：马斯克称已超越GPT-5.4",
+    summary: "马斯克旗下xAI正式发布Grok 3大模型，声称在多项基准测试中超越GPT-5.4和Gemini 2.5 Pro。新模型具备更强的推理能力和实时信息获取功能，已面向X Premium+用户开放。",
     category: "AI模型",
-    source: "36氪",
-    date: "2026-03-09",
-    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    url: "https://www.36kr.com/p/3710669511094400"
+    source: "xAI",
+    date: "2026-03-10",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    url: "https://x.ai/grok-3"
   },
   {
     id: Date.now() + 1,
-    title: "Google Gemini 2.5 Pro正式版发布，多模态能力全面升级",
-    summary: "谷歌正式发布Gemini 2.5 Pro正式版，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持原生多模态输入输出，可处理长达100万token的上下文，与GPT-5.4展开激烈竞争。",
+    title: "Meta发布Llama 4系列：开源多模态大模型新标杆",
+    summary: "Meta正式发布Llama 4系列模型，包括Llama 4 Scout、Llama 4 Maverick和Llama 4 Behemoth。新系列支持文本、图像、视频多模态理解，在保持开源的同时性能逼近闭源商业模型。",
     category: "AI模型",
-    source: "AI资讯",
-    date: "2026-03-09",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    url: "https://deepmind.google/gemini-2-5-pro"
+    source: "Meta AI",
+    date: "2026-03-10",
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    url: "https://ai.meta.com/llama/"
   }
 ];
 
