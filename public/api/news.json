@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773116907496,
+    "title": "ChatGPT用户突破9亿周活，AI应用进入主流时代",
+    "summary": "2026年3月，ChatGPT周活跃用户突破9亿大关，标志着生成式AI正式进入主流应用阶段。OpenAI同时宣布将在本月推出GPT-5.5系列模型，进一步提升多模态能力和推理性能。",
+    "category": "AI趋势",
+    "source": "The AI Track",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://theaitrack.com/ai-news-march-2026-in-depth-and-concise/"
+  },
+  {
+    "id": 1773116907497,
+    "title": "NVIDIA发布新一代AI芯片，算力提升300%",
+    "summary": "NVIDIA在GTC 2026大会上发布新一代AI加速器，采用全新架构设计，专为大规模语言模型训练和推理优化。新芯片支持万亿参数模型的高效训练，预计将在Q2季度开始向云服务商供货。",
+    "category": "产业",
+    "source": "NVIDIA",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
+    "url": "https://nvidia.com/gtc-2026"
+  },
+  {
     "id": 1773113279863,
     "title": "Meta发布Llama 4系列：开源多模态大模型新标杆",
     "summary": "Meta正式发布Llama 4系列模型，包括Llama 4 Scout、Llama 4 Maverick和Llama 4 Behemoth。新系列支持文本、图像、视频多模态理解，在保持开源的同时性能逼近闭源商业模型。",
