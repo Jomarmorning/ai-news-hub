@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773147512781,
+    "title": "Meta发布Llama 4系列：开源多模态大模型新标杆",
+    "summary": "Meta正式发布Llama 4系列模型，包括Llama 4 Scout、Llama 4 Maverick和Llama 4 Behemoth。新系列支持文本、图像、视频多模态理解，在保持开源的同时性能逼近闭源商业模型。",
+    "category": "AI模型",
+    "source": "Meta AI",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://ai.meta.com/llama/"
+  },
+  {
+    "id": 1773147512780,
+    "title": "xAI Grok 3正式发布：马斯克称已超越GPT-5.4",
+    "summary": "马斯克旗下xAI正式发布Grok 3大模型，声称在多项基准测试中超越GPT-5.4和Gemini 2.5 Pro。新模型具备更强的推理能力和实时信息获取功能，已面向X Premium+用户开放。",
+    "category": "AI模型",
+    "source": "xAI",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://x.ai/grok-3"
+  },
+  {
     "id": 1773115871778,
     "title": "Anthropic推出Claude Opus 4.6：AI编程能力再上新台阶",
     "summary": "Anthropic正式发布Claude Opus 4.6模型，在代码生成、长时间任务处理和高质量专业工作方面表现更出色。该模型特别擅长复杂编程任务，可连续工作数小时保持稳定性能，进一步缩小与GPT-5.4的差距。",
@@ -178,25 +198,5 @@
     "date": "2026-03-09",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://www.36kr.com/p/3710669511094400"
-  },
-  {
-    "id": 1773023509743,
-    "title": "AI新闻月报：2026年3月重大事件回顾",
-    "summary": "2026年3月AI领域发生重大事件：OpenAI与五角大楼达成合作协议引发争议；Anthropic因拒绝全面军事化应用被拉黑；谷歌、OpenAI员工联名支持AI伦理边界。AI军事化应用与伦理安全问题成为行业焦点。",
-    "category": "AI趋势",
-    "source": "The AI Track",
-    "date": "2026-03-09",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://theaitrack.com/ai-news-march-2026-in-depth-and-concise/"
-  },
-  {
-    "id": 1773023509742,
-    "title": "Anthropic与OpenAI就五角大楼AI使用问题产生分歧",
-    "summary": "谷歌和OpenAI员工签署公开信支持Anthropic拒绝向五角大楼提供无限制AI使用的立场。此前Anthropic因'安全风险'被五角大楼列入黑名单，而OpenAI则与军方达成合作协议，引发AI安全与军事应用之间的激烈辩论。",
-    "category": "AI趋势",
-    "source": "CNBC",
-    "date": "2026-03-09",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html"
   }
 ]
