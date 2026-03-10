@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773107721620,
+    "title": "Google Gemini 2.5 Pro正式版发布，多模态能力全面升级",
+    "summary": "谷歌正式发布Gemini 2.5 Pro正式版，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持原生多模态输入输出，可处理长达100万token的上下文，与GPT-5.4展开激烈竞争。",
+    "category": "AI模型",
+    "source": "AI资讯",
+    "date": "2026-03-09",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://deepmind.google/gemini-2-5-pro"
+  },
+  {
+    "id": 1773107721619,
+    "title": "OpenAI发布GPT-5.4系列模型，原生电脑操控能力震撼业界",
+    "summary": "2026年3月5日，OpenAI正式发布GPT-5.4系列模型，包括GPT-5.4 Pro、GPT-5.4 Thinking等版本。新模型首次实现原生电脑操控能力，可直接操作桌面应用、浏览器和文件系统，OSWorld测试首次超越人类表现。",
+    "category": "AI模型",
+    "source": "36氪",
+    "date": "2026-03-09",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://www.36kr.com/p/3710669511094400"
+  },
+  {
     "id": 1773073008118,
     "title": "Claude 4.6 Sonnet发布：代码生成能力超越GPT-5.4",
     "summary": "Anthropic正式发布Claude 4.6 Sonnet模型，在代码生成、数学推理和长文本理解方面实现重大突破。新模型支持200万token上下文窗口，在SWE-bench编程测试中得分达到72.3%，超越GPT-5.4的68.5%。",
