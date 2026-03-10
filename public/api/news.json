@@ -1,5 +1,35 @@
 [
   {
+    "id": 1773115871778,
+    "title": "Anthropic推出Claude Opus 4.6：AI编程能力再上新台阶",
+    "summary": "Anthropic正式发布Claude Opus 4.6模型，在代码生成、长时间任务处理和高质量专业工作方面表现更出色。该模型特别擅长复杂编程任务，可连续工作数小时保持稳定性能，进一步缩小与GPT-5.4的差距。",
+    "category": "AI模型",
+    "source": "CNBC",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.cnbc.com/2026/02/05/anthropic-claude-opus-4-6-vibe-working.html"
+  },
+  {
+    "id": 1773115871779,
+    "title": "五角大楼将Anthropic列为供应链风险企业，AI军事化争议升级",
+    "summary": "特朗普政府正式将AI公司Anthropic列为供应链风险，这是前所未有的举动。此前Anthropic因'安全风险'被五角大楼列入黑名单，而OpenAI则与军方达成合作协议，引发AI安全与军事应用之间的激烈辩论。",
+    "category": "AI趋势",
+    "source": "AP News",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://apnews.com/article/pentagon-ai-anthropic-claude-dario-amodei-openai-d4608c7dd139245ac8ad94d5427c505a"
+  },
+  {
+    "id": 1773115871780,
+    "title": "NVIDIA认证AI数据中心扩展至印度和中东，15国加速布局",
+    "summary": "NVIDIA认证AI数据中心于2026年3月在孟买、阿联酋和沙特阿拉伯正式启用。随着亚洲和中东各国政府减少对美云服务依赖，全球已有15个国家正在建设NVIDIA GPU数据中心，AI基础设施竞争进入白热化阶段。",
+    "category": "产业",
+    "source": "Via News",
+    "date": "2026-03-10",
+    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
+    "url": "https://via.news/technology-infrastructure/nvidia-gpu-data-centers-expand-to-india-and-gulf-states-as-15-nations-build"
+  },
+  {
     "id": 1773116907496,
     "title": "ChatGPT用户突破9亿周活，AI应用进入主流时代",
     "summary": "2026年3月，ChatGPT周活跃用户突破9亿大关，标志着生成式AI正式进入主流应用阶段。OpenAI同时宣布将在本月推出GPT-5.5系列模型，进一步提升多模态能力和推理性能。",
@@ -168,35 +198,5 @@
     "date": "2026-03-09",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html"
-  },
-  {
-    "id": 1772949407966,
-    "title": "AI聊天机器人市场份额大洗牌：ChatGPT份额下滑，竞争加剧",
-    "summary": "2025年8月至2026年2月期间，ChatGPT在美国AI聊天机器人市场的日活跃用户份额从57%下降至42%，全球市场份额从73%降至57%。Google Gemini和Claude等竞争对手正在快速蚕食市场份额。",
-    "category": "AI趋势",
-    "source": "Digital Information World",
-    "date": "2026-03-08",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://www.digitalinformationworld.com/2026/03/whos-winning-ai-chatbot-race-openais.html"
-  },
-  {
-    "id": 1772949407965,
-    "title": "OpenAI o3 vs Google Gemini 3.0 vs Claude 4：2026年AGI竞赛白热化",
-    "summary": "人工智能通用智能（AGI）竞赛达到关键时刻。OpenAI的o3、Google的Gemini 3.0和Anthropic的Claude 4三大巨头展开激烈竞争，各自在推理能力、代码生成和多模态处理方面展现独特优势。",
-    "category": "AI模型",
-    "source": "Clear AI News",
-    "date": "2026-03-08",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://clearainews.com/company-news/agi-comparison-2026-openai-o3-vs-gemini-3-vs-claude-4/"
-  },
-  {
-    "id": 1772904741260,
-    "title": "政府工作报告：我国人工智能等研发应用走在世界前列",
-    "summary": "国务院总理李强作政府工作报告指出，一年来我国发展向新向优、彰显蓬勃活力。人工智能等研发应用走在世界前列，人工智能+正与生产生活加速融合。",
-    "category": "政策",
-    "source": "人民网",
-    "date": "2026-03-08",
-    "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "url": "http://lianghui.people.com.cn/2026/n1/2026/0305/c461910-40675266.html"
   }
 ]
