@@ -44,8 +44,17 @@ async function sendNotification() {
   if (!webhook || webhook.includes('xxxxxxxx')) {
     console.log('⚠️ 飞书Webhook未配置，跳过通知发送');
     console.log('请设置环境变量 FEISHU_WEBHOOK 或修改脚本中的webhook地址');
-    console.log('\n消息内容预览:');
+    console.log('\n========== 消息内容预览 ==========');
     console.log(JSON.stringify(message, null, 2));
+    console.log('\n========== 更新摘要 ==========');
+    console.log(`📊 下载数据更新: ${summary.downloads.length} 个应用`);
+    summary.downloads.forEach(d => {
+      const trendIcon = d.trend.new > d.trend.old ? '📈' : d.trend.new < d.trend.old ? '📉' : '➡️';
+      console.log(`  • ${d.name}: +${d.downloads.increase}下载, 趋势 ${d.trend.old}→${d.trend.new} ${trendIcon}`);
+    });
+    console.log(`\n📰 资讯更新: 新增 ${summary.news.added.length} 条`);
+    summary.news.added.forEach((title, i) => console.log(`  ${i+1}. ${title}`));
+    console.log(`\n⏰ 更新时间: ${new Date().toLocaleString('zh-CN')}`);
     return;
   }
 

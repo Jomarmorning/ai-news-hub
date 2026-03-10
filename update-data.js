@@ -42,27 +42,28 @@ downloadData.forEach(app => {
 // 2. 添加新新闻
 console.log('\n=== 更新新闻数据 ===');
 
-// 基于最新AI新闻 (2026-03-10)
+// 基于最新AI新闻 (2026-03-11)
+const today = new Date().toISOString().split('T')[0];
 const newArticles = [
   {
     id: Date.now(),
-    title: "xAI Grok 3正式发布：马斯克称已超越GPT-5.4",
-    summary: "马斯克旗下xAI正式发布Grok 3大模型，声称在多项基准测试中超越GPT-5.4和Gemini 2.5 Pro。新模型具备更强的推理能力和实时信息获取功能，已面向X Premium+用户开放。",
-    category: "AI模型",
-    source: "xAI",
-    date: "2026-03-10",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    url: "https://x.ai/grok-3"
+    title: "ChatGPT周活用户突破9亿，OpenAI宣布GPT-5.5系列即将发布",
+    summary: "2026年3月，ChatGPT周活跃用户正式突破9亿大关，标志着生成式AI正式进入主流应用阶段。OpenAI同时宣布将在本月推出GPT-5.5系列模型，进一步提升多模态能力和推理性能，预计将在编程、创意写作等领域实现重大突破。",
+    category: "AI趋势",
+    source: "The AI Track",
+    date: today,
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    url: "https://theaitrack.com/ai-news-march-2026-in-depth-and-concise/"
   },
   {
     id: Date.now() + 1,
-    title: "Meta发布Llama 4系列：开源多模态大模型新标杆",
-    summary: "Meta正式发布Llama 4系列模型，包括Llama 4 Scout、Llama 4 Maverick和Llama 4 Behemoth。新系列支持文本、图像、视频多模态理解，在保持开源的同时性能逼近闭源商业模型。",
-    category: "AI模型",
-    source: "Meta AI",
-    date: "2026-03-10",
-    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    url: "https://ai.meta.com/llama/"
+    title: "中国量子AI取得重大突破，算力需求持续攀升",
+    summary: "2026年3月，中国在量子AI领域取得重大技术突破。与此同时，AI产业全面提速，智能体产品商业化价值开始兑现。多款AI办公智能体产品已拥有数千家下游客户，2026年有望迎来更大规模的商业化落地。",
+    category: "产业",
+    source: "CCTV",
+    date: today,
+    image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    url: "https://news.cctv.com/2026/03/01/ARTIOjYPeka8KWcSaXp3oHcM260301.shtml"
   }
 ];
 
