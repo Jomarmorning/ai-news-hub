@@ -42,28 +42,28 @@ downloadData.forEach(app => {
 // 2. 添加新新闻
 console.log('\n=== 更新新闻数据 ===');
 
-// 基于最新AI新闻 (2026-03-11)
+// 基于最新AI新闻 (2026-03-12)
 const today = new Date().toISOString().split('T')[0];
 const newArticles = [
   {
     id: Date.now(),
-    title: "OpenAI与Google员工联合声援Anthropic，反对五角大楼制裁",
-    summary: "超过30名OpenAI和Google DeepMind员工签署声明，支持Anthropic对国防部的诉讼。此前五角大楼将Anthropic列为供应链风险企业，引发AI行业对军事化应用的激烈辩论。",
-    category: "AI趋势",
-    source: "TechCrunch",
+    title: "OpenAI发布GPT-5.4：专业工作模型首次超越人类表现",
+    summary: "OpenAI正式发布GPT-5.4及Pro版本，主打智能体编程和专业工作场景。在OSWorld测试中首次超越人类表现，事实陈述错误率降低33%，GDPval测试中达到83%准确率，标志着AI在专业领域应用进入新阶段。",
+    category: "AI模型",
+    source: "OpenAI",
     date: today,
     image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    url: "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/"
+    url: "https://openai.com/gpt-5-4"
   },
   {
     id: Date.now() + 1,
-    title: "2026年3月科技行业裁员4.5万人，AI自动化成主因",
-    summary: "2026年3月科技行业裁员人数高达4.5万，其中超过9200人归因于AI和自动化技术的进步。亚马逊、谷歌、微软等科技巨头正在重组人力资源，AI替代效应开始显现。",
+    title: "2026全国两会：政府工作报告首提智能经济新形态",
+    summary: "2026年全国两会期间，人工智能再次成为高频热词。政府工作报告首次明确提出打造智能经济新形态，深化拓展人工智能+应用，推动AI与产业发展、文化建设、民生保障、社会治理相结合，全方位赋能千行百业。",
     category: "产业",
-    source: "OpenTools AI",
+    source: "新华社",
     date: today,
-    image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    url: "https://opentools.ai/news/2026-tech-layoffs-hit-45000-in-march-ai-and-automation-take-the-lead"
+    image: "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
+    url: "https://news.cn/2026-lianghui-ai"
   }
 ];
 
