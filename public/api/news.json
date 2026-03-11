@@ -1,5 +1,35 @@
 [
   {
+    "id": 1773206268335,
+    "title": "NVIDIA发布下一代AI芯片Blackwell Ultra，算力提升400%",
+    "summary": "NVIDIA在GTC 2026大会上正式发布Blackwell Ultra AI加速器，采用全新架构设计，算力较上代提升400%。新芯片专为万亿参数大模型训练优化，支持更高效的推理计算，预计将在Q2季度开始向主要云服务商供货。",
+    "category": "产业",
+    "source": "NVIDIA",
+    "date": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
+    "url": "https://nvidia.com/gtc-2026-blackwell-ultra"
+  },
+  {
+    "id": 1773206268334,
+    "title": "DeepSeek V4正式发布：开源多模态大模型挑战GPT-5.5",
+    "summary": "DeepSeek正式发布V4旗舰模型，这是一款万亿参数的多模态AI系统，支持文本、图像、视频生成与理解。在多项基准测试中表现优异，采用开源协议发布，标志着中国AI技术在开源领域实现重大突破。",
+    "category": "AI模型",
+    "source": "DeepSeek",
+    "date": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://deepseek.ai/v4-release"
+  },
+  {
+    "id": 1773206268333,
+    "title": "Google Gemini 3.1 Pro全面开放：多模态能力大幅提升",
+    "summary": "谷歌宣布Gemini 3.1 Pro正式向所有开发者开放，新版本在多模态理解和长文本处理方面实现显著提升。支持更复杂的推理任务和实时信息获取，API定价较预览版降低30%，进一步加剧AI模型竞争。",
+    "category": "AI模型",
+    "source": "Google DeepMind",
+    "date": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://deepmind.google/gemini-3-1-pro"
+  },
+  {
     "id": 1773203629416,
     "title": "2026年3月科技行业裁员4.5万人，AI自动化成主因",
     "summary": "2026年3月科技行业裁员人数高达4.5万，其中超过9200人归因于AI和自动化技术的进步。亚马逊、谷歌、微软等科技巨头正在重组人力资源，AI替代效应开始显现。",
@@ -168,35 +198,5 @@
     "date": "2026-03-10",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://x.ai/grok-3"
-  },
-  {
-    "id": 1773073008118,
-    "title": "Claude 4.6 Sonnet发布：代码生成能力超越GPT-5.4",
-    "summary": "Anthropic正式发布Claude 4.6 Sonnet模型，在代码生成、数学推理和长文本理解方面实现重大突破。新模型支持200万token上下文窗口，在SWE-bench编程测试中得分达到72.3%，超越GPT-5.4的68.5%。",
-    "category": "AI模型",
-    "source": "Anthropic",
-    "date": "2026-03-10",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.anthropic.com/news/claude-4-6-sonnet"
-  },
-  {
-    "id": 1773073008117,
-    "title": "Google Gemini 2.5 Flash开源：轻量级多模态模型挑战Meta",
-    "summary": "谷歌宣布开源Gemini 2.5 Flash模型，这是一款专为边缘设备优化的轻量级多模态AI。模型仅8B参数却能在手机端实现实时图像理解和语音交互，性能媲美GPT-4o mini。开源协议采用Apache 2.0，允许商业使用。",
-    "category": "AI模型",
-    "source": "Google DeepMind",
-    "date": "2026-03-10",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://deepmind.google/gemini-2-5-flash"
-  },
-  {
-    "id": 1773073008116,
-    "title": "OpenAI推出Operator API：开发者可构建自主AI代理",
-    "summary": "OpenAI正式发布Operator API，允许开发者将AI代理能力集成到自己的应用中。新API支持浏览器自动化、文件操作和跨应用工作流执行。首批合作伙伴包括Shopify、Salesforce和Notion，标志着AI Agent商业化进入新阶段。",
-    "category": "AI工具",
-    "source": "OpenAI",
-    "date": "2026-03-09",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/blog/operator-api"
   }
 ]
