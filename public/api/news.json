@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773203629416,
+    "title": "2026年3月科技行业裁员4.5万人，AI自动化成主因",
+    "summary": "2026年3月科技行业裁员人数高达4.5万，其中超过9200人归因于AI和自动化技术的进步。亚马逊、谷歌、微软等科技巨头正在重组人力资源，AI替代效应开始显现。",
+    "category": "产业",
+    "source": "OpenTools AI",
+    "date": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://opentools.ai/news/2026-tech-layoffs-hit-45000-in-march-ai-and-automation-take-the-lead"
+  },
+  {
+    "id": 1773203629415,
+    "title": "OpenAI与Google员工联合声援Anthropic，反对五角大楼制裁",
+    "summary": "超过30名OpenAI和Google DeepMind员工签署声明，支持Anthropic对国防部的诉讼。此前五角大楼将Anthropic列为供应链风险企业，引发AI行业对军事化应用的激烈辩论。",
+    "category": "AI趋势",
+    "source": "TechCrunch",
+    "date": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/"
+  },
+  {
     "id": 1773199887342,
     "title": "2026年3月科技行业裁员4.5万人，AI自动化成主因",
     "summary": "2026年3月科技行业裁员人数高达4.5万，其中超过9200人归因于AI和自动化技术的进步。亚马逊、谷歌、微软等科技巨头正在重组人力资源，AI替代效应开始显现。",
@@ -178,25 +198,5 @@
     "date": "2026-03-09",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://openai.com/blog/operator-api"
-  },
-  {
-    "id": 1773072982668,
-    "title": "谷歌Gemini 3 Pro预览版正式停用，开发者迁移至Gemini 3.1 Pro",
-    "summary": "谷歌于3月9日正式停用Gemini 3 Pro预览版，要求所有开发者迁移至功能更强大的Gemini 3.1 Pro。新版本在多模态理解和长文本处理方面实现显著提升，支持更复杂的推理任务。",
-    "category": "AI模型",
-    "source": "Google",
-    "date": "2026-03-09",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://xix.ai/zh/live"
-  },
-  {
-    "id": 1773034473128,
-    "title": "DeepSeek V4即将发布：万亿参数多模态AI挑战美国巨头",
-    "summary": "DeepSeek计划于本周发布V4旗舰模型，这是一款万亿参数的多模态AI系统，能够生成文本、图像和视频。该模型将在两会前亮相，标志着中国AI技术在开源领域的重大突破。",
-    "category": "AI模型",
-    "source": "TechNode",
-    "date": "2026-03-09",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://technode.com/2026/03/02/deepseek-plans-v4-multimodal-model-release-this-week-sources-say/"
   }
 ]
