@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773194115123,
+    "title": "中国量子AI取得重大突破，算力需求持续攀升",
+    "summary": "2026年3月，中国在量子AI领域取得重大技术突破。与此同时，AI产业全面提速，智能体产品商业化价值开始兑现。多款AI办公智能体产品已拥有数千家下游客户，2026年有望迎来更大规模的商业化落地。",
+    "category": "产业",
+    "source": "CCTV",
+    "date": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+    "url": "https://news.cctv.com/2026/03/01/ARTIOjYPeka8KWcSaXp3oHcM260301.shtml"
+  },
+  {
+    "id": 1773194115122,
+    "title": "ChatGPT周活用户突破9亿，OpenAI宣布GPT-5.5系列即将发布",
+    "summary": "2026年3月，ChatGPT周活跃用户正式突破9亿大关，标志着生成式AI正式进入主流应用阶段。OpenAI同时宣布将在本月推出GPT-5.5系列模型，进一步提升多模态能力和推理性能，预计将在编程、创意写作等领域实现重大突破。",
+    "category": "AI趋势",
+    "source": "The AI Track",
+    "date": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://theaitrack.com/ai-news-march-2026-in-depth-and-concise/"
+  },
+  {
     "id": 1773160806562,
     "title": "中国量子AI取得重大突破，算力需求持续攀升",
     "summary": "2026年3月，中国在量子AI领域取得重大技术突破。与此同时，AI产业全面提速，智能体产品商业化价值开始兑现。多款AI办公智能体产品已拥有数千家下游客户，2026年有望迎来更大规模的商业化落地。",
@@ -178,25 +198,5 @@
     "date": "2026-03-09",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://technode.com/2026/03/02/deepseek-plans-v4-multimodal-model-release-this-week-sources-say/"
-  },
-  {
-    "id": 1773034473127,
-    "title": "2026年3月AI模型大战：GPT-5.4、Claude与Gemini三方混战",
-    "summary": "OpenAI发布GPT-5.4具备原生电脑操控能力和百万token上下文窗口；Google强化Gemini轻量化与多场景落地；Anthropic持续押注企业级AI。模型竞争正从参数竞赛转向真实工作流竞争。",
-    "category": "AI趋势",
-    "source": "CSDN",
-    "date": "2026-03-09",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://blog.csdn.net/cucibala/article/details/158836932"
-  },
-  {
-    "id": 1773034473126,
-    "title": "Meta收购Manus后新动向：AI Agent赛道攻防战升级",
-    "summary": "Meta以20亿美元收购Manus后，AI Agent领域呈现两大阵营对决：Manus代表的云端智能代理服务与OpenClaw引领的开源本地部署路线。这场云端黑盒与本地透明的竞争将重塑AI Agent生态。",
-    "category": "产业",
-    "source": "腾讯云",
-    "date": "2026-03-09",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://cloud.tencent.com/developer/article/2630710"
   }
 ]
