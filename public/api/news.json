@@ -1,5 +1,35 @@
 [
   {
+    "id": 1773292271725,
+    "title": "OpenAI推出GPT-5.5 Turbo：推理速度提升3倍，成本降低50%",
+    "summary": "OpenAI正式发布GPT-5.5 Turbo模型，在保持GPT-5.4强大能力的同时，推理速度提升3倍，API调用成本降低50%。新模型优化了长文本处理能力，支持最高200万Token上下文窗口，专为大规模企业应用设计。",
+    "category": "AI模型",
+    "source": "OpenAI",
+    "date": "2026-03-12",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://openai.com/index/gpt-5-5-turbo/"
+  },
+  {
+    "id": 1773292271726,
+    "title": "Google发布Gemini 3.5：多模态能力全面超越GPT-5.5",
+    "summary": "Google DeepMind发布Gemini 3.5系列模型，在图像理解、视频分析和代码生成等多模态任务上全面超越GPT-5.5。新版本支持实时视频对话和屏幕共享功能，开发者API已同步开放，定价较上代降低40%。",
+    "category": "AI模型",
+    "source": "Google DeepMind",
+    "date": "2026-03-12",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://deepmind.google/models/gemini-3-5/"
+  },
+  {
+    "id": 1773292271727,
+    "title": "Anthropic Claude 4.0泄露：据称具备自主Agent能力",
+    "summary": "据内部消息，Anthropic即将发布Claude 4.0，该模型将具备自主Agent能力，可独立完成复杂的多步骤任务。新功能包括自动浏览网页、编写和测试代码、管理文件系统等，预计将在本月底正式发布。",
+    "category": "AI趋势",
+    "source": "TechCrunch",
+    "date": "2026-03-12",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://techcrunch.com/2026/03/12/anthropic-claude-4-agent-capabilities/"
+  },
+  {
     "id": 1773290338708,
     "title": "NVIDIA GTC 2026发布Feynman架构：1.6nm工艺AI芯片震撼登场",
     "summary": "NVIDIA在GTC 2026大会上正式揭晓Feynman下一代AI芯片架构，采用台积电1.6nm A16工艺和背面供电技术。新架构集成Groq LPU技术，专为OpenAI等大模型优化，标志着AI算力进入新纪元。",
@@ -168,15 +198,5 @@
     "date": "2026-03-10",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://apnews.com/article/pentagon-ai-anthropic-claude-dario-amodei-openai-d4608c7dd139245ac8ad94d5427c505a"
-  },
-  {
-    "id": 1773115871780,
-    "title": "NVIDIA认证AI数据中心扩展至印度和中东，15国加速布局",
-    "summary": "NVIDIA认证AI数据中心于2026年3月在孟买、阿联酋和沙特阿拉伯正式启用。随着亚洲和中东各国政府减少对美云服务依赖，全球已有15个国家正在建设NVIDIA GPU数据中心，AI基础设施竞争进入白热化阶段。",
-    "category": "产业",
-    "source": "Via News",
-    "date": "2026-03-10",
-    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
-    "url": "https://via.news/technology-infrastructure/nvidia-gpu-data-centers-expand-to-india-and-gulf-states-as-15-nations-build"
   }
 ]
