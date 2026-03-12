@@ -22,27 +22,27 @@ const updatedDownloads = downloads.map(app => {
 // 获取当前日期
 const today = new Date().toISOString().split('T')[0];
 
-// 最新AI资讯（2026年3月10日更新）
+// 最新AI资讯（2026年3月12日更新）
 const newArticles = [
   {
     "id": Date.now(),
-    "title": "谷歌Gemini 3 Pro预览版正式停用，开发者迁移至Gemini 3.1 Pro",
-    "summary": "谷歌于3月9日正式停用Gemini 3 Pro预览版，要求所有开发者迁移至功能更强大的Gemini 3.1 Pro。新版本在多模态理解和长文本处理方面实现显著提升，支持更复杂的推理任务。",
-    "category": "AI模型",
-    "source": "Google",
+    "title": "NVIDIA GTC 2026发布Feynman架构：1.6nm工艺AI芯片震撼登场",
+    "summary": "NVIDIA在GTC 2026大会上正式揭晓Feynman下一代AI芯片架构，采用台积电1.6nm A16工艺和背面供电技术。新架构集成Groq LPU技术，专为OpenAI等大模型优化，标志着AI算力进入新纪元。",
+    "category": "产业",
+    "source": "NVIDIA",
     "date": today,
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://xix.ai/zh/live"
+    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
+    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/"
   },
   {
     "id": Date.now() + 1,
-    "title": "DeepSeek V4多模态模型即将发布，支持图像视频文本生成",
-    "summary": "全新多模态AI模型DeepSeek V4即将正式发布，该模型支持图像、视频及文本生成，将在多模态AI领域与GPT-5.4展开激烈竞争，标志着中国AI技术的重大突破。",
-    "category": "AI模型",
-    "source": "DeepSeek",
+    "title": "腾讯CodeBuddy发布：超90%工程师已使用AI编码助手",
+    "summary": "腾讯正式宣布推出CodeBuddy云代码助手，基于自身实践经验打造。目前腾讯已有超过90%的工程师借助AI进行编码，该工具支持多种形态，面向企业及程序员提供专业服务。",
+    "category": "AI趋势",
+    "source": "新华网",
     "date": today,
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://xix.ai/zh/live"
+    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html"
   }
 ];
 
