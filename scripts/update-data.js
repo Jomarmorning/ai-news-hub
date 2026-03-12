@@ -22,27 +22,27 @@ const updatedDownloads = downloads.map(app => {
 // 获取当前日期
 const today = new Date().toISOString().split('T')[0];
 
-// 最新AI资讯（2026年3月12日更新）
+// 最新AI资讯（2026年3月13日更新）
 const newArticles = [
   {
     "id": Date.now(),
-    "title": "NVIDIA GTC 2026发布Feynman架构：1.6nm工艺AI芯片震撼登场",
-    "summary": "NVIDIA在GTC 2026大会上正式揭晓Feynman下一代AI芯片架构，采用台积电1.6nm A16工艺和背面供电技术。新架构集成Groq LPU技术，专为OpenAI等大模型优化，标志着AI算力进入新纪元。",
-    "category": "产业",
-    "source": "NVIDIA",
+    "title": "OpenAI发布GPT-5.6：多模态推理能力再突破",
+    "summary": "OpenAI正式发布GPT-5.6系列模型，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持实时视频对话和屏幕共享协作，API定价较GPT-5.5降低25%，已向所有开发者开放。",
+    "category": "AI模型",
+    "source": "OpenAI",
     "date": today,
-    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
-    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/"
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://openai.com/index/gpt-5-6-release/"
   },
   {
     "id": Date.now() + 1,
-    "title": "腾讯CodeBuddy发布：超90%工程师已使用AI编码助手",
-    "summary": "腾讯正式宣布推出CodeBuddy云代码助手，基于自身实践经验打造。目前腾讯已有超过90%的工程师借助AI进行编码，该工具支持多种形态，面向企业及程序员提供专业服务。",
+    "title": "Anthropic Claude 4.0 Beta开放：Agent能力引领行业",
+    "summary": "Anthropic正式开放Claude 4.0 Beta测试，该版本具备强大的自主Agent能力，可独立完成复杂的多步骤任务。新功能包括自动浏览网页、编写和测试代码、管理文件系统等，企业版已可申请试用。",
     "category": "AI趋势",
-    "source": "新华网",
+    "source": "Anthropic",
     "date": today,
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html"
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.anthropic.com/claude-4-beta"
   }
 ];
 
