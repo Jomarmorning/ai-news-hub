@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773379008293,
+    "title": "Claude 4.6正式发布：多模态推理能力大幅提升",
+    "summary": "Anthropic正式发布Claude 4.6系列模型，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持实时视频对话和屏幕共享协作，API定价较Claude 4.0降低20%，已向所有开发者开放。",
+    "category": "AI模型",
+    "source": "Anthropic",
+    "date": "2026-03-13",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.anthropic.com/claude-4-6-release/"
+  },
+  {
+    "id": 1773379008294,
+    "title": "Google Gemini 3.1 Flashlight上线：轻量级模型性能超预期",
+    "summary": "Google DeepMind发布Gemini 3.1 Flashlight轻量级模型，在保持高性能的同时大幅降低推理成本。该模型专为移动设备和边缘计算优化，在多项基准测试中超越GPT-5.3，API价格降低35%。",
+    "category": "AI模型",
+    "source": "Google DeepMind",
+    "date": "2026-03-13",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://deepmind.google/models/gemini-3-1-flashlight/"
+  },
+  {
     "id": 1773367065938,
     "title": "OpenAI与Google员工联合声援Anthropic，反对五角大楼供应链风险认定",
     "summary": "超过30名OpenAI和Google DeepMind员工签署法律声明，支持Anthropic对国防部的诉讼。此前五角大楼将Anthropic列为供应链风险企业，引发AI行业对军事化应用的激烈辩论，行业巨头罕见地站在同一阵线。",
@@ -178,25 +198,5 @@
     "date": "2026-03-11",
     "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
     "url": "https://nvidia.com/gtc-2026-blackwell-ultra"
-  },
-  {
-    "id": 1773206268334,
-    "title": "DeepSeek V4正式发布：开源多模态大模型挑战GPT-5.5",
-    "summary": "DeepSeek正式发布V4旗舰模型，这是一款万亿参数的多模态AI系统，支持文本、图像、视频生成与理解。在多项基准测试中表现优异，采用开源协议发布，标志着中国AI技术在开源领域实现重大突破。",
-    "category": "AI模型",
-    "source": "DeepSeek",
-    "date": "2026-03-11",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://deepseek.ai/v4-release"
-  },
-  {
-    "id": 1773206268333,
-    "title": "Google Gemini 3.1 Pro全面开放：多模态能力大幅提升",
-    "summary": "谷歌宣布Gemini 3.1 Pro正式向所有开发者开放，新版本在多模态理解和长文本处理方面实现显著提升。支持更复杂的推理任务和实时信息获取，API定价较预览版降低30%，进一步加剧AI模型竞争。",
-    "category": "AI模型",
-    "source": "Google DeepMind",
-    "date": "2026-03-11",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://deepmind.google/gemini-3-1-pro"
   }
 ]
