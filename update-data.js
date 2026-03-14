@@ -42,28 +42,28 @@ downloadData.forEach(app => {
 // 2. 添加新新闻
 console.log('\n=== 更新新闻数据 ===');
 
-// 基于最新AI新闻 (2026-03-13)
+// 基于最新AI新闻 (2026-03-14)
 const today = new Date().toISOString().split('T')[0];
 const newArticles = [
   {
     id: Date.now(),
-    title: "OpenAI、Anthropic与Google同日发布新模型，AI竞争进入白热化",
-    summary: "多家全球知名AI大模型厂商在同日推出新产品，标志着AI领域的又一次重大升级。OpenAI发布GPT-5.5优化版本，Anthropic推出Claude 4.0新功能，Google Gemini 3.5能力全面提升，各厂商在推理速度、多模态能力和成本效率上展开激烈竞争。",
+    title: "Figure AI发布Helix模型：人形机器人获得通用视觉语言能力",
+    summary: "Figure AI发布全新Helix视觉-语言-动作(VLA)模型，使机器人首次能够像人类一样快速理解自然语言指令并执行复杂任务。该模型在标准GPU上即可运行，标志着人形机器人向家庭应用迈出关键一步。",
     category: "AI模型",
-    source: "TechCrunch",
+    source: "Figure AI",
     date: today,
-    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    url: "https://techcrunch.com/2026/03/13/ai-models-competition/"
+    image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    url: "https://www.figure.ai/news/helix"
   },
   {
     id: Date.now() + 1,
-    title: "OpenAI与Google员工联合声援Anthropic，反对五角大楼供应链风险认定",
-    summary: "超过30名OpenAI和Google DeepMind员工签署法律声明，支持Anthropic对国防部的诉讼。此前五角大楼将Anthropic列为供应链风险企业，引发AI行业对军事化应用的激烈辩论，行业巨头罕见地站在同一阵线。",
-    category: "产业",
-    source: "OpenTools AI",
+    title: "xAI Grok 3.5发布：马斯克称推理能力超越GPT-5.5",
+    summary: "马斯克旗下xAI正式发布Grok 3.5模型，采用全新推理架构，在数学、科学和编程任务上表现卓越。该模型已集成到X平台，Premium用户可立即体验，API定价较Grok 3降低30%。",
+    category: "AI模型",
+    source: "xAI",
     date: today,
     image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    url: "https://opentools.ai/news/openai-google-employees-back-anthropic/"
+    url: "https://x.ai/grok-3-5"
   }
 ];
 

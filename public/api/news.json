@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773451715463,
+    "title": "xAI Grok 3.5发布：马斯克称推理能力超越GPT-5.5",
+    "summary": "马斯克旗下xAI正式发布Grok 3.5模型，采用全新推理架构，在数学、科学和编程任务上表现卓越。该模型已集成到X平台，Premium用户可立即体验，API定价较Grok 3降低30%。",
+    "category": "AI模型",
+    "source": "xAI",
+    "date": "2026-03-14",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://x.ai/grok-3-5"
+  },
+  {
+    "id": 1773451715462,
+    "title": "Figure AI发布Helix模型：人形机器人获得通用视觉语言能力",
+    "summary": "Figure AI发布全新Helix视觉-语言-动作(VLA)模型，使机器人首次能够像人类一样快速理解自然语言指令并执行复杂任务。该模型在标准GPU上即可运行，标志着人形机器人向家庭应用迈出关键一步。",
+    "category": "AI模型",
+    "source": "Figure AI",
+    "date": "2026-03-14",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://www.figure.ai/news/helix"
+  },
+  {
     "id": 1773406589262,
     "title": "OpenAI与Google员工联合声援Anthropic，反对五角大楼供应链风险认定",
     "summary": "超过30名OpenAI和Google DeepMind员工签署法律声明，支持Anthropic对国防部的诉讼。此前五角大楼将Anthropic列为供应链风险企业，引发AI行业对军事化应用的激烈辩论，行业巨头罕见地站在同一阵线。",
@@ -178,25 +198,5 @@
     "date": "2026-03-12",
     "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
     "url": "https://opentools.ai/news/2026-tech-layoffs-hit-45000-in-march-ai-and-automation-take-the-lead"
-  },
-  {
-    "id": 1773245187001,
-    "title": "NVIDIA发布Vera Rubin下一代AI芯片架构，GTC 2026重磅登场",
-    "summary": "NVIDIA在GTC 2026大会上正式发布Vera Rubin新一代AI芯片架构，包括Vera CPU、Rubin GPU、NVLink 6交换机等六大核心组件。新架构专为万亿参数大模型训练和推理优化，将大幅缩短训练时间并提升推理效率，Meta已宣布扩大合作部署数百万颗GPU。",
-    "category": "产业",
-    "source": "NVIDIA",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
-    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Kicks-Off-the-Next-Generation-of-AI-With-Rubin"
-  },
-  {
-    "id": 1773245187002,
-    "title": "OpenAI发布GPT-5.4版本，ChatGPT体验全面升级",
-    "summary": "OpenAI正式推出GPT-5.4版本，带来更智能、更温暖的对话体验。新版本增加了个性化功能，用户可选择不同性格模式。同时针对GPT-5发布后的混合评价进行了优化，在推理能力和交互自然度方面均有显著提升。",
-    "category": "AI模型",
-    "source": "OpenAI",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/chatgpt"
   }
 ]
