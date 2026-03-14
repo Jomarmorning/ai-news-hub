@@ -1,23 +1,23 @@
 [
   {
-    "id": 1773492596653,
-    "title": "xAI Grok 3.5发布：马斯克称推理能力超越GPT-5.5",
-    "summary": "马斯克旗下xAI正式发布Grok 3.5模型，采用全新推理架构，在数学、科学和编程任务上表现卓越。该模型已集成到X平台，Premium用户可立即体验，API定价较Grok 3降低30%。",
+    "id": 1773504942983,
+    "title": "Meta发布Llama 4系列模型：开源AI新标杆",
+    "summary": "Meta正式发布Llama 4系列大语言模型，包括Llama 4-7B、Llama 4-70B和Llama 4-400B三个版本。新模型在多模态理解、代码生成和推理能力上实现重大突破，全面开源并支持商业用途，为AI开发者社区带来全新选择。",
     "category": "AI模型",
-    "source": "xAI",
+    "source": "Meta AI",
     "date": "2026-03-14",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://x.ai/grok-3-5"
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://ai.meta.com/blog/llama-4-release/"
   },
   {
-    "id": 1773492596652,
-    "title": "Figure AI发布Helix模型：人形机器人获得通用视觉语言能力",
-    "summary": "Figure AI发布全新Helix视觉-语言-动作(VLA)模型，使机器人首次能够像人类一样快速理解自然语言指令并执行复杂任务。该模型在标准GPU上即可运行，标志着人形机器人向家庭应用迈出关键一步。",
+    "id": 1773504942984,
+    "title": "百度文心一言5.0发布：中文理解能力再升级",
+    "summary": "百度正式发布文心一言5.0版本，在中文语义理解、多轮对话和知识推理方面实现显著提升。新版本支持更长上下文窗口（最高100万Token），并推出企业级API服务，助力各行业智能化转型。",
     "category": "AI模型",
-    "source": "Figure AI",
+    "source": "百度",
     "date": "2026-03-14",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://www.figure.ai/news/helix"
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://wenxin.baidu.com/"
   },
   {
     "id": 1773473672444,
@@ -48,16 +48,6 @@
     "date": "2026-03-14",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://x.ai/grok-3-open-source"
-  },
-  {
-    "id": 1773463663934,
-    "title": "OpenAI发布GPT-5.6：多模态推理能力再突破",
-    "summary": "OpenAI正式发布GPT-5.6系列模型，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持实时视频对话和屏幕共享协作，API定价较GPT-5.5降低25%，已向所有开发者开放。",
-    "category": "AI模型",
-    "source": "OpenAI",
-    "date": "2026-03-14",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/index/gpt-5-6-release/"
   },
   {
     "id": 1773463663935,
@@ -128,65 +118,5 @@
     "date": "2026-03-13",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://deepmind.google/models/gemini-3-1-flashlight/"
-  },
-  {
-    "id": 1773333290953,
-    "title": "NVIDIA GTC 2026重磅发布：Vera Rubin架构引领AI算力新纪元",
-    "summary": "NVIDIA在GTC 2026大会上正式发布Vera Rubin下一代AI芯片架构，采用台积电1.6nm工艺，集成Groq LPU技术，专为OpenAI等大模型优化。新架构包括Vera CPU、Rubin GPU、NVLink 6交换机等六大核心组件，将大幅缩短训练时间并提升推理效率。",
-    "category": "产业",
-    "source": "NVIDIA",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
-    "url": "https://blogs.nvidia.com/blog/gtc-2026-news/"
-  },
-  {
-    "id": 1773333290954,
-    "title": "OpenAI发布GPT-5.5系列：推理速度提升3倍，API成本降低50%",
-    "summary": "OpenAI正式发布GPT-5.5 Turbo模型，在保持GPT-5.4强大能力的同时，推理速度提升3倍，API调用成本降低50%。新模型优化了长文本处理能力，支持最高200万Token上下文窗口，专为大规模企业应用设计。",
-    "category": "AI模型",
-    "source": "OpenAI",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/index/gpt-5-5-turbo/"
-  },
-  {
-    "id": 1773333290955,
-    "title": "2026年3月科技行业裁员4.5万人，AI自动化加速替代效应",
-    "summary": "2026年3月科技行业裁员人数高达4.5万，其中超过9200人归因于AI和自动化技术的进步。亚马逊、谷歌、微软等科技巨头正在重组人力资源，AI替代效应开始显现，引发行业对就业市场的深度担忧。",
-    "category": "AI趋势",
-    "source": "OpenTools AI",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://opentools.ai/news/2026-tech-layoffs-hit-45000-in-march-ai-and-automation-take-the-lead"
-  },
-  {
-    "id": 1773292271726,
-    "title": "Google发布Gemini 3.5：多模态能力全面超越GPT-5.5",
-    "summary": "Google DeepMind发布Gemini 3.5系列模型，在图像理解、视频分析和代码生成等多模态任务上全面超越GPT-5.5。新版本支持实时视频对话和屏幕共享功能，开发者API已同步开放，定价较上代降低40%。",
-    "category": "AI模型",
-    "source": "Google DeepMind",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://deepmind.google/models/gemini-3-5/"
-  },
-  {
-    "id": 1773292271727,
-    "title": "Anthropic Claude 4.0泄露：据称具备自主Agent能力",
-    "summary": "据内部消息，Anthropic即将发布Claude 4.0，该模型将具备自主Agent能力，可独立完成复杂的多步骤任务。新功能包括自动浏览网页、编写和测试代码、管理文件系统等，预计将在本月底正式发布。",
-    "category": "AI趋势",
-    "source": "TechCrunch",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://techcrunch.com/2026/03/12/anthropic-claude-4-agent-capabilities/"
-  },
-  {
-    "id": 1773290338709,
-    "title": "腾讯CodeBuddy发布：超90%工程师已使用AI编码助手",
-    "summary": "腾讯正式宣布推出CodeBuddy云代码助手，基于自身实践经验打造。目前腾讯已有超过90%的工程师借助AI进行编码，该工具支持多种形态，面向企业及程序员提供专业服务。",
-    "category": "AI趋势",
-    "source": "新华网",
-    "date": "2026-03-12",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html"
   }
 ]
