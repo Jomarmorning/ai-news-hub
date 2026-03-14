@@ -1,5 +1,35 @@
 [
   {
+    "id": 1773504957316,
+    "title": "OpenAI发布GPT-5.4：支持原生计算机操作与百万Token上下文",
+    "summary": "OpenAI正式发布GPT-5.4模型，支持原生计算机操作能力，可自动执行复杂任务。新模型支持最高100万Token的上下文窗口，在专业知识基准测试中达到83%准确率，专为金融建模、法律文档起草等专业工作流优化。",
+    "category": "AI模型",
+    "source": "OpenAI",
+    "date": "2026-03-15",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://openai.com/index/gpt-5-4-release/"
+  },
+  {
+    "id": 1773504957317,
+    "title": "Google Gemini深度集成Workspace：Docs、Sheets、Slides全面AI化",
+    "summary": "Google宣布Gemini AI能力全面接入Workspace办公套件，用户可在Docs中智能写作、在Sheets中自动生成表格和分析数据、在Slides中设计演示文稿。Gemini还能基于个人数据在Drive中智能搜索文件，大幅提升办公效率。",
+    "category": "产业",
+    "source": "Google",
+    "date": "2026-03-15",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/"
+  },
+  {
+    "id": 1773504957318,
+    "title": "Anthropic发布企业AI Agent构建指南：Claude引领智能体时代",
+    "summary": "Anthropic发布2026年企业AI Agent构建报告，揭示Claude模型如何驱动下一代自主系统。报告涵盖Haiku、Sonnet、Opus三个层级的工具使用能力、MCP协议集成、Claude Code等特性，展示企业如何利用Claude构建智能工作流自动化。",
+    "category": "AI趋势",
+    "source": "Anthropic",
+    "date": "2026-03-15",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026"
+  },
+  {
     "id": 1773504942983,
     "title": "Meta发布Llama 4系列模型：开源AI新标杆",
     "summary": "Meta正式发布Llama 4系列大语言模型，包括Llama 4-7B、Llama 4-70B和Llama 4-400B三个版本。新模型在多模态理解、代码生成和推理能力上实现重大突破，全面开源并支持商业用途，为AI开发者社区带来全新选择。",
