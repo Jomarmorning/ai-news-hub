@@ -44,28 +44,28 @@ async function main() {
   // 2. 添加新新闻
   console.log('\n=== 更新新闻数据 ===');
 
-  // 基于最新AI新闻 (2026-03-14)
+  // 基于最新AI新闻 (2026-03-15)
   const today = new Date().toISOString().split('T')[0];
   const newArticles = [
     {
       id: Date.now(),
-      title: "Figure AI发布Helix模型：人形机器人获得通用视觉语言能力",
-      summary: "Figure AI发布全新Helix视觉-语言-动作(VLA)模型，使机器人首次能够像人类一样快速理解自然语言指令并执行复杂任务。该模型在标准GPU上即可运行，标志着人形机器人向家庭应用迈出关键一步。",
-      category: "AI模型",
-      source: "Figure AI",
+      title: "阿里巴巴发布Page-Agent：用自然语言控制网页界面的GUI代理",
+      summary: "阿里巴巴在GitHub Trending上发布了名为Page-Agent的开源项目，这是一个基于JavaScript的GUI代理，允许用户通过自然语言指令控制网页界面。该项目支持自动化网页操作、表单填写、数据抓取等功能，为AI Agent应用开辟了新方向。",
+      category: "AI趋势",
+      source: "阿里巴巴",
       date: today,
-      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-      url: "https://www.figure.ai/news/helix"
+      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      url: "https://github.com/alibaba/page-agent"
     },
     {
       id: Date.now() + 1,
-      title: "xAI Grok 3.5发布：马斯克称推理能力超越GPT-5.5",
-      summary: "马斯克旗下xAI正式发布Grok 3.5模型，采用全新推理架构，在数学、科学和编程任务上表现卓越。该模型已集成到X平台，Premium用户可立即体验，API定价较Grok 3降低30%。",
-      category: "AI模型",
-      source: "xAI",
+      title: "工信部：人工智能正成为经济高质量发展核心引擎",
+      summary: "工业和信息化部部长李乐成在两会期间表示，中国AI模型走向世界，过去一年我国开源模型下载量全球居首。政府工作报告提出深化拓展「人工智能+」，到「十五五」末，人工智能相关产业规模将增长到10万亿元。",
+      category: "产业",
+      source: "工信部/央视",
       date: today,
       image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      url: "https://x.ai/grok-3-5"
+      url: "https://news.cctv.com/2026/03/05/ARTIoHrL6Xu907YW73AfKhow260305.shtml"
     }
   ];
 
