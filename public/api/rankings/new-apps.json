@@ -1,42 +1,108 @@
 [
   {
-    "name": "Kimi K2",
-    "description": "Moonshot最新多模态AI助手",
-    "category": "AI对话",
-    "icon": "https://kimi.moonshot.cn/favicon.ico",
-    "downloads": 1263980,
-    "trend": 11,
-    "releasedAt": "2026-02-24T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Pika 2.0",
-    "description": "新一代AI视频生成工具",
-    "category": "AI视频",
-    "icon": "https://pika.art/favicon.ico",
-    "downloads": 1038008,
-    "trend": 19,
-    "releasedAt": "2026-02-21T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Ideogram 2.0",
-    "description": "文本渲染增强的AI绘画工具",
-    "category": "AI绘画",
-    "icon": "https://ideogram.ai/favicon.ico",
-    "downloads": 886530,
-    "trend": -9,
-    "releasedAt": "2026-02-23T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "AutoGen Studio",
-    "description": "微软多智能体协作平台",
+    "name": "Claude Code to Figma",
+    "description": "Convert code into editable Figma designs in seconds",
     "category": "开发工具",
-    "icon": "https://microsoft.github.io/autogen/favicon.ico",
-    "downloads": 753601,
-    "trend": 116,
-    "releasedAt": "2026-02-19T00:00:00.000Z",
+    "icon": "https://ph-files.imgix.net/1025e81e-fbeb-4ce1-b991-819ebb3ad19d.png?auto=format",
+    "downloads": 949415,
+    "trend": 75,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SCIZFS6GQ653UM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BookShorts.ai",
+    "description": "Read less. Learn more. ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/feeec3d2-b1bc-46d8-a721-2093f10084e7.svg?auto=format",
+    "downloads": 848208,
+    "trend": 36,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WJEU2UQUCCJ2A6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LeadOS",
+    "description": "Your Autonomous AI Sales Department.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/1ea1adc8-2a7e-47fc-a3fa-a93cae2182c3.jpeg?auto=format",
+    "downloads": 151213,
+    "trend": 99,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PEV35454JORMWB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kohorta",
+    "description": "The all-in-one platform for independent trainers and coaches",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3f1776e1-d15b-470a-b88a-9ac73fa286e9.png?auto=format",
+    "downloads": 446615,
+    "trend": 84,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VCZXACVU4YU6IL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "HelloManny",
+    "description": "AI that handles customer questions for small businesses",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3834d249-7c8b-497c-b47f-efc39dbed266.png?auto=format",
+    "downloads": 919009,
+    "trend": 56,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EDACXGOGFRTJOA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Torensa",
+    "description": "Smart automation for busy people",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/d3b669ad-aea4-4f97-ba79-05f0483e9e0f.vnd.microsoft.icon?auto=format",
+    "downloads": 605582,
+    "trend": 83,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SAP5DAAGPCMBEZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Infinite ATPL",
+    "description": "AI-powered ATPL study companion & unlimited aviation lessons",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d1996815-75e1-4092-99d4-12e1d21e167c.png?auto=format",
+    "downloads": 824982,
+    "trend": 42,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YJIJ3E7PS535NE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OwnInvoice by Grit Software",
+    "description": "Desktop invoicing you own forever - no subscriptions",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/7b081878-a7ca-446c-bb2d-20eb783efc8e.png?auto=format",
+    "downloads": 774725,
+    "trend": 68,
+    "releasedAt": "2026-03-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G4HERSEMGULFXN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Perplexity Pro",
+    "description": "AI搜索引擎高级版",
+    "category": "AI搜索",
+    "icon": "https://www.perplexity.ai/favicon.ico",
+    "downloads": 363520,
+    "trend": 102,
+    "releasedAt": "2026-02-26T00:00:00.000Z",
     "isNew": true
   },
   {
@@ -47,56 +113,6 @@
     "downloads": 691350,
     "trend": 25,
     "releasedAt": "2026-02-25T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Stable Audio 2.0",
-    "description": "Stability AI音乐生成工具",
-    "category": "AI音频",
-    "icon": "https://www.stableaudio.com/favicon.ico",
-    "downloads": 587308,
-    "trend": 51,
-    "releasedAt": "2026-02-17T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Luma Dream Machine",
-    "description": "高质量AI视频生成",
-    "category": "AI视频",
-    "icon": "https://lumalabs.ai/favicon.ico",
-    "downloads": 518569,
-    "trend": 21,
-    "releasedAt": "2026-02-22T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Cohere Command R+",
-    "description": "企业级RAG增强模型",
-    "category": "AI对话",
-    "icon": "https://cohere.com/favicon.ico",
-    "downloads": 470396,
-    "trend": -12,
-    "releasedAt": "2026-02-20T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Udio Beta",
-    "description": "AI音乐创作平台",
-    "category": "AI音频",
-    "icon": "https://www.udio.com/favicon.ico",
-    "downloads": 416315,
-    "trend": 84,
-    "releasedAt": "2026-02-18T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Perplexity Pro",
-    "description": "AI搜索引擎高级版",
-    "category": "AI搜索",
-    "icon": "https://www.perplexity.ai/favicon.ico",
-    "downloads": 363520,
-    "trend": 102,
-    "releasedAt": "2026-02-26T00:00:00.000Z",
     "isNew": true
   }
 ]
