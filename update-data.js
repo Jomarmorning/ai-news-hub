@@ -1,100 +1,80 @@
 const fs = require('fs');
-const path = require('path');
 const { updateNewApps } = require('./scripts/fetchNewApps');
 
 async function main() {
-  // 读取现有数据
-  const downloadPath = path.join(__dirname, 'public/api/rankings/download.json');
-  const newsPath = path.join(__dirname, 'public/api/news.json');
+  // 1. 更新 download.json
+  const downloadData = JSON.parse(fs.readFileSync('./public/api/rankings/download.json', 'utf8'));
 
-  const downloadData = JSON.parse(fs.readFileSync(downloadPath, 'utf8'));
-  const newsData = JSON.parse(fs.readFileSync(newsPath, 'utf8'));
-
-  // 记录更新摘要
-  const updateSummary = {
-    downloads: [],
-    news: {
-      added: [],
-      removed: []
-    }
-  };
-
-  // 1. 更新download数据：每个应用downloads增加随机值(500-2000)，trend更新为随机值(-10到40)
-  console.log('=== 更新下载数据 ===');
-  downloadData.forEach(app => {
-    const oldDownloads = app.downloads;
-    const oldTrend = app.trend;
-
-    // 增加随机下载量 (500-2000)
-    const downloadIncrease = Math.floor(Math.random() * 1500) + 500;
-    app.downloads += downloadIncrease;
-
-    // 更新trend为随机值 (-10到40)
-    app.trend = Math.floor(Math.random() * 51) - 10;
-
-    updateSummary.downloads.push({
-      name: app.name,
-      downloads: { old: oldDownloads, new: app.downloads, increase: downloadIncrease },
-      trend: { old: oldTrend, new: app.trend }
-    });
-
-    console.log(`${app.name}: downloads ${oldDownloads} -> ${app.downloads} (+${downloadIncrease}), trend ${oldTrend} -> ${app.trend}`);
+  const updatedDownloads = downloadData.map(app => {
+    const downloadIncrease = Math.floor(Math.random() * 1501) + 500; // 500-2000
+    const newTrend = Math.floor(Math.random() * 51) - 10; // -10 to 40
+    return {
+      ...app,
+      downloads: app.downloads + downloadIncrease,
+      trend: newTrend
+    };
   });
 
-  // 2. 添加新新闻
-  console.log('\n=== 更新新闻数据 ===');
+  fs.writeFileSync('./public/api/rankings/download.json', JSON.stringify(updatedDownloads, null, 2));
 
-  // 基于最新AI新闻 (2026-03-15)
+  // 计算统计数据
+  let totalDownloadIncrease = 0;
+  for (let i = 0; i < updatedDownloads.length; i++) {
+    totalDownloadIncrease += (updatedDownloads[i].downloads - downloadData[i].downloads);
+  }
+  console.log('Download data updated:');
+  console.log('- Total download increase: ' + totalDownloadIncrease.toLocaleString());
+  console.log('- Apps updated: ' + updatedDownloads.length);
+
+  // 2. 更新 news.json
+  const newsData = JSON.parse(fs.readFileSync('./public/api/news.json', 'utf8'));
+
+  // 生成新的新闻条目
+  const now = Date.now();
   const today = new Date().toISOString().split('T')[0];
+
   const newArticles = [
     {
-      id: Date.now(),
-      title: "阿里巴巴发布Page-Agent：用自然语言控制网页界面的GUI代理",
-      summary: "阿里巴巴在GitHub Trending上发布了名为Page-Agent的开源项目，这是一个基于JavaScript的GUI代理，允许用户通过自然语言指令控制网页界面。该项目支持自动化网页操作、表单填写、数据抓取等功能，为AI Agent应用开辟了新方向。",
-      category: "AI趋势",
-      source: "阿里巴巴",
-      date: today,
-      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      url: "https://github.com/alibaba/page-agent"
+      "id": now,
+      "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
+      "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
+      "category": "AI趋势",
+      "source": "36氪/Anthropic",
+      "date": today,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+      "url": "https://www.36kr.com/p/3719688044148355"
     },
     {
-      id: Date.now() + 1,
-      title: "工信部：人工智能正成为经济高质量发展核心引擎",
-      summary: "工业和信息化部部长李乐成在两会期间表示，中国AI模型走向世界，过去一年我国开源模型下载量全球居首。政府工作报告提出深化拓展「人工智能+」，到「十五五」末，人工智能相关产业规模将增长到10万亿元。",
-      category: "产业",
-      source: "工信部/央视",
-      date: today,
-      image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-      url: "https://news.cctv.com/2026/03/05/ARTIoHrL6Xu907YW73AfKhow260305.shtml"
+      "id": now + 1,
+      "title": "2026年消费创新案例揭晓：AI助手一句话下单超1.2亿次",
+      "summary": "2026年消费创新案例正式揭晓，AI技术正在深度融入日常生活。从'AI助手一句话下单超1.2亿次'到'具身智能机器人持证上岗智慧药房'，从'AI眼镜实现实时翻译'到'智能客服解决率突破95%'，AI正在从概念走向大规模商业应用。",
+      "category": "产业",
+      "source": "每日经济新闻",
+      "date": today,
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+      "url": "https://www.nbd.com.cn/"
+    },
+    {
+      "id": now + 2,
+      "title": "金华人工智能大会：AI产业化加速，2026将是AI大爆发之年",
+      "summary": "3月14日，'金华·金漪湖'2026人工智能产业融合大会成功举办。与会专家表示，最近的OpenClaw等创新让所有人看到，人工智能不但离我们越来越近，而且就在我们身边。2026年将会是人工智能大爆发的一年，AI产业化进程正在全面加速。",
+      "category": "产业",
+      "source": "上海证券报",
+      "date": today,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+      "url": "https://paper.cnstock.com/"
     }
   ];
 
-  // 添加新文章到开头
-  newArticles.forEach(article => {
-    newsData.unshift(article);
-    updateSummary.news.added.push(article.title);
-    console.log(`添加新文章: ${article.title}`);
-  });
+  // 添加新文章到开头，并限制最多20条
+  const updatedNews = [...newArticles, ...newsData].slice(0, 20);
 
-  // 删除旧文章，保持最多20条
-  const maxNewsCount = 20;
-  if (newsData.length > maxNewsCount) {
-    const removed = newsData.splice(maxNewsCount);
-    removed.forEach(article => {
-      updateSummary.news.removed.push(article.title || 'Untitled');
-      console.log(`删除旧文章: ${article.title || 'Untitled'}`);
-    });
-  }
+  fs.writeFileSync('./public/api/news.json', JSON.stringify(updatedNews, null, 2));
 
-  console.log(`\n新闻总数: ${newsData.length}条`);
-
-  // 保存更新后的文件
-  fs.writeFileSync(downloadPath, JSON.stringify(downloadData, null, 2));
-  fs.writeFileSync(newsPath, JSON.stringify(newsData, null, 2));
-
-  // 保存更新摘要
-  const summaryPath = path.join(__dirname, 'update-summary.json');
-  fs.writeFileSync(summaryPath, JSON.stringify(updateSummary, null, 2));
+  console.log('\nNews data updated:');
+  console.log('- New articles added: ' + newArticles.length);
+  console.log('- Total articles: ' + updatedNews.length);
+  console.log('- Old articles removed: ' + Math.max(0, newsData.length + newArticles.length - 20));
 
   // 3. 更新新发行AI应用数据
   console.log('\n=== 更新新发行AI应用数据 ===');
@@ -103,11 +83,6 @@ async function main() {
   } catch (e) {
     console.log('更新新发行应用数据失败:', e.message);
   }
-
-  console.log('\n=== 更新完成 ===');
-  console.log(`下载数据已更新: ${downloadData.length}个应用`);
-  console.log(`新闻数据已更新: 添加${newArticles.length}条，删除${updateSummary.news.removed.length}条，共${newsData.length}条`);
-  console.log(`更新摘要已保存到: ${summaryPath}`);
 }
 
 main().catch(console.error);
