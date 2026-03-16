@@ -1,5 +1,25 @@
 [
   {
+    "id": 1773627768065,
+    "title": "工信部：人工智能正成为经济高质量发展核心引擎",
+    "summary": "工业和信息化部部长李乐成在两会期间表示，中国AI模型走向世界，过去一年我国开源模型下载量全球居首。政府工作报告提出深化拓展「人工智能+」，到「十五五」末，人工智能相关产业规模将增长到10万亿元。",
+    "category": "产业",
+    "source": "工信部/央视",
+    "date": "2026-03-16",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://news.cctv.com/2026/03/05/ARTIoHrL6Xu907YW73AfKhow260305.shtml"
+  },
+  {
+    "id": 1773627768064,
+    "title": "阿里巴巴发布Page-Agent：用自然语言控制网页界面的GUI代理",
+    "summary": "阿里巴巴在GitHub Trending上发布了名为Page-Agent的开源项目，这是一个基于JavaScript的GUI代理，允许用户通过自然语言指令控制网页界面。该项目支持自动化网页操作、表单填写、数据抓取等功能，为AI Agent应用开辟了新方向。",
+    "category": "AI趋势",
+    "source": "阿里巴巴",
+    "date": "2026-03-16",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://github.com/alibaba/page-agent"
+  },
+  {
     "id": 1773579105778,
     "title": "工信部：人工智能正成为经济高质量发展核心引擎",
     "summary": "工业和信息化部部长李乐成在两会期间表示，中国AI模型走向世界，过去一年我国开源模型下载量全球居首。政府工作报告提出深化拓展「人工智能+」，到「十五五」末，人工智能相关产业规模将增长到10万亿元。",
@@ -178,25 +198,5 @@
     "date": "2026-03-13",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://opentools.ai/news/openai-google-employees-back-anthropic/"
-  },
-  {
-    "id": 1773406589261,
-    "title": "OpenAI、Anthropic与Google同日发布新模型，AI竞争进入白热化",
-    "summary": "多家全球知名AI大模型厂商在同日推出新产品，标志着AI领域的又一次重大升级。OpenAI发布GPT-5.5优化版本，Anthropic推出Claude 4.0新功能，Google Gemini 3.5能力全面提升，各厂商在推理速度、多模态能力和成本效率上展开激烈竞争。",
-    "category": "AI模型",
-    "source": "TechCrunch",
-    "date": "2026-03-13",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://techcrunch.com/2026/03/13/ai-models-competition/"
-  },
-  {
-    "id": 1773379008293,
-    "title": "Claude 4.6正式发布：多模态推理能力大幅提升",
-    "summary": "Anthropic正式发布Claude 4.6系列模型，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持实时视频对话和屏幕共享协作，API定价较Claude 4.0降低20%，已向所有开发者开放。",
-    "category": "AI模型",
-    "source": "Anthropic",
-    "date": "2026-03-13",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.anthropic.com/claude-4-6-release/"
   }
 ]
