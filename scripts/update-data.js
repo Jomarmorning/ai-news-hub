@@ -22,27 +22,27 @@ const updatedDownloads = downloads.map(app => {
 // 获取当前日期
 const today = new Date().toISOString().split('T')[0];
 
-// 最新AI资讯（2026年3月13日更新）
+// 最新AI资讯（2026年3月16日更新）
 const newArticles = [
   {
     "id": Date.now(),
-    "title": "OpenAI发布GPT-5.6：多模态推理能力再突破",
-    "summary": "OpenAI正式发布GPT-5.6系列模型，在图像理解、视频分析和跨模态推理方面实现重大突破。新模型支持实时视频对话和屏幕共享协作，API定价较GPT-5.5降低25%，已向所有开发者开放。",
+    "title": "2026年3月AI模型大战：GPT-5.4、Claude 4.6与Gemini 3.1正面对决",
+    "summary": "2026年3月成为人工智能历史上最爆炸性的月份之一。OpenAI、Anthropic、Google DeepMind和DeepSeek在两周内相继发布旗舰模型。GPT-5.4在多模态推理方面表现卓越，Claude 4.6在代码生成和逻辑推理上领先，Gemini 3.1则在长文本处理和生态系统整合上展现优势。",
     "category": "AI模型",
-    "source": "OpenAI",
+    "source": "Tech Insider",
     "date": today,
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://openai.com/index/gpt-5-6-release/"
+    "url": "https://tech-insider.org/chatgpt-vs-claude-vs-deepseek-vs-gemini-2026/"
   },
   {
     "id": Date.now() + 1,
-    "title": "Anthropic Claude 4.0 Beta开放：Agent能力引领行业",
-    "summary": "Anthropic正式开放Claude 4.0 Beta测试，该版本具备强大的自主Agent能力，可独立完成复杂的多步骤任务。新功能包括自动浏览网页、编写和测试代码、管理文件系统等，企业版已可申请试用。",
-    "category": "AI趋势",
-    "source": "Anthropic",
+    "title": "腾讯超90%工程师借助AI编码，CodeBuddy助力企业智能化",
+    "summary": "腾讯相关负责人表示，腾讯有超过90%的工程师正在借助AI进行编码，并基于自身实践推出支持多种形态的专业工具CodeBuddy（云代码助手），面向企业及程序员提供服务。AI辅助让工程师专注于更具创造性的工作，大幅提升开发效率。",
+    "category": "产业",
+    "source": "新华网",
     "date": today,
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.anthropic.com/claude-4-beta"
+    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html"
   }
 ];
 
