@@ -1,5 +1,35 @@
 [
   {
+    "id": 1773712924179,
+    "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
+    "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
+    "category": "AI趋势",
+    "source": "36氪/Anthropic",
+    "date": "2026-03-17",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.36kr.com/p/3719688044148355"
+  },
+  {
+    "id": 1773712924180,
+    "title": "2026年消费创新案例揭晓：AI助手一句话下单超1.2亿次",
+    "summary": "2026年消费创新案例正式揭晓，AI技术正在深度融入日常生活。从'AI助手一句话下单超1.2亿次'到'具身智能机器人持证上岗智慧药房'，从'AI眼镜实现实时翻译'到'智能客服解决率突破95%'，AI正在从概念走向大规模商业应用。",
+    "category": "产业",
+    "source": "每日经济新闻",
+    "date": "2026-03-17",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://www.nbd.com.cn/"
+  },
+  {
+    "id": 1773712924181,
+    "title": "金华人工智能大会：AI产业化加速，2026将是AI大爆发之年",
+    "summary": "3月14日，'金华·金漪湖'2026人工智能产业融合大会成功举办。与会专家表示，最近的OpenClaw等创新让所有人看到，人工智能不但离我们越来越近，而且就在我们身边。2026年将会是人工智能大爆发的一年，AI产业化进程正在全面加速。",
+    "category": "产业",
+    "source": "上海证券报",
+    "date": "2026-03-17",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://paper.cnstock.com/"
+  },
+  {
     "id": 1773666585112,
     "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
     "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
@@ -168,35 +198,5 @@
     "date": "2026-03-15",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/"
-  },
-  {
-    "id": 1773504957318,
-    "title": "Anthropic发布企业AI Agent构建指南：Claude引领智能体时代",
-    "summary": "Anthropic发布2026年企业AI Agent构建报告，揭示Claude模型如何驱动下一代自主系统。报告涵盖Haiku、Sonnet、Opus三个层级的工具使用能力、MCP协议集成、Claude Code等特性，展示企业如何利用Claude构建智能工作流自动化。",
-    "category": "AI趋势",
-    "source": "Anthropic",
-    "date": "2026-03-15",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026"
-  },
-  {
-    "id": 1773504942983,
-    "title": "Meta发布Llama 4系列模型：开源AI新标杆",
-    "summary": "Meta正式发布Llama 4系列大语言模型，包括Llama 4-7B、Llama 4-70B和Llama 4-400B三个版本。新模型在多模态理解、代码生成和推理能力上实现重大突破，全面开源并支持商业用途，为AI开发者社区带来全新选择。",
-    "category": "AI模型",
-    "source": "Meta AI",
-    "date": "2026-03-14",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://ai.meta.com/blog/llama-4-release/"
-  },
-  {
-    "id": 1773504942984,
-    "title": "百度文心一言5.0发布：中文理解能力再升级",
-    "summary": "百度正式发布文心一言5.0版本，在中文语义理解、多轮对话和知识推理方面实现显著提升。新版本支持更长上下文窗口（最高100万Token），并推出企业级API服务，助力各行业智能化转型。",
-    "category": "AI模型",
-    "source": "百度",
-    "date": "2026-03-14",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://wenxin.baidu.com/"
   }
 ]
