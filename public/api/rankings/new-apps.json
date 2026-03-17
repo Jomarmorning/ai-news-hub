@@ -1,5 +1,65 @@
 [
   {
+    "name": "VoxScriber",
+    "description": "Transcribe audio, video & YouTube with 3 AI engines",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/ebd2b54e-57e4-4fca-a468-8c27ff39fded.png?auto=format",
+    "downloads": 531512,
+    "trend": 35,
+    "releasedAt": "2026-03-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7AARCUMFTJTRJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LinkIntel",
+    "description": "AI backlink intelligence that finds and wins links for you",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e14cccbc-974a-4a78-b70f-1bd7ebfa0794.png?auto=format",
+    "downloads": 771449,
+    "trend": 74,
+    "releasedAt": "2026-03-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YQTPKIFYT3OF7U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BribeAI",
+    "description": "Confess your sins to AI. Pay a bribe. Pray for survival.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b126c119-ba1f-4fa2-bcbf-e5efc2fa2fbe.png?auto=format",
+    "downloads": 922923,
+    "trend": 20,
+    "releasedAt": "2026-03-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TIZUX5JHZHFX3W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Project Hermes-Suhail",
+    "description": "Ending water scarcity with a 900MW Atmospheric Canal.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/92e6ffe4-ccf6-4168-afb4-ee82b1d90637.jpeg?auto=format",
+    "downloads": 837735,
+    "trend": 61,
+    "releasedAt": "2026-03-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DPDAMTWY7MI462?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "HIPAA Agent",
+    "description": "Free HIPAA compliance API for healthcare AI developers",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/6a5354af-2309-45d9-8697-595fc1953499.png?auto=format",
+    "downloads": 407973,
+    "trend": 70,
+    "releasedAt": "2026-03-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UNWVZUREFQ5AIR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Adaptive — The Agent Computer",
     "description": "The computer for AI to get things done",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/B4SQU42CB7HAKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "JetBrains Air",
-    "description": "Run Codex, Claude Agents, Gemini CLI, and Junie side by side",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/bbce7d3e-87f7-4e7a-8b60-76b7ec8d970d.png?auto=format",
-    "downloads": 139987,
-    "trend": 46,
-    "releasedAt": "2026-03-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JKDDUKOGBMB2Q7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Masko Code",
-    "description": " A mascot that watches Claude Code for you",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/c288ad26-6d03-4d8c-8daa-a88958b0588a.png?auto=format",
-    "downloads": 880407,
-    "trend": 31,
-    "releasedAt": "2026-03-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OUUXHDSDUPSV4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CountdownTimer.ai",
-    "description": "Sync countdown timers between email & landing pages",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/64458eb8-2721-4004-8059-29704c55046f.png?auto=format",
-    "downloads": 844166,
-    "trend": 100,
-    "releasedAt": "2026-03-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FC2VFS2LXOPLKY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "EduPlanNG",
-    "description": "AI lesson plans and exam generators for Nigerian teachers",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1a11f70f-f0d9-4b33-a9c3-172f2d110aef.jpeg?auto=format",
-    "downloads": 676007,
-    "trend": 64,
-    "releasedAt": "2026-03-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LMV634RCALQ4EW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Wendi AI",
-    "description": "The AI OS for people who manage people",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/815a33d6-d376-4d89-9e9d-d5980f544379.png?auto=format",
-    "downloads": 160766,
-    "trend": 91,
-    "releasedAt": "2026-03-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WXVYSORXI7524Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
