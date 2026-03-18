@@ -1,5 +1,35 @@
 [
   {
+    "id": 1773799567658,
+    "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
+    "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
+    "category": "AI趋势",
+    "source": "36氪/Anthropic",
+    "date": "2026-03-18",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.36kr.com/p/3719688044148355"
+  },
+  {
+    "id": 1773799567659,
+    "title": "2026年消费创新案例揭晓：AI助手一句话下单超1.2亿次",
+    "summary": "2026年消费创新案例正式揭晓，AI技术正在深度融入日常生活。从'AI助手一句话下单超1.2亿次'到'具身智能机器人持证上岗智慧药房'，从'AI眼镜实现实时翻译'到'智能客服解决率突破95%'，AI正在从概念走向大规模商业应用。",
+    "category": "产业",
+    "source": "每日经济新闻",
+    "date": "2026-03-18",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://www.nbd.com.cn/"
+  },
+  {
+    "id": 1773799567660,
+    "title": "金华人工智能大会：AI产业化加速，2026将是AI大爆发之年",
+    "summary": "3月14日，'金华·金漪湖'2026人工智能产业融合大会成功举办。与会专家表示，最近的OpenClaw等创新让所有人看到，人工智能不但离我们越来越近，而且就在我们身边。2026年将会是人工智能大爆发的一年，AI产业化进程正在全面加速。",
+    "category": "产业",
+    "source": "上海证券报",
+    "date": "2026-03-18",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://paper.cnstock.com/"
+  },
+  {
     "id": 1773753008215,
     "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
     "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
@@ -168,35 +198,5 @@
     "date": "2026-03-16",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://openai.com/index/gpt-5-7-release/"
-  },
-  {
-    "id": 1773593220743,
-    "title": "Anthropic发布Claude 4.1：企业级AI安全标准新高度",
-    "summary": "Anthropic发布Claude 4.1版本，引入全新的Constitutional AI 2.0架构，在保持强大推理能力的同时大幅提升安全性和可控性。新版本支持更精细的内容策略定制，企业用户可根据行业合规要求调整AI行为边界，已通过ISO 27001和SOC 2认证。",
-    "category": "AI模型",
-    "source": "Anthropic",
-    "date": "2026-03-16",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.anthropic.com/claude-4-1-release"
-  },
-  {
-    "id": 1773593220742,
-    "title": "NVIDIA发布H200 AI芯片：推理性能提升90%，成本降低40%",
-    "summary": "NVIDIA正式发布H200 Tensor Core GPU，专为大规模AI推理优化。基于全新Blackwell架构，H200在Llama 3和GPT-4级别模型推理上性能提升90%，能耗降低40%。主要云服务商已开启预订，预计本季度末全面供货，将显著降低AI应用部署成本。",
-    "category": "产业",
-    "source": "NVIDIA",
-    "date": "2026-03-15",
-    "image": "https://images.unsplash.com/photo-1555664424-778a69022365?w=800&q=80",
-    "url": "https://nvidia.com/en-us/data-center/h200/"
-  },
-  {
-    "id": 1773540857510,
-    "title": "xAI Grok 3.5发布：马斯克称推理能力超越GPT-5.5",
-    "summary": "马斯克旗下xAI正式发布Grok 3.5模型，采用全新推理架构，在数学、科学和编程任务上表现卓越。该模型已集成到X平台，Premium用户可立即体验，API定价较Grok 3降低30%。",
-    "category": "AI模型",
-    "source": "xAI",
-    "date": "2026-03-15",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://x.ai/grok-3-5"
   }
 ]
