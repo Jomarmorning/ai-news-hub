@@ -1,5 +1,89 @@
 [
   {
+    "name": "AJO303",
+    "description": "AJO303 Link Situs UG Gaming Server Thailand",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/32cefdf1-4886-49b3-8f20-c1ecc425aa39.jpeg?auto=format",
+    "downloads": 234764,
+    "trend": 63,
+    "releasedAt": "2026-03-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2PHTNCRXWI2Q73?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Superset",
+    "description": "Log workouts and exercises beautifully with your voice",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/7eb02776-1f90-497e-a744-0de2781f67f4.png?auto=format",
+    "downloads": 402460,
+    "trend": 63,
+    "releasedAt": "2026-03-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DX7SX3GSJ2IPZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Noctveil.ai",
+    "description": "Interactive dark romance fiction driven by AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1aa821b4-361b-407d-a644-290c63082777.png?auto=format",
+    "downloads": 527022,
+    "trend": 73,
+    "releasedAt": "2026-03-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HHOD3F4HTCF7WK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Trash Sommelier",
+    "description": "A sarcastic AI sommelier pairs wine with your everyday food",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f93da216-7b16-4d4e-8f1e-0a612fe46bb9.jpeg?auto=format",
+    "downloads": 999888,
+    "trend": 97,
+    "releasedAt": "2026-03-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B2CQDJLWK6M453?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Rap Generator",
+    "description": "AI Rap Generator - Create Rap Music with AI",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/33e55cc7-cfaf-4b79-bfcf-c433903669c8.x-icon?auto=format",
+    "downloads": 432172,
+    "trend": 52,
+    "releasedAt": "2026-03-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FFQXKZ7TS3XWAK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AllTheTools",
+    "description": "33+ free AI, finance & dev tools — no signup needed",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/c6303ade-7dfa-42e8-8ef0-826edf8adc8a.png?auto=format",
+    "downloads": 1090810,
+    "trend": 79,
+    "releasedAt": "2026-03-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ROL5TPJGFDLUE7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "RowBTC – open analytics Bitcoin explorer",
+    "description": "bitcoin blockchain explorer wtih labels",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/56c35ac6-8d3c-4fd4-905d-2e75c932989e.png?auto=format",
+    "downloads": 686148,
+    "trend": 41,
+    "releasedAt": "2026-03-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B3FCA7MC7AUHGN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "ND Hive",
     "description": "Tools without people fail fast",
     "category": "AI对话",
@@ -34,81 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/TJ3F3LZWG57ZP5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OmegaIon",
-    "description": "AI-powered Elemental Map for environmental risk & solutions.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2e2ddfd8-137a-4ac7-9c5a-864afed88579.png?auto=format",
-    "downloads": 414073,
-    "trend": 93,
-    "releasedAt": "2026-03-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WRNHILVL62GKMF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ayurveda AI",
-    "description": "AI reading Ayurveda granths for natural remedies.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c07c105d-53d1-4f60-8a95-0a525a66bcbc.jpeg?auto=format",
-    "downloads": 548300,
-    "trend": 67,
-    "releasedAt": "2026-03-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NEV6PF4FQQIPGW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "muxd",
-    "description": "Open-source AI coding agent - local-first, zero telemetry",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a6eda4d0-d41d-4447-a5b0-792be89912b0.png?auto=format",
-    "downloads": 686909,
-    "trend": 67,
-    "releasedAt": "2026-03-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2MEQDCR5JHFTLF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Perplexity Pro",
-    "description": "AI搜索引擎高级版",
-    "category": "AI搜索",
-    "icon": "https://www.perplexity.ai/favicon.ico",
-    "downloads": 360129,
-    "trend": 40,
-    "releasedAt": "2026-02-26T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "HeyGen Avatar",
-    "description": "AI数字人视频生成",
-    "category": "AI视频",
-    "icon": "https://www.heygen.com/favicon.ico",
-    "downloads": 726536,
-    "trend": 116,
-    "releasedAt": "2026-02-25T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Kimi K2",
-    "description": "Moonshot最新多模态AI助手",
-    "category": "AI对话",
-    "icon": "https://kimi.moonshot.cn/favicon.ico",
-    "downloads": 1295564,
-    "trend": 27,
-    "releasedAt": "2026-02-24T00:00:00.000Z",
-    "isNew": true
-  },
-  {
-    "name": "Ideogram 2.0",
-    "description": "文本渲染增强的AI绘画工具",
-    "category": "AI绘画",
-    "icon": "https://ideogram.ai/favicon.ico",
-    "downloads": 868789,
-    "trend": 31,
-    "releasedAt": "2026-02-23T00:00:00.000Z",
-    "isNew": true
   }
 ]
