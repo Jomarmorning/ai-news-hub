@@ -22,27 +22,27 @@ const updatedDownloads = downloads.map(app => {
 // 获取当前日期
 const today = new Date().toISOString().split('T')[0];
 
-// 最新AI资讯（2026年3月16日更新）
+// 最新AI资讯（2026年3月19日更新）
 const newArticles = [
   {
     "id": Date.now(),
-    "title": "2026年3月AI模型大战：GPT-5.4、Claude 4.6与Gemini 3.1正面对决",
-    "summary": "2026年3月成为人工智能历史上最爆炸性的月份之一。OpenAI、Anthropic、Google DeepMind和DeepSeek在两周内相继发布旗舰模型。GPT-5.4在多模态推理方面表现卓越，Claude 4.6在代码生成和逻辑推理上领先，Gemini 3.1则在长文本处理和生态系统整合上展现优势。",
-    "category": "AI模型",
-    "source": "Tech Insider",
+    "title": "阿里云AI算力涨价34%：全球AI需求爆发引发供应链涨价潮",
+    "summary": "3月18日，阿里云官网发布公告，因全球AI需求爆发、供应链涨价导致行业核心硬件采购成本显著上涨，将于2026年4月18日起对AI算力、CPFS智算版等产品进行价格调整，最高涨幅达34%。百度智能云也同步上调价格，算力租赁概念午后爆发。",
+    "category": "产业",
+    "source": "阿里云/澎湃新闻",
     "date": today,
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://tech-insider.org/chatgpt-vs-claude-vs-deepseek-vs-gemini-2026/"
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+    "url": "https://www.thepaper.cn/newsDetail_forward_32787960"
   },
   {
     "id": Date.now() + 1,
-    "title": "腾讯超90%工程师借助AI编码，CodeBuddy助力企业智能化",
-    "summary": "腾讯相关负责人表示，腾讯有超过90%的工程师正在借助AI进行编码，并基于自身实践推出支持多种形态的专业工具CodeBuddy（云代码助手），面向企业及程序员提供服务。AI辅助让工程师专注于更具创造性的工作，大幅提升开发效率。",
-    "category": "产业",
-    "source": "新华网",
+    "title": "OpenAI发布GPT-5.4轻量模型：性能逼近旗舰版，价格降至1/3",
+    "summary": "OpenAI正式发布GPT-5.4 mini和nano两款轻量模型，在保持接近旗舰版性能的同时，价格降至原版的1/3。GPT-5.4将OpenAI近期在推理、编程和Agent工作流方面的最佳进展整合进一个前沿模型，同时纳入了GPT-5.3-Codex的顶级编程能力。",
+    "category": "AI模型",
+    "source": "OpenAI/IT之家",
     "date": today,
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html"
+    "url": "https://www.ithome.com/0/926/344.htm"
   }
 ];
 
