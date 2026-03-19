@@ -20,7 +20,7 @@ const message = {
   content: {
     post: {
       zh_cn: {
-        title: '🤖 AI Hub 数据更新通知 - 2026-03-16',
+        title: '🤖 AI Hub 数据更新通知 - 2026-03-19',
         content: [
           [
             { tag: 'text', text: '📊 下载排行榜更新 (10个应用)\n\n' },
@@ -45,7 +45,7 @@ async function sendNotification() {
   if (!webhook || webhook.includes('xxxxxxxx')) {
     console.log('⚠️ 飞书Webhook未配置，显示消息内容预览:\n');
     console.log('========== 飞书消息内容 ==========\n');
-    console.log(`🤖 AI Hub 数据更新通知 - 2026-03-16\n`);
+    console.log(`🤖 AI Hub 数据更新通知 - 2026-03-19\n`);
     console.log(`📊 下载排行榜更新 (10个应用)\n`);
     console.log(downloadUpdates);
     console.log(`\n📰 最新资讯更新\n`);
