@@ -1,5 +1,65 @@
 [
   {
+    "name": "NeoLook AI",
+    "description": "Run Meta & Google Ads with AI — no dashboards needed",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/281c46bf-9e7a-43e2-9eda-9326ce08dfa5.png?auto=format",
+    "downloads": 200100,
+    "trend": 99,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YKGWH7HVRMNKBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MoonriverScribe",
+    "description": "Streamline meeting minutes with real-time local AI.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/22c9f4f7-aa49-43b7-9b1b-5f41b0d5738a.png?auto=format",
+    "downloads": 353680,
+    "trend": 100,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QYT7ANFLSBHA4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The Design Dispatch",
+    "description": "Curated daily AI insights for designers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2617cddf-8d8d-4b51-a2f3-ffd3d748b411.png?auto=format",
+    "downloads": 274506,
+    "trend": 94,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CEQYIGQBQ7U3ZG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Reviewreply ai ",
+    "description": "\"Reply to Google Reviews in 1 Click with AI\"",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b189bdfa-dc6d-48b7-b356-c4a868849619.png?auto=format",
+    "downloads": 385953,
+    "trend": 48,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OBEHCRH3K3PA2T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Cropple.AI",
+    "description": "AI farm advisor that sees your fields from space.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/858ded52-e8b1-4573-bedf-c1a4300ead76.png?auto=format",
+    "downloads": 395823,
+    "trend": 37,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PFYHVJMQ4HWUKL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "AI Review Generator",
     "description": "Generate authentic reviews & pro responses in seconds",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/FFQXKZ7TS3XWAK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AllTheTools",
-    "description": "33+ free AI, finance & dev tools — no signup needed",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/c6303ade-7dfa-42e8-8ef0-826edf8adc8a.png?auto=format",
-    "downloads": 771138,
-    "trend": 38,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ROL5TPJGFDLUE7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RowBTC – open analytics Bitcoin explorer",
-    "description": "bitcoin blockchain explorer wtih labels",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/56c35ac6-8d3c-4fd4-905d-2e75c932989e.png?auto=format",
-    "downloads": 591333,
-    "trend": 32,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/B3FCA7MC7AUHGN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SociopathAI",
-    "description": "Autonomous AI agents living in a rule-free digital void",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bf5f852d-e567-48cc-84e8-c84b9651a4b0.png?auto=format",
-    "downloads": 841023,
-    "trend": 55,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WQF5DP2MWCSFJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Link AI",
-    "description": "The Agentic Business Suite that replaces your entire stack",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/abf69f9e-b48e-4c42-b2b1-527305c1d4c2.png?auto=format",
-    "downloads": 891897,
-    "trend": 72,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QBIAP6MH6YDB2L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Superset",
-    "description": "Log workouts and exercises beautifully with your voice",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/7eb02776-1f90-497e-a744-0de2781f67f4.png?auto=format",
-    "downloads": 402460,
-    "trend": 63,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DX7SX3GSJ2IPZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
