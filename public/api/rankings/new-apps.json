@@ -1,5 +1,89 @@
 [
   {
+    "name": "Laser Studio",
+    "description": "All-in-one AI & vector web software for laser engravers.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/fd106864-43cc-4579-b12f-e3abd0c7a9f1.png?auto=format",
+    "downloads": 449649,
+    "trend": 16,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IYI5WFK6SYOELE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The Design Dispatch",
+    "description": "Curated daily AI insights for designers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2617cddf-8d8d-4b51-a2f3-ffd3d748b411.png?auto=format",
+    "downloads": 253175,
+    "trend": 68,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CEQYIGQBQ7U3ZG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MoonriverScribe",
+    "description": "Streamline meeting minutes with real-time local AI.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/22c9f4f7-aa49-43b7-9b1b-5f41b0d5738a.png?auto=format",
+    "downloads": 945979,
+    "trend": 16,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QYT7ANFLSBHA4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ClawdGate",
+    "description": "Govern AI agents across workspaces, machines, and clouds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8f7586c7-a6c2-4369-9bf8-a0087b889ac5.png?auto=format",
+    "downloads": 744621,
+    "trend": 93,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NPC7OPVBRFKJOC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Hushbug",
+    "description": "One-click error export for AI coding assistants",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/55dc8af6-e172-4aed-8b9d-36d8a4deb367.svg?auto=format",
+    "downloads": 912787,
+    "trend": 45,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JIB6SUBATB5X5B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FindSkills",
+    "description": "The open directory your AI agent actually knows how to use.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5c59f0c3-bd5d-4c2c-b8b2-f340ea645931.png?auto=format",
+    "downloads": 232286,
+    "trend": 65,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DDIH6HRSDJ7TO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "GPLA PRO — Girls Personal Life Assistant",
+    "description": "Productivity, Lifestyle, Health, AI, Women",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/801d07a5-b424-484e-9ef3-d9dd49515a57.png?auto=format",
+    "downloads": 194926,
+    "trend": 85,
+    "releasedAt": "2026-03-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MESXZRE3PSKJVG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "NeoLook AI",
     "description": "Run Meta & Google Ads with AI — no dashboards needed",
     "category": "AI对话",
@@ -10,30 +94,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/YKGWH7HVRMNKBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MoonriverScribe",
-    "description": "Streamline meeting minutes with real-time local AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/22c9f4f7-aa49-43b7-9b1b-5f41b0d5738a.png?auto=format",
-    "downloads": 353680,
-    "trend": 100,
-    "releasedAt": "2026-03-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QYT7ANFLSBHA4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "The Design Dispatch",
-    "description": "Curated daily AI insights for designers",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2617cddf-8d8d-4b51-a2f3-ffd3d748b411.png?auto=format",
-    "downloads": 274506,
-    "trend": 94,
-    "releasedAt": "2026-03-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CEQYIGQBQ7U3ZG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Reviewreply ai ",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/PFYHVJMQ4HWUKL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Review Generator",
-    "description": "Generate authentic reviews & pro responses in seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4980ee0f-de49-4f70-9eec-aec2d5e41a37.png?auto=format",
-    "downloads": 794862,
-    "trend": 95,
-    "releasedAt": "2026-03-19T15:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BSVJ2OMC5UM2JN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AJO303",
-    "description": "AJO303 Link Situs UG Gaming Server Thailand",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/32cefdf1-4886-49b3-8f20-c1ecc425aa39.jpeg?auto=format",
-    "downloads": 596963,
-    "trend": 39,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2PHTNCRXWI2Q73?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Noctveil.ai",
-    "description": "Interactive dark romance fiction driven by AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1aa821b4-361b-407d-a644-290c63082777.png?auto=format",
-    "downloads": 489022,
-    "trend": 73,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HHOD3F4HTCF7WK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Trash Sommelier",
-    "description": "A sarcastic AI sommelier pairs wine with your everyday food",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f93da216-7b16-4d4e-8f1e-0a612fe46bb9.jpeg?auto=format",
-    "downloads": 477690,
-    "trend": 32,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/B2CQDJLWK6M453?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Rap Generator",
-    "description": "AI Rap Generator - Create Rap Music with AI",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/33e55cc7-cfaf-4b79-bfcf-c433903669c8.x-icon?auto=format",
-    "downloads": 791637,
-    "trend": 28,
-    "releasedAt": "2026-03-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FFQXKZ7TS3XWAK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
