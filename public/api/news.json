@@ -1,5 +1,35 @@
 [
   {
+    "id": 1774097177203,
+    "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
+    "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
+    "category": "AI趋势",
+    "source": "36氪/Anthropic",
+    "date": "2026-03-21",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.36kr.com/p/3719688044148355"
+  },
+  {
+    "id": 1774097177204,
+    "title": "2026年消费创新案例揭晓：AI助手一句话下单超1.2亿次",
+    "summary": "2026年消费创新案例正式揭晓，AI技术正在深度融入日常生活。从'AI助手一句话下单超1.2亿次'到'具身智能机器人持证上岗智慧药房'，从'AI眼镜实现实时翻译'到'智能客服解决率突破95%'，AI正在从概念走向大规模商业应用。",
+    "category": "产业",
+    "source": "每日经济新闻",
+    "date": "2026-03-21",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://www.nbd.com.cn/"
+  },
+  {
+    "id": 1774097177205,
+    "title": "金华人工智能大会：AI产业化加速，2026将是AI大爆发之年",
+    "summary": "3月14日，'金华·金漪湖'2026人工智能产业融合大会成功举办。与会专家表示，最近的OpenClaw等创新让所有人看到，人工智能不但离我们越来越近，而且就在我们身边。2026年将会是人工智能大爆发的一年，AI产业化进程正在全面加速。",
+    "category": "产业",
+    "source": "上海证券报",
+    "date": "2026-03-21",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://paper.cnstock.com/"
+  },
+  {
     "id": 1774058105744,
     "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
     "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
@@ -168,35 +198,5 @@
     "date": "2026-03-19",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://www.ithome.com/0/926/344.htm"
-  },
-  {
-    "id": 1773849959001,
-    "title": "NVIDIA GTC 2026大会开幕：Blackwell架构B200芯片大规模出货",
-    "summary": "NVIDIA GTC 2026大会正在举行，Blackwell架构B200芯片正式进入大规模出货阶段。新一代GPU在AI训练和推理性能上实现重大突破，相比H100提升显著。NVIDIA股价应声上涨，市值稳居全球前列，AI算力瓶颈迎来关键突破。",
-    "category": "产业",
-    "source": "NVIDIA/新浪财经",
-    "date": "2026-03-19",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://blogs.nvidia.cn/blog/gtc-2026-news/"
-  },
-  {
-    "id": 1773849959002,
-    "title": "Claude Sonnet 4.6正式发布：Anthropic最强编程模型升级",
-    "summary": "Anthropic发布Claude Sonnet 4.6，这是目前最强的编程专用AI模型。新版本在编码、计算机使用、长上下文推理、智能体规划等方面全面升级。支持百万token超长上下文，可一次性处理整个代码库，代码准确率显著提升。",
-    "category": "AI模型",
-    "source": "Anthropic/知乎",
-    "date": "2026-03-19",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://support.anthropic.com/en/articles/12138966-release-notes"
-  },
-  {
-    "id": 1773849959003,
-    "title": "Google Gemini for Home获重大更新：响应速度提升40%",
-    "summary": "Google发布Gemini for Home最新软件更新，响应速度提升40%，新增多项功能升级。同时Gemini 2.5 Flash-Lite Preview将于3月31日停止服务，由Gemini 3.1 Flash-Lite Preview替代。Google持续优化AI助手在家庭场景的体验。",
-    "category": "AI趋势",
-    "source": "Google/Android Headlines",
-    "date": "2026-03-19",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://www.androidheadlines.com/2026/03/google-gemini-for-home-gets-40-faster-response-time-in-march-2026-update.html"
   }
 ]
