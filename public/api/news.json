@@ -1,5 +1,25 @@
 [
   {
+    "id": 1774228030301,
+    "title": "谷歌Gemini 3.1 Pro正式发布：破解幻觉困局，推理能力大幅提升",
+    "summary": "2026年3月下旬，Google正式发布Gemini 3.1 Pro，针对大模型长期痛点「幻觉问题」进行系统性改进，推理准确率大幅提升。新模型在数学推理、代码生成及多模态理解方面均取得显著突破，直接对标GPT-5.4。业界认为此次发布标志着AI幻觉治理进入新阶段。",
+    "category": "AI模型",
+    "source": "Google/新浪科技",
+    "date": "2026-03-23",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://www.sina.cn/news/detail/5268679602211265.html"
+  },
+  {
+    "id": 1774228030302,
+    "title": "Meta AI遭遇研发瓶颈：新模型落后对手，或暂采用Google Gemini技术",
+    "summary": "据内部消息，Meta AI新一代大模型研发进展不及预期，关键能力评测落后于OpenAI和Google。据悉Meta正在评估暂时引入Google Gemini技术方案以维持竞争力。此事件引发业界对Meta AI战略路径的广泛讨论，也引出AI自研与外采之争的深层逻辑。",
+    "category": "产业",
+    "source": "Yahoo Finance/外媒",
+    "date": "2026-03-23",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+    "url": "https://tw.stock.yahoo.com/news/meta-ai研發遇瓶頸"
+  },
+  {
     "id": 1774195201001,
     "title": "xAI Grok-5宣称达到AGI水平：马斯克直播超人类推理引发全球争议",
     "summary": "2026年3月21日，Elon Musk在X平台宣布xAI的Grok-5已达到AGI（通用人工智能）水平，并在直播中演示超人类推理能力，引发全球安全争议。支持者欢呼人类进步里程碑，而AI安全专家和监管机构则发出警告，斥此为危险炒作。业界对AGI定义与评估标准的讨论再度升温。",
