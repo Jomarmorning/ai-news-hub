@@ -4,129 +4,79 @@
     "description": "OpenAI开发的AI聊天助手",
     "category": "AI对话",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
-<<<<<<< HEAD
-    "downloads": 5316023,
-    "trend": 1
-=======
-    "downloads": 5316107,
-    "trend": 33
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 5318023,
+    "trend": 15
   },
   {
     "name": "Midjourney",
     "description": "AI图像生成工具",
     "category": "AI绘画",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg",
-<<<<<<< HEAD
-    "downloads": 3907042,
-    "trend": 3
-=======
-    "downloads": 3907587,
-    "trend": 16
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 3909042,
+    "trend": 8
   },
   {
     "name": "Claude",
     "description": "Anthropic AI助手",
     "category": "AI对话",
     "icon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-<<<<<<< HEAD
-    "downloads": 3332603,
-    "trend": 11
-=======
-    "downloads": 3332555,
-    "trend": 26
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 3334603,
+    "trend": 22
   },
   {
     "name": "Runway",
     "description": "AI视频生成与编辑",
     "category": "AI视频",
     "icon": "https://runwayml.com/favicon.ico",
-<<<<<<< HEAD
-    "downloads": 2913930,
-    "trend": 6
-=======
-    "downloads": 2915080,
-    "trend": 38
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 2915930,
+    "trend": 32
   },
   {
     "name": "Jasper",
     "description": "AI写作助手",
     "category": "AI写作",
     "icon": "https://www.jasper.ai/favicon.ico",
-<<<<<<< HEAD
-    "downloads": 2515775,
-    "trend": -4
-=======
-    "downloads": 2515267,
-    "trend": 38
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 2517775,
+    "trend": 28
   },
   {
     "name": "Synthesia",
     "description": "AI视频生成平台",
     "category": "AI视频",
     "icon": "https://www.synthesia.io/favicon.ico",
-<<<<<<< HEAD
-    "downloads": 2228039,
-    "trend": 23
-=======
-    "downloads": 2227850,
-    "trend": 17
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 2229039,
+    "trend": 12
   },
   {
     "name": "Copy.ai",
     "description": "营销文案AI工具",
     "category": "AI写作",
     "icon": "https://www.copy.ai/favicon.ico",
-<<<<<<< HEAD
-    "downloads": 2015980,
-    "trend": 10
-=======
-    "downloads": 2016712,
-    "trend": -2
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 2017980,
+    "trend": 5
   },
   {
     "name": "Notion AI",
     "description": "智能笔记与协作",
     "category": "生产力",
     "icon": "https://www.notion.so/images/favicon.ico",
-<<<<<<< HEAD
-    "downloads": 1863904,
-    "trend": -1
-=======
-    "downloads": 1863495,
-    "trend": -8
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 1865904,
+    "trend": 18
   },
   {
     "name": "Grammarly",
     "description": "AI写作辅助工具",
     "category": "AI写作",
     "icon": "https://www.grammarly.com/favicon.ico",
-<<<<<<< HEAD
-    "downloads": 1714443,
-    "trend": 24
-=======
-    "downloads": 1715318,
-    "trend": 8
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 1716443,
+    "trend": 14
   },
   {
     "name": "DALL-E 3",
     "description": "OpenAI图像生成",
     "category": "AI绘画",
     "icon": "https://openai.com/favicon.ico",
-<<<<<<< HEAD
-    "downloads": 1559973,
-    "trend": 11
-=======
-    "downloads": 1561112,
-    "trend": 10
->>>>>>> 4ae9114 (📊 更新AI Hub数据 (2026-03-24))
+    "downloads": 1561973,
+    "trend": 21
   }
 ]
