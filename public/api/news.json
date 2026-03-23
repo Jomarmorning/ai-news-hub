@@ -1,5 +1,25 @@
 [
   {
+    "id": 1774238815996,
+    "title": "中国AI大模型周调用量达4.69万亿Token，连续三周领跑全球",
+    "summary": "最新数据显示，中国AI大模型周调用量达到4.69万亿Token，连续三周超过美国模型。国产大模型在调用量上实现历史性突破，标志着中国AI产业进入规模化应用新阶段。",
+    "category": "产业",
+    "source": "21财经/东方财富",
+    "date": "2026-03-23",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+    "url": "https://www.21jingji.com/article/20260323/herald/2d7e77c2225730ba2750456c5d7b9d8f.html"
+  },
+  {
+    "id": 1774238815997,
+    "title": "OpenAI计划大幅扩招：2026年员工数拟达8000人",
+    "summary": "据多家媒体报道，OpenAI正在启动大规模全球招聘计划，目标在2026年将员工总数扩充至约8000人。此举被视为应对全球AI竞争白热化的战略举措，显示出OpenAI加速扩张的雄心。",
+    "category": "产业",
+    "source": "品玩/新浪财经",
+    "date": "2026-03-23",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.pingwest.com/w/312341"
+  },
+  {
     "id": 1774238400001,
     "title": "2026中关村论坛人工智能主题日即将开幕：全球AI最强大脑聚首海淀",
     "summary": "2026中关村论坛年会人工智能主题日系列活动定于3月25日至26日举行，全球顶尖AI研究机构、科技巨头与政策制定者将齐聚海淀。本届论坛将围绕AI算力革命、大模型商业化落地、智能体技术标准等核心议题展开深度讨论，并发布多项中国AI产业发展重磅报告，被业界视为2026年中国AI政策风向标。",
@@ -178,25 +198,5 @@
     "date": "2026-03-19",
     "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
     "url": "https://www.androidheadlines.com/2026/03/google-gemini-for-home-gets-40-faster-response-time-in-march-2026-update.html"
-  },
-  {
-    "id": 1773850175135,
-    "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
-    "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
-    "category": "AI趋势",
-    "source": "36氪/Anthropic",
-    "date": "2026-03-18",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.36kr.com/p/3719688044148355"
-  },
-  {
-    "id": 1773850175136,
-    "title": "2026年消费创新案例揭晓：AI助手一句话下单超1.2亿次",
-    "summary": "2026年消费创新案例正式揭晓，AI技术正在深度融入日常生活。从'AI助手一句话下单超1.2亿次'到'具身智能机器人持证上岗智慧药房'，从'AI眼镜实现实时翻译'到'智能客服解决率突破95%'，AI正在从概念走向大规模商业应用。",
-    "category": "产业",
-    "source": "每日经济新闻",
-    "date": "2026-03-18",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://www.nbd.com.cn/"
   }
 ]
