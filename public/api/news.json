@@ -1,5 +1,35 @@
 [
   {
+    "id": 1774324801001,
+    "title": "谷歌Gemini Mac版应用开始测试：AI助手竞逐苹果生态",
+    "summary": "2026年3月下旬，Google开始秘密测试macOS版Gemini独立应用，直接向ChatGPT和Claude发起挑战。这标志着AI巨头们正在加速布局桌面端生态，争夺苹果用户群体。Gemini for Mac将支持原生系统集成、快捷键唤醒及本地文件处理等功能。",
+    "category": "AI趋势",
+    "source": "Google/科技新报",
+    "date": "2026-03-24",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://technews.tw/2026/03/20/google-begins-testing-dedicated-gemini-app-for-mac/"
+  },
+  {
+    "id": 1774324801002,
+    "title": "国家数据局：2026年为'数据价值释放年'，聚焦AI创新发展",
+    "summary": "国家数据局局长刘烈宏在中国发展高层论坛2026年年会上表示，将2026年数据工作明确为'数据价值释放年'，深入实施强基扩容行动，聚焦数据赋能人工智能创新发展。这一政策信号预示着中国AI产业将迎来新一轮基础设施升级。",
+    "category": "产业",
+    "source": "国家数据局/新浪财经",
+    "date": "2026-03-24",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ivxa.html"
+  },
+  {
+    "id": 1774324801003,
+    "title": "a16z发布2026百大AI排行榜：Gemini与Claude强势崛起",
+    "summary": "知名风投a16z发布2026年度AI应用排行榜，揭示五大关键变局：AI Agent元年来临、语音交互成为新战场、企业级应用爆发、多模态能力成标配、开源模型加速追赶。Gemini和Claude在多项指标上快速追赶ChatGPT，AI助手竞争进入白热化阶段。",
+    "category": "AI趋势",
+    "source": "a16z/雅虎新闻",
+    "date": "2026-03-24",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://tw.news.yahoo.com/2026百大ai排行榜-gemini與claude強勢崛起"
+  },
+  {
     "id": 1774317621284,
     "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
     "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
@@ -140,26 +170,6 @@
     "url": "https://www.pingwest.com/w/312341"
   },
   {
-    "id": 1774238400001,
-    "title": "2026中关村论坛人工智能主题日即将开幕：全球AI最强大脑聚首海淀",
-    "summary": "2026中关村论坛年会人工智能主题日系列活动定于3月25日至26日举行，全球顶尖AI研究机构、科技巨头与政策制定者将齐聚海淀。本届论坛将围绕AI算力革命、大模型商业化落地、智能体技术标准等核心议题展开深度讨论，并发布多项中国AI产业发展重磅报告，被业界视为2026年中国AI政策风向标。",
-    "category": "产业",
-    "source": "新浪财经/中关村论坛",
-    "date": "2026-03-23",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://finance.sina.com.cn/jjxw/2026-03-22/doc-inhrvxar6231165.shtml"
-  },
-  {
-    "id": 1774238400002,
-    "title": "中国AI大模型月调用量破4.69万亿Token：OpenAI被曝将大幅削减API定价",
-    "summary": "据每日经济新闻最新数据，中国AI大模型平台月均调用量已突破4.69万亿Token，国产大模型生态正在快速壮大。与此同时，OpenAI被曝出正准备对API服务大幅降价，以应对来自中国开源模型和Google Gemini的激烈竞争。分析师认为，全球AI服务价格战将在2026年Q2全面打响。",
-    "category": "产业",
-    "source": "每日经济新闻/NBD",
-    "date": "2026-03-23",
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-    "url": "https://www.nbd.com.cn/articles/2026-03-22/4302872.html"
-  },
-  {
     "id": 1774238400003,
     "title": "微软：2026制造业AI智能体时刻来临，前沿企业已实现全流程自动化",
     "summary": "微软亚太区发布2026制造业转折点白皮书，指出AI智能体正在重塑全球制造业格局。文件显示，采用AI智能体的前沿制造企业已实现从设计、生产到质检的全流程自动化，效率提升均超40%。微软表示将通过Azure AI Foundry加速企业级Agent部署，制造业迎来继蒸汽机、电气化后的第三次工业革命。",
@@ -188,15 +198,5 @@
     "date": "2026-03-23",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://www.nbd.com.cn/"
-  },
-  {
-    "id": 1774231698296,
-    "title": "金华人工智能大会：AI产业化加速，2026将是AI大爆发之年",
-    "summary": "3月14日，'金华·金漪湖'2026人工智能产业融合大会成功举办。与会专家表示，最近的OpenClaw等创新让所有人看到，人工智能不但离我们越来越近，而且就在我们身边。2026年将会是人工智能大爆发的一年，AI产业化进程正在全面加速。",
-    "category": "产业",
-    "source": "上海证券报",
-    "date": "2026-03-23",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://paper.cnstock.com/"
   }
 ]
