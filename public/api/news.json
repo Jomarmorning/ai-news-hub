@@ -1,5 +1,35 @@
 [
   {
+    "id": 1774444084804,
+    "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
+    "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
+    "category": "AI趋势",
+    "source": "36氪/Anthropic",
+    "date": "2026-03-25",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.36kr.com/p/3719688044148355"
+  },
+  {
+    "id": 1774444084805,
+    "title": "2026年消费创新案例揭晓：AI助手一句话下单超1.2亿次",
+    "summary": "2026年消费创新案例正式揭晓，AI技术正在深度融入日常生活。从'AI助手一句话下单超1.2亿次'到'具身智能机器人持证上岗智慧药房'，从'AI眼镜实现实时翻译'到'智能客服解决率突破95%'，AI正在从概念走向大规模商业应用。",
+    "category": "产业",
+    "source": "每日经济新闻",
+    "date": "2026-03-25",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://www.nbd.com.cn/"
+  },
+  {
+    "id": 1774444084806,
+    "title": "金华人工智能大会：AI产业化加速，2026将是AI大爆发之年",
+    "summary": "3月14日，'金华·金漪湖'2026人工智能产业融合大会成功举办。与会专家表示，最近的OpenClaw等创新让所有人看到，人工智能不但离我们越来越近，而且就在我们身边。2026年将会是人工智能大爆发的一年，AI产业化进程正在全面加速。",
+    "category": "产业",
+    "source": "上海证券报",
+    "date": "2026-03-25",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://paper.cnstock.com/"
+  },
+  {
     "id": 1774418167148,
     "title": "Claude Sonnet 4.6正式发布：Anthropic最强编程模型",
     "summary": "2026年3月11日，Anthropic正式发布Claude Sonnet 4.6，这是其迄今最强的Sonnet模型。新版本在代码编写、计算机操作、长上下文推理和智能体规划等维度实现全面跃升，支持更复杂的开发任务和自动化工作流。",
@@ -168,35 +198,5 @@
     "date": "2026-03-24",
     "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
     "url": "https://www.mi.com/aifeature"
-  },
-  {
-    "id": 1774281601001,
-    "title": "2026中关村论坛人工智能主题日开幕：全球AI最强大脑齐聚海淀",
-    "summary": "2026年3月25日，中关村论坛年会人工智能主题日正式开幕。全球顶尖AI研究机构、科技巨头与政策制定者齐聚海淀，围绕AI算力革命、大模型商业化落地、智能体技术标准等核心议题展开深度讨论。论坛发布多项中国AI产业发展重磅报告，被业界视为2026年中国AI政策风向标。",
-    "category": "产业",
-    "source": "光明网/中关村论坛",
-    "date": "2026-03-24",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://digital.gmw.cn/2026-03/23/content_38662861.htm"
-  },
-  {
-    "id": 1774281601002,
-    "title": "安永预测2026年AI三大趋势：主权AI、智能体与监管成关键",
-    "summary": "安永发布2026年全球AI趋势报告，指出主权AI（Sovereign AI）、AI智能体（Agent）和AI监管将成为今年三大关键趋势。报告预测，到2026年底，超过60%的大型企业将部署自主AI智能体，同时各国AI监管框架将加速落地。",
-    "category": "AI趋势",
-    "source": "安永/Yahoo Finance",
-    "date": "2026-03-24",
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-    "url": "https://tw.stock.yahoo.com/news/安永預測2026年ai三大趨勢-主權-代理與監管成關鍵-201942547.html"
-  },
-  {
-    "id": 1774281601003,
-    "title": "AI Agent竞争升级：腾讯阿里字节谁能跑出'中国版'生态",
-    "summary": "随着AI智能体（Agent）技术迎来全面商业化爆发，腾讯、阿里、字节跳动等科技巨头纷纷加速布局。阿里以Token为名新设AI事业群，腾讯推出全场景AI智能体WorkBuddy，字节跳动则在Seedance视频生成领域持续发力。业界分析，2026年将是AI Agent生态格局定型的关键之年。",
-    "category": "产业",
-    "source": "证券时报/新浪财经",
-    "date": "2026-03-24",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://finance.stockstar.com/SS2026032300026664.shtml"
   }
 ]
