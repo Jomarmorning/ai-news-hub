@@ -1,5 +1,25 @@
 [
   {
+    "id": 1774418167148,
+    "title": "Claude Sonnet 4.6正式发布：Anthropic最强编程模型",
+    "summary": "2026年3月11日，Anthropic正式发布Claude Sonnet 4.6，这是其迄今最强的Sonnet模型。新版本在代码编写、计算机操作、长上下文推理和智能体规划等维度实现全面跃升，支持更复杂的开发任务和自动化工作流。",
+    "category": "AI模型",
+    "source": "Anthropic/知乎",
+    "date": "2026-03-25",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.anthropic.com/news/claude-opus-4-6"
+  },
+  {
+    "id": 1774418167149,
+    "title": "2026年3月AI模型大爆发：12+新模型密集发布",
+    "summary": "2026年3月被称为'改变AI的一周'，OpenAI GPT-5.4、Anthropic Claude 4.6、Google Gemini 3.1等12+款大模型密集发布。行业分析指出，AI平台正从增长模式转向货币化策略，企业级应用成为竞争焦点。",
+    "category": "AI趋势",
+    "source": "BuildFastWithAI",
+    "date": "2026-03-25",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases"
+  },
+  {
     "id": 1774404372408,
     "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
     "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
@@ -178,25 +198,5 @@
     "date": "2026-03-24",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://finance.stockstar.com/SS2026032300026664.shtml"
-  },
-  {
-    "id": 1774281781450,
-    "title": "中国科学院发布材料科学AI智能体：科研效率提升300%",
-    "summary": "中国科学院最新发布材料科学领域专用AI智能体，通过深度学习和知识图谱技术，实现材料研发全流程智能化。该智能体可自动设计实验方案、分析测试结果，将新材料研发周期从平均3年缩短至1年，标志着AI for Science进入新阶段。",
-    "category": "AI趋势",
-    "source": "中国新闻网/中科院",
-    "date": "2026-03-24",
-    "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
-    "url": "https://www.chinanews.com.cn/gn/2026/03-23/10591529.shtml"
-  },
-  {
-    "id": 1774271118209,
-    "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
-    "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
-    "category": "AI趋势",
-    "source": "36氪/Anthropic",
-    "date": "2026-03-23",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-    "url": "https://www.36kr.com/p/3719688044148355"
   }
 ]
