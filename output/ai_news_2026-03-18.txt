@@ -1,0 +1,12 @@
+📢 今日AI资讯速递 (2026-03-18)
+
+1. Kimi K2 - Moonshot最新多模态AI助手
+2. Luma Dream Machine - 高质量AI视频生成
+3. Pika 2.0 - 新一代AI视频生成工具
+4. ChatGPT - OpenAI开发的AI聊天助手
+5. Midjourney - AI图像生成工具
+6. OpenAI发布GPT-5预览版，推理能力大幅提升 - OpenAI今日发布了GPT-5的预览版本，新模型在逻辑推理、代码生成和多模态理解方面均有显著改进...
+7. Google Gemini 2.0支持实时视频理解 - Google DeepMind宣布Gemini 2.0将支持实时视频流分析，可同时进行视觉理解和自然...
+8. Midjourney V7发布：图像生成质量再创新高 - Midjourney发布V7版本，引入新的神经网络架构，生成图像的细节表现力和文本理解能力大幅提升...
+
+💡 数据来源：AI News Hub + 网络热点
