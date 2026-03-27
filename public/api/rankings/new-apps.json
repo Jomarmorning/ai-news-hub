@@ -4,12 +4,84 @@
     "description": "3 Steps. 3 Minutes. First in Line",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/5da74de4-3f17-4414-b54e-5019031cb220.jpeg?auto=format",
-    "downloads": 872319,
-    "trend": 40,
+    "downloads": 248566,
+    "trend": 52,
     "releasedAt": "2026-03-26T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/ZIOLSV46EMY44X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI director",
+    "description": "AI Director Pro is a professional AI video prompt generator",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/c016bea4-5382-4270-bf90-ed1bcfcbef60.vnd.microsoft.icon?auto=format",
+    "downloads": 107658,
+    "trend": 32,
+    "releasedAt": "2026-03-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GDNBZOFHW4Q7OJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BuilderHelp",
+    "description": "AI-Driven Construction Project Management Software",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c1a9c4dd-005e-4ad4-bd31-e7f6dd405ddf.png?auto=format",
+    "downloads": 961003,
+    "trend": 86,
+    "releasedAt": "2026-03-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QKFOUK7LBMLM6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ParlayLegend.AI",
+    "description": "The AI sports research platform built for serious analysts",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/dabc83db-02c4-4a38-ad06-aaec15410d84.jpeg?auto=format",
+    "downloads": 683592,
+    "trend": 69,
+    "releasedAt": "2026-03-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WKMPYXIZYJZHTD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ClawTrak",
+    "description": "Check if AI agents can find your website",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/fd84ae7e-ad45-4a6f-adbf-35bcd1111ea8.svg?auto=format",
+    "downloads": 119868,
+    "trend": 83,
+    "releasedAt": "2026-03-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DXEUQSNLSDBWJM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Exeton",
+    "description": "Exeton | Enterprise AI & HPC Infrastructure Solutions",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f0af5aeb-c7c4-46ff-8a89-b966c6cae0a4.svg?auto=format",
+    "downloads": 247725,
+    "trend": 78,
+    "releasedAt": "2026-03-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ISDKEBVLK46FTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Contract Lemon",
+    "description": "Contract Review AI for Freelancer and Digital Nomad",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1d8787d8-14cc-4227-ab5d-2ceb22c0f97c.png?auto=format",
+    "downloads": 869999,
+    "trend": 76,
+    "releasedAt": "2026-03-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B35JAAFL5YLCN7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "TryOnAI: Virtual TryOn app",
@@ -22,18 +94,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/V3GJFJE3UA47OI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI director",
-    "description": "AI Director Pro is a professional AI video prompt generator",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/c016bea4-5382-4270-bf90-ed1bcfcbef60.vnd.microsoft.icon?auto=format",
-    "downloads": 485340,
-    "trend": 100,
-    "releasedAt": "2026-03-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GDNBZOFHW4Q7OJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Dreamina AI",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/DOIRQ6ELUV4GHS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BuilderHelp",
-    "description": "AI-Driven Construction Project Management Software",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c1a9c4dd-005e-4ad4-bd31-e7f6dd405ddf.png?auto=format",
-    "downloads": 281952,
-    "trend": 60,
-    "releasedAt": "2026-03-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QKFOUK7LBMLM6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Buy High Sell Low",
-    "description": "AI-powered stock summaries & paper trading for investing",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bcabb27e-c52c-4d18-abf8-5a4e313a2655.png?auto=format",
-    "downloads": 574737,
-    "trend": 66,
-    "releasedAt": "2026-03-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HCUJOZ27XMFL5K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ParlayLegend.AI",
-    "description": "The AI sports research platform built for serious analysts",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/dabc83db-02c4-4a38-ad06-aaec15410d84.jpeg?auto=format",
-    "downloads": 514272,
-    "trend": 29,
-    "releasedAt": "2026-03-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WKMPYXIZYJZHTD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ClawTrak",
-    "description": "Check if AI agents can find your website",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fd84ae7e-ad45-4a6f-adbf-35bcd1111ea8.svg?auto=format",
-    "downloads": 189378,
-    "trend": 104,
-    "releasedAt": "2026-03-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DXEUQSNLSDBWJM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RewriteNext",
-    "description": "Turn robotic AI text into natural human writing — instantly",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/d4f70788-e53a-4acd-b311-7497f9000fcb.png?auto=format",
-    "downloads": 246881,
-    "trend": 51,
-    "releasedAt": "2026-03-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AAPZEZUBYGJXLR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
