@@ -1,5 +1,77 @@
 [
   {
+    "name": "Graze",
+    "description": "AI Nutrition Tracking in Seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8a3c0ee7-a643-4e66-bfbf-8140ac953082.png?auto=format",
+    "downloads": 871706,
+    "trend": 40,
+    "releasedAt": "2026-03-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/L2UI2KLLRVHLS5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Free.ai",
+    "description": "Every AI Tool, Completly FREE",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0664838e-c4ef-4bba-a0f4-cf553434a318.png?auto=format",
+    "downloads": 887754,
+    "trend": 79,
+    "releasedAt": "2026-03-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MJOYSZZGEI4XQN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Addus Technologies",
+    "description": "Trusted Partner in Futuristic Blockchain Innovation",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/e40ffe52-a78a-4985-be0f-1bfc6e1e282d.jpeg?auto=format",
+    "downloads": 782248,
+    "trend": 101,
+    "releasedAt": "2026-03-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EKKMDD5IRC6NJJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AlBaik Menu Price",
+    "description": "Find Latest Albaik menu with prices",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ad50ec99-e7e1-4dde-aa53-f3e59e5ae751.png?auto=format",
+    "downloads": 417377,
+    "trend": 13,
+    "releasedAt": "2026-03-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/66MA52LEBVGILW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Scruple — Ethical Mail Agent",
+    "description": "A cynical AI ethicist living in your inbox",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e12f396b-e538-4c34-a5e2-d821aecb729b.svg?auto=format",
+    "downloads": 896431,
+    "trend": 66,
+    "releasedAt": "2026-03-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/S4YN3VYJSEQJC2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Solar Panels Pakistan",
+    "description": "Daily Solar Prices & System Updates in Pakistan",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ffbb5fc7-14e7-40b6-a572-aaa641bfc286.webp?auto=format",
+    "downloads": 273467,
+    "trend": 13,
+    "releasedAt": "2026-03-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5HKBGCUJIMVS33?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "GQ Men's Hair Salon JLT",
     "description": "Best Men's Salon & Barbershop in JLT, Dubai Marina",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/Z7ZNAAG3Q35QB7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Tabillo - Roadmap Planner",
-    "description": "Plan, prioritize, and ship with full clarity, powered by AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/49d318cd-82d8-4ee0-80c7-ae95aef8d9fe.jpeg?auto=format",
-    "downloads": 844496,
-    "trend": 88,
-    "releasedAt": "2026-03-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XLU2PXN5ZLVIDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Aera Browser",
-    "description": "The browser built for automation",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/939aa253-1b6a-4dd8-80d5-1c5892ef5e14.png?auto=format",
-    "downloads": 844731,
-    "trend": 19,
-    "releasedAt": "2026-03-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/45ASS7UPWHFNKV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Apparent for Gmail",
-    "description": "Make Gmail easier to read and manage.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c099c518-a65e-4484-8fe2-73a696d18e5f.png?auto=format",
-    "downloads": 560543,
-    "trend": 107,
-    "releasedAt": "2026-03-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MVLWQNIV4PJAZJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Gradii",
-    "description": "AI - Recruitment OS",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/07accdcb-09a4-4fff-b2dd-fc93f1e3c2d3.png?auto=format",
-    "downloads": 876808,
-    "trend": 19,
-    "releasedAt": "2026-03-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5XJ4CUIM2EOLX6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vooka",
-    "description": "an AI-powered virtual try-on platform for fashion e-commerce",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/64431d82-5a99-4da2-b08d-97981dbced6d.x-icon?auto=format",
-    "downloads": 431359,
-    "trend": 59,
-    "releasedAt": "2026-03-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6PNFCSSCQB5ZXP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MolarPlus - Dental Practice Software",
-    "description": "Supporting dentistry beyond the chair !",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/887518a0-3612-426e-ba1b-e57212b01711.png?auto=format",
-    "downloads": 982550,
-    "trend": 51,
-    "releasedAt": "2026-03-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YEHD5DG3CQXSDP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
