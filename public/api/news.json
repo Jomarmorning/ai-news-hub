@@ -1,5 +1,25 @@
 [
   {
+    "id": 1774888188449,
+    "title": "Claude 4.0深夜突袭发布：MMLU基准测试全面超越GPT-4",
+    "summary": "Anthropic于3月22日突发发布Claude 4.0，官方技术报告显示其在MMLU、GPQA等多项基准测试上全面超越GPT-4，实现百万级上下文处理能力和自适应思考模式，引发AI社区震动。",
+    "category": "AI模型",
+    "source": "Anthropic/Winzheng",
+    "date": "2026-03-31",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.winzheng.com/article/claude-4-surpasses-gpt-4-benchmark-analysis"
+  },
+  {
+    "id": 1774888188450,
+    "title": "2026中关村论坛：人工智能主题日将贯穿年会全程",
+    "summary": "2026中关村论坛年会'人工智能主题日'将打造'1+6'活动框架，聚焦'前沿技术'与'国际化'两大核心，以'交融·智享AI新范式下的全球创新与产业融合'为主题，展示AI技术最新成果。",
+    "category": "产业",
+    "source": "新华网",
+    "date": "2026-03-31",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://www3.xinhuanet.com/tech/20260326/c94e0c98cb0b4580b1ff7921c5833fa5/c.html"
+  },
+  {
     "id": 1774888148652,
     "title": "ChatGPT周活用户突破9亿，创历史新高",
     "summary": "OpenAI宣布ChatGPT全球周活跃用户突破9亿大关，成为史上增长最快的消费级应用。同时，GPT-5.4模型在推理能力和代码生成方面实现重大突破，在多项基准测试中超越竞争对手。",
