@@ -4,63 +4,63 @@
     "description": "OpenAI开发的AI聊天助手",
     "category": "AI对话",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
-    "downloads": 5338583,
-    "trend": 15
+    "downloads": 5339559,
+    "trend": 31
   },
   {
     "name": "Midjourney",
     "description": "AI图像生成工具",
     "category": "AI绘画",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg",
-    "downloads": 3930802,
-    "trend": 22
+    "downloads": 3931958,
+    "trend": 2
   },
   {
     "name": "Claude",
     "description": "Anthropic AI助手",
     "category": "AI对话",
     "icon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-    "downloads": 3358179,
-    "trend": 28
+    "downloads": 3358740,
+    "trend": 30
   },
   {
     "name": "Runway",
     "description": "AI视频生成与编辑",
     "category": "AI视频",
     "icon": "https://runwayml.com/favicon.ico",
-    "downloads": 2936720,
-    "trend": 5
+    "downloads": 2937369,
+    "trend": 40
   },
   {
     "name": "Jasper",
     "description": "AI写作助手",
     "category": "AI写作",
     "icon": "https://www.jasper.ai/favicon.ico",
-    "downloads": 2539443,
-    "trend": 12
+    "downloads": 2541230,
+    "trend": 24
   },
   {
     "name": "Synthesia",
     "description": "AI视频生成平台",
     "category": "AI视频",
     "icon": "https://www.synthesia.io/favicon.ico",
-    "downloads": 2253022,
-    "trend": 18
+    "downloads": 2253970,
+    "trend": 1
   },
   {
     "name": "Copy.ai",
     "description": "营销文案AI工具",
     "category": "AI写作",
     "icon": "https://www.copy.ai/favicon.ico",
-    "downloads": 2037855,
-    "trend": 8
+    "downloads": 2039305,
+    "trend": 0
   },
   {
     "name": "Notion AI",
     "description": "智能笔记与协作",
     "category": "生产力",
     "icon": "https://www.notion.so/images/favicon.ico",
-    "downloads": 1888931,
+    "downloads": 1890075,
     "trend": 25
   },
   {
@@ -68,15 +68,15 @@
     "description": "AI写作辅助工具",
     "category": "AI写作",
     "icon": "https://www.grammarly.com/favicon.ico",
-    "downloads": 1737869,
-    "trend": -2
+    "downloads": 1739188,
+    "trend": 24
   },
   {
     "name": "DALL-E 3",
     "description": "OpenAI图像生成",
     "category": "AI绘画",
     "icon": "https://openai.com/favicon.ico",
-    "downloads": 1584012,
-    "trend": 30
+    "downloads": 1584855,
+    "trend": 8
   }
 ]
