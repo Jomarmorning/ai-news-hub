@@ -325,17 +325,17 @@ if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
         }
     });
 
-    // 每12小时推送AI热点资讯到飞书
-    cron.schedule('0 */12 * * *', async () => {
-        console.log('[' + new Date().toISOString() + '] 开始飞书资讯推送...');
-        try {
-            const news = await dataService.getNews();
-            await feishuBot.pushNewsToFeishu(news);
-            console.log('[' + new Date().toISOString() + '] 飞书推送完成');
-        } catch (error) {
-            console.error('飞书推送失败:', error);
-        }
-    });
+    // 每12小时推送AI热点资讯到飞书 - 已取消
+    // cron.schedule('0 */12 * * *', async () => {
+    //     console.log('[' + new Date().toISOString() + '] 开始飞书资讯推送...');
+    //     try {
+    //         const news = await dataService.getNews();
+    //         await feishuBot.pushNewsToFeishu(news);
+    //         console.log('[' + new Date().toISOString() + '] 飞书推送完成');
+    //     } catch (error) {
+    //         console.error('飞书推送失败:', error);
+    //     }
+    // });
 }
 
 // Vercel Serverless 适配 - 导出app供Serverless使用
