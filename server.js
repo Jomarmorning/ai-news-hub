@@ -314,8 +314,8 @@ app.post('/api/test-feishu', async (req, res) => {
 // ========================================
 
 if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
-    // 每6小时自动更新数据
-    cron.schedule('0 */6 * * *', async () => {
+    // 每12小时自动更新数据（与生产环境保持一致）
+    cron.schedule('0 0,12 * * *', async () => {
         console.log('[' + new Date().toISOString() + '] 开始定时数据更新...');
         try {
             await dataService.refreshAllData();
