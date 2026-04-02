@@ -1,5 +1,35 @@
 [
   {
+    "id": 1775095784144,
+    "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
+    "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
+    "category": "AI趋势",
+    "source": "36氪/Anthropic",
+    "date": "2026-04-02",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
+    "url": "https://www.36kr.com/p/3719688044148355"
+  },
+  {
+    "id": 1775095784145,
+    "title": "2026年消费创新案例揭晓：AI助手一句话下单超1.2亿次",
+    "summary": "2026年消费创新案例正式揭晓，AI技术正在深度融入日常生活。从'AI助手一句话下单超1.2亿次'到'具身智能机器人持证上岗智慧药房'，从'AI眼镜实现实时翻译'到'智能客服解决率突破95%'，AI正在从概念走向大规模商业应用。",
+    "category": "产业",
+    "source": "每日经济新闻",
+    "date": "2026-04-02",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    "url": "https://www.nbd.com.cn/"
+  },
+  {
+    "id": 1775095784146,
+    "title": "金华人工智能大会：AI产业化加速，2026将是AI大爆发之年",
+    "summary": "3月14日，'金华·金漪湖'2026人工智能产业融合大会成功举办。与会专家表示，最近的OpenClaw等创新让所有人看到，人工智能不但离我们越来越近，而且就在我们身边。2026年将会是人工智能大爆发的一年，AI产业化进程正在全面加速。",
+    "category": "产业",
+    "source": "上海证券报",
+    "date": "2026-04-02",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
+    "url": "https://paper.cnstock.com/"
+  },
+  {
     "id": 1775049584933,
     "title": "Anthropic升级Claude插件：实现Excel与PPT跨应用自动化办公",
     "summary": "Anthropic近日对Claude的Excel和PowerPoint加载项进行重大升级，推出'共享上下文'功能。用户可以在Excel中分析数据后，直接让Claude生成对应的PowerPoint演示文稿，无需重复解释数据集。这一功能将大幅提升企业办公效率，直接挑战微软Copilot的市场地位。",
@@ -168,35 +198,5 @@
     "date": "2026-03-31",
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
     "url": "https://openai.com/blog/chatgpt-900m-users"
-  },
-  {
-    "id": 1774888148653,
-    "title": "Google发布Gemini 3 Pro：多模态能力全面领先",
-    "summary": "Google DeepMind正式发布Gemini 3 Pro旗舰模型，首次实现原生多模态MoE架构，在文本、图像、视频和音频理解方面实现全面突破。新模型在复杂推理任务中表现优异，直接挑战GPT-5.4的市场地位。",
-    "category": "AI模型",
-    "source": "Google/机器之心",
-    "date": "2026-03-31",
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    "url": "https://deepmind.google/gemini-3-pro"
-  },
-  {
-    "id": 1774888148654,
-    "title": "Claude Opus 4.6发布：编程能力再升级，企业级AI助手新标杆",
-    "summary": "Anthropic发布Claude Opus 4.6版本，在代码生成、复杂推理和长文本处理方面实现显著提升。新版本支持跨应用自动化办公，可直接在Excel和PowerPoint之间无缝协作，大幅提升企业工作效率。",
-    "category": "AI趋势",
-    "source": "Anthropic/36氪",
-    "date": "2026-03-31",
-    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80",
-    "url": "https://www.anthropic.com/claude-opus-4-6"
-  },
-  {
-    "id": 1774847181224,
-    "title": "阿里云AI算力涨价34%：全球AI需求爆发引发供应链涨价潮",
-    "summary": "3月18日，阿里云官网发布公告，因全球AI需求爆发、供应链涨价导致行业核心硬件采购成本显著上涨，将于2026年4月18日起对AI算力、CPFS智算版等产品进行价格调整，最高涨幅达34%。百度智能云也同步上调价格，算力租赁概念午后爆发。",
-    "category": "产业",
-    "source": "阿里云/澎湃新闻",
-    "date": "2026-03-30",
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-    "url": "https://www.thepaper.cn/newsDetail_forward_32787960"
   }
 ]
