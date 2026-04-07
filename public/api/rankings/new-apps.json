@@ -1,5 +1,77 @@
 [
   {
+    "name": "ClearATPL — Master Your ATPL Knowledge",
+    "description": "ATPL prep and airline interview simulator",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6b5a0dde-6510-4e49-a43d-4d69995ebd68.png?auto=format",
+    "downloads": 579582,
+    "trend": 80,
+    "releasedAt": "2026-04-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UL5RVQP3MCRQJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "RetouchLab",
+    "description": "Retouch skin in Photoshop - 30 sec, full control and no AI",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/de47d68a-06bf-4484-9a80-c50d557f37cd.jpeg?auto=format",
+    "downloads": 216478,
+    "trend": 41,
+    "releasedAt": "2026-04-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WG3X4BJWOWBTSQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Staffley",
+    "description": "AI receptionist that captures missed calls & bookings",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f4a4e29f-d208-427d-80a7-dbdd4fe1a8dd.png?auto=format",
+    "downloads": 711007,
+    "trend": 96,
+    "releasedAt": "2026-04-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Z7S6LCTHX337TE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PDF Agent",
+    "description": "Free PDF tools with AI — no sign-up, no limits",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/04fa5057-0e1a-490a-9b5e-4a938375acda.png?auto=format",
+    "downloads": 518909,
+    "trend": 29,
+    "releasedAt": "2026-04-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3LO3LJJEJJ7JGW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Clear Bill",
+    "description": "Invoices, expenses, and Canadian taxes — all automated.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/d22d4a72-921b-4d4b-bb97-c372b17c42f7.png?auto=format",
+    "downloads": 576298,
+    "trend": 102,
+    "releasedAt": "2026-04-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KTZZBBVUYAYETQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Margn; Quote Journal ",
+    "description": "Capture quotes. Revisit them daily.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c058f5a4-39ba-42ba-8082-80085b42910c.png?auto=format",
+    "downloads": 662830,
+    "trend": 46,
+    "releasedAt": "2026-04-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4CPLCYTEMY6MZ6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Muscle Mentor",
     "description": "Train Smarter. Transform Faster.",
     "category": "AI绘画",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/63W4WVEEXCHJYU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Nografo",
-    "description": "Discover and use knowledge graphs for LLMs",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a283c0de-a718-4ac0-a11f-56d54164442d.svg?auto=format",
-    "downloads": 252227,
-    "trend": 49,
-    "releasedAt": "2026-04-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VQSLU7YSZJBW5X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SnapReward",
-    "description": "Earn with daily snaps",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2fd20ca1-95fb-48da-9805-895da969cb2d.png?auto=format",
-    "downloads": 353463,
-    "trend": 101,
-    "releasedAt": "2026-04-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SCMPOGB2HWE67E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CamelAGI",
-    "description": "Run self-hosted AI agents, alternative to OpenClaw",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/477ace14-9d55-4f0f-ac58-7dcae5186021.png?auto=format",
-    "downloads": 733523,
-    "trend": 93,
-    "releasedAt": "2026-04-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MFVUICNO6S5YQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Asa Softwares GIS||SIG",
-    "description": "New tools designed to help you make the most of free AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3620721a-2484-457f-ba30-0094a4cbb386.png?auto=format",
-    "downloads": 435016,
-    "trend": 93,
-    "releasedAt": "2026-04-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AJFUY6VMW7IF3B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OMNIBIOFEX AI",
-    "description": "⚡ Generate Research, Ideas & Strategies in Seconds — Just ₹9",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/36edf4e7-6f67-495d-9a38-e40ef3baa5e1.png?auto=format",
-    "downloads": 718365,
-    "trend": 84,
-    "releasedAt": "2026-04-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/N7AGTTLJLAEDDR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Bloom",
-    "description": "AI emotional support for IVF patients, 24/7 ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a42f2f53-e82d-48bc-94e3-bee389ec7b80.png?auto=format",
-    "downloads": 627833,
-    "trend": 82,
-    "releasedAt": "2026-04-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JUS2G36AMNFUCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
