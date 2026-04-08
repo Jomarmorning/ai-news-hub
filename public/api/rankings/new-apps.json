@@ -1,5 +1,77 @@
 [
   {
+    "name": "GrowSight",
+    "description": "Financial reports, KPIs & AI insights for SMBs",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/29a549e8-d9e8-4fed-b6c8-c47628a07a39.png?auto=format",
+    "downloads": 783674,
+    "trend": 72,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YNRYQ7R2HGSSRG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Track-Subs",
+    "description": "Find hidden subscriptions from your email",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9fa0e49e-8481-4b58-bc24-789bdc2cc213.svg?auto=format",
+    "downloads": 531972,
+    "trend": 75,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UCZ7CD6ET5HXSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Whisk ai",
+    "description": "Whisk ai - Free Whisk AI Image Generator",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/ed0ab2da-587b-491a-a87c-b40ec721844c.png?auto=format",
+    "downloads": 1046710,
+    "trend": 70,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YGFX6QTEACKWST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WASA AI Audit Framework",
+    "description": "Sovereign AI auditing framework for high-stakes B2B.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/beb4a30e-80f4-4c56-b4b5-2c58e0384941.jpeg?auto=format",
+    "downloads": 267915,
+    "trend": 60,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2OUHG2IVJVMNJO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "EU Invoice",
+    "description": "Professional invoices compliant with EU VAT rules.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/473055e5-5a06-4161-b78a-573a83680a1a.svg?auto=format",
+    "downloads": 232613,
+    "trend": 99,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EROFPTZFSWRWWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FinPilot AI: Total Financial Control",
+    "description": "10x Your Financial Research and Automate Manual Entry.",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/fc11791f-45c8-485a-b8af-44937daa503a.png?auto=format",
+    "downloads": 132944,
+    "trend": 49,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LJJSSZSZH3DDIS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "NovaVoice",
     "description": "Smart dictation, AI assistant, + app control via voice",
     "category": "AI绘画",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/E7P5ISJTDYWZYM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OpenBrowser-AI",
-    "description": "Connect AI agents to browser through raw CDP",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c4806d83-b9de-4831-8641-b78026e1b7d3.png?auto=format",
-    "downloads": 1023521,
-    "trend": 70,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/45TCGPRHWATLQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "VibeCore",
-    "description": "Cut your AI API costs by 80% automatically",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0ea003da-061c-4acc-bb95-ab22945ad08e.jpeg?auto=format",
-    "downloads": 814010,
-    "trend": 15,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QXYHJ6JKKNGWJH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "鲁行",
-    "description": "你的 AI 旅行搭子，懂山东更懂你",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/61017adc-8e62-4dfe-8115-1cbaae9cf9a6.svg?auto=format",
-    "downloads": 928852,
-    "trend": 103,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4YHSSCADU6II5V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Intode",
-    "description": "The mobile SSH IDE where Claude Code actually works",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/5dcc3996-3152-4c57-822e-4229d2fa46f1.png?auto=format",
-    "downloads": 983221,
-    "trend": 81,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WYGLOEEFNSRSJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ziggy AI ",
-    "description": "Your WhatsApp AI receptionist that never sleeps",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/93ea1b7b-c31f-42c8-bb75-2ebc059d390c.png?auto=format",
-    "downloads": 562530,
-    "trend": 106,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/54HHON5DGRMOPQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "sync-3",
-    "description": "Studio-grade AI lip sync and visual dubbing",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c985c838-f2b0-48a2-a3c1-6f145c3c402a.jpeg?auto=format",
-    "downloads": 792752,
-    "trend": 92,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JVSYAGLNKYDBXU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
