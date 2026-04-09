@@ -1,5 +1,77 @@
 [
   {
+    "name": "Track-Subs",
+    "description": "Find hidden subscriptions from your email",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9fa0e49e-8481-4b58-bc24-789bdc2cc213.svg?auto=format",
+    "downloads": 869845,
+    "trend": 10,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UCZ7CD6ET5HXSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Whisk ai",
+    "description": "Whisk ai - Free Whisk AI Image Generator",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/ed0ab2da-587b-491a-a87c-b40ec721844c.png?auto=format",
+    "downloads": 474629,
+    "trend": 13,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YGFX6QTEACKWST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "EU Invoice",
+    "description": "Professional invoices compliant with EU VAT rules.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/473055e5-5a06-4161-b78a-573a83680a1a.svg?auto=format",
+    "downloads": 419460,
+    "trend": 36,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EROFPTZFSWRWWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FinPilot AI: Total Financial Control",
+    "description": "10x Your Financial Research and Automate Manual Entry.",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/fc11791f-45c8-485a-b8af-44937daa503a.png?auto=format",
+    "downloads": 379980,
+    "trend": 37,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LJJSSZSZH3DDIS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Airside: Aviation Flight Log",
+    "description": "Turn every flight and airport into collectible trading cards",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/398d4b80-9512-41d9-92be-67956a69e75d.jpeg?auto=format",
+    "downloads": 290405,
+    "trend": 79,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OJ7E7S7J5IGLOO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "EssayMateAI",
+    "description": "AI that tells you what to write next.",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/7b69acc0-a170-47c0-806a-e6350bfeb50a.png?auto=format",
+    "downloads": 1029511,
+    "trend": 34,
+    "releasedAt": "2026-04-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HBZVSFPZ5D3SKE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "GrowSight",
     "description": "Financial reports, KPIs & AI insights for SMBs",
     "category": "AI对话",
@@ -12,30 +84,6 @@
     "url": "https://www.producthunt.com/r/YNRYQ7R2HGSSRG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Track-Subs",
-    "description": "Find hidden subscriptions from your email",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9fa0e49e-8481-4b58-bc24-789bdc2cc213.svg?auto=format",
-    "downloads": 531972,
-    "trend": 75,
-    "releasedAt": "2026-04-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UCZ7CD6ET5HXSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Whisk ai",
-    "description": "Whisk ai - Free Whisk AI Image Generator",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/ed0ab2da-587b-491a-a87c-b40ec721844c.png?auto=format",
-    "downloads": 1046710,
-    "trend": 70,
-    "releasedAt": "2026-04-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YGFX6QTEACKWST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "WASA AI Audit Framework",
     "description": "Sovereign AI auditing framework for high-stakes B2B.",
     "category": "AI对话",
@@ -46,30 +94,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2OUHG2IVJVMNJO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "EU Invoice",
-    "description": "Professional invoices compliant with EU VAT rules.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/473055e5-5a06-4161-b78a-573a83680a1a.svg?auto=format",
-    "downloads": 232613,
-    "trend": 99,
-    "releasedAt": "2026-04-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EROFPTZFSWRWWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FinPilot AI: Total Financial Control",
-    "description": "10x Your Financial Research and Automate Manual Entry.",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/fc11791f-45c8-485a-b8af-44937daa503a.png?auto=format",
-    "downloads": 132944,
-    "trend": 49,
-    "releasedAt": "2026-04-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LJJSSZSZH3DDIS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "NovaVoice",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/W75HOG5T6C7WXZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Caret",
-    "description": "Press Tab for AI anywhere you type on Mac",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/30c67442-1a5c-429e-b8d3-28abbb363d4c.png?auto=format",
-    "downloads": 599211,
-    "trend": 65,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XM2TKHY6SWITKB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Knoi AI",
-    "description": "The world's easiest AI meeting notes",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/410928ac-47cc-460e-91af-05a62f7aa247.png?auto=format",
-    "downloads": 121461,
-    "trend": 79,
-    "releasedAt": "2026-04-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E7P5ISJTDYWZYM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
