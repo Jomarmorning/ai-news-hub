@@ -1,5 +1,77 @@
 [
   {
+    "name": "LocalPill",
+    "description": "India’s First & Most Reliable Medicine Certainty Platform",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0bf021ac-46b2-4dc0-801e-58ef20bd9dff.png?auto=format",
+    "downloads": 925716,
+    "trend": 64,
+    "releasedAt": "2026-04-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6ZDVED3WNKYIOW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Coglition",
+    "description": "AI college app coach.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8621250b-afdf-444e-87eb-92bc59177ac1.png?auto=format",
+    "downloads": 850836,
+    "trend": 83,
+    "releasedAt": "2026-04-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/X6THHILM2EAGAT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "eSimphony",
+    "description": "Moza, your AI Assistant finds your best-fit eSIM - instantly",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ff37cda3-3c48-480c-8595-2d674350ff06.png?auto=format",
+    "downloads": 167406,
+    "trend": 40,
+    "releasedAt": "2026-04-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/V6222F7DQJIUK7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Healthmate",
+    "description": "Mobile Health Assistant App ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/44f0ae9d-8a5f-4422-8c6d-2207e9ee934e.png?auto=format",
+    "downloads": 229266,
+    "trend": 35,
+    "releasedAt": "2026-04-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/I24G35JR7DVXBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Seedance2video",
+    "description": "Generate Cinematic AI Videos in seconds use seedance 2.0",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/4339e2df-dfad-437a-b6ce-ebc97326222d.x-icon?auto=format",
+    "downloads": 573370,
+    "trend": 24,
+    "releasedAt": "2026-04-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IKHVEGNJCG3IVZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "plushdubai.com",
+    "description": "Turning moments into soft memories.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6127b72b-5f91-42b6-9bf2-56c2fc362230.webp?auto=format",
+    "downloads": 531023,
+    "trend": 76,
+    "releasedAt": "2026-04-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/S5EEU7GK4YGVAN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "PassFlow AI",
     "description": "The $69/year AI gym management app. Stop paying monthly.",
     "category": "AI对话",
@@ -12,54 +84,6 @@
     "url": "https://www.producthunt.com/r/PGZHPB73RC3TOG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "LocalPill",
-    "description": "India’s First & Most Reliable Medicine Certainty Platform",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0bf021ac-46b2-4dc0-801e-58ef20bd9dff.png?auto=format",
-    "downloads": 319133,
-    "trend": 52,
-    "releasedAt": "2026-04-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6ZDVED3WNKYIOW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Coglition",
-    "description": "AI college app coach.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8621250b-afdf-444e-87eb-92bc59177ac1.png?auto=format",
-    "downloads": 323059,
-    "trend": 34,
-    "releasedAt": "2026-04-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/X6THHILM2EAGAT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "eSimphony",
-    "description": "Moza, your AI Assistant finds your best-fit eSIM - instantly",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ff37cda3-3c48-480c-8595-2d674350ff06.png?auto=format",
-    "downloads": 334951,
-    "trend": 15,
-    "releasedAt": "2026-04-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/V6222F7DQJIUK7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Healthmate",
-    "description": "Mobile Health Assistant App ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/44f0ae9d-8a5f-4422-8c6d-2207e9ee934e.png?auto=format",
-    "downloads": 933679,
-    "trend": 101,
-    "releasedAt": "2026-04-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/I24G35JR7DVXBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "RealtyAI Listing Writer",
     "description": "AI listing copy for real estate agents — free trial",
     "category": "AI写作",
@@ -70,18 +94,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/23UTAESN4PIWBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Seedance2video",
-    "description": "Generate Cinematic AI Videos in seconds use seedance 2.0",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/4339e2df-dfad-437a-b6ce-ebc97326222d.x-icon?auto=format",
-    "downloads": 615855,
-    "trend": 74,
-    "releasedAt": "2026-04-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IKHVEGNJCG3IVZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Cutsio",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/TWDXRABVXM6OGL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Motn AI",
-    "description": "Vibe-code motion graphics on one canvas",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/279b206a-ae3a-4ecf-b4a7-7bd81d871ada.png?auto=format",
-    "downloads": 246790,
-    "trend": 24,
-    "releasedAt": "2026-04-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TBV3EQYLBYP6V2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
