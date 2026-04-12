@@ -1,5 +1,77 @@
 [
   {
+    "name": "The Academic Prompt Pack",
+    "description": "75 AI prompts to help students study, write and ace exams",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/722c098c-ffb5-4109-b251-fc295fb45b83.png?auto=format",
+    "downloads": 880397,
+    "trend": 24,
+    "releasedAt": "2026-04-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DDOJGARZW5X2AA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Fablecard",
+    "description": "A free collectible card game with daily packs",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8c8c16f2-e3af-4ad3-a20c-2a5f822a060d.png?auto=format",
+    "downloads": 836464,
+    "trend": 62,
+    "releasedAt": "2026-04-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/URGZXPUSRBBWYM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "StreetAI/AaaS",
+    "description": "Agent as a Service for businesses and service providers.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d22b9995-23ec-42f4-bfdc-2bb5a8ae3749.png?auto=format",
+    "downloads": 949032,
+    "trend": 73,
+    "releasedAt": "2026-04-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/26GIJBJW2PRE3D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Daily Life Productivity",
+    "description": "A distraction-free productivity app for stay focused",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/093068a6-a96c-4f52-a200-4147440b853a.svg?auto=format",
+    "downloads": 1002299,
+    "trend": 50,
+    "releasedAt": "2026-04-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TN2PDT6FICVWC7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AiconnectPro",
+    "description": "Screen-aware AI assistant for voice + live sessions",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/871d696a-8d60-474a-aacf-fef3894bd8cd.png?auto=format",
+    "downloads": 388210,
+    "trend": 106,
+    "releasedAt": "2026-04-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LJLGPKIBLPUAP2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Katie — AI-Powered Sales Automation",
+    "description": "Build your entire outbound sales system in 12 seconds.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3cc276e1-a154-446d-8a99-238fee0ecfcb.jpeg?auto=format",
+    "downloads": 378207,
+    "trend": 48,
+    "releasedAt": "2026-04-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DDBNIZG2QIIBPO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "SlideXY AI",
     "description": "Turn Ideas into Stunning Presentations in Seconds.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/P2UIIZ6KUP2JQG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "HappyHorse 1.0",
-    "description": "AI video generator with native audio sync in 1080p",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/02011ac4-fc85-46a0-8586-cafdc815a7c0.png?auto=format",
-    "downloads": 281386,
-    "trend": 45,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3EF2WWMOE2OB5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vequil",
-    "description": "Operate AI agents with confidence",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/def48ce2-2035-433b-b778-e2693cafc07e.jpeg?auto=format",
-    "downloads": 115972,
-    "trend": 75,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NRVPH227DZ2GP5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sonicribe",
-    "description": "The fastest offline voice-to-text app for Mac and Windows",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/d8f4f085-f751-4b9a-bcba-dc70cec1cdbc.png?auto=format",
-    "downloads": 586018,
-    "trend": 81,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PFED3SBCSKX7YB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Promptx",
-    "description": "A type system for LLM prompts. Ship with confidence.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b429abbb-c94c-4c58-8c8c-1eb40dacb8f1.png?auto=format",
-    "downloads": 196230,
-    "trend": 13,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M5FOAYW3BTMPX2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LocalPill",
-    "description": "India’s First & Most Reliable Medicine Certainty Platform",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0bf021ac-46b2-4dc0-801e-58ef20bd9dff.png?auto=format",
-    "downloads": 925716,
-    "trend": 64,
-    "releasedAt": "2026-04-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6ZDVED3WNKYIOW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Coglition",
-    "description": "AI college app coach.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8621250b-afdf-444e-87eb-92bc59177ac1.png?auto=format",
-    "downloads": 850836,
-    "trend": 83,
-    "releasedAt": "2026-04-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/X6THHILM2EAGAT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
