@@ -1,5 +1,77 @@
 [
   {
+    "name": "Forkful - Reels to meals",
+    "description": "Reels to meals, with AI. Save any recipe from anywhere.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5fbee8d8-e088-4e38-8fe0-1f18eef0db37.png?auto=format",
+    "downloads": 433168,
+    "trend": 44,
+    "releasedAt": "2026-04-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/X7EYRII66YIVUB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Fyphost - COM Domains at Just $4.89! ",
+    "description": "Affordable domain registration with transparent pricing",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5e54c0b6-dd37-4211-ac07-a40a06de6bb6.jpeg?auto=format",
+    "downloads": 484470,
+    "trend": 69,
+    "releasedAt": "2026-04-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IEYZWS3GZWXKSI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Learn English Fast",
+    "description": "Free AI English tutor for CEFR A1-C2 with real conversations",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/bda5f776-3fb0-4b7e-9099-766d504ff1d7.png?auto=format",
+    "downloads": 831914,
+    "trend": 46,
+    "releasedAt": "2026-04-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KXB5GJYQBR7WRY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AIYO Wisper",
+    "description": "Your voice, your Mac, no cloud — ever.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/cb5e647a-1f07-408f-947d-46a8780b8d29.png?auto=format",
+    "downloads": 1081938,
+    "trend": 102,
+    "releasedAt": "2026-04-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SIZSHTRFYSXSOP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Synkora AI",
+    "description": "Build production-ready AI agents like infrastructure.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ecf6512a-ec30-4e7a-81f3-cd4a176aeb58.png?auto=format",
+    "downloads": 486820,
+    "trend": 95,
+    "releasedAt": "2026-04-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IJUN6FHL4DLESY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "GhostCFO",
+    "description": "Your AI CFO for smarter startup decisions.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/fab64a6d-fa4a-46ce-a348-40eeff3dd99c.png?auto=format",
+    "downloads": 771941,
+    "trend": 75,
+    "releasedAt": "2026-04-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K4P6JA5IQOD7FS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "The Academic Prompt Pack",
     "description": "75 AI prompts to help students study, write and ace exams",
     "category": "AI写作",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/TN2PDT6FICVWC7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AiconnectPro",
-    "description": "Screen-aware AI assistant for voice + live sessions",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/871d696a-8d60-474a-aacf-fef3894bd8cd.png?auto=format",
-    "downloads": 388210,
-    "trend": 106,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LJLGPKIBLPUAP2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Katie — AI-Powered Sales Automation",
-    "description": "Build your entire outbound sales system in 12 seconds.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3cc276e1-a154-446d-8a99-238fee0ecfcb.jpeg?auto=format",
-    "downloads": 378207,
-    "trend": 48,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DDBNIZG2QIIBPO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SlideXY AI",
-    "description": "Turn Ideas into Stunning Presentations in Seconds.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/edebe543-c785-49a5-be9c-9e4ba21ba189.jpeg?auto=format",
-    "downloads": 791264,
-    "trend": 40,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5USBGHZ5GAPL2P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ProxyClaw",
-    "description": "Web access for AI agents — CAPTCHA bypass, 2M+ IPs, free",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/01dc5307-198b-48d2-a2ae-1398444e1517.png?auto=format",
-    "downloads": 581389,
-    "trend": 94,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MFQOWAHYAPLO4Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Blink - AI Powered News",
-    "description": "An AI powered personalized news app to reduce doomscroling",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c3447e5b-42bc-4995-88e7-a7658d0ef26a.png?auto=format",
-    "downloads": 994614,
-    "trend": 20,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QSSPOSJGEYLVMW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Smart Invoice Generator (Offline) ",
-    "description": "Create professional invoices instantly -no internet required",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/cb078322-9fe0-4d97-afe7-4c4e5e960f78.svg?auto=format",
-    "downloads": 590150,
-    "trend": 47,
-    "releasedAt": "2026-04-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/P2UIIZ6KUP2JQG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
