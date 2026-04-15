@@ -1,5 +1,53 @@
 [
   {
+    "name": "ScreenShield",
+    "description": "Sanctions screening & goAML STR/CTR filing for African FIs",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a374afd2-7870-4b8d-b47d-22c07753f9a1.png?auto=format",
+    "downloads": 605716,
+    "trend": 89,
+    "releasedAt": "2026-04-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7BSMZW32E7QKTZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Panaptico",
+    "description": "AI Native Runtime For IT Implementation & Rollout Projects",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a43e73e6-cfe0-4bea-aae1-6018e1427d46.png?auto=format",
+    "downloads": 307906,
+    "trend": 37,
+    "releasedAt": "2026-04-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IEIIXIX3BBY2GA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sift",
+    "description": "Assessments & Job Posting for the AI era",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7ef1cae5-5d52-41ac-8f8b-2d2289e853f6.jpeg?auto=format",
+    "downloads": 640458,
+    "trend": 66,
+    "releasedAt": "2026-04-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YCOCDNH5FLKE3V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Upkeeper",
+    "description": "Vehicle maintenance tracking",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d379eab5-9149-4f7e-8422-619b6cd8ff25.png?auto=format",
+    "downloads": 924527,
+    "trend": 61,
+    "releasedAt": "2026-04-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Q5LR7HHACS7XPR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "GuideMe",
     "description": "Your AI travel companion",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/PSKEYIUGYDTJ2P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ClawGrid",
-    "description": "The first real marketplace for AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e2996929-479d-49fc-b318-4f6afcb79ca4.jpeg?auto=format",
-    "downloads": 384328,
-    "trend": 18,
-    "releasedAt": "2026-04-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TKVHHWAXKCMRXG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Velra",
-    "description": "Voice journal that turns your \"umms\" into clean diary entry.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/83acd4ee-938e-4cc7-9bbb-886fcdc7d102.jpeg?auto=format",
-    "downloads": 1080040,
-    "trend": 14,
-    "releasedAt": "2026-04-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QMDP43356RBTCY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RepairFair",
-    "description": "Know if your mechanic is overcharging you before you pay",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ca4d9a88-b2be-4a10-9015-f95e9b2beea0.png?auto=format",
-    "downloads": 961446,
-    "trend": 47,
-    "releasedAt": "2026-04-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2Z7TBQ3OCWCEIX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MuVoN Trend AI",
-    "description": "AI-powered multi-timeframe market trend analysis platform",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5991d981-bece-44e2-b8db-7066ef9bfa42.jpeg?auto=format",
-    "downloads": 1054248,
-    "trend": 106,
-    "releasedAt": "2026-04-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DCJTOL7JP7N3AM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
