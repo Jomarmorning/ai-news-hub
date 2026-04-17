@@ -1,5 +1,77 @@
 [
   {
+    "name": "AGGRIP",
+    "description": "Pipe/Mangle those IP, CIDR and DOMAIN lists with flair!",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3ae407e7-475f-411e-b46d-8b94f683ef55.svg?auto=format",
+    "downloads": 889867,
+    "trend": 103,
+    "releasedAt": "2026-04-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WJGHQMU5FLCREC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CATAI",
+    "description": "Pixel art cats that live on your dock and chat via local AI",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/7e35be67-2453-4f05-8fdf-a5e066c39fbd.jpeg?auto=format",
+    "downloads": 995676,
+    "trend": 59,
+    "releasedAt": "2026-04-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IN7LOPNII6SGCQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Indium",
+    "description": "AI-driven digital engineering company",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4cf682f4-4853-4fdc-ae82-b31beb81a8d2.png?auto=format",
+    "downloads": 137664,
+    "trend": 38,
+    "releasedAt": "2026-04-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/REWEHF7WKMMZWR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PlantOS™ - Prescriptive AI",
+    "description": "Production Outcomes. Delivered.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/37bfe764-a79f-4f90-b1bc-2da028a8bb39.png?auto=format",
+    "downloads": 862667,
+    "trend": 101,
+    "releasedAt": "2026-04-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VKQBY6DCLWTYRC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Nexis AI",
+    "description": "AI That Acts Before You ask -No upload No prompt Just result",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/94f982a4-0a95-4a0c-82ac-08066ed28737.png?auto=format",
+    "downloads": 569047,
+    "trend": 100,
+    "releasedAt": "2026-04-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/H6RLSKZYSL25DL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "DiagramX",
+    "description": "AI-powered architecture modeling for enterprise architects",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/801b5b8f-ceac-4116-9132-823c6fb9884b.jpeg?auto=format",
+    "downloads": 374709,
+    "trend": 83,
+    "releasedAt": "2026-04-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AHJVXZQJMHPS3W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "NanoMusic AI",
     "description": " Free AI music generator",
     "category": "AI音频",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/IE2EGFIFI3QGZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ToneReply AI",
-    "description": "Your inbox. Handled by AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4b041cfb-45b3-4c0e-bd9d-353170951f72.png?auto=format",
-    "downloads": 908466,
-    "trend": 42,
-    "releasedAt": "2026-04-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/32SZDG7QA7LBV4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "QoogleMind",
-    "description": "QoogleMind your AI finder with 255+ tools",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/196814ab-73f4-4b82-8f90-5ed41956047d.png?auto=format",
-    "downloads": 1023196,
-    "trend": 68,
-    "releasedAt": "2026-04-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7L4POKBIDVQB57?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sidebarlex - Local AI for lawyers,",
-    "description": "Private AI for lawyers. Your files never leave your PC.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a638fe48-7f5a-4d23-8ecf-0aec7dcb37e9.svg?auto=format",
-    "downloads": 758850,
-    "trend": 45,
-    "releasedAt": "2026-04-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LL5IN2TC2WONGN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ravira",
-    "description": "Translation that respects terminology across 20 domains",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3d069a19-7fb0-4f84-9873-6b85c5401afe.png?auto=format",
-    "downloads": 405296,
-    "trend": 81,
-    "releasedAt": "2026-04-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EJBHIASTRKM5TI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AIPower",
-    "description": "One API for GPT, Claude, DeepSeek, Qwen & 12 more models",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bcac086b-08d1-457d-a8a3-57e67b590029.vnd.microsoft.icon?auto=format",
-    "downloads": 822897,
-    "trend": 109,
-    "releasedAt": "2026-04-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2MMHFJSOQRNJKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Horus Flow Intelligence",
-    "description": "Institutional Orderflow API for AI Trading Agent",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4a654c73-d5b9-49e5-a482-d8070c0789e5.jpeg?auto=format",
-    "downloads": 535030,
-    "trend": 95,
-    "releasedAt": "2026-04-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ELL3NCJ2NI2QAC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
