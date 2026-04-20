@@ -1,5 +1,77 @@
 [
   {
+    "name": "Jobdep",
+    "description": "I built an AI that applies to jobs for you → jobdep.com",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1ee0e5e1-113e-4a87-b86c-9cb328235d76.png?auto=format",
+    "downloads": 1043625,
+    "trend": 53,
+    "releasedAt": "2026-04-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NP5BFK4RM3N3RE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Docsector Documentation System",
+    "description": "Turn Markdown into beautiful, AI-ready documentation sites",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1124556d-c50b-4e11-b1c2-36bcea986d91.png?auto=format",
+    "downloads": 193307,
+    "trend": 65,
+    "releasedAt": "2026-04-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WOOHOAR3QDPKXK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sakalamai AI Tools",
+    "description": "40 AI tools + 12 agents — pay once, own forever",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3d4c6b34-9843-46e0-82dc-3907721b1e9c.jpeg?auto=format",
+    "downloads": 463721,
+    "trend": 38,
+    "releasedAt": "2026-04-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4AMH4HNOSDQI7M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Dental Professional Portal",
+    "description": "Simplified Financial System Tailored for Dental Practices",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/69b0edeb-c1f6-437c-bf58-f4caab61fe8f.jpeg?auto=format",
+    "downloads": 922460,
+    "trend": 87,
+    "releasedAt": "2026-04-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EH3UIPGS6OKFFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Poop Tracker:Gut Health AI",
+    "description": "Track, analyze, and improve your gut health with AI.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/70d29596-8ed7-4f10-95bb-c4503ac7dff5.png?auto=format",
+    "downloads": 1032721,
+    "trend": 54,
+    "releasedAt": "2026-04-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NC3GUQ2HFCXPYL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Elevations by Ongrid Design",
+    "description": "AI-Gen home elevations — trained for Indian architecture",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/03c23eac-317d-49e3-bed0-5b35a2e3b067.jpeg?auto=format",
+    "downloads": 729736,
+    "trend": 57,
+    "releasedAt": "2026-04-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PP3TNMWXRLKOK5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Nova Air 3",
     "description": "Not just called Air. It feels like it.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/USKNZSXEQKOF2Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Groommx",
-    "description": "Your personal AI stylist for everyday confidence",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3f5c6946-1117-4432-a492-2dca3f7f6efd.jpeg?auto=format",
-    "downloads": 994316,
-    "trend": 69,
-    "releasedAt": "2026-04-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DHVYWTFIXB5ZQF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Xora",
-    "description": "AI visual content for brands — photos & videos from €299",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/3fd03a88-cfff-4794-b334-499ebc64c17e.png?auto=format",
-    "downloads": 571496,
-    "trend": 49,
-    "releasedAt": "2026-04-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AZBTS3RCUI642V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OC Compass — AI Character Generator",
-    "description": "Create unique AI charactersAI-powered character in seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/35eac0dc-91e1-4dea-87c0-236703a584e8.png?auto=format",
-    "downloads": 1070185,
-    "trend": 42,
-    "releasedAt": "2026-04-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M6KW7OXAYIH5KB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AgentWeekly.ai",
-    "description": "best satirical news service focused on agentic AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c5c61535-4bc8-4a00-8f30-a1aeb2e3f2f1.png?auto=format",
-    "downloads": 192345,
-    "trend": 64,
-    "releasedAt": "2026-04-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PXQ6T2HNJW5TBH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Alflow",
-    "description": "AI OCR that actually reads Thai — 98.5% in 1.2s, JSON out",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/43b96bf7-6cca-4923-a795-8b59952ad756.png?auto=format",
-    "downloads": 1079130,
-    "trend": 107,
-    "releasedAt": "2026-04-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3XX5PBMH2V2IXW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MimicBot",
-    "description": "Embeddable AI chat widgets for digital agencies",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a484e58f-35bb-47b1-9918-25ee899fe84e.jpeg?auto=format",
-    "downloads": 420828,
-    "trend": 82,
-    "releasedAt": "2026-04-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZFULD67YXO46FG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
