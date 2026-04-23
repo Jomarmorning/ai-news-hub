@@ -1,5 +1,65 @@
 [
   {
+    "name": "Cloud POS by Smart Money Cart ",
+    "description": "AI-powered POS for smarter business decisions.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/ab4ddeb4-2381-4a67-b7ae-23e8d1055a41.jpeg?auto=format",
+    "downloads": 676788,
+    "trend": 30,
+    "releasedAt": "2026-04-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3BIOZZPKAMBI26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "a2viz AI",
+    "description": " AI Architect assistant, architectural renders, videos, more",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/d7b970d9-ede3-4152-bb56-acd94937c24a.png?auto=format",
+    "downloads": 185132,
+    "trend": 85,
+    "releasedAt": "2026-04-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QEYT2FYUKQTZOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Parayoo",
+    "description": "New random video chat app",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/acd86a15-b409-45a9-9e42-51c917d68025.vnd.microsoft.icon?auto=format",
+    "downloads": 354524,
+    "trend": 24,
+    "releasedAt": "2026-04-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GN6ZEX6JDU7DDC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Big4 Council",
+    "description": "Consult multiple specialized AI advisors in parallel",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/90d24b7e-c345-4f1a-a19c-0a98b8e58263.svg?auto=format",
+    "downloads": 583533,
+    "trend": 39,
+    "releasedAt": "2026-04-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YIEVQ4OP7VSFKD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BrocPal",
+    "description": "AI nutrition coach with a muscular broccoli ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4c3ae90e-6f0e-4d6a-aac3-df94d7178486.jpeg?auto=format",
+    "downloads": 378224,
+    "trend": 33,
+    "releasedAt": "2026-04-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XPHIRAFSH47TWV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Entry Fix",
     "description": "AI data entry & spreadsheet cleaner for logistics teams.",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/V6XC5UUQA6QVJK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ProposalPilot",
-    "description": "Extract emails from any site.Send AI-powered outreach in 60s",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f4728875-b8e7-4e35-82b6-73435048a896.png?auto=format",
-    "downloads": 481923,
-    "trend": 16,
-    "releasedAt": "2026-04-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/66PWRYZ4JQH3GC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PrimuezSure",
-    "description": "AI-powered insurance policy analyzer & scam detector",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a69400ec-8a18-46ac-a407-923c10fc8852.png?auto=format",
-    "downloads": 244635,
-    "trend": 83,
-    "releasedAt": "2026-04-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HYLVPVJQMBYFZQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PARCELA",
-    "description": "Instant access to Spain's cadastral data",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a44cf6a7-dca9-4b51-88a5-4cd69211778a.svg?auto=format",
-    "downloads": 883135,
-    "trend": 105,
-    "releasedAt": "2026-04-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LQDPNVFODGPS4X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RMAN",
-    "description": "The AI that helps you show up for the people you care about",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/51d0a267-ba13-4978-83de-51ad14d30f76.jpeg?auto=format",
-    "downloads": 1050829,
-    "trend": 86,
-    "releasedAt": "2026-04-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IK52BG73UXNUWV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AIUsage",
-    "description": "Track your AI tool usage, costs & quotas in one place",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d5b5f201-7af6-4995-a622-c553e105c062.png?auto=format",
-    "downloads": 161250,
-    "trend": 29,
-    "releasedAt": "2026-04-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BC4ZIAP57LKAWL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
