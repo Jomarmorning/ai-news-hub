@@ -1,5 +1,53 @@
 [
   {
+    "name": "TokenHawk",
+    "description": "TokenHawk is a smart, 24/7 crypto alert assistant.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/2348a219-8097-41b2-b87b-5556dde75ac2.x-icon?auto=format",
+    "downloads": 105854,
+    "trend": 22,
+    "releasedAt": "2026-04-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZY7NXLH66MRAFY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LegacyLine",
+    "description": "Your parent picks up. An AI asks. You keep the story forever",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e1359759-6602-45ef-a17c-7a1278fd3949.png?auto=format",
+    "downloads": 562395,
+    "trend": 85,
+    "releasedAt": "2026-04-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VPC4MSTZVEGIZH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ViewsFix",
+    "description": "AI diagnosis for why your YouTube views are dying",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c4b33e4b-a574-46ac-98c0-69044b777119.jpeg?auto=format",
+    "downloads": 1060502,
+    "trend": 89,
+    "releasedAt": "2026-04-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Z5NRUPMTAYHHYY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FirmUp",
+    "description": "CRM, devis, factures et paiements Stripe en un seul outil",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/3a50f7d9-bbef-4cc3-900a-cb2d8706e269.x-icon?auto=format",
+    "downloads": 1056733,
+    "trend": 46,
+    "releasedAt": "2026-04-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FSXM7WO26JCJQX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Hintscopre",
     "description": "AI Sport Report & Value finder",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/O2257IWHGOSHLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Newsplash",
-    "description": "A personalized AI news app that cuts through clickbait",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/07c88f7a-5fb0-4a59-aa1f-6a1a1cadfa02.png?auto=format",
-    "downloads": 104423,
-    "trend": 19,
-    "releasedAt": "2026-04-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RVXIRLUTACGMKN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TVT Crew Beta Signup",
-    "description": "Restaurant AI Scheduling and management software.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fff3f8d0-7049-46ae-8adb-8556882e7acd.png?auto=format",
-    "downloads": 203597,
-    "trend": 78,
-    "releasedAt": "2026-04-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/B3PCESWA7T32ZT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Grey Blackout Curtains Pencil Pleat",
-    "description": "Modern Grey, Better Rest",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e97665e4-3388-401b-88be-16660bd22c5a.png?auto=format",
-    "downloads": 849765,
-    "trend": 98,
-    "releasedAt": "2026-04-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7I4FC2DRCI4KLX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FundsRadar — Find Grants for Nonprofit",
-    "description": "AI matches your nonprofit to grants in seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/da996192-23ed-468e-9fc9-db000d3bc681.svg?auto=format",
-    "downloads": 1067348,
-    "trend": 76,
-    "releasedAt": "2026-04-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FYVRE4JOCLZXME?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
