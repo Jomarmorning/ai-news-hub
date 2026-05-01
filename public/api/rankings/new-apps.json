@@ -1,5 +1,41 @@
 [
   {
+    "name": "LUNARA: Daily Horoscope & Astrology App",
+    "description": "Personalized daily horoscope, astrology  numerology insights",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4ae117d9-7e9f-4587-a2c1-a05eed0ae4ee.png?auto=format",
+    "downloads": 445433,
+    "trend": 28,
+    "releasedAt": "2026-05-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DO2XJUZSWXYD5R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "first simple test of comunications",
+    "description": "hashchat is an app to chat, privacy levels data you share",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/91a411ba-8708-46e0-ad57-064b26891b41.png?auto=format",
+    "downloads": 664285,
+    "trend": 18,
+    "releasedAt": "2026-05-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NEOE73MTZHJ6PG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "America's 250th — Justice Cannot Wait",
+    "description": "America Cannot Celebrate While Justice Is Denied",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a13f0d0e-46c7-4d19-960f-99b1ba56a920.png?auto=format",
+    "downloads": 538825,
+    "trend": 37,
+    "releasedAt": "2026-05-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HN4VKQLEOOZU3E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Target Lock",
     "description": "Bypass ATS filters with data-driven AI resume tailoring",
     "category": "AI对话",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/LRRSC3EVQU3DYI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Document Translation in Seconds",
-    "description": "Upload, Translate, Done, Fast, Accurate, Secure, Instant",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d21b5870-973f-4357-b564-7747958a2f73.jpeg?auto=format",
-    "downloads": 568633,
-    "trend": 100,
-    "releasedAt": "2026-04-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UY2YFSJZBALKU7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TalkScaled",
-    "description": "The AI Receptionist that books dental patients 24/7",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2f84f447-51d9-40c6-82ab-b2cf1d1ee8be.png?auto=format",
-    "downloads": 584022,
-    "trend": 92,
-    "releasedAt": "2026-04-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GSPHYJ64Y4H63H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cloviana Free AI Visibility Audit",
-    "description": "Free AI visibility audit for B2B SaaS",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/27fc89c8-6464-4984-ba7a-bb91bdb8e2d2.png?auto=format",
-    "downloads": 261829,
-    "trend": 15,
-    "releasedAt": "2026-04-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HJ24YPUNPDBMBN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
