@@ -1,5 +1,101 @@
 [
   {
+    "name": "Sage.ai",
+    "description": "Smart, Productive, most useful AI for any type of student.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/3dbb0e39-3052-47be-a81b-82aed0751fe6.png?auto=format",
+    "downloads": 151299,
+    "trend": 16,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7EAKCW7KPWTC5A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Aura",
+    "description": "AI-powered habit tracker, mood monitoring & smart workouts",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/4ff31521-aaf9-4f02-8a8c-1243f14de3d8.png?auto=format",
+    "downloads": 815327,
+    "trend": 23,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4OWEW7KWBA5V5L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "fridgeBee",
+    "description": "No more \"what do I cook?\" — ever again.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cae46b19-19d6-4ccd-8633-68f57ad84580.jpeg?auto=format",
+    "downloads": 537803,
+    "trend": 35,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/W52GA2ZYVNEGY7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Uncluttr - Clean up your tabs",
+    "description": "The tab bar was never meant for 80+ tabs. Let AI organize it",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6ee7ede9-2144-4b17-8113-501406bf345e.svg?auto=format",
+    "downloads": 428352,
+    "trend": 26,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OEJFXWYZEVYBML?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AgentFlow Enterprise",
+    "description": "Sovereign AI Revenue Infrastructure for Enterprises.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8242ac2d-85ab-4100-8282-d86c08089d8b.png?auto=format",
+    "downloads": 134123,
+    "trend": 58,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KNN6FL7ZAPT42D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Graphloom",
+    "description": "The home for Etsy sellers - AI images + listings in 60s",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/48c7e95a-031d-4744-b260-9870c6cff977.png?auto=format",
+    "downloads": 366338,
+    "trend": 64,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SNXUJPXZIGLQY2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "1000+ Ultimate AI Prompts",
+    "description": "Save 100+ hours in Marketing, SEO & Copywriting 🚀",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/586bddbf-18ba-4d6e-8866-796d89022066.jpeg?auto=format",
+    "downloads": 923575,
+    "trend": 105,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/R4ODS57KAD6Z5W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "10-Hour AI Productivity Stack",
+    "description": "8 free AI tools to save time every week",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0e91a3f8-aa8d-4283-bb0f-37004f7bf39b.png?auto=format",
+    "downloads": 763678,
+    "trend": 32,
+    "releasedAt": "2026-05-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K5A5KYIJEPF6RW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Tambr",
     "description": "Turn any story into a multi-voice audiobook",
     "category": "AI音频",
@@ -12,18 +108,6 @@
     "url": "https://www.producthunt.com/r/OO3ERK2XAZU42C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Graphloom",
-    "description": "The home for Etsy sellers - AI images + listings in 60s",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/48c7e95a-031d-4744-b260-9870c6cff977.png?auto=format",
-    "downloads": 192276,
-    "trend": 27,
-    "releasedAt": "2026-05-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SNXUJPXZIGLQY2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "EzMedTech.ai",
     "description": "EzMedTech | AI Voice Agent for US Healthcare",
     "category": "AI音频",
@@ -34,89 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/LWJV6QP4VP64LC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ProGile AI",
-    "description": "Digital Transformation, Automation, AI, Software Development",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/9f9d6348-8caa-4dc2-b2f9-672a288458fa.jpeg?auto=format",
-    "downloads": 618319,
-    "trend": 24,
-    "releasedAt": "2026-05-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/77GBTF6CXAC673?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "varaa.ai",
-    "description": "AI based cloud design and architecture tool",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8cf36e6d-75c8-473a-878b-6f84dd38402d.png?auto=format",
-    "downloads": 969836,
-    "trend": 84,
-    "releasedAt": "2026-05-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IFMT3VQMSLEMHM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Limitrum",
-    "description": "Policy kernel for autonomous AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/63fc747f-fe66-4fc7-9633-31f4c9b35069.png?auto=format",
-    "downloads": 774039,
-    "trend": 41,
-    "releasedAt": "2026-05-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O2IU2TB3VPRHD3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI GROWTH BOX",
-    "description": "The First Autonomous Social Protocol for AI Agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d901329e-1c52-40c3-a355-b777cd8eab46.jpeg?auto=format",
-    "downloads": 149702,
-    "trend": 59,
-    "releasedAt": "2026-05-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XPKYQZNN7TM4LZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Agentlock",
-    "description": "Your AI agent asks. You decide. From your phone.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/93eeafe9-1e21-4b39-b0af-233a020578b5.png?auto=format",
-    "downloads": 244497,
-    "trend": 63,
-    "releasedAt": "2026-05-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/R2QTD2F475ZTQZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "The Multivac",
-    "description": "Which LLM thinks best? Blind peer-judged leaderboard.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b208a185-b4db-4a45-a8b7-b0be304a768b.jpeg?auto=format",
-    "downloads": 249714,
-    "trend": 23,
-    "releasedAt": "2026-05-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3DTI32N4WMXGMM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Microsoft Copilot Health",
-    "description": "Dedicated space to bring your personal health data together",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/61df0af0-291e-45de-8cfe-fe912b9009b9.png?auto=format",
-    "downloads": 127255,
-    "trend": 13,
-    "releasedAt": "2026-05-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RV27254646S3NQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
