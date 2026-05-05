@@ -1,5 +1,65 @@
 [
   {
+    "name": "earForge",
+    "description": "Your personal, ad-free digital ear trainer",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/012ac0c7-2764-4b50-93d2-7622375d6507.svg?auto=format",
+    "downloads": 924119,
+    "trend": 63,
+    "releasedAt": "2026-05-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LITN3PR76JM6VB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Scrollr",
+    "description": "AI-powered competitive intelligence for content creators.",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/c4dda598-d628-4bb5-860e-9acf72bda444.x-icon?auto=format",
+    "downloads": 903015,
+    "trend": 17,
+    "releasedAt": "2026-05-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZWPNCWPILHE6GN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Promptmaster ",
+    "description": "Learn to make perfect prompts for ai",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/705e1923-3485-46b4-b572-9bca404ac159.jpeg?auto=format",
+    "downloads": 787501,
+    "trend": 54,
+    "releasedAt": "2026-05-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JKD7EEKCPW3TF2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Disputron",
+    "description": "AI small claims court for petty disputes",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f095962c-a578-4987-9881-7738940061c7.png?auto=format",
+    "downloads": 500737,
+    "trend": 33,
+    "releasedAt": "2026-05-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VUZRHSBMFSBE2X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "xshell",
+    "description": "Claude Code CLI Session Manager",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/0039b654-35bd-4c4f-a1db-a1432d0058d3.png?auto=format",
+    "downloads": 1077778,
+    "trend": 41,
+    "releasedAt": "2026-05-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/H4NNKIRRY3F566?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "লিখি AI Keyboard",
     "description": "Bangladesh's first AI keyboard — smart replies      ",
     "category": "AI绘画",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/KLALF2YOYNJRUI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DraftMyMail AI",
-    "description": "Emails that feel art directed, not auto-generated.",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/620e1c08-82a3-4be8-b949-867619ba0326.png?auto=format",
-    "downloads": 352058,
-    "trend": 73,
-    "releasedAt": "2026-05-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TZ5RVZ7I6P6RDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Rank My Applicants",
-    "description": "Rank 50 candidates by fit in 20 seconds — AI-powered",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b138eebe-7c75-4d0d-a91e-af1cb2a01494.jpeg?auto=format",
-    "downloads": 1082414,
-    "trend": 31,
-    "releasedAt": "2026-05-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FJKDB6U2NEMBSL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LegalCraft",
-    "description": "Legal pages your website needs, made by AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/03824bb2-1eb4-4f7d-9667-3139981a0fe5.png?auto=format",
-    "downloads": 933311,
-    "trend": 53,
-    "releasedAt": "2026-05-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/33TIZPMBHAF3RD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "explains.app",
-    "description": " Understand any legal document in 60 seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/36e77e8c-aaf7-4268-9a85-450939ec92cd.png?auto=format",
-    "downloads": 899458,
-    "trend": 94,
-    "releasedAt": "2026-05-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LZOOW7D7KCUMVF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OwnKeyBot",
-    "description": "No-code AI chatbots with full cost control.",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/e2ab9cbe-e991-4636-9496-cbc41dea25c6.png?auto=format",
-    "downloads": 177940,
-    "trend": 33,
-    "releasedAt": "2026-05-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QKKCYHRE4EKBVX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
