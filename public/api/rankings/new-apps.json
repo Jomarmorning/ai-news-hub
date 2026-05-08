@@ -4,12 +4,72 @@
     "description": "Premium AI prompt library for SaaS builders & creators.",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/bd313199-e8c4-45d6-81c0-50232c3d2f64.png?auto=format",
-    "downloads": 324999,
-    "trend": 33,
+    "downloads": 722682,
+    "trend": 89,
     "releasedAt": "2026-05-07T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/SXITFH3OWYJGGR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Imaginex AI",
+    "description": "From idea to published ad ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/fe1e2c91-235a-4c5e-ad87-3295d93067e1.png?auto=format",
+    "downloads": 112919,
+    "trend": 24,
+    "releasedAt": "2026-05-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BB2IZXDJHJ3I7X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "GlowGram",
+    "description": "Turn your AI avatar into stunning photos &viral dance videos",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/50f2b6ad-f644-4060-a24f-dfd5afc792ec.png?auto=format",
+    "downloads": 631406,
+    "trend": 105,
+    "releasedAt": "2026-05-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HUUDXOA5BQWI6T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Jobaro",
+    "description": "Build a strong CV — FREE — with AI when you apply.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9913c3e4-4ce6-4e1c-ba37-28353c0923be.png?auto=format",
+    "downloads": 251973,
+    "trend": 51,
+    "releasedAt": "2026-05-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G27BWWW7UV6CLC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LyriQ",
+    "description": "Write better lyrics, hooks and punchlines with AI",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/31e40178-66a3-44f4-b079-b3d42ccec5ec.png?auto=format",
+    "downloads": 1002934,
+    "trend": 62,
+    "releasedAt": "2026-05-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WGO3YVDVCEQ6SE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WaiverTrail",
+    "description": "Create & Send a Waiver with AI in 60 Seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f7adcf4c-8ca5-4e70-af0a-e182e5773dab.png?auto=format",
+    "downloads": 876278,
+    "trend": 16,
+    "releasedAt": "2026-05-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ME4MRTWPJZAUWJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Hachigo",
@@ -22,42 +82,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/55V7FZNAWHNSRD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Imaginex AI",
-    "description": "From idea to published ad ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fe1e2c91-235a-4c5e-ad87-3295d93067e1.png?auto=format",
-    "downloads": 110399,
-    "trend": 86,
-    "releasedAt": "2026-05-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BB2IZXDJHJ3I7X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "GlowGram",
-    "description": "Turn your AI avatar into stunning photos &viral dance videos",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/50f2b6ad-f644-4060-a24f-dfd5afc792ec.png?auto=format",
-    "downloads": 1032285,
-    "trend": 52,
-    "releasedAt": "2026-05-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HUUDXOA5BQWI6T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Jobaro",
-    "description": "Build a strong CV — FREE — with AI when you apply.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9913c3e4-4ce6-4e1c-ba37-28353c0923be.png?auto=format",
-    "downloads": 279554,
-    "trend": 101,
-    "releasedAt": "2026-05-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/G27BWWW7UV6CLC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Miraja Ai",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/WMTIA6AWPUTQL7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Open Finance MCP",
-    "description": "Access your bank data in ChatGPT & Claude via Open Finance",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a8f9d74b-39a5-495b-ae21-3cbc0684ad18.png?auto=format",
-    "downloads": 950178,
-    "trend": 18,
-    "releasedAt": "2026-05-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/U5FLZTKBN4GM32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WOZCODE",
-    "description": "Cut Claude Code costs by up to 50%",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/dd81b644-30c7-48d0-aa1d-1b175df7e772.png?auto=format",
-    "downloads": 944526,
-    "trend": 64,
-    "releasedAt": "2026-05-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IVDIEGU2INHVQ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
