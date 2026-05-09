@@ -4,12 +4,84 @@
     "description": "Build WhatsApp Automation at your fingertips",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/1f52ff41-d52b-40e9-ab28-d693a2ef6221.svg?auto=format",
-    "downloads": 759443,
-    "trend": 101,
+    "downloads": 971062,
+    "trend": 92,
     "releasedAt": "2026-05-08T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/G4PRAG5FEJ6W2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ai Miracle",
+    "description": "Your daily source for AI news, tools and tutorials",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6fcab820-8acd-4273-90d8-027351160e94.png?auto=format",
+    "downloads": 932008,
+    "trend": 77,
+    "releasedAt": "2026-05-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/24CAVOED3FSBNY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Newsletter",
+    "description": "AI-powered newsletter platform for deliverability and growth",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/eb37849f-4d0b-484d-8c3e-339a8173172b.svg?auto=format",
+    "downloads": 599705,
+    "trend": 99,
+    "releasedAt": "2026-05-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CJ3HB4UMHRP3LP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Launch ResumaticaAI",
+    "description": "Elevate Your Resume wth AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e03e9c60-3d00-4e68-8f80-c3df45226ab7.png?auto=format",
+    "downloads": 581929,
+    "trend": 45,
+    "releasedAt": "2026-05-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VLLSYNKCR3SBEB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LunoPeak",
+    "description": "Your AI dev environment, at a glance",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/f1886811-ebac-494b-aa97-131e6af1dda6.png?auto=format",
+    "downloads": 425557,
+    "trend": 67,
+    "releasedAt": "2026-05-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OYBIZE3GUBL5CP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "DecisionBox for Snowflake",
+    "description": "Autonomous AI discovery on Snowflake",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/91f081f2-a315-481c-99b7-0feec3c62511.png?auto=format",
+    "downloads": 369940,
+    "trend": 16,
+    "releasedAt": "2026-05-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7X5RJNPXCNN73T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Qordinate",
+    "description": "Your AI clone that works and coordinates with your team",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/26dc5f84-52aa-46df-806b-4e62ff4b9425.jpeg?auto=format",
+    "downloads": 841664,
+    "trend": 91,
+    "releasedAt": "2026-05-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FRBOW4KYSX4LHN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "CryptoTrends AI Trading Bot",
@@ -22,18 +94,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2PJAORASYCL2TH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ai Miracle",
-    "description": "Your daily source for AI news, tools and tutorials",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6fcab820-8acd-4273-90d8-027351160e94.png?auto=format",
-    "downloads": 116883,
-    "trend": 92,
-    "releasedAt": "2026-05-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/24CAVOED3FSBNY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Introducing AIRE Software",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/UTX22PNMKCNE3J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "GenMobi.Studio",
-    "description": "Build Full Flutter Apps with AI Agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/dd62ada9-f66f-4c8e-885b-190d2553567f.svg?auto=format",
-    "downloads": 452818,
-    "trend": 109,
-    "releasedAt": "2026-05-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/K27EDRZAAA3IPR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cleara",
-    "description": "Telehealth alcohol reduction using The Sinclair Method",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/80d26145-9a79-4509-9a1c-bb55656aeac1.png?auto=format",
-    "downloads": 973854,
-    "trend": 21,
-    "releasedAt": "2026-05-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/R2I3WVPKOO6IUZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Newsletter",
-    "description": "AI-powered newsletter platform for deliverability and growth",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/eb37849f-4d0b-484d-8c3e-339a8173172b.svg?auto=format",
-    "downloads": 206368,
-    "trend": 33,
-    "releasedAt": "2026-05-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CJ3HB4UMHRP3LP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Datamagics",
-    "description": "AI Data Infrastructure for massive datasets",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2dfcf914-4eaa-45e9-b47d-1b5b0dbbae3c.png?auto=format",
-    "downloads": 306768,
-    "trend": 45,
-    "releasedAt": "2026-05-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YK6C2IJITSEGYR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Klick Ai",
-    "description": "AI Content Engine for Creators",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/0b3d96ed-c431-4d29-af05-97967b9e63d0.jpeg?auto=format",
-    "downloads": 106671,
-    "trend": 108,
-    "releasedAt": "2026-05-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6DFWTTX6IX5JL7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
