@@ -1,5 +1,53 @@
 [
   {
+    "name": "FailBrief",
+    "description": "AI-powered CI/CD failure analysis for GitHub Actions",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0774a085-064a-49c6-ae69-c28247ccedc3.png?auto=format",
+    "downloads": 283244,
+    "trend": 79,
+    "releasedAt": "2026-05-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/366UHTRQ6ST53M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Money Laid",
+    "description": "Trusted Personal Finance Platform",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d60ee282-54ba-4b67-937f-84bbed2170a2.png?auto=format",
+    "downloads": 817440,
+    "trend": 34,
+    "releasedAt": "2026-05-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QE7Y3IIUQS5YLK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Am I Poor?",
+    "description": "Fun comparisons and AI finance analysis tool",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8906e6de-f4c1-487c-9e56-4484b994d0a1.jpeg?auto=format",
+    "downloads": 1033196,
+    "trend": 22,
+    "releasedAt": "2026-05-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LBJROUBQBOBA5P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Lean-AI-Team-Skills",
+    "description": "Skills/AI Coding/Claude Code",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/e4b68b2b-4bdd-4e2f-a622-acff80985a2e.png?auto=format",
+    "downloads": 923010,
+    "trend": 27,
+    "releasedAt": "2026-05-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WXKB7GHVDCOUHB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Koov ",
     "description": "Free AI Voice agent for facetime, google meets and Zoom ",
     "category": "AI音频",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/OVZSPTFO3E42JJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Hipocampus",
-    "description": "AI OS for Engineering & Ops teams",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/83b6ba10-f009-4cca-8650-9501829d40c3.png?auto=format",
-    "downloads": 635495,
-    "trend": 71,
-    "releasedAt": "2026-05-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YKOY7KU6S2PU63?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Runway Forecaster",
-    "description": "Know your cash position every week of the year",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8edd89aa-30c7-430c-ba0f-fb95ed4d00c8.png?auto=format",
-    "downloads": 216291,
-    "trend": 95,
-    "releasedAt": "2026-05-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QYYJ25N733XVNO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AROHA",
-    "description": "An AI companion that talks, calls, and remembers you ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/85c7d8c6-f684-4b69-8719-a71d9eba09bb.png?auto=format",
-    "downloads": 292538,
-    "trend": 47,
-    "releasedAt": "2026-05-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FUG4FVKZSR62G6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Convinced",
-    "description": "AI Tools on Convinced's self-learning brain for Sales Orgs",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c7baf21b-0d20-4bb4-b4a6-5daa03c0e683.png?auto=format",
-    "downloads": 815793,
-    "trend": 62,
-    "releasedAt": "2026-05-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GWCWSQMM3TE5PS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
