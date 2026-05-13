@@ -1,5 +1,65 @@
 [
   {
+    "name": "DataraDB",
+    "description": "A modern database client with AI-assisted SQL",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4854190c-d4b3-4895-a0ca-4485f4751fde.png?auto=format",
+    "downloads": 1088613,
+    "trend": 81,
+    "releasedAt": "2026-05-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Y6YFPSFCWCIC6G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Synapse",
+    "description": "Fast P2P file transfer & chat. Zero dependencies.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/64674936-71e5-4c23-ba8c-c17c1f103da4.png?auto=format",
+    "downloads": 353009,
+    "trend": 34,
+    "releasedAt": "2026-05-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KFEUH4WKHNHV3E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Voicer AI ",
+    "description": "Turn Voice into Emails, Lists, Messages and Prompts ✨",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/eeb9f5ac-e8a4-4630-82e8-877f76a0354c.png?auto=format",
+    "downloads": 125832,
+    "trend": 65,
+    "releasedAt": "2026-05-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RXBK3443VAEWK5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Babel Nexus Index",
+    "description": "A Demonstration for a Discovery System for the Public Domain",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0400ac88-c29b-4a24-b5b7-098b578b0f67.svg?auto=format",
+    "downloads": 894346,
+    "trend": 68,
+    "releasedAt": "2026-05-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4WVHYY4KPMFYJP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Devkat",
+    "description": "shareaura/strava overlays for ai coding sessions",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/815e8e4e-0809-4f0a-b365-065d7fa4ff89.png?auto=format",
+    "downloads": 286969,
+    "trend": 55,
+    "releasedAt": "2026-05-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6GRWE2GHEZH2N7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Stocker",
     "description": "Predict, analyse, and act on stocks | powered by ML and AI.",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/QBCLXLT7QEXUAS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Haven",
-    "description": "Real estate at the speed of AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/299b22ca-f1e3-4eef-a737-71e822ed0d36.x-icon?auto=format",
-    "downloads": 496633,
-    "trend": 34,
-    "releasedAt": "2026-05-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4BG4VD47K6AJWA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Zeiti",
-    "description": "Time tracking & invoicing — turn tracked hours into invoices",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/de44525e-904b-4184-985f-0a08c2185609.png?auto=format",
-    "downloads": 150510,
-    "trend": 56,
-    "releasedAt": "2026-05-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6X3OHXI2LZZ2EL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Zouhor",
-    "description": "Become the brand AI systems recommend first",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7fd26d00-8350-4d3e-b96c-a0914841f4f3.png?auto=format",
-    "downloads": 150092,
-    "trend": 102,
-    "releasedAt": "2026-05-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OMPKTMMJGLKJTK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vivant .infographics",
-    "description": "Professional infographics from text. Cloud or Local AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/847df22f-8084-45f0-b3e6-40363f7406fc.png?auto=format",
-    "downloads": 985081,
-    "trend": 80,
-    "releasedAt": "2026-05-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UG5LL4DGDUOROP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "GenTok",
-    "description": "One Discord bot for AI image, video, and music generation",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/41a512c4-c2c1-43bf-857a-69aa87bfe1a6.png?auto=format",
-    "downloads": 740641,
-    "trend": 55,
-    "releasedAt": "2026-05-11T08:30:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CDLHHF5VXI2IG3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
