@@ -1,5 +1,53 @@
 [
   {
+    "name": "Okydone",
+    "description": "Bridge the gap between strategic goals and daily execution",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5394a9c9-5419-490d-b6c9-9d4bbc0c427e.png?auto=format",
+    "downloads": 697228,
+    "trend": 37,
+    "releasedAt": "2026-05-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YS2HE7KDXYHFFE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Landingly",
+    "description": "AI Website Builder for Local Business via Google Maps",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/51dc39ef-4a3d-4864-bf50-f6744b33bdf6.png?auto=format",
+    "downloads": 399250,
+    "trend": 40,
+    "releasedAt": "2026-05-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Q5DMQUYS2ICG4A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Folio",
+    "description": "Academic writing AI that won't write your paper for you",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/3f4a149b-6d3b-4462-ab55-9851ea9d32c5.png?auto=format",
+    "downloads": 164321,
+    "trend": 30,
+    "releasedAt": "2026-05-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PP6747GJJ7OKW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Qspect",
+    "description": "AI analyst for every lead — scored, verified, prioritized",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b8fb3399-f041-4e87-ae6f-2d1d8e1cbb6f.svg?auto=format",
+    "downloads": 238357,
+    "trend": 21,
+    "releasedAt": "2026-05-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/55KWGE4QEV2F3C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Best resize Image tools free ",
     "description": "Resize image thumbnail ",
     "category": "AI绘画",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/XZ2F2HD6RBD6SE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "isle31",
-    "description": "Join 30 random people in a group chat, locked for life ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/823cb034-b061-4a1e-9f30-baf0971b089e.svg?auto=format",
-    "downloads": 364186,
-    "trend": 83,
-    "releasedAt": "2026-05-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/776GCMSZRC6OD3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Online HVAC training and certification",
-    "description": "HVAC training courses | HVAC design certification",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8f609330-07bb-42fc-b573-1ecf86f0ba82.jpeg?auto=format",
-    "downloads": 770338,
-    "trend": 23,
-    "releasedAt": "2026-05-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CEG3RU5ELPV4HE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vaani",
-    "description": "Instant voice dictation in any macOS app",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/17ac411f-7d4d-4662-8137-456753228050.png?auto=format",
-    "downloads": 330924,
-    "trend": 26,
-    "releasedAt": "2026-05-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/66BJI2VPC3EYGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PRL Reporter",
-    "description": "Manage daily workplace safety from one app",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e3508561-4814-40b1-8e0e-005f953ddf3e.png?auto=format",
-    "downloads": 316300,
-    "trend": 24,
-    "releasedAt": "2026-05-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZO5EIN3WNQY42B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
