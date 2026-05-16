@@ -1,5 +1,65 @@
 [
   {
+    "name": "Annotate AI",
+    "description": "Annotation formats designed for design reviews",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c1b53f7f-a0fe-481d-bb4c-25e152fd6d96.png?auto=format",
+    "downloads": 474080,
+    "trend": 37,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TBKCMRSHPWBZA5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Invilic",
+    "description": "Create professional invoices for free without signup",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/c56ebe6a-6a46-40e7-8abf-48f6ac215347.png?auto=format",
+    "downloads": 845045,
+    "trend": 16,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7UFARVW5YIBHGH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Claimpress",
+    "description": "warranty, return, exchange",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3773e0ec-680a-44e6-9ef3-710b344fb475.png?auto=format",
+    "downloads": 514799,
+    "trend": 14,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MENUBE5NYOGE62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AltılıOyna",
+    "description": "AI-powered Turkish horse racing predictions",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f07c7bf5-95c0-40bd-9064-8dbe993756aa.png?auto=format",
+    "downloads": 952703,
+    "trend": 45,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IKYH6HT6WVR6UJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OmniDeepSearch",
+    "description": "#OmniDeepSearch #AISearch #AI #WebResearch #AIResearch",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/80db5f59-6a39-4fdc-ac8f-57203f78bcf1.png?auto=format",
+    "downloads": 407324,
+    "trend": 44,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VNGTMARM7KF5DZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "PromptScout",
     "description": "Track your brand visibility across AI models",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/REOCJNAXUFVYP3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AgentRail",
-    "description": "A local control plane for AI coding agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/97d42739-e47a-4409-9e9e-a36505680eb6.png?auto=format",
-    "downloads": 408267,
-    "trend": 14,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/H72FMFOPHHITNY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Email Bounce Detector",
-    "description": "Stop sending mails to dead emails",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d41d2e4d-0bef-43da-9734-63624973355c.png?auto=format",
-    "downloads": 384749,
-    "trend": 59,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M5SJMWLBZVNIEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Okydone",
-    "description": "Bridge the gap between strategic goals and daily execution",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5394a9c9-5419-490d-b6c9-9d4bbc0c427e.png?auto=format",
-    "downloads": 697228,
-    "trend": 37,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YS2HE7KDXYHFFE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Landingly",
-    "description": "AI Website Builder for Local Business via Google Maps",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/51dc39ef-4a3d-4864-bf50-f6744b33bdf6.png?auto=format",
-    "downloads": 399250,
-    "trend": 40,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Q5DMQUYS2ICG4A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Folio",
-    "description": "Academic writing AI that won't write your paper for you",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/3f4a149b-6d3b-4462-ab55-9851ea9d32c5.png?auto=format",
-    "downloads": 164321,
-    "trend": 30,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PP6747GJJ7OKW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
