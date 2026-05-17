@@ -1,5 +1,65 @@
 [
   {
+    "name": "Answena",
+    "description": "Track how 25+ AI assistants cite your website ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8c671739-4570-4ffc-91f8-ffa8f329f73d.png?auto=format",
+    "downloads": 1038609,
+    "trend": 53,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VUC2G6YKEOGT3P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PurePose",
+    "description": "Private AI posture monitoring for Mac",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5ce484ea-5554-4658-8678-53503246f7c5.jpeg?auto=format",
+    "downloads": 207141,
+    "trend": 65,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3FWVRF6JVKF5LN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Your Success is Closer Than You Think™",
+    "description": "Turn powerful books into daily simple actions",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cfc72335-c82d-43a8-baa8-b6301bae6fc1.png?auto=format",
+    "downloads": 812219,
+    "trend": 45,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JSSSPVP3XHTNMO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Dialb",
+    "description": "Digital business cards with QR codes and automation tools",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/617996bd-56a0-4871-8004-3d02cd78784c.png?auto=format",
+    "downloads": 882982,
+    "trend": 14,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/W3WU5BHE5SMIMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Tooliy",
+    "description": "80+ Free Online Tools for Image, PDF, SEO & AI",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/5d1e12c4-379d-421e-9d00-a3b71418255f.png?auto=format",
+    "downloads": 561755,
+    "trend": 18,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G4GU76EBSNRDA3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Claimpress",
     "description": "warranty, return, exchange",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/7UFARVW5YIBHGH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AltılıOyna",
-    "description": "AI-powered Turkish horse racing predictions",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f07c7bf5-95c0-40bd-9064-8dbe993756aa.png?auto=format",
-    "downloads": 952703,
-    "trend": 45,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IKYH6HT6WVR6UJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PromptScout",
-    "description": "Track your brand visibility across AI models",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cd8cc726-9484-4409-85a9-d516bf1dc71e.png?auto=format",
-    "downloads": 944467,
-    "trend": 108,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IXUMRO4OPLZKKA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OpenHuman",
-    "description": "An open source AI harness built with the human in mind",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/918b11cd-52e9-4f01-8f82-de1b756957cd.png?auto=format",
-    "downloads": 813519,
-    "trend": 82,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RWEBXA76IIY2MF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DramaBox by Resemble AI",
-    "description": "AI turns scene descriptions into vocal performances",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0b1d7e9a-08b0-43c7-87bb-3177f62386b6.png?auto=format",
-    "downloads": 773430,
-    "trend": 75,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GENV62RY4PWY5J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Rewarx Studio AI Product Photography App",
-    "description": "Generate ecommerce marketing creatives without prompts",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/22aeb543-4c4d-4796-b73a-a45f8787be9f.png?auto=format",
-    "downloads": 247523,
-    "trend": 106,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JVVA2BLS2OWMRI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
