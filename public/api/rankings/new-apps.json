@@ -1,5 +1,41 @@
 [
   {
+    "name": "Claimpress",
+    "description": "warranty, return, exchange",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3773e0ec-680a-44e6-9ef3-710b344fb475.png?auto=format",
+    "downloads": 339268,
+    "trend": 24,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MENUBE5NYOGE62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OmniDeepSearch",
+    "description": "#OmniDeepSearch #AISearch #AI #WebResearch #AIResearch",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/80db5f59-6a39-4fdc-ac8f-57203f78bcf1.png?auto=format",
+    "downloads": 132298,
+    "trend": 14,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VNGTMARM7KF5DZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Jyothish AI",
+    "description": "AI Powered Veduc Astrology and Horoscopes",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cfd3544c-7ebb-42ba-aae2-45257636070a.png?auto=format",
+    "downloads": 706801,
+    "trend": 84,
+    "releasedAt": "2026-05-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VJJZEAGUE7HUTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Annotate AI",
     "description": "Annotation formats designed for design reviews",
     "category": "AI对话",
@@ -24,18 +60,6 @@
     "url": "https://www.producthunt.com/r/7UFARVW5YIBHGH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Claimpress",
-    "description": "warranty, return, exchange",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3773e0ec-680a-44e6-9ef3-710b344fb475.png?auto=format",
-    "downloads": 514799,
-    "trend": 14,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MENUBE5NYOGE62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "AltılıOyna",
     "description": "AI-powered Turkish horse racing predictions",
     "category": "AI对话",
@@ -46,18 +70,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/IKYH6HT6WVR6UJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OmniDeepSearch",
-    "description": "#OmniDeepSearch #AISearch #AI #WebResearch #AIResearch",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/80db5f59-6a39-4fdc-ac8f-57203f78bcf1.png?auto=format",
-    "downloads": 407324,
-    "trend": 44,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VNGTMARM7KF5DZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "PromptScout",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/JVVA2BLS2OWMRI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WP AI Explainer",
-    "description": "Highlight text, get an instant AI explanation",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/79309d03-8303-4f24-827d-cf4393178e22.png?auto=format",
-    "downloads": 973720,
-    "trend": 37,
-    "releasedAt": "2026-05-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/REOCJNAXUFVYP3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
