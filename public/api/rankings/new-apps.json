@@ -1,5 +1,77 @@
 [
   {
+    "name": "AiFinPay",
+    "description": "Stripe for AI agents with real on-chain payments",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/44f3939a-da0e-4150-bf1f-e6a35049dcb1.vnd.microsoft.icon?auto=format",
+    "downloads": 652542,
+    "trend": 77,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/76M4KJVCXCSKZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NotiShark",
+    "description": "Alerts delivered straight to your Discord chat ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/523d256c-0cc1-4e5e-8b7b-1eb04d271a34.png?auto=format",
+    "downloads": 848939,
+    "trend": 39,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XTTVFSSX4M3ZEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "QookieQloud",
+    "description": "Automated GDPR compliance powered by dual-engine AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/27205fcb-b452-4021-9deb-a14fa5b66c02.png?auto=format",
+    "downloads": 360817,
+    "trend": 48,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BQH3HLU56XAWGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "VegaMate",
+    "description": "Pull unique AI companions with real personality and memory",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/dd803b18-5e82-4b1c-97d7-c8d23f6456e4.png?auto=format",
+    "downloads": 353977,
+    "trend": 101,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QC5YT6BNZZHSN5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Tools Tracker - Notion Template",
+    "description": "Track, compare and actually understand your AI tools",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e60bbcc4-9688-4f4a-b507-c45d01cceb58.png?auto=format",
+    "downloads": 938988,
+    "trend": 64,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CPRKTEHR53YJVY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "R.E.V.I.S.",
+    "description": "Local Cognitive OS for Multi-Agent AI Workflows",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c07e247d-b9f4-42a2-8971-3d3edbeda6f8.png?auto=format",
+    "downloads": 336329,
+    "trend": 41,
+    "releasedAt": "2026-05-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NEP6IUY5CHUMDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Answena",
     "description": "Track how 25+ AI assistants cite your website ",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/W3WU5BHE5SMIMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Tooliy",
-    "description": "80+ Free Online Tools for Image, PDF, SEO & AI",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/5d1e12c4-379d-421e-9d00-a3b71418255f.png?auto=format",
-    "downloads": 561755,
-    "trend": 18,
-    "releasedAt": "2026-05-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/G4GU76EBSNRDA3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Claimpress",
-    "description": "warranty, return, exchange",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3773e0ec-680a-44e6-9ef3-710b344fb475.png?auto=format",
-    "downloads": 339268,
-    "trend": 24,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MENUBE5NYOGE62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OmniDeepSearch",
-    "description": "#OmniDeepSearch #AISearch #AI #WebResearch #AIResearch",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/80db5f59-6a39-4fdc-ac8f-57203f78bcf1.png?auto=format",
-    "downloads": 132298,
-    "trend": 14,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VNGTMARM7KF5DZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Jyothish AI",
-    "description": "AI Powered Veduc Astrology and Horoscopes",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cfd3544c-7ebb-42ba-aae2-45257636070a.png?auto=format",
-    "downloads": 706801,
-    "trend": 84,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VJJZEAGUE7HUTX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Annotate AI",
-    "description": "Annotation formats designed for design reviews",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c1b53f7f-a0fe-481d-bb4c-25e152fd6d96.png?auto=format",
-    "downloads": 474080,
-    "trend": 37,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TBKCMRSHPWBZA5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Invilic",
-    "description": "Create professional invoices for free without signup",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/c56ebe6a-6a46-40e7-8abf-48f6ac215347.png?auto=format",
-    "downloads": 845045,
-    "trend": 16,
-    "releasedAt": "2026-05-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7UFARVW5YIBHGH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
