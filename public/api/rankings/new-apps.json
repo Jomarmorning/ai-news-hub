@@ -1,5 +1,53 @@
 [
   {
+    "name": "PaaS dFrame ",
+    "description": "Build Business Apps in Minutes with AI（Chat2DB）",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7008365d-f132-428e-928a-c92e45d881ba.gif?auto=format",
+    "downloads": 830563,
+    "trend": 62,
+    "releasedAt": "2026-05-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HNGSSKIFAY7VK2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ToolHub",
+    "description": "All-in-one free tools: AI, coding, images, calculators",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/65007404-ab97-4cda-867b-2cefb67e3f78.png?auto=format",
+    "downloads": 131590,
+    "trend": 35,
+    "releasedAt": "2026-05-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IK3IXEWXH67RHN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "GPT Image 2",
+    "description": "Try GPT image 2 today",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/d17deb83-11c3-46e0-8ae5-7e99c81a573d.png?auto=format",
+    "downloads": 292918,
+    "trend": 66,
+    "releasedAt": "2026-05-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2REB3PTAIDTVUD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": " CramBot AI",
+    "description": "CramBot AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c11243f0-e51c-4de5-bee1-154846884088.jpeg?auto=format",
+    "downloads": 1071372,
+    "trend": 68,
+    "releasedAt": "2026-05-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HKPLKWNAV43CI2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Casho.ai",
     "description": "AI-powered accounting tools. Built by accountants.",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/FLEF3RIJCWMSSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SocLeads 3.0",
-    "description": "Scrape emails from socials and maps by location",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9443342b-bf19-49c4-8423-5e1db1415f15.jpeg?auto=format",
-    "downloads": 1045871,
-    "trend": 60,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ALZHOD7ZH2TWYV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ShivHit.ai — AI Consulting Platform",
-    "description": "The world’s first AI‑powered consulting platform.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2476e7e0-66fd-426b-96e3-1a56fd9cf650.png?auto=format",
-    "downloads": 276840,
-    "trend": 49,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UD77SO2XRRJTA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "pixserp",
-    "description": "Your LLM on the live web. One endpoint, ten answer shapes.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1dd43a7f-fce1-48d9-8e58-42032a1c127b.png?auto=format",
-    "downloads": 173355,
-    "trend": 10,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GFZC3DIHHFZ2DD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Draft",
-    "description": "Capture AI chats into your knowledge base",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/37abfe40-994a-4d91-b475-640666546b47.png?auto=format",
-    "downloads": 846459,
-    "trend": 109,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EQGJGHML3A6QDZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
