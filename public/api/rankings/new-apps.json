@@ -1,5 +1,53 @@
 [
   {
+    "name": "Casho.ai",
+    "description": "AI-powered accounting tools. Built by accountants.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/73fee2d0-af62-4146-96c2-b0a77899266e.png?auto=format",
+    "downloads": 963097,
+    "trend": 72,
+    "releasedAt": "2026-05-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2UZ7TY7J5WKVZ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Shadow",
+    "description": "AI computer screen and voice control with custom automation",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/ff3ba4af-52e1-41a3-9893-5f68be95f072.png?auto=format",
+    "downloads": 820718,
+    "trend": 32,
+    "releasedAt": "2026-05-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RTMG35ETHSLUIL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Searchad.ai",
+    "description": "Run Apple Search Ads by Chatting with AI",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/b53c1f23-13bb-49bf-b1e2-b80f9ee18af2.gif?auto=format",
+    "downloads": 574948,
+    "trend": 33,
+    "releasedAt": "2026-05-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5QMQT3477EYHCQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LandingHero AI",
+    "description": "24/7 Salesperson on Your Website",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2f4db065-046a-4f75-b341-324d5594f23a.png?auto=format",
+    "downloads": 285091,
+    "trend": 20,
+    "releasedAt": "2026-05-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5WBKEBHZW64JNX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "VagueChat - Real-time Chat & Calling App",
     "description": "Fast, lightweight real-time chat & calling powered by gRPC.",
     "category": "AI对话",
@@ -48,18 +96,6 @@
     "url": "https://www.producthunt.com/r/UD77SO2XRRJTA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Searchad.ai",
-    "description": "Run Apple Search Ads by Chatting with AI",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/b53c1f23-13bb-49bf-b1e2-b80f9ee18af2.gif?auto=format",
-    "downloads": 775906,
-    "trend": 46,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5QMQT3477EYHCQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "pixserp",
     "description": "Your LLM on the live web. One endpoint, ten answer shapes.",
     "category": "AI对话",
@@ -72,18 +108,6 @@
     "url": "https://www.producthunt.com/r/GFZC3DIHHFZ2DD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Shadow",
-    "description": "AI computer screen and voice control with custom automation",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/ff3ba4af-52e1-41a3-9893-5f68be95f072.png?auto=format",
-    "downloads": 1042888,
-    "trend": 42,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RTMG35ETHSLUIL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Draft",
     "description": "Capture AI chats into your knowledge base",
     "category": "AI对话",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/EQGJGHML3A6QDZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "KodaPdf: AI-Powered PDF & Document Tools",
-    "description": "The all-in-one AI PDF toolkit for faster document workflows",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3dfd6b69-9a16-4e3f-ac1f-16afdd6ece6c.x-icon?auto=format",
-    "downloads": 1022137,
-    "trend": 27,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HQNP5G2HTOCKAE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FlintLab Sirius Platform",
-    "description": "AI-Native Unified Device Infra PaaS",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/eeb39704-7cc6-40fe-89df-9ca4964cdbd8.x-icon?auto=format",
-    "downloads": 337267,
-    "trend": 93,
-    "releasedAt": "2026-05-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/57M5QQHXOWFWBT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
