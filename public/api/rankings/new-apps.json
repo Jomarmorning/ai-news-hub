@@ -1,5 +1,77 @@
 [
   {
+    "name": "Wonder Script",
+    "description": "A smart dialogue training tool designed for actors",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/3e0ceb78-3d86-40ea-bb13-19e54a0f8cf6.webp?auto=format",
+    "downloads": 386008,
+    "trend": 102,
+    "releasedAt": "2026-05-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VYUYXNSRDZXFGF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kaizen",
+    "description": "Find the newest off market real estate. Instantly.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/99ce8709-a23c-4bd6-b085-d0fadf5dafc8.png?auto=format",
+    "downloads": 940642,
+    "trend": 62,
+    "releasedAt": "2026-05-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G7ZXY6HCLPLKHK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mente Serena",
+    "description": "Your daily space for mental balance and serenity",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/58869e3c-e2a4-4f28-a5d0-830281e27376.png?auto=format",
+    "downloads": 104693,
+    "trend": 94,
+    "releasedAt": "2026-05-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DJG242G7DBQ27Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Enumsol",
+    "description": "AI Voice Receptionist For Home Service Businesses in the US",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/6236377d-45a2-4bcb-a62f-7457f9cab98a.png?auto=format",
+    "downloads": 459468,
+    "trend": 107,
+    "releasedAt": "2026-05-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PCRYBBIWP5DHZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SaaSGrail",
+    "description": "Honest SaaS reviews for solo founders",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e1c68634-ed82-4dba-b341-ff6bbc3e0869.png?auto=format",
+    "downloads": 209252,
+    "trend": 94,
+    "releasedAt": "2026-05-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/67FG3NKSSHRJK7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ChatGPT Image",
+    "description": "AI image generator for fast visual creation",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/149609f1-ac56-4689-bf2c-3c7bcffb2ffe.jpeg?auto=format",
+    "downloads": 350383,
+    "trend": 98,
+    "releasedAt": "2026-05-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ETI5FTCYZFSRHM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "AILatency",
     "description": "Independent AI API performance benchmarks",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/B525RAS7SLNPKA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CraftMusic AI",
-    "description": "Create original music and lyrics from prompts",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/26eb27b5-121a-44dc-a793-0e381f604719.x-icon?auto=format",
-    "downloads": 870741,
-    "trend": 27,
-    "releasedAt": "2026-05-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/X3A3HMBP3RE4WT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Voxiru",
-    "description": "AI product photo studio for e-commerce sellers",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/b61238fe-be10-4cc7-ad18-ff1dfb08a130.png?auto=format",
-    "downloads": 669152,
-    "trend": 70,
-    "releasedAt": "2026-05-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CGVBYH7J2RRDTC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BlueprintX",
-    "description": "Build your AI double. Own it. Don't get erased. ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/831f21c9-8f8b-4048-8f77-65d808c6dab9.jpeg?auto=format",
-    "downloads": 503545,
-    "trend": 74,
-    "releasedAt": "2026-05-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/P42MWKFOFV7HEM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ShiftAI",
-    "description": "Free desktop voice AI with 9 wild personalities.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/c573b010-02f0-4d72-be79-9affafb93262.png?auto=format",
-    "downloads": 620039,
-    "trend": 56,
-    "releasedAt": "2026-05-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AHA6CNZFMO7HK7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Prizaa",
-    "description": "Carburant, forfait, box et banques en 5 secondes",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2b952282-beaa-4c94-b8d5-9517b1158c96.png?auto=format",
-    "downloads": 161999,
-    "trend": 23,
-    "releasedAt": "2026-05-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WTUWLUI3JQUZ2T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Velorific",
-    "description": "Training-aware nutrition for endurance athletes.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6fcc4ffb-c799-4bd4-b0ec-cc2a83d04fc1.png?auto=format",
-    "downloads": 947111,
-    "trend": 22,
-    "releasedAt": "2026-05-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/D64A3677334QY5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
