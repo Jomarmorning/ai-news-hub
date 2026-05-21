@@ -1,5 +1,77 @@
 [
   {
+    "name": "AlliHat",
+    "description": "Claude AI in your Safari sidebar",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/589adcc4-469c-4e06-bfa9-cc155a5202c5.png?auto=format",
+    "downloads": 202585,
+    "trend": 88,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QMGWPEV4K5UCT7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Tycoon AI ",
+    "description": "Run one-person companies entirely with AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8148cb1b-0da3-4574-9f71-08798b552316.svg?auto=format",
+    "downloads": 317353,
+    "trend": 32,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RL4GWQKCKC4Y5K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LawCaseAI",
+    "description": "AI legal case management for modern lawyers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/201cd037-7962-4472-9252-bf635320f74f.png?auto=format",
+    "downloads": 542675,
+    "trend": 24,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TAENP7AVNKFF4U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WhatsClaw",
+    "description": "Free WhatsApp automation — schedule, auto-reply & bulk send",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0618479e-8bce-40ac-a93f-3285f2f5a395.jpeg?auto=format",
+    "downloads": 403323,
+    "trend": 18,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/F7RMQYE2DEXYZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Bd RailwayTicket",
+    "description": "Get bd railway ticket online",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/db87b260-3e5d-495d-84d2-3650ca54db8f.webp?auto=format",
+    "downloads": 593285,
+    "trend": 104,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GHDAOXFELPV6CZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "0-to-1 AI Engineer Playbook (2026)",
+    "description": "Ace AI Engineer interviews: RAG, agents, fine-tuning",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/33054296-16ed-4b26-a7ed-ee48e5ffd1a4.jpeg?auto=format",
+    "downloads": 863307,
+    "trend": 27,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UL7UWYK74EVSD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Seabox Depot",
     "description": "Custom Shipping Container Solutions",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/MBRAEO5MQACEBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SmartScan",
-    "description": "Extract emails, contacts & AI insights from any site ",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/d7977ea5-067b-46a7-b581-b82412450299.png?auto=format",
-    "downloads": 963315,
-    "trend": 76,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RJNAUWGM5YBZ6W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ExportMart AI",
-    "description": "Export invoices in 30 seconds — free",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/75ab75dc-b54b-463d-be5b-8a6ace1ab5e4.png?auto=format",
-    "downloads": 307932,
-    "trend": 91,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RVFP7O6VILPBLX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Fair Job",
-    "description": "Find Private Jobs, Fresher Jobs, Work From Home Jobs,",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/343f2002-0e57-4abe-b361-164a87bc0a07.jpeg?auto=format",
-    "downloads": 347616,
-    "trend": 96,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4WMM7ZU6OA2PA4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Wonder Script",
-    "description": "A smart dialogue training tool designed for actors",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/3e0ceb78-3d86-40ea-bb13-19e54a0f8cf6.webp?auto=format",
-    "downloads": 386008,
-    "trend": 102,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VYUYXNSRDZXFGF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Kaizen",
-    "description": "Find the newest off market real estate. Instantly.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/99ce8709-a23c-4bd6-b085-d0fadf5dafc8.png?auto=format",
-    "downloads": 940642,
-    "trend": 62,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/G7ZXY6HCLPLKHK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Mente Serena",
-    "description": "Your daily space for mental balance and serenity",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/58869e3c-e2a4-4f28-a5d0-830281e27376.png?auto=format",
-    "downloads": 104693,
-    "trend": 94,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DJG242G7DBQ27Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
