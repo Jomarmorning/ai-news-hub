@@ -1,5 +1,77 @@
 [
   {
+    "name": "Gemini Omni",
+    "description": "Gemini-Omni",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/105c8c82-bc78-4fc6-80e2-a306cd19e34c.png?auto=format",
+    "downloads": 292024,
+    "trend": 80,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/X7R4PNPOZTLTER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Video Request System (Chemistry)",
+    "description": "AI Video Request System Chemistry",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/37c107b8-44da-4972-bcef-1c7aa338fc9a.svg?auto=format",
+    "downloads": 796208,
+    "trend": 24,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QKE2GHNB2N75DA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Feeedbackr",
+    "description": "Collect feedback, get AI insights, no monthly commitment.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d636bb5e-9aa8-4038-a84a-f53fe728640a.x-icon?auto=format",
+    "downloads": 911467,
+    "trend": 99,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VK7GSB4BPGVNUK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CasesFly AI Auditor",
+    "description": "Stop LLM hallucinations & bias in under 2 seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/31f9cd90-ee66-41d9-bb65-421284729ee4.png?auto=format",
+    "downloads": 556394,
+    "trend": 12,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JHKE2UIXXLB5N6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LOOT",
+    "description": "AI thrift arbitrage. Real verdicts in 2 seconds.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2f66c56a-4d9b-4b30-8c01-9d75827de8d8.png?auto=format",
+    "downloads": 297151,
+    "trend": 41,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4HENDM5G5HIGK7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Swipeer AI",
+    "description": "The fastest AI workflow on your desktop",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/313b2efb-23b1-44a1-bd95-b31223cf846b.webp?auto=format",
+    "downloads": 789522,
+    "trend": 69,
+    "releasedAt": "2026-05-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YONZG2MXMSYULO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "AlliHat",
     "description": "Claude AI in your Safari sidebar",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/F7RMQYE2DEXYZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Bd RailwayTicket",
-    "description": "Get bd railway ticket online",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/db87b260-3e5d-495d-84d2-3650ca54db8f.webp?auto=format",
-    "downloads": 593285,
-    "trend": 104,
-    "releasedAt": "2026-05-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GHDAOXFELPV6CZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "0-to-1 AI Engineer Playbook (2026)",
-    "description": "Ace AI Engineer interviews: RAG, agents, fine-tuning",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/33054296-16ed-4b26-a7ed-ee48e5ffd1a4.jpeg?auto=format",
-    "downloads": 863307,
-    "trend": 27,
-    "releasedAt": "2026-05-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UL7UWYK74EVSD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Seabox Depot",
-    "description": "Custom Shipping Container Solutions",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f294113e-3499-41f1-8c88-85d4fe2ff50c.png?auto=format",
-    "downloads": 243221,
-    "trend": 87,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YZWUH6M5PDPH4P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PitchGen",
-    "description": "Close more clients with automated AI audits & Presentations",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5a8a7a9f-cf00-4da9-b6df-42effae594f9.jpeg?auto=format",
-    "downloads": 362508,
-    "trend": 102,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/C3SLQ6FTQL5OBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FolksChat",
-    "description": "AI that understands emotion, not just text.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/95bad9a6-4a11-4ef3-8970-ea32a78b2651.png?auto=format",
-    "downloads": 979281,
-    "trend": 40,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KQNKUJGQMNADF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FireflyAI",
-    "description": "Launch your gym's own AI app in 10 minutes — free",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cf69bfac-722c-4059-a533-315585f6c37f.png?auto=format",
-    "downloads": 320084,
-    "trend": 77,
-    "releasedAt": "2026-05-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MBRAEO5MQACEBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
