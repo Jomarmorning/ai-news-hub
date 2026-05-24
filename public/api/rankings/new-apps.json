@@ -1,5 +1,77 @@
 [
   {
+    "name": "Grillr.io",
+    "description": "The AI accountability partner that hunts you down.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/8cb53b3a-ae34-4e62-a37b-85b81062d1f7.png?auto=format",
+    "downloads": 297253,
+    "trend": 42,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Z7CQRL7H4QTMPJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TalktoAI",
+    "description": "Human-like AI you can actually talk to live, face-to-face!",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d903fb52-b5ec-4095-8e9a-23627ee0f010.png?auto=format",
+    "downloads": 190969,
+    "trend": 42,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BSM75KLXZP6OP6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Garden Reads",
+    "description": "The eBook & audiobook reader with private on-device AI.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/8c22b881-7d89-486c-8f34-3a7eb3ec1e65.jpeg?auto=format",
+    "downloads": 912689,
+    "trend": 23,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OMUBL3PFHDC6MK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CreatorMail",
+    "description": "Find YouTubers' Hidden/Personal Email Addresses",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c232c20c-3be0-4f61-992a-82b0f697e591.png?auto=format",
+    "downloads": 719977,
+    "trend": 30,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TWV275TITVO4AE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Free UTM Link Generator",
+    "description": "Use UTM Link Generator to create trackable campaign URLs.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d99a6a4b-5aeb-4b2d-b1e3-0cbc1a9437d0.png?auto=format",
+    "downloads": 297207,
+    "trend": 55,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K3NMH7LG3POVVS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "podsML",
+    "description": "one-click deployment for everything AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b24c8e46-1eef-4620-b052-cb4923b3f8f9.png?auto=format",
+    "downloads": 219921,
+    "trend": 59,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/63CDOHH3ZHTWBE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "ChatMirror",
     "description": "Turn long ChatGPT conversations into readable archives",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/K3MOXJVBWAMY4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CodeWalk AI",
-    "description": "Voice-narrated code tours powered by the AI you already have",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/2798dedb-c6b3-4048-a606-9a79b1de4e4f.svg?auto=format",
-    "downloads": 918527,
-    "trend": 74,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DL4DHKRE75Q6TF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "keum.ai",
-    "description": "AI workforce for SMBs",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e2908352-0fdf-45f0-b18e-588b0536b02c.png?auto=format",
-    "downloads": 1081611,
-    "trend": 77,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6TCJ5ZOUR2Q7A5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Penny Logo - AI Emoji Avatar From Image",
-    "description": "Penny Logo",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/e97eef1b-2bc0-4b56-b1ee-f67a5f3bdc30.png?auto=format",
-    "downloads": 137563,
-    "trend": 52,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JKJJINAQWKXNAY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Celestial Oracle",
-    "description": "Daily Yes or No Tarot",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/91de42a0-7238-48a2-93b8-53e6cc5c235d.png?auto=format",
-    "downloads": 413632,
-    "trend": 12,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/F2WMLW5VNU5AWN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LiveLead AI",
-    "description": "Never Miss a Lead. Close More Deals.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e5023e4e-a628-4e8f-9c3f-3de1c59e79c3.png?auto=format",
-    "downloads": 552982,
-    "trend": 73,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BS3GTROG7HDFO3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Akhi AI",
-    "description": "Muslim AI Assistant by The Atom",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9b1af99c-46f1-4fe9-9715-d60e73619e0a.png?auto=format",
-    "downloads": 429075,
-    "trend": 55,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XNN3ORUZ53A4XA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
