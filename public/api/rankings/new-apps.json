@@ -1,5 +1,65 @@
 [
   {
+    "name": "ChatMirror",
+    "description": "Turn long ChatGPT conversations into readable archives",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/dd777a0a-a9b7-4e57-973d-571a4ddafc36.png?auto=format",
+    "downloads": 928094,
+    "trend": 63,
+    "releasedAt": "2026-05-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6ZILZTTP53N4MJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Stripchat VR Downloader",
+    "description": "Save Stripchat VR videos offline without popups",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/12d5cc10-4641-4809-a06a-a74a7d7095fb.png?auto=format",
+    "downloads": 233247,
+    "trend": 38,
+    "releasedAt": "2026-05-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3HJZGPTSTEHRFO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Corenous AI",
+    "description": "Your Mac never forgets. And it never tells.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d6af92d6-6f13-4751-b5be-7ab236282138.png?auto=format",
+    "downloads": 976486,
+    "trend": 63,
+    "releasedAt": "2026-05-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5E5WL6DZHPQMAY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FreeLingo",
+    "description": "Remember vocabulary with AI & spaced repetition",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9b3b6fbd-10c3-442c-9045-5ba35e1162ef.png?auto=format",
+    "downloads": 581996,
+    "trend": 51,
+    "releasedAt": "2026-05-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K3MOXJVBWAMY4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CodeWalk AI",
+    "description": "Voice-narrated code tours powered by the AI you already have",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/2798dedb-c6b3-4048-a606-9a79b1de4e4f.svg?auto=format",
+    "downloads": 918527,
+    "trend": 74,
+    "releasedAt": "2026-05-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DL4DHKRE75Q6TF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "keum.ai",
     "description": "AI workforce for SMBs",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/XNN3ORUZ53A4XA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MENTOR AI",
-    "description": "“Your Personal AI Mentor.”",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/11b11bbe-4642-451e-8fca-e8ff88cce822.png?auto=format",
-    "downloads": 960306,
-    "trend": 43,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HVXQXWA3UTTPGH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Stripchat VR Downloader",
-    "description": "Save Stripchat VR videos offline without popups",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/12d5cc10-4641-4809-a06a-a74a7d7095fb.png?auto=format",
-    "downloads": 299271,
-    "trend": 74,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3HJZGPTSTEHRFO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Commitment Crawler - AI for Slack Teams",
-    "description": "Catch every Slack commitment automatically",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0099690b-f9f9-4fb4-98f7-7996ade7c70d.png?auto=format",
-    "downloads": 595976,
-    "trend": 97,
-    "releasedAt": "2026-05-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BOCOUYO6VRHDJC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Google Project Genie",
-    "description": "Turn Street View locations into navigable AI worlds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/94bb77ef-1ff8-4129-8dc2-81f3e17c1141.png?auto=format",
-    "downloads": 613679,
-    "trend": 36,
-    "releasedAt": "2026-05-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Q4BAU6NUV4IMVI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AllAiThink",
-    "description": "Your AI Board of Directors",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ffe9d43e-6976-412c-8d09-a9120805b0a0.vnd.microsoft.icon?auto=format",
-    "downloads": 591484,
-    "trend": 75,
-    "releasedAt": "2026-05-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/L3XP33MQZ73YN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
