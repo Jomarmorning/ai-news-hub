@@ -1,5 +1,41 @@
 [
   {
+    "name": "Analytics by Ghaith",
+    "description": "The \"Zero-Learning-Curve\" Analytics Platform for Leaders.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ec662385-7ac8-40c9-9e7f-5292a7a6443e.png?auto=format",
+    "downloads": 928149,
+    "trend": 88,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EWYBOMCCB7ZTY7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "StudySnap",
+    "description": "Snap homework → get instant step-by-step AI help",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/98b6085e-c876-4fe5-a8f1-40b762d4dd4d.png?auto=format",
+    "downloads": 307215,
+    "trend": 97,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WE7MCF3HWYN6AN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Neumann",
+    "description": "A local voice AI assistant that teaches itself new skills",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/dca14387-25da-4234-99e3-4fddb1a40a4a.png?auto=format",
+    "downloads": 489253,
+    "trend": 48,
+    "releasedAt": "2026-05-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3VRHLGW3C45NAN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Grillr.io",
     "description": "The AI accountability partner that hunts you down.",
     "category": "AI绘画",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/6ZILZTTP53N4MJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Stripchat VR Downloader",
-    "description": "Save Stripchat VR videos offline without popups",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/12d5cc10-4641-4809-a06a-a74a7d7095fb.png?auto=format",
-    "downloads": 233247,
-    "trend": 38,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3HJZGPTSTEHRFO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Corenous AI",
-    "description": "Your Mac never forgets. And it never tells.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d6af92d6-6f13-4751-b5be-7ab236282138.png?auto=format",
-    "downloads": 976486,
-    "trend": 63,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5E5WL6DZHPQMAY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FreeLingo",
-    "description": "Remember vocabulary with AI & spaced repetition",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9b3b6fbd-10c3-442c-9045-5ba35e1162ef.png?auto=format",
-    "downloads": 581996,
-    "trend": 51,
-    "releasedAt": "2026-05-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/K3MOXJVBWAMY4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
