@@ -1,5 +1,77 @@
 [
   {
+    "name": "SpecDD",
+    "description": "Build better software with spec-driven AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/44fe6445-9c01-4778-a043-a635f411828b.png?auto=format",
+    "downloads": 657578,
+    "trend": 99,
+    "releasedAt": "2026-05-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IOO72U25S7A4V7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Gallio PRO",
+    "description": "AI-powered, on-premise video redaction for GDPR compliance",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/4eb5f01d-2be7-403b-b830-4b0600488e8a.png?auto=format",
+    "downloads": 380819,
+    "trend": 108,
+    "releasedAt": "2026-05-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BWDJT6H4VXB2DB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PlataPost",
+    "description": "PlataPost AI helps you plan, write, organize, post on social",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/cef0eff2-7521-416b-a5bb-285307fed769.png?auto=format",
+    "downloads": 386753,
+    "trend": 24,
+    "releasedAt": "2026-05-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MDMGBSZEHTEABA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Orchestrik.ai",
+    "description": "Platform to launch AI agents for enterprise.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/57be58f3-0f8e-456b-a794-41ffeb06bb1c.x-icon?auto=format",
+    "downloads": 488748,
+    "trend": 41,
+    "releasedAt": "2026-05-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4MF6M2CZX7MFEJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Gateplex",
+    "description": "Real-time governance firewall for autonomous AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/88073602-330b-4c11-8d3b-fec481afc3e9.png?auto=format",
+    "downloads": 937723,
+    "trend": 15,
+    "releasedAt": "2026-05-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QSFW3777TD6Q5I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "DatrixWorld",
+    "description": "AI Automation, Cloud Engineering & Custom Software",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4929d0e7-a70b-4185-b839-d054d345980e.png?auto=format",
+    "downloads": 1069945,
+    "trend": 62,
+    "releasedAt": "2026-05-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5QUL3WIHLHH2XD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Yansu",
     "description": "AI that learns how you work and turns it into software",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/3EY2VAEXSWTXAR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LLMTest",
-    "description": "Use the right LLMs in your apps. Setup fallbacks. Be happy.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/44f764a1-786c-4dbd-8543-38b4f58c7739.png?auto=format",
-    "downloads": 1025163,
-    "trend": 65,
-    "releasedAt": "2026-05-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZTTNKFQU3IGYRA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Rixx",
-    "description": "The Perplexity alternative that organizes your research",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/35c5010e-7a92-4433-a5a1-fba445f8ad15.png?auto=format",
-    "downloads": 961261,
-    "trend": 92,
-    "releasedAt": "2026-05-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RCNSWHNL7VWHV6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Orchestria",
-    "description": "AI music engine with granular stem control",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/1acbeb83-0265-43ca-b4e6-6b4a9f3b313c.png?auto=format",
-    "downloads": 884019,
-    "trend": 15,
-    "releasedAt": "2026-05-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7LPYC7KRXCTWU3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Elsy",
-    "description": "AI voice companion for aging parents",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/13d007c0-9d13-4fc4-94b5-fce7c2e4d873.png?auto=format",
-    "downloads": 553247,
-    "trend": 10,
-    "releasedAt": "2026-05-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E4N5THU2ERGWFF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "HostProfit.ai",
-    "description": "The Bloomberg Terminal for short-term rental operators",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/503e1e9c-41c2-4d0b-9608-e13dde3dcc2f.png?auto=format",
-    "downloads": 433722,
-    "trend": 74,
-    "releasedAt": "2026-05-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ROB6LQUEOAH2XB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MyTemenos",
-    "description": "AI for self-discovery, shadow work, and personal growth",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ebb6825a-9c47-410d-a68d-4e09d6993b89.png?auto=format",
-    "downloads": 779400,
-    "trend": 47,
-    "releasedAt": "2026-05-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IA626AIJ6SGOSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
