@@ -1,5 +1,77 @@
 [
   {
+    "name": "PnLVault — Professional Trading Platform",
+    "description": "The trading journal that finds your edge with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5fea77d6-9eea-47f5-a9fa-26a8b270575e.png?auto=format",
+    "downloads": 552349,
+    "trend": 76,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OSH5BQKL3DMFZQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Literature Review Synthesizer",
+    "description": "Synthesize academic notes into lit reviews with your LLM",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/63f35e37-4a8f-49be-9f31-64049519dc2d.png?auto=format",
+    "downloads": 733248,
+    "trend": 62,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JZCJ324WGTQ3R2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kaspro",
+    "description": "AI that finds money leaks and creates your financial todo ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7d30cb95-7c4f-4e7a-ac88-b1ff37984d89.png?auto=format",
+    "downloads": 891775,
+    "trend": 99,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BHDXGSB7FEVAA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Prompts for Insurance Adjusters",
+    "description": "Cut report writing time in half with copy-paste AI prompts",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/5250d5ea-1239-49eb-93c3-8f49b7739dd1.png?auto=format",
+    "downloads": 250336,
+    "trend": 32,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CTCTTIBIVGKX55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NavAnalytica",
+    "description": "Quantitative investing with explainable AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f111fff2-e318-4d62-ae3c-70cbdfd569e8.png?auto=format",
+    "downloads": 164666,
+    "trend": 71,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YVWGBQKMJPK4YY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TradeBrain-Intelligent Trade Compliance",
+    "description": "SRA-powered HTS, ECCN, ITAR & EAR classification",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/070343f9-2775-4a80-836d-28c0a60b7ad9.png?auto=format",
+    "downloads": 852962,
+    "trend": 96,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/L7QNOR7ITZWH6D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "NimboStratusAI Weather Hazard App",
     "description": "Your all-in-one weather and hazard intelligence platform",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/CCZ2KUPJZ7G33N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CareerTWiN",
-    "description": "Proof-based AI hiring intelligence for technical teams",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ed80f8e9-c100-455e-bee3-e86d2baae7c1.png?auto=format",
-    "downloads": 378617,
-    "trend": 55,
-    "releasedAt": "2026-05-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SVRAQBPEFZXKB5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Corp Zero-Cost Autonom Video Factory",
-    "description": "One workflow. 4 platforms. $0/month. Fully autonomous.",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/4747799d-f1a6-4633-85f5-1242a7b4b6d8.jpeg?auto=format",
-    "downloads": 203175,
-    "trend": 13,
-    "releasedAt": "2026-05-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6DLGHY7JPHAO2E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Arise Ai by Aryan srivastav ",
-    "description": "Helping US contractors add an EXTRA $50K in revenue/mo",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/87010765-3761-4ae0-a0ad-a361567cb995.png?auto=format",
-    "downloads": 129654,
-    "trend": 17,
-    "releasedAt": "2026-05-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YIKB6255R6JCMC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI-Mate",
-    "description": "Turn your ideas into AI agent systems.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8a5424cf-ce30-4942-9dad-ccaf73004636.png?auto=format",
-    "downloads": 174285,
-    "trend": 102,
-    "releasedAt": "2026-05-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LD3NP5CQ7TBC64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BizBunker",
-    "description": "Runway tracker for freelancers — know your D-Day",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ef339695-62f0-4474-af70-9801abd7375d.jpeg?auto=format",
-    "downloads": 108804,
-    "trend": 21,
-    "releasedAt": "2026-05-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CQAUAAEE7DRHFH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CapnAI - AI Caption Generator",
-    "description": "AI auto generate captions from your photos with your styles!",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/fd1cf364-14fd-4978-86ae-2a9298e7802d.png?auto=format",
-    "downloads": 536940,
-    "trend": 80,
-    "releasedAt": "2026-05-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/L63U5HSDOS5Q53?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
