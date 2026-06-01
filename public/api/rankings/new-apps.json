@@ -1,5 +1,53 @@
 [
   {
+    "name": "Kaspro",
+    "description": "AI that finds money leaks and creates your financial todo ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7d30cb95-7c4f-4e7a-ac88-b1ff37984d89.png?auto=format",
+    "downloads": 577366,
+    "trend": 26,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BHDXGSB7FEVAA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Prompts for Insurance Adjusters",
+    "description": "Cut report writing time in half with copy-paste AI prompts",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/5250d5ea-1239-49eb-93c3-8f49b7739dd1.png?auto=format",
+    "downloads": 417837,
+    "trend": 40,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CTCTTIBIVGKX55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NavAnalytica",
+    "description": "Quantitative investing with explainable AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f111fff2-e318-4d62-ae3c-70cbdfd569e8.png?auto=format",
+    "downloads": 866929,
+    "trend": 95,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YVWGBQKMJPK4YY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TradeBrain-Intelligent Trade Compliance",
+    "description": "SRA-powered HTS, ECCN, ITAR & EAR classification",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/070343f9-2775-4a80-836d-28c0a60b7ad9.png?auto=format",
+    "downloads": 873706,
+    "trend": 56,
+    "releasedAt": "2026-05-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/L7QNOR7ITZWH6D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "PnLVault — Professional Trading Platform",
     "description": "The trading journal that finds your edge with AI",
     "category": "AI对话",
@@ -22,54 +70,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/JZCJ324WGTQ3R2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Kaspro",
-    "description": "AI that finds money leaks and creates your financial todo ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7d30cb95-7c4f-4e7a-ac88-b1ff37984d89.png?auto=format",
-    "downloads": 891775,
-    "trend": 99,
-    "releasedAt": "2026-05-31T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BHDXGSB7FEVAA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Prompts for Insurance Adjusters",
-    "description": "Cut report writing time in half with copy-paste AI prompts",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/5250d5ea-1239-49eb-93c3-8f49b7739dd1.png?auto=format",
-    "downloads": 250336,
-    "trend": 32,
-    "releasedAt": "2026-05-31T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CTCTTIBIVGKX55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NavAnalytica",
-    "description": "Quantitative investing with explainable AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f111fff2-e318-4d62-ae3c-70cbdfd569e8.png?auto=format",
-    "downloads": 164666,
-    "trend": 71,
-    "releasedAt": "2026-05-31T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YVWGBQKMJPK4YY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TradeBrain-Intelligent Trade Compliance",
-    "description": "SRA-powered HTS, ECCN, ITAR & EAR classification",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/070343f9-2775-4a80-836d-28c0a60b7ad9.png?auto=format",
-    "downloads": 852962,
-    "trend": 96,
-    "releasedAt": "2026-05-31T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/L7QNOR7ITZWH6D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "NimboStratusAI Weather Hazard App",
