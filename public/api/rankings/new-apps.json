@@ -1,5 +1,77 @@
 [
   {
+    "name": "Focushala",
+    "description": "A calm app to help you focus daily from 2-4 pm without fail!",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a721aca5-3970-4703-b077-9211e0ae168b.png?auto=format",
+    "downloads": 439214,
+    "trend": 88,
+    "releasedAt": "2026-06-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BPDFZUNVVISCAG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PeraByte Labs AI Operator Score",
+    "description": "AI Operating System",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3933ba55-33b7-4ff2-bb50-4240d26a3e40.png?auto=format",
+    "downloads": 741876,
+    "trend": 20,
+    "releasedAt": "2026-06-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5JAZ7YF3O7YPDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Email Sender Pro",
+    "description": "Send 10,000+ personalized emails from your Android phone",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6d947777-fa7d-4ea4-99e7-14383714de93.png?auto=format",
+    "downloads": 333620,
+    "trend": 102,
+    "releasedAt": "2026-06-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WUM3WQBDYGADT3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Brutal Mail",
+    "description": "ColdMail AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/85e7e0a1-d7e6-4393-a7f2-b0545e7da16e.jpeg?auto=format",
+    "downloads": 576078,
+    "trend": 97,
+    "releasedAt": "2026-06-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GWPKE4P24POOVP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CourtOracle Tennis Journal",
+    "description": "Voice journal. 6 ATP/WTA-level coaches. +1 UTR guaranteed.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/a0df2ca2-10a2-4c14-a8d4-3518a6cdb831.png?auto=format",
+    "downloads": 329566,
+    "trend": 18,
+    "releasedAt": "2026-06-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VLNVIHWTRNWR5E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CognitIO — IA para el estudio",
+    "description": "Turn any PDF into summaries, flashcards & tests with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a4987b93-0718-4811-878d-833b202f53cc.svg?auto=format",
+    "downloads": 129992,
+    "trend": 28,
+    "releasedAt": "2026-06-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XGAGD7GZRYVZAW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Mina Meeting Assistant",
     "description": "Your AI Teammate now responds and executes during your calls",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/GNEORBDR3IPXYK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SocialEcho 2.0",
-    "description": "AI social media copilot for teams and agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a46d573a-fa48-4dd6-a749-cc8e95c80938.jpeg?auto=format",
-    "downloads": 884354,
-    "trend": 92,
-    "releasedAt": "2026-06-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CRXS4B2XRMZLD2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CourtOracle Tennis Journal",
-    "description": "Voice journal. 6 ATP/WTA-level coaches. +1 UTR guaranteed.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/a0df2ca2-10a2-4c14-a8d4-3518a6cdb831.png?auto=format",
-    "downloads": 819248,
-    "trend": 29,
-    "releasedAt": "2026-06-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VLNVIHWTRNWR5E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Onbookr",
-    "description": "Accept paid bookings — 0% commission, flat pricing",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/99239ac8-3aa7-451a-b5a1-50e74d7454c6.png?auto=format",
-    "downloads": 129702,
-    "trend": 31,
-    "releasedAt": "2026-06-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BE4QNEBCVILR3T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cavebro - AI Token Saver",
-    "description": "Save tokens on every AI prompt. Press hotkey to trigger.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e9ec29b1-7ee4-4bdb-b79e-4da39cf97861.png?auto=format",
-    "downloads": 1068846,
-    "trend": 35,
-    "releasedAt": "2026-06-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PZ2PO2QI4XRNZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Kaspro",
-    "description": "AI that finds money leaks and creates your financial todo ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7d30cb95-7c4f-4e7a-ac88-b1ff37984d89.png?auto=format",
-    "downloads": 577366,
-    "trend": 26,
-    "releasedAt": "2026-05-31T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BHDXGSB7FEVAA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Prompts for Insurance Adjusters",
-    "description": "Cut report writing time in half with copy-paste AI prompts",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/5250d5ea-1239-49eb-93c3-8f49b7739dd1.png?auto=format",
-    "downloads": 417837,
-    "trend": 40,
-    "releasedAt": "2026-05-31T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CTCTTIBIVGKX55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
