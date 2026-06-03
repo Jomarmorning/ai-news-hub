@@ -1,5 +1,77 @@
 [
   {
+    "name": "Make easy money from Claude Training",
+    "description": "Learn, package, and teach practical Claude workflows",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/132b52ca-b8d0-4cae-9ed2-3fd29f4722d7.jpeg?auto=format",
+    "downloads": 893896,
+    "trend": 98,
+    "releasedAt": "2026-06-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3AONU4QJXTVH4Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AudioBooks - EPUB to Audiobook",
+    "description": "Turn any EPUB into an audiobook with AI voices in iOS",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/242e662a-cc21-414c-ae1c-e436f3a4d11f.webp?auto=format",
+    "downloads": 619516,
+    "trend": 14,
+    "releasedAt": "2026-06-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EGEWDW2OHBJXXL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Spanish AI APIs",
+    "description": "AI APIs for Spanish text — sentiment & summarizer",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a3ad6eb2-0097-4395-a6b4-3ce10da4fac0.png?auto=format",
+    "downloads": 480262,
+    "trend": 95,
+    "releasedAt": "2026-06-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QCYNVWQE7BGSG4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Cahoni Builds Quotes, Schedules by Voice",
+    "description": "Voice AI that builds quotes in pdf, excel & schedules crews",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/5f9619ab-983e-4cf0-a2a2-d7becb747ba7.png?auto=format",
+    "downloads": 254446,
+    "trend": 62,
+    "releasedAt": "2026-06-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UVUQTX3AKHDW6R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Replicas",
+    "description": "Run Claude Code and Codex in the cloud",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/475c1bf8-371d-429a-ae87-87b22a2048d0.png?auto=format",
+    "downloads": 290222,
+    "trend": 95,
+    "releasedAt": "2026-06-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/D44IQTTKSR3U2U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Carbone Skill for AI",
+    "description": "Teach your AI to build document templates",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/fe626627-8d07-4be5-b83a-9638f28f5e2a.png?auto=format",
+    "downloads": 290698,
+    "trend": 68,
+    "releasedAt": "2026-06-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4KYO2RLLYEVOH6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Gusto Cofounder",
     "description": "If Gusto, OpenClaw, and Claude Cowork had a baby...",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/ILTPPE6FJWBBCW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ozzec Prospecting",
-    "description": "AI that hunts B2B leads while you focus on closing",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f7531b76-cad8-444d-be4a-b72afd02bfb2.png?auto=format",
-    "downloads": 293843,
-    "trend": 109,
-    "releasedAt": "2026-06-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LL4QZMVWJWGWNI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RemindlyHQ",
-    "description": "Smart reminders Powered by AI Delivered on WhatsApp & Email.",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/2ec0d446-3a36-45a2-8281-21eba653ceb6.png?auto=format",
-    "downloads": 543165,
-    "trend": 15,
-    "releasedAt": "2026-06-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CNJY3IBMJQGIEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Kompassify 2.0",
-    "description": "User onboarding now with an AI copilot",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4cd087a8-9e41-443e-92ea-a4729ea3428a.jpeg?auto=format",
-    "downloads": 368964,
-    "trend": 66,
-    "releasedAt": "2026-06-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IIZ6EBERTWMBC7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "VoilaLink ",
-    "description": "One beautiful link for your bio, booking/invoices & AI tools",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/1bd09488-5586-4f06-a514-a5a219316a14.png?auto=format",
-    "downloads": 317385,
-    "trend": 60,
-    "releasedAt": "2026-06-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XNSGM5OROZN3KR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Centiv",
-    "description": "AI Advisors · ¢Score · Talking Coach · 10K banks US & Canada",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8cc24746-130d-4291-add3-741d92ffb30e.png?auto=format",
-    "downloads": 911371,
-    "trend": 90,
-    "releasedAt": "2026-06-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Q6L2KOPO3QT2O2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ToolPix",
-    "description": "Free coding, PDF, image, and AI tools in one place",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/1074d9fb-5c9c-4cda-a5b7-e22dc63d6e21.png?auto=format",
-    "downloads": 895611,
-    "trend": 31,
-    "releasedAt": "2026-06-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/R6NWB7IGCRF6P2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
