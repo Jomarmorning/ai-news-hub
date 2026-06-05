@@ -1,5 +1,77 @@
 [
   {
+    "name": "Pack Planner",
+    "description": "Local AI family planner with an E2EE document safe",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/dfff47aa-8e9d-4c33-a385-2fae3182746a.png?auto=format",
+    "downloads": 1092975,
+    "trend": 19,
+    "releasedAt": "2026-06-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AGUOQAW4WLPZJD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Voicelyf",
+    "description": "Voices with real emotion",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/dd9fc105-07cb-4f43-89fb-5383328973b8.png?auto=format",
+    "downloads": 1052070,
+    "trend": 55,
+    "releasedAt": "2026-06-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CROY4FHNZ3H5PG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "DogPhotoAI",
+    "description": "Capture Every Adorable Moment",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/74292615-26a0-405a-bfac-7974ebf8a695.png?auto=format",
+    "downloads": 914344,
+    "trend": 81,
+    "releasedAt": "2026-06-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UQJEIM5VYYXEOH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "billmatic",
+    "description": "Invoicing and e-invoicing for German small businesses",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9d2d87e5-a74d-4bdb-a653-ff7f42c4749b.png?auto=format",
+    "downloads": 683052,
+    "trend": 52,
+    "releasedAt": "2026-06-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GYS324NMQLXBS2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Aisoule",
+    "description": "AI-Powered WhatsApp Automation for Growing Businesses",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7ca1ad1d-e206-4fbb-a389-24d74ceba082.svg?auto=format",
+    "downloads": 171225,
+    "trend": 28,
+    "releasedAt": "2026-06-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/M4ZNVTQFVPN74R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AIC Cloud",
+    "description": "Cloud VPS from $1.10/mo with PayPal worldwide",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/06bbe392-e164-4e04-9b95-de3a7aff596e.png?auto=format",
+    "downloads": 850929,
+    "trend": 68,
+    "releasedAt": "2026-06-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ANSXJGS7VMTNC5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Keendai",
     "description": "Fresh B2B Leads on Demand",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/BQCDVNWHYEEQCR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Universal Excel AI",
-    "description": "Talk to your Excel spreadsheet in plain English",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/dd89e677-46f7-4264-8091-d4ced56cb7f3.png?auto=format",
-    "downloads": 1064208,
-    "trend": 65,
-    "releasedAt": "2026-06-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GMIKYK437V6NCZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SmartOnCall",
-    "description": "The invisible AI copilot for live calls. Zero data stored.",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/85c430eb-9372-456a-a233-ef89e8ebc37b.png?auto=format",
-    "downloads": 637142,
-    "trend": 41,
-    "releasedAt": "2026-06-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZXL5URA2BZBOVI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DocAPI",
-    "description": "Extract invoices and PDFs into clean JSON with one API call.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/754786ad-3fb7-4676-89cd-7209fd7bb3cb.png?auto=format",
-    "downloads": 742064,
-    "trend": 55,
-    "releasedAt": "2026-06-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VIXY35H6O2WO2F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "yourcvsucks.com —Vera will roast your CV",
-    "description": "Your complete AI career toolkit — roast to interview-ready",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7e1f4ad3-56f8-4edd-ae07-aff5b8469b33.jpeg?auto=format",
-    "downloads": 825561,
-    "trend": 12,
-    "releasedAt": "2026-06-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/P7JGZELEZBECY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "My Debt Lens",
-    "description": "Compare debt payoff paths in plain English",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8ec8b34d-4e0d-4fbf-b738-a9a1e86ba08a.png?auto=format",
-    "downloads": 748411,
-    "trend": 53,
-    "releasedAt": "2026-06-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EHVMPBWII6ZBRV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ChainScope",
-    "description": "ChainScope: Look Closer, Go Deeper",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f59cd12a-a2a7-482b-9c22-349019188a29.png?auto=format",
-    "downloads": 523767,
-    "trend": 70,
-    "releasedAt": "2026-06-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5ZKD27KFS4M3E2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
