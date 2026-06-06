@@ -1,5 +1,77 @@
 [
   {
+    "name": "Boltwork",
+    "description": "AI services that pay for themselves via Bitcoin Lightning",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1ba1e3fc-0e81-4777-8cac-7d197b785d98.svg?auto=format",
+    "downloads": 514947,
+    "trend": 33,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QPHG6HU5TEAMTS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OMem",
+    "description": "Local-first work memory for your AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/966f1b40-04d6-40f6-a492-4126d3ab9edb.png?auto=format",
+    "downloads": 405180,
+    "trend": 85,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Y2Z4A47P72HP4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MiddAI V2.1 - Free Offline and Private",
+    "description": "Offline AI with Online Search, Memories, File/Image Analysis",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/29cddc81-5e52-4574-bcbe-4c88fe97ef33.png?auto=format",
+    "downloads": 751854,
+    "trend": 65,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GBJY4J2QE6KAKG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "UNET",
+    "description": "Privacy-first social network without email signups",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/46bf5e1d-5564-475b-ba57-1e5ebb48dae6.png?auto=format",
+    "downloads": 1098155,
+    "trend": 16,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CXXO6EP6HWP25Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Document.Bot - EU/ Offline AI workspace",
+    "description": "ChatGPT for entire document folders, PDF, Doc, Excel",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2d60a6a2-1cfe-48c8-b270-d06c2ebce4a9.png?auto=format",
+    "downloads": 723366,
+    "trend": 28,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CJJQVLPDFEEIG7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OmniWai",
+    "description": "Your personal AI productivity assistant — chat, PDF & more",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/55b847e3-74ff-4b05-86f6-eaf32cbf4b06.jpeg?auto=format",
+    "downloads": 945827,
+    "trend": 55,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OSSKFHEVD3UGTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Synapse Hire",
     "description": "AI-powered recruiting for modern recruiters.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/D6DL3MIH5GVTBW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NetLift",
-    "description": "AI Value Management for proving AI ROI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/702f8635-ed8f-4304-a877-00936e8b7517.jpeg?auto=format",
-    "downloads": 939081,
-    "trend": 33,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4TAZBJH5GXZKUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PromptPin",
-    "description": "Stop screenshotting AI prompts. Save and use them in a tap.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/aa02cfa7-a96b-4c7e-bb5b-47e44db90d26.svg?auto=format",
-    "downloads": 301519,
-    "trend": 87,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FXJVDLO5MLXPAQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SellerClaw",
-    "description": "A team of AI agents that runs your stores across channels",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/055a93ee-c4e1-4862-99e9-0984eff96f82.png?auto=format",
-    "downloads": 406597,
-    "trend": 89,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7EVPIJ3T3Q6YW2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Moodloom",
-    "description": "Ad-free Pinterest Alternative with AI content filtering ",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/a8ab0a03-78c1-4073-b9af-816922753c26.png?auto=format",
-    "downloads": 353525,
-    "trend": 105,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KABC3NRR6GO7HB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Mizzle Mail",
-    "description": "Your Gmail inbox as an Instagram feed",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3da0a64a-1d26-43de-9d44-138420ae4f39.png?auto=format",
-    "downloads": 687048,
-    "trend": 13,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WAS6ULMANCAK6P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Agent Mode on Arena",
-    "description": "Get real-world tasks done with autonomous AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/21871a9a-84c9-4f14-baf9-ef1802a9bb10.png?auto=format",
-    "downloads": 1028710,
-    "trend": 107,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DMA3X24N4FESP7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
