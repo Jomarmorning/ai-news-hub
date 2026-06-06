@@ -1,5 +1,65 @@
 [
   {
+    "name": "Synapse Hire",
+    "description": "AI-powered recruiting for modern recruiters.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2d0195d7-fa31-4a84-ba74-7de3ba38e90f.png?auto=format",
+    "downloads": 862991,
+    "trend": 57,
+    "releasedAt": "2026-06-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OUGUQ2ZGC7X6RT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Minimi",
+    "description": "Your ambient memory for Claude",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/263c1485-e028-41c9-a635-559fbc18e830.png?auto=format",
+    "downloads": 526649,
+    "trend": 43,
+    "releasedAt": "2026-06-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SIMPLUAHCBBLII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Wait, They're ALL Here?!: 6,494 AI Engin",
+    "description": "6,494 verified AI engines mapped in one book",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cc4bd79a-aec5-4ff2-9d52-29624e0fe968.png?auto=format",
+    "downloads": 438343,
+    "trend": 67,
+    "releasedAt": "2026-06-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UX2VF2BSLY2DTN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PicoAI 2.0",
+    "description": "Create images and videos with the world's best AI models",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/4189a9ba-f643-463e-9af1-8772c66adbe7.jpeg?auto=format",
+    "downloads": 846766,
+    "trend": 65,
+    "releasedAt": "2026-06-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/D6DL3MIH5GVTBW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NetLift",
+    "description": "AI Value Management for proving AI ROI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/702f8635-ed8f-4304-a877-00936e8b7517.jpeg?auto=format",
+    "downloads": 939081,
+    "trend": 33,
+    "releasedAt": "2026-06-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4TAZBJH5GXZKUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "PromptPin",
     "description": "Stop screenshotting AI prompts. Save and use them in a tap.",
     "category": "AI对话",
@@ -36,18 +96,6 @@
     "url": "https://www.producthunt.com/r/KABC3NRR6GO7HB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "NetLift",
-    "description": "AI Value Management for proving AI ROI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/702f8635-ed8f-4304-a877-00936e8b7517.jpeg?auto=format",
-    "downloads": 610784,
-    "trend": 106,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4TAZBJH5GXZKUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Mizzle Mail",
     "description": "Your Gmail inbox as an Instagram feed",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/DMA3X24N4FESP7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LLMBuddy - GEO Agency for B2B SaaS",
-    "description": "Get your B2B SaaS brand cited by ChatGPT and Perplexity",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/adaa34f3-704d-44ce-96d1-45b395ba948d.png?auto=format",
-    "downloads": 310895,
-    "trend": 59,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/COA5IL43DRNVL5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Dukezu",
-    "description": " AI mobile app flows with figma and code export",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/f65aced4-ff0b-4486-911b-0b51648f7bfc.png?auto=format",
-    "downloads": 245082,
-    "trend": 12,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/22GYYYQ4IWCS5G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pack Planner",
-    "description": "Local AI family planner with an E2EE document safe",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/dfff47aa-8e9d-4c33-a385-2fae3182746a.png?auto=format",
-    "downloads": 1092975,
-    "trend": 19,
-    "releasedAt": "2026-06-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AGUOQAW4WLPZJD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Voicelyf",
-    "description": "Voices with real emotion",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/dd9fc105-07cb-4f43-89fb-5383328973b8.png?auto=format",
-    "downloads": 1052070,
-    "trend": 55,
-    "releasedAt": "2026-06-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CROY4FHNZ3H5PG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
