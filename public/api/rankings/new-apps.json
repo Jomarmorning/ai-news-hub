@@ -1,5 +1,65 @@
 [
   {
+    "name": "Dreambeans by Google Labs",
+    "description": "Daily AI stories personalised from your Google apps",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c4a5d4f6-7cd5-4eb4-a6e5-361d3a4eee94.webp?auto=format",
+    "downloads": 830314,
+    "trend": 83,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JQLUSYPX7QVIND?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Wave",
+    "description": "Turn your voice into text — local or cloud, your choice",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/09cfee30-5e09-4d86-9890-b31349fc0ec1.svg?auto=format",
+    "downloads": 829594,
+    "trend": 90,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/USLATFWCNZUTRR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Brisa — Your personal wealth OS",
+    "description": "AI wealth advisor for the US and Canada",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/146ee502-a820-485e-936a-1c152f111709.png?auto=format",
+    "downloads": 1054615,
+    "trend": 81,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4CIIOFJLLOBTKD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NutriThrive AI Nutrition Coach",
+    "description": "Your nutrition adapts to your body based on your wearable.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1aace1ab-f812-428b-ab39-f5098d0d7617.png?auto=format",
+    "downloads": 421249,
+    "trend": 82,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MTDRI5CMCC3WJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Maintenance & Performance Intelligence",
+    "description": "Make every asset visible, accountable, and managed",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/34294980-3d0c-4f1f-8cf7-25932ebf788b.png?auto=format",
+    "downloads": 568788,
+    "trend": 19,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/77L2C5IRRXFUYQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Softynex",
     "description": "Best Ai Tools Directory",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/QPHG6HU5TEAMTS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OMem",
-    "description": "Local-first work memory for your AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/966f1b40-04d6-40f6-a492-4126d3ab9edb.png?auto=format",
-    "downloads": 405180,
-    "trend": 85,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Y2Z4A47P72HP4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MiddAI V2.1 - Free Offline and Private",
-    "description": "Offline AI with Online Search, Memories, File/Image Analysis",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/29cddc81-5e52-4574-bcbe-4c88fe97ef33.png?auto=format",
-    "downloads": 751854,
-    "trend": 65,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GBJY4J2QE6KAKG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "UNET",
-    "description": "Privacy-first social network without email signups",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/46bf5e1d-5564-475b-ba57-1e5ebb48dae6.png?auto=format",
-    "downloads": 1098155,
-    "trend": 16,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CXXO6EP6HWP25Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Document.Bot - EU/ Offline AI workspace",
-    "description": "ChatGPT for entire document folders, PDF, Doc, Excel",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2d60a6a2-1cfe-48c8-b270-d06c2ebce4a9.png?auto=format",
-    "downloads": 723366,
-    "trend": 28,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CJJQVLPDFEEIG7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OmniWai",
-    "description": "Your personal AI productivity assistant — chat, PDF & more",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/55b847e3-74ff-4b05-86f6-eaf32cbf4b06.jpeg?auto=format",
-    "downloads": 945827,
-    "trend": 55,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OSSKFHEVD3UGTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
