@@ -1,5 +1,53 @@
 [
   {
+    "name": "Softynex",
+    "description": "Best Ai Tools Directory",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/da014d7c-f733-48b6-bf35-1667be0a9791.png?auto=format",
+    "downloads": 578985,
+    "trend": 82,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/F3VLC2ZPQQSM7S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MAI-Image-2.5",
+    "description": "Generate and edit images with precise scene control",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/626c3645-53e0-4273-904f-7262d784ecc1.png?auto=format",
+    "downloads": 1075492,
+    "trend": 42,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MP6T77GJHYNOD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Chemlyte Solutions",
+    "description": "Connect with verified chemical manufacturers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ee4136c1-b34e-4a75-85aa-951a69dce13d.png?auto=format",
+    "downloads": 722403,
+    "trend": 77,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3VZQDAH2VA7XOF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "QPin",
+    "description": "Hardware GPS control for iPhone, no jailbreak needed",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5efd1102-2ea2-49a3-8b57-43a14d72bc74.png?auto=format",
+    "downloads": 930424,
+    "trend": 19,
+    "releasedAt": "2026-06-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MGT2XJUMK4ULO6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Boltwork",
     "description": "AI services that pay for themselves via Bitcoin Lightning",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/OSSKFHEVD3UGTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Synapse Hire",
-    "description": "AI-powered recruiting for modern recruiters.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2d0195d7-fa31-4a84-ba74-7de3ba38e90f.png?auto=format",
-    "downloads": 862991,
-    "trend": 57,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OUGUQ2ZGC7X6RT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Minimi",
-    "description": "Your ambient memory for Claude",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/263c1485-e028-41c9-a635-559fbc18e830.png?auto=format",
-    "downloads": 526649,
-    "trend": 43,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SIMPLUAHCBBLII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Wait, They're ALL Here?!: 6,494 AI Engin",
-    "description": "6,494 verified AI engines mapped in one book",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cc4bd79a-aec5-4ff2-9d52-29624e0fe968.png?auto=format",
-    "downloads": 438343,
-    "trend": 67,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UX2VF2BSLY2DTN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PicoAI 2.0",
-    "description": "Create images and videos with the world's best AI models",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/4189a9ba-f643-463e-9af1-8772c66adbe7.jpeg?auto=format",
-    "downloads": 846766,
-    "trend": 65,
-    "releasedAt": "2026-06-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/D6DL3MIH5GVTBW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
