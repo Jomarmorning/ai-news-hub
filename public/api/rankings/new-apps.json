@@ -1,5 +1,77 @@
 [
   {
+    "name": "TypeForge AI",
+    "description": "Stop taking typing tests. Start understanding how you type.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/bb861f77-d162-494b-b358-4472e807562a.png?auto=format",
+    "downloads": 1071096,
+    "trend": 46,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4SL6G27P2EDDPL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NutriThrive AI Nutrition Coach",
+    "description": "Your nutrition adapts to your body based on your wearable.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1aace1ab-f812-428b-ab39-f5098d0d7617.png?auto=format",
+    "downloads": 533356,
+    "trend": 106,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MTDRI5CMCC3WJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Rply",
+    "description": "AI review responses for local businesses in 2 seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9b638279-9737-4925-995b-c54add242b85.png?auto=format",
+    "downloads": 1013769,
+    "trend": 72,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HNWDNO3M2SUNXZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Redirectly",
+    "description": "Know which campaigns actually drive your installs",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5631f5ad-4d81-4902-b7f0-a18bb9fbb819.png?auto=format",
+    "downloads": 458216,
+    "trend": 84,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ITEBQGW2JETBLI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Headshot",
+    "description": "Studio Headshots from a Selfie. Pay with Crypto.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4e03ba29-fcb1-4e11-8497-e3545d9b556e.png?auto=format",
+    "downloads": 659949,
+    "trend": 58,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EWEKYHM3BOHJA5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kaiho — One platform for deeper learning",
+    "description": "AI learning that helps you think, not just get answers.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/abbf379e-a870-4702-b5c6-57edbfc9816f.png?auto=format",
+    "downloads": 248048,
+    "trend": 33,
+    "releasedAt": "2026-06-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G2SGGBQRK4JV7R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Dreambeans by Google Labs",
     "description": "Daily AI stories personalised from your Google apps",
     "category": "AI对话",
@@ -36,18 +108,6 @@
     "url": "https://www.producthunt.com/r/4CIIOFJLLOBTKD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "NutriThrive AI Nutrition Coach",
-    "description": "Your nutrition adapts to your body based on your wearable.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1aace1ab-f812-428b-ab39-f5098d0d7617.png?auto=format",
-    "downloads": 421249,
-    "trend": 82,
-    "releasedAt": "2026-06-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MTDRI5CMCC3WJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Maintenance & Performance Intelligence",
     "description": "Make every asset visible, accountable, and managed",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/77L2C5IRRXFUYQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Softynex",
-    "description": "Best Ai Tools Directory",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/da014d7c-f733-48b6-bf35-1667be0a9791.png?auto=format",
-    "downloads": 578985,
-    "trend": 82,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/F3VLC2ZPQQSM7S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MAI-Image-2.5",
-    "description": "Generate and edit images with precise scene control",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/626c3645-53e0-4273-904f-7262d784ecc1.png?auto=format",
-    "downloads": 1075492,
-    "trend": 42,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MP6T77GJHYNOD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Chemlyte Solutions",
-    "description": "Connect with verified chemical manufacturers",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ee4136c1-b34e-4a75-85aa-951a69dce13d.png?auto=format",
-    "downloads": 722403,
-    "trend": 77,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3VZQDAH2VA7XOF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "QPin",
-    "description": "Hardware GPS control for iPhone, no jailbreak needed",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5efd1102-2ea2-49a3-8b57-43a14d72bc74.png?auto=format",
-    "downloads": 930424,
-    "trend": 19,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MGT2XJUMK4ULO6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Boltwork",
-    "description": "AI services that pay for themselves via Bitcoin Lightning",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1ba1e3fc-0e81-4777-8cac-7d197b785d98.svg?auto=format",
-    "downloads": 514947,
-    "trend": 33,
-    "releasedAt": "2026-06-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QPHG6HU5TEAMTS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
