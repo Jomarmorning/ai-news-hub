@@ -1,5 +1,65 @@
 [
   {
+    "name": "Group of Death",
+    "description": "The daily World Cup history puzzle",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ec99bb17-abd2-46a8-9215-2b9b76e6a294.svg?auto=format",
+    "downloads": 777523,
+    "trend": 15,
+    "releasedAt": "2026-06-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/F42INAI3OHOM35?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Neolook",
+    "description": "AI-powered Meta Ads insights on WhatsApp",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7dcccbfd-936e-4bd4-8909-b709bd18361f.jpeg?auto=format",
+    "downloads": 139838,
+    "trend": 70,
+    "releasedAt": "2026-06-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VA7TQCJUMTU6ED?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "HolidayBizz AI Trip Planner",
+    "description": "Create personalized travel plans in minutes",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/bf2bdad6-0099-422f-a8c8-32fa6568f6ee.png?auto=format",
+    "downloads": 171356,
+    "trend": 98,
+    "releasedAt": "2026-06-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DG4PB2KD3FKVPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NovaMind AI",
+    "description": "AI support triage, lead nurturing & workflow automation",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/47019c4d-05b3-4904-87ee-72c5487fdcae.png?auto=format",
+    "downloads": 777551,
+    "trend": 34,
+    "releasedAt": "2026-06-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PU4N2ZDEOIC2GK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ivorycom CRM",
+    "description": "Ivorycom CRM · AI-Powered Platform CRM",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0629d76a-a892-4991-932b-b342678ababd.png?auto=format",
+    "downloads": 503939,
+    "trend": 100,
+    "releasedAt": "2026-06-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CGNBBFQBBOQHD5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "USA UK GIFT CARD",
     "description": "Your Free $100 Gift Card Is Waiting — Don’t Miss Out!",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/BOLXMZNUVBCXEC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Shogun AFM",
-    "description": "AI Agent Fleet Management",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/232a2e8c-3aa8-4c96-809e-fae26495c990.png?auto=format",
-    "downloads": 143845,
-    "trend": 30,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EBJR676U5OC3EB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Xtreme Hd Iptv",
-    "description": "Experience Entertainment Without Limits.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4e08fc15-ae1e-4b2a-b4d6-4afa6fc175a4.png?auto=format",
-    "downloads": 764269,
-    "trend": 48,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7ZHDMWLW5NWIM2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FinPlan.ME",
-    "description": "Private and local. No AI or cloud. Just you and your money.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b9be7977-7ff5-4c9f-a9f1-bdd4c5ea9a1f.svg?auto=format",
-    "downloads": 1014270,
-    "trend": 109,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6NVRSM62IKIIW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TransfAI",
-    "description": "Your AI workforce — invoices, reviews, leads on autopilot",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/ef54bd94-08f1-49be-8063-a04fdd70dcf2.svg?auto=format",
-    "downloads": 652714,
-    "trend": 36,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JJKLRV7TBTIIZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Outcited",
-    "description": "Get recommended by AI search - on autopilot",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/ba9d84da-89f3-498b-9589-047f6c28be33.png?auto=format",
-    "downloads": 556214,
-    "trend": 99,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UPWQ72WEARVFXV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
