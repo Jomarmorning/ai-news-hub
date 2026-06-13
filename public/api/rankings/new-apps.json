@@ -1,5 +1,77 @@
 [
   {
+    "name": "Mira",
+    "description": "A mindful photo journal with daily challenges",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/1ea54a08-f984-4c5f-adcf-10ff8e249bc1.png?auto=format",
+    "downloads": 702939,
+    "trend": 47,
+    "releasedAt": "2026-06-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LMQON5GJXSQ6EW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PetMatch",
+    "description": "AI that finds the real pet who shares your pet's face",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/fcb161db-5a43-49d3-9541-1cf152976208.png?auto=format",
+    "downloads": 695631,
+    "trend": 93,
+    "releasedAt": "2026-06-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/S2L4I3TMM4BA66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ArthiQ",
+    "description": "AI-powered stock research and market insights",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/686aa31c-96d4-4fd2-aaa8-3fef1b4797b2.png?auto=format",
+    "downloads": 985492,
+    "trend": 11,
+    "releasedAt": "2026-06-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UL5OERQII3XEQJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FutureStoreAI (FSAI)",
+    "description": "Building the Future of AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8b0db0c7-2363-48a6-a226-426bb7041c59.png?auto=format",
+    "downloads": 701986,
+    "trend": 99,
+    "releasedAt": "2026-06-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DZNG765W3KCAM5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CurioVerse",
+    "description": "Learn anything. AI generates your course.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/31808592-cb26-45b7-be41-240d96ff062e.png?auto=format",
+    "downloads": 170164,
+    "trend": 71,
+    "releasedAt": "2026-06-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VOHX7TYDUMS3KO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NeuroCLI",
+    "description": "AI ReImagined ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/33a13304-b288-4236-a8fa-c6da72377bd6.png?auto=format",
+    "downloads": 549364,
+    "trend": 61,
+    "releasedAt": "2026-06-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HUZBYK3KU67P43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "- Car Services & Repair in Hyderabad",
     "description": "car service",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/HT2BOBWS6Q2TJF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "youtube-roast",
-    "description": "avage AI roast for any YouTube channel. ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bf953f85-5341-4386-9ccd-a7be04bd676f.png?auto=format",
-    "downloads": 495068,
-    "trend": 75,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OP6KVBMIWIPCPQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Group of Death",
-    "description": "The daily World Cup history puzzle",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ec99bb17-abd2-46a8-9215-2b9b76e6a294.svg?auto=format",
-    "downloads": 777523,
-    "trend": 15,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/F42INAI3OHOM35?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Neolook",
-    "description": "AI-powered Meta Ads insights on WhatsApp",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7dcccbfd-936e-4bd4-8909-b709bd18361f.jpeg?auto=format",
-    "downloads": 139838,
-    "trend": 70,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VA7TQCJUMTU6ED?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "HolidayBizz AI Trip Planner",
-    "description": "Create personalized travel plans in minutes",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bf2bdad6-0099-422f-a8c8-32fa6568f6ee.png?auto=format",
-    "downloads": 171356,
-    "trend": 98,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DG4PB2KD3FKVPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NovaMind AI",
-    "description": "AI support triage, lead nurturing & workflow automation",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/47019c4d-05b3-4904-87ee-72c5487fdcae.png?auto=format",
-    "downloads": 777551,
-    "trend": 34,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PU4N2ZDEOIC2GK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ivorycom CRM",
-    "description": "Ivorycom CRM · AI-Powered Platform CRM",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0629d76a-a892-4991-932b-b342678ababd.png?auto=format",
-    "downloads": 503939,
-    "trend": 100,
-    "releasedAt": "2026-06-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CGNBBFQBBOQHD5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
