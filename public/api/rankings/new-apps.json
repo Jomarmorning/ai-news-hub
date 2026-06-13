@@ -1,5 +1,65 @@
 [
   {
+    "name": "Multiple AI Tools",
+    "description": "Free Text, SEO & Calculator Tools — No Signup Needed",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f894c0f1-f46d-43e0-b222-6935f1b6e86f.webp?auto=format",
+    "downloads": 290267,
+    "trend": 54,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OFHSFQ3EB3TPQT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "QuantixTools",
+    "description": "100+ Free Online Tools — PDF, AI, Image, Video & More",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/d6e71234-78e4-40eb-843b-9625e8f953aa.png?auto=format",
+    "downloads": 816812,
+    "trend": 87,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PV2FUU7K6UXOMM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TriviaRacing",
+    "description": "Short and fast trivia race, for daily mental exercise.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/49c54f2a-3abe-47b3-b647-51e15280f357.png?auto=format",
+    "downloads": 809390,
+    "trend": 104,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QNBUNC5YSDIFAF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SMSBulk",
+    "description": "Global SMS Verification, Email Activation and eSIM services.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/54d93ae8-3fec-4600-a0c2-024d7f7100bb.png?auto=format",
+    "downloads": 689899,
+    "trend": 58,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UF6V4W6XED3G55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "GIFT CAED ",
+    "description": "👉 Tap here now to claim your free reward! 🎁",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/48f2759b-e30b-4939-a861-b30bedbbf675.jpeg?auto=format",
+    "downloads": 171962,
+    "trend": 17,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VSYEWRIZXXWH7E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Mira",
     "description": "A mindful photo journal with daily challenges",
     "category": "AI绘画",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/VOHX7TYDUMS3KO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NeuroCLI",
-    "description": "AI ReImagined ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/33a13304-b288-4236-a8fa-c6da72377bd6.png?auto=format",
-    "downloads": 549364,
-    "trend": 61,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HUZBYK3KU67P43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "- Car Services & Repair in Hyderabad",
-    "description": "car service",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3e87d25f-a974-4823-937c-4526d93ea63b.jpeg?auto=format",
-    "downloads": 568706,
-    "trend": 31,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RQFXIOS3DZTIOP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Elk/AI ",
-    "description": "The new Gemini Maybe ?",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/148082cd-61b5-44b8-815a-20c0c9770879.png?auto=format",
-    "downloads": 855533,
-    "trend": 73,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PIL2AG7SRD5E2O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OnAirSign.Live 2.0",
-    "description": "Stop getting interrupted mid-build",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/dfda0cc0-da5b-412b-8659-bdef941c8659.jpeg?auto=format",
-    "downloads": 220965,
-    "trend": 72,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/L4PGGFB73RVN5Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AdvisoryAI",
-    "description": "Upload a document. Get a structured second opinion.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ab3c7ef6-56fc-4892-a2f0-c6423392a16b.png?auto=format",
-    "downloads": 358446,
-    "trend": 59,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HT2BOBWS6Q2TJF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
