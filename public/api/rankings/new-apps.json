@@ -1,5 +1,77 @@
 [
   {
+    "name": "Genarrator",
+    "description": "Create personalized, multi-voice children's audiobooks.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/bf409186-c3d5-4eb9-8a1b-cf276734f832.gif?auto=format",
+    "downloads": 487398,
+    "trend": 33,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7NCKCCQZZQ5GS5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sanction Scanner",
+    "description": "AI-native all-in-one risk and compliance platform",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b744dd18-2d29-4c63-88e9-3307424714fc.png?auto=format",
+    "downloads": 315960,
+    "trend": 97,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XW52MZUIOZNWJL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TexoCAD",
+    "description": "Your AI product team, backed by real human experts",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4d7a43eb-e456-4b3a-a2d5-ba3721ef7634.png?auto=format",
+    "downloads": 331219,
+    "trend": 109,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QATGVDYPGROLH4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Bloom: AI Goal Coach",
+    "description": "Turn hard goals into easy daily plans",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0b679daf-df85-41ab-ac18-e3a4a1576906.png?auto=format",
+    "downloads": 830161,
+    "trend": 35,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CL5SICOA45N743?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "brow",
+    "description": "Your personal AI assistant",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/00f14a62-15bf-44f0-a626-c1abdf2749ac.png?auto=format",
+    "downloads": 688414,
+    "trend": 51,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FLCGHXLT6GGDVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ImageDescribe",
+    "description": "AI image description tool for alt text, OCR, captions.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/b59cafb4-d772-400b-8871-b30aa66591a4.svg?auto=format",
+    "downloads": 926300,
+    "trend": 20,
+    "releasedAt": "2026-06-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7BP6DAQW2TKBTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Multiple AI Tools",
     "description": "Free Text, SEO & Calculator Tools — No Signup Needed",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/UF6V4W6XED3G55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "GIFT CAED ",
-    "description": "👉 Tap here now to claim your free reward! 🎁",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/48f2759b-e30b-4939-a861-b30bedbbf675.jpeg?auto=format",
-    "downloads": 171962,
-    "trend": 17,
-    "releasedAt": "2026-06-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VSYEWRIZXXWH7E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Mira",
-    "description": "A mindful photo journal with daily challenges",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/1ea54a08-f984-4c5f-adcf-10ff8e249bc1.png?auto=format",
-    "downloads": 702939,
-    "trend": 47,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LMQON5GJXSQ6EW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PetMatch",
-    "description": "AI that finds the real pet who shares your pet's face",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fcb161db-5a43-49d3-9541-1cf152976208.png?auto=format",
-    "downloads": 695631,
-    "trend": 93,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/S2L4I3TMM4BA66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ArthiQ",
-    "description": "AI-powered stock research and market insights",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/686aa31c-96d4-4fd2-aaa8-3fef1b4797b2.png?auto=format",
-    "downloads": 985492,
-    "trend": 11,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UL5OERQII3XEQJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FutureStoreAI (FSAI)",
-    "description": "Building the Future of AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8b0db0c7-2363-48a6-a226-426bb7041c59.png?auto=format",
-    "downloads": 701986,
-    "trend": 99,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DZNG765W3KCAM5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CurioVerse",
-    "description": "Learn anything. AI generates your course.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/31808592-cb26-45b7-be41-240d96ff062e.png?auto=format",
-    "downloads": 170164,
-    "trend": 71,
-    "releasedAt": "2026-06-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VOHX7TYDUMS3KO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
