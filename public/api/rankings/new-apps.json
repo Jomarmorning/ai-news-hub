@@ -1,5 +1,65 @@
 [
   {
+    "name": "VideoVFY ",
+    "description": "Verify online videos with AI",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/3f9fca1b-c6df-4eb2-8cef-4705b6411526.png?auto=format",
+    "downloads": 778248,
+    "trend": 23,
+    "releasedAt": "2026-06-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BXISXTLQ3PDMSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Temp-Mail",
+    "description": "One-click disposable email, no signup",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/574e3039-5bd1-4e2d-a878-d305a7a9bdd7.png?auto=format",
+    "downloads": 377226,
+    "trend": 66,
+    "releasedAt": "2026-06-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JLGEFWZ2P7MUWH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Every module. One connected platform.",
+    "description": "End to End Business AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/45d1a483-81fe-49fc-b46d-a3d35dd4a4e6.png?auto=format",
+    "downloads": 1040705,
+    "trend": 36,
+    "releasedAt": "2026-06-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UDTVO66SEM6U3S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Revyy — Turn Any Material Into a Quiz",
+    "description": "Turn any material into instant quizzes with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/351961b5-27ab-4770-8e20-ec1e9458dec3.svg?auto=format",
+    "downloads": 305942,
+    "trend": 81,
+    "releasedAt": "2026-06-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G4FMK7YBRPAWHQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Dumpling Chinese",
+    "description": "Learn Chinese from your Lockscreen, AI quiz, story and more",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2c1922c0-acae-4026-a698-dc1a0dcdb90d.jpeg?auto=format",
+    "downloads": 953666,
+    "trend": 59,
+    "releasedAt": "2026-06-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YFDM7YTAAQPIX4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "SecondBrain",
     "description": "Build your SecondBrain by Speaking. Capture. Remember. ",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/YOOUVPTEQTADAE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "KitnBit",
-    "description": "Omni-Channel AI Rephraser & Autofill Assistant",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/15b83aef-0ca4-4b79-8e9d-3fb879f6baff.svg?auto=format",
-    "downloads": 502189,
-    "trend": 32,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OYSWWBHQWHNJU7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "GamerForge",
-    "description": "Transform game, CGI, and VFX assets with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e63d6e89-a592-4767-a78a-5da63fd09c6a.png?auto=format",
-    "downloads": 647699,
-    "trend": 23,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VH4E6B64EEXL4D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TailgateQuote",
-    "description": "Send estimates by text. Get signed. Collect deposits.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3c0501c5-d6dd-437f-a2fa-2a01a6ea1f70.png?auto=format",
-    "downloads": 943805,
-    "trend": 23,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MLZOGLO7RANG6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Edgee Turbo Models",
-    "description": "Use Claude Code with Kimi K2.7 Code, MiniMax M2.7, and more",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/cea13bd0-7efd-4a1c-b99a-d4cb7b1e4276.png?auto=format",
-    "downloads": 630201,
-    "trend": 44,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RA45EQ767HXQGH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "looquee",
-    "description": "Copilot for college applications",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9dc657c6-d904-403f-8ee2-96556cd34836.png?auto=format",
-    "downloads": 547688,
-    "trend": 37,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZV7KROAKDE3HY6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
