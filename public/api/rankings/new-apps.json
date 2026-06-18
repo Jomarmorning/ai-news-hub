@@ -4,8 +4,8 @@
     "description": "Verify online videos with AI",
     "category": "AI视频",
     "icon": "https://ph-files.imgix.net/3f9fca1b-c6df-4eb2-8cef-4705b6411526.png?auto=format",
-    "downloads": 778248,
-    "trend": 23,
+    "downloads": 141970,
+    "trend": 79,
     "releasedAt": "2026-06-17T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
@@ -16,12 +16,36 @@
     "description": "One-click disposable email, no signup",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/574e3039-5bd1-4e2d-a878-d305a7a9bdd7.png?auto=format",
-    "downloads": 377226,
-    "trend": 66,
+    "downloads": 949947,
+    "trend": 68,
     "releasedAt": "2026-06-17T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/JLGEFWZ2P7MUWH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Seedream Image & Video",
+    "description": "Multi-model AI images (Seedream 5.0) + video via Kling",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/b4b37318-bd1c-41de-87e2-0871f8f2edf1.x-icon?auto=format",
+    "downloads": 631861,
+    "trend": 56,
+    "releasedAt": "2026-06-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YHN7PJB3AXLBJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Whoogy",
+    "description": "AI-powered Figma vs Web QA in under 3 minutes",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a1c7ed29-81c8-4855-b1dd-13b175cb1dea.png?auto=format",
+    "downloads": 313489,
+    "trend": 14,
+    "releasedAt": "2026-06-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/45E2FUOY2G347I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Every module. One connected platform.",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/QU3NRGRFZN2UTO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CIMC VEHICLES SALES CO.,LTD",
-    "description": "2 Axle 70 Ton Terminal Trailer",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/66653fa6-3dc5-44b4-ba43-125a582d5869.png?auto=format",
-    "downloads": 850980,
-    "trend": 55,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VTBQDIAETSHVOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Archome AI",
-    "description": "Turn sketches & photos into photoreal renders in seconds",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/f1108c8a-03af-42a4-8289-d24747591f4f.webp?auto=format",
-    "downloads": 523111,
-    "trend": 109,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YOOUVPTEQTADAE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
