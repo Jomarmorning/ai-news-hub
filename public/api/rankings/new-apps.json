@@ -1,5 +1,77 @@
 [
   {
+    "name": "Tine",
+    "description": "An AI desktop cursor that does the work for you",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/db5d6561-54e6-4195-97c5-b5b02a48c0e3.svg?auto=format",
+    "downloads": 736542,
+    "trend": 46,
+    "releasedAt": "2026-06-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CEVIQFIDYC4BSZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ploy.ai",
+    "description": "Ploy turns your website into your company's growth engine.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2f51ad72-f48e-409b-b23e-8b141aca8766.png?auto=format",
+    "downloads": 423623,
+    "trend": 24,
+    "releasedAt": "2026-06-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6YLZBZ7XZ6OWNN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Genie Mentions",
+    "description": "AI that gets you *and* the people in your life, together",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/83b8e352-95ad-4283-8eb6-febd47e191f1.png?auto=format",
+    "downloads": 566968,
+    "trend": 51,
+    "releasedAt": "2026-06-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EOHUM3X33AV6WR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Viktor for Microsoft Teams",
+    "description": "The most powerful AI employee, now in Microsoft Teams",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/21dffaac-2299-4d43-87fd-74c7ffb43b01.png?auto=format",
+    "downloads": 589745,
+    "trend": 84,
+    "releasedAt": "2026-06-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2YO4MFPVTIMJC6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AIVEXLO",
+    "description": "40+ Premium AI Micro-Apps for B2B & Elite Professionals",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e4b5bae3-ea35-469a-b874-d9de1d1fceda.png?auto=format",
+    "downloads": 678981,
+    "trend": 62,
+    "releasedAt": "2026-06-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FUWB37BMKLZJQ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Japanly AEO",
+    "description": "See if Japanese AI search recommends your brand",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/069ec9bf-945d-4924-8069-5870a6e5ec7b.png?auto=format",
+    "downloads": 721167,
+    "trend": 20,
+    "releasedAt": "2026-06-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/65TVGX4GA2KOQM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "VideoVFY ",
     "description": "Verify online videos with AI",
     "category": "AI视频",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/45E2FUOY2G347I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Every module. One connected platform.",
-    "description": "End to End Business AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/45d1a483-81fe-49fc-b46d-a3d35dd4a4e6.png?auto=format",
-    "downloads": 1040705,
-    "trend": 36,
-    "releasedAt": "2026-06-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UDTVO66SEM6U3S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Revyy — Turn Any Material Into a Quiz",
-    "description": "Turn any material into instant quizzes with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/351961b5-27ab-4770-8e20-ec1e9458dec3.svg?auto=format",
-    "downloads": 305942,
-    "trend": 81,
-    "releasedAt": "2026-06-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/G4FMK7YBRPAWHQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Dumpling Chinese",
-    "description": "Learn Chinese from your Lockscreen, AI quiz, story and more",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2c1922c0-acae-4026-a698-dc1a0dcdb90d.jpeg?auto=format",
-    "downloads": 953666,
-    "trend": 59,
-    "releasedAt": "2026-06-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YFDM7YTAAQPIX4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SecondBrain",
-    "description": "Build your SecondBrain by Speaking. Capture. Remember. ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4711298a-6d54-4c86-aa88-56feed4fd611.png?auto=format",
-    "downloads": 863365,
-    "trend": 37,
-    "releasedAt": "2026-06-16T12:26:44Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IQOVZESGEOCH4R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": ".gpt Registry",
-    "description": "The first TLD purpose-built for AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a6cb42ba-24b6-48cf-b678-5f41fe58bf98.png?auto=format",
-    "downloads": 132326,
-    "trend": 28,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PHVDKKAR2MR5JB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Fitness Tracker - Ai Coach",
-    "description": "Simple, privacy-first workout logging & habit tracking.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fc93cb6a-32f2-486e-941a-4a5e371eb565.jpeg?auto=format",
-    "downloads": 270122,
-    "trend": 93,
-    "releasedAt": "2026-06-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QU3NRGRFZN2UTO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
