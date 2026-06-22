@@ -1,5 +1,53 @@
 [
   {
+    "name": "WallMockup",
+    "description": "Realistic wall art mockups — true scale, in minutes.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/7b3002fd-d0bd-4ba0-8aa3-515e0b5dfe8b.png?auto=format",
+    "downloads": 854322,
+    "trend": 89,
+    "releasedAt": "2026-06-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JZOY55VABKINU7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MatchCV",
+    "description": "AI Resume Tailor, ATS score checked, Resume roast",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/bf83ea09-fe6a-43db-85b8-0031e387db60.png?auto=format",
+    "downloads": 805943,
+    "trend": 78,
+    "releasedAt": "2026-06-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XFNZNCZ3WCFHDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The Promphy.Ai",
+    "description": "Generate smarter AI prompts and humanize AI text in seconds.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/a49fb32d-6ee6-4939-bc51-439566826e15.png?auto=format",
+    "downloads": 521966,
+    "trend": 91,
+    "releasedAt": "2026-06-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GUR6AQRTDSHUDB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Viral Pin AI",
+    "description": "Create Viral Pinterest Pins, Titles & SEO Content with AI",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/a0b75ea7-bcdc-4a91-bae6-0be9272b02ff.jpeg?auto=format",
+    "downloads": 963625,
+    "trend": 51,
+    "releasedAt": "2026-06-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GLOQYGUYXBGTKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Backgrind",
     "description": "Run your AI agents over any app, even games.",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/UWES5GXBNLEAZI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AlsonAI is launching Editor Mode",
-    "description": "AI-assisted storybooks, now with full creative control.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9b67d474-02ad-48ed-9d90-15dd5efbe1c6.png?auto=format",
-    "downloads": 556067,
-    "trend": 46,
-    "releasedAt": "2026-06-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PXD3PKD55NOLTC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Plansera AI",
-    "description": "E-2 visa business plans, drafted by an AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/265cf035-4d00-456d-b7bf-5e9dacde543f.png?auto=format",
-    "downloads": 953557,
-    "trend": 56,
-    "releasedAt": "2026-06-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HPZMF2PNOBV76S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WhatsHub",
-    "description": "Campaigns, Contacts & Conversations - All in One Place",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/818665ba-2e5e-4fa2-9013-a330fb4c9024.png?auto=format",
-    "downloads": 1061811,
-    "trend": 97,
-    "releasedAt": "2026-06-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QFR3BMD4SAKRII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "tlabel (TouchLabel AI)",
-    "description": "Annotate any tactile sensor in 3 lines of Python.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c7b505dc-ddb7-4815-a7a6-ae7cf3967ad8.png?auto=format",
-    "downloads": 779159,
-    "trend": 53,
-    "releasedAt": "2026-06-20T09:14:58Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KOVZIR5527LXTK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
