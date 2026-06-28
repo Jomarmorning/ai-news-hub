@@ -1,5 +1,53 @@
 [
   {
+    "name": "Peek",
+    "description": "Open-source HTML feedback that Google Drive need to build",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d7c4a66a-358b-4b3e-aad1-c4f2b6c72f36.png?auto=format",
+    "downloads": 295219,
+    "trend": 53,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6YCVTAGSZ3Q757?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Waivly - 30 Days Complimentary Access",
+    "description": "Take advantage of this rare, limited complimentary access",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/14e426a9-219e-488f-abcc-0d4b5ad1c5b0.jpeg?auto=format",
+    "downloads": 998061,
+    "trend": 10,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PWYUNF5NR34NVY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Pra Ontem",
+    "description": "Transforme e-mail, mensagem ou áudio em tarefas estruturadas",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6183a923-e74b-4edd-9ee0-99db993f2da5.png?auto=format",
+    "downloads": 566530,
+    "trend": 81,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/I2EMGC476T3FOT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Notebook Archive",
+    "description": "AI that lives inside your notebook, not in another tab",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d35d416f-f2c4-413c-9a45-b5154229e063.png?auto=format",
+    "downloads": 175252,
+    "trend": 18,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RIPLPYAFM7X44L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Velocity 2.0 Prompt Co-Pilot",
     "description": "One click prompt enhancement for any AI tool, with context!",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/NSPNNAO4TQVQUD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Karigaar",
-    "description": "The AI Operating System for Jewellery Retail.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a1ea18b8-1e68-4f1a-b477-812b4c3bfe50.png?auto=format",
-    "downloads": 116578,
-    "trend": 102,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/D32XI6F5EGGUB5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Clarifi",
-    "description": "Invisible AI overlay and voice dictation",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/0809f7e8-f48a-4f4e-84ae-f871110d6c9e.png?auto=format",
-    "downloads": 694125,
-    "trend": 80,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UXXPGA3IMXVZSA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI on Radar",
-    "description": "Signal-first AI intelligence for builders and teams",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/dcea7da7-09ea-4646-bff5-1d13e4cd97a3.jpeg?auto=format",
-    "downloads": 1037078,
-    "trend": 62,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3YMFAUIII6UIY2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DropItDown",
-    "description": "Drop a file → Markdown your AI agent can read",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6e825f1b-3705-4e15-acda-aea0939c7ec6.png?auto=format",
-    "downloads": 679690,
-    "trend": 30,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JOKHYATEMYGJBV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
