@@ -1,5 +1,77 @@
 [
   {
+    "name": "Nestify AI family organizer",
+    "description": "AI family organizer for calmer family life",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/57f04662-3689-45ba-93cc-534b45ef3b84.vnd.microsoft.icon?auto=format",
+    "downloads": 219045,
+    "trend": 63,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/F6G5WOBDN264SH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Vastorb",
+    "description": "AI-powered mock tests & practice for SAT, NEET & JEE",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/74b65c3a-1ec1-4760-9810-a085d28c5313.png?auto=format",
+    "downloads": 762060,
+    "trend": 97,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/26I4J5TIVOK3Z2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Dagangku AI",
+    "description": "AI bookkeeping assistant for Indonesian small businsses",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1a43bdbe-4b01-4dfa-a524-5d4ceaeed5d3.png?auto=format",
+    "downloads": 387237,
+    "trend": 13,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MXSQGL3IBSVFWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mailbro",
+    "description": "Send Bulk Emails, Generate More Leads",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a083ab60-eaf2-4041-addb-20eaef2d618a.png?auto=format",
+    "downloads": 658537,
+    "trend": 20,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QZ6BTHZZINIMHU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "askVela – Live Chat & AI Support",
+    "description": "AI-driven customer support & live-chat for e-commerce",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0c2f1ba5-b879-404f-ab4b-a708ff97be56.svg?auto=format",
+    "downloads": 683594,
+    "trend": 11,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2NBHHC5B4P54ZW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ReporaAI ",
+    "description": "Plan and Shape Your Data Narratives Before Execution ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a252b1cb-f46b-476d-80c2-1082b6a32e81.jpeg?auto=format",
+    "downloads": 632054,
+    "trend": 47,
+    "releasedAt": "2026-06-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QUOBX5ANWHYIF7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Peek",
     "description": "Open-source HTML feedback that Google Drive need to build",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/RIPLPYAFM7X44L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Velocity 2.0 Prompt Co-Pilot",
-    "description": "One click prompt enhancement for any AI tool, with context!",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ba3838ee-ae02-4867-a003-c02a1bfcf018.png?auto=format",
-    "downloads": 307477,
-    "trend": 77,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CWMVTSF4W2H6PR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Folio AI",
-    "description": "Claude for PowerPoint, on steroids",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/95255c50-57e8-4190-84c9-4763b8c4fd79.gif?auto=format",
-    "downloads": 523353,
-    "trend": 105,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/334A7LA6L6NHLW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Wysera",
-    "description": "One AI agent. Every department. Content, CRM & ops.",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/3efdd620-a3ad-4e94-be29-d27a86329c67.png?auto=format",
-    "downloads": 407622,
-    "trend": 77,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E2M7TPZFJKISRO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Nada",
-    "description": "Compose music with just your voice",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/94480578-2736-4014-b7cc-c6ca0ef1e13c.png?auto=format",
-    "downloads": 1031853,
-    "trend": 12,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CXYMRDKNHH5ONF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Blackjack Counting Trainer PC (Windows)",
-    "description": "A desktop trainer for blackjack card counting",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/44a488d6-4354-4ebf-b314-903dfe59f007.png?auto=format",
-    "downloads": 748254,
-    "trend": 37,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MSV6BOHL7LPRWH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "QApilot's CoWork",
-    "description": "3x Mobile Automation. Same QE Team.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/976be4ae-b080-46a3-86e4-b4c6f5a382ad.png?auto=format",
-    "downloads": 586545,
-    "trend": 51,
-    "releasedAt": "2026-06-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NSPNNAO4TQVQUD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
