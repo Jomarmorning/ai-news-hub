@@ -1,5 +1,77 @@
 [
   {
+    "name": "FRANS",
+    "description": "The AI Powered Face Recognition Attendance System",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/63cbd77a-a3cf-41ca-ab5b-b7b7f759c735.jpeg?auto=format",
+    "downloads": 1094950,
+    "trend": 78,
+    "releasedAt": "2026-06-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ITUDVHO7W7VROH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Lexilit",
+    "description": "AI Novel Translator Translate Novels Using AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7bad663d-d7ae-4248-a103-6af0746b710b.png?auto=format",
+    "downloads": 785051,
+    "trend": 102,
+    "releasedAt": "2026-06-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UEZTAKSDEZL22P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BankBridge",
+    "description": "Connect your bank data to Claude, ChatGPT, Cursor, Gemini",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7e3157f5-795e-43ca-b88e-3676fe53a7ce.png?auto=format",
+    "downloads": 248527,
+    "trend": 45,
+    "releasedAt": "2026-06-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EJSEKVQNITJLSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Design.com Email Signatures",
+    "description": "Design an email signature in seconds.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/dfd031a4-18f3-48ed-a890-50a56071ca6d.jpeg?auto=format",
+    "downloads": 958228,
+    "trend": 109,
+    "releasedAt": "2026-06-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UMYVYM2RHA5Y45?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CardUpkeep",
+    "description": "Inventory & pricing automation for TCG stores and collectors",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ff755b42-7b5d-4cd3-aaff-9c5abe560612.jpeg?auto=format",
+    "downloads": 974512,
+    "trend": 16,
+    "releasedAt": "2026-06-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6AFIQ5675PKWLJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Agent Passport",
+    "description": "Authorization for AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/72de46fd-3485-4e2f-bf5b-bd3336747a26.png?auto=format",
+    "downloads": 550791,
+    "trend": 52,
+    "releasedAt": "2026-06-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/M76BQKQ2DG4EUN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "ことばみまもり｜SNS投稿前の炎上防止・文章リスク確認サービス",
     "description": "SNSに投稿したい文章の攻撃性・感情強度をAIがチェック。 あなたの言葉に、やさしいワンクッションを。",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/ERAFMCUYCEPACK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pluno",
-    "description": "Browser agent that’s 10x faster than Claude",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0b30d3a0-2459-4cfd-b0b0-f016a30a65ae.png?auto=format",
-    "downloads": 507394,
-    "trend": 24,
-    "releasedAt": "2026-06-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M23VGVAYQ55RCX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Clade",
-    "description": "AI COO that runs your team in tools you already use",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/93bb35ee-3311-446d-974d-9679eaa81181.jpeg?auto=format",
-    "downloads": 403333,
-    "trend": 41,
-    "releasedAt": "2026-06-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Y6W5362EJBEXX7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Skills Marketplace by Databox",
-    "description": "Ready-made AI analytics skills for your business data",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f130c54a-0ae0-49e8-985a-f6c77733a2fa.png?auto=format",
-    "downloads": 144803,
-    "trend": 106,
-    "releasedAt": "2026-06-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EH536KOIRGF4MD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FocusFlowPlanner: Official Mobile Launch",
-    "description": "AI life planner for your schedule, habits and goals",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4c5eba39-4009-483b-9ed2-cd9bc78fda51.png?auto=format",
-    "downloads": 227015,
-    "trend": 20,
-    "releasedAt": "2026-06-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2WDERA6UBY6M5A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Inbox Shield",
-    "description": "AI that fixes emails before they hurt deliverability",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/db4e854e-748b-449a-bdaa-9e1c9b37f366.png?auto=format",
-    "downloads": 333740,
-    "trend": 99,
-    "releasedAt": "2026-06-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/S2VPI6CS2NRTF7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MindFlow-AI powered Chat Assistant ",
-    "description": "Your free AI therapy companion for mental wellness.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/30a2b6f9-c431-4220-81f9-cd2c9eb072c4.x-icon?auto=format",
-    "downloads": 110776,
-    "trend": 95,
-    "releasedAt": "2026-06-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JSPXNLAA6ASBRV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
