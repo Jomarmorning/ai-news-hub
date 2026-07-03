@@ -1,5 +1,65 @@
 [
   {
+    "name": "DateMaster",
+    "description": "AI Dating Coach That Helps You Get Better Replies ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/443d1a0d-870f-4c6f-a552-de40a19c17c9.png?auto=format",
+    "downloads": 930845,
+    "trend": 17,
+    "releasedAt": "2026-07-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YAOGVWII7RO4WD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Giftori",
+    "description": "Find the perfect gift in 30 seconds with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b94f330a-1aea-429c-ab85-83d0ce523383.png?auto=format",
+    "downloads": 886073,
+    "trend": 62,
+    "releasedAt": "2026-07-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZKK6IYA2JCFY3H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Specnote",
+    "description": "You handed the coding to AI. Now hand it the testing, too.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a390a1d8-07dc-4c2e-83ec-e444335b7aec.svg?auto=format",
+    "downloads": 152560,
+    "trend": 95,
+    "releasedAt": "2026-07-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Q7NHI2DZVT3RYR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ListGod",
+    "description": "AI Powered Amazon A+ Images and Listing Generator",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/4a5f9b57-5873-4eae-9390-4465f15aabcd.png?auto=format",
+    "downloads": 305936,
+    "trend": 13,
+    "releasedAt": "2026-07-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2WWCVZQUFOGFDT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WRUD",
+    "description": "See what your AI agents did - and where they overpaid",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8dd46bc8-7a65-4893-936c-2024ccf85ef0.png?auto=format",
+    "downloads": 309394,
+    "trend": 87,
+    "releasedAt": "2026-07-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CF6VI6OEY2J3NT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Runway Calculator — How long until zero?",
     "description": "Know the exact date your SaaS runs out of cash",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/LMD2ANKMHX2JB3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SafeMind V2",
-    "description": "The 100% offline mental health & daily routine ecosystem",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ed3d98be-93c0-4b8f-bb78-631d3160666d.png?auto=format",
-    "downloads": 1090398,
-    "trend": 55,
-    "releasedAt": "2026-07-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ROKG7PPYKOL6CJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Descripto",
-    "description": "AI product descriptions that sell ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/502a94ec-0602-46f9-bba7-e7940bb09adb.png?auto=format",
-    "downloads": 789796,
-    "trend": 27,
-    "releasedAt": "2026-07-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/COBXGCDLGKH6AX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DodoForm v2",
-    "description": "AI forms that turn voice, photos & notes into clean data",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/51281865-7201-4da7-978e-a3c278b4f3b9.png?auto=format",
-    "downloads": 212382,
-    "trend": 66,
-    "releasedAt": "2026-07-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OONWDAUTPQNJFP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Talking Pet Video Prompt Generator",
-    "description": "Make your pet talk: A free AI video prompt in 30s",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/30dd4fd8-d31b-450c-86d4-14e5314f6125.png?auto=format",
-    "downloads": 819964,
-    "trend": 87,
-    "releasedAt": "2026-07-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TK2TXOOHOBPFZR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "YourMemory 2.0",
-    "description": "Your AI has the memory of a goldfish. Not anymore",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ca100738-f709-4857-924f-ed9d9a40813e.png?auto=format",
-    "downloads": 703536,
-    "trend": 103,
-    "releasedAt": "2026-07-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SCUU4YCQYSFXXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
