@@ -1,5 +1,65 @@
 [
   {
+    "name": "SpikeReel",
+    "description": "Turn long videos into viral vertical shorts with AI",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/854a2c82-6e87-48a5-bf7a-d2751da7c5f9.png?auto=format",
+    "downloads": 584050,
+    "trend": 44,
+    "releasedAt": "2026-07-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XDO46AO2P6VPMP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BidSimple",
+    "description": "AI proposals, quotes & contracts for trades in 30 seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5687e315-e258-4ce5-884e-3666e03457f4.svg?auto=format",
+    "downloads": 382465,
+    "trend": 61,
+    "releasedAt": "2026-07-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WB4HOFTTIHBQ66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TrafficWins",
+    "description": "AI SEO blog campaigns from one URL.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/869cabce-43e0-4fbd-a4f2-1497cec0b51e.png?auto=format",
+    "downloads": 1045529,
+    "trend": 34,
+    "releasedAt": "2026-07-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YSJRQPPH6MZUQD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OmniCortexAI",
+    "description": "Inventory Management made easy.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d91d4636-043d-4933-92a5-82e61b4accd3.jpeg?auto=format",
+    "downloads": 807032,
+    "trend": 88,
+    "releasedAt": "2026-07-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HGIPN5TNLLJVG4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Planted - AI Plant Scanner",
+    "description": "Scan plants. Diagnose issues. Grow with confidence.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6789d271-e77e-4774-b1b0-cad767c196ce.png?auto=format",
+    "downloads": 378859,
+    "trend": 45,
+    "releasedAt": "2026-07-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/M7DML7ZQNCIJO4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Tether",
     "description": "Cross-platform AirDrop",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/USFAL64GSIK5C5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AIInsights365: Your Data, Your Voice",
-    "description": "Ask Data. Get Insights",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/4b62de14-8277-45dd-a948-00f6aaa2ab7c.png?auto=format",
-    "downloads": 379261,
-    "trend": 48,
-    "releasedAt": "2026-07-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7B5SPHXBGE5QWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TalktoBooks.ai",
-    "description": "Read, Talk, Listen and Learn with the greatest minds ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0c5f0e7a-ebd4-4e65-accd-910605c2d15e.svg?auto=format",
-    "downloads": 966162,
-    "trend": 26,
-    "releasedAt": "2026-07-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HDJ2ALEZYGS7KA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "POF Rental",
-    "description": "Luxury & Sports Car Rental Dubai",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/575c5c47-0ec1-4712-be04-2f7fe073cce7.jpeg?auto=format",
-    "downloads": 985503,
-    "trend": 53,
-    "releasedAt": "2026-07-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6OYI5RHWD2RZ4B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DateMaster",
-    "description": "AI Dating Coach That Helps You Get Better Replies ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/443d1a0d-870f-4c6f-a552-de40a19c17c9.png?auto=format",
-    "downloads": 871445,
-    "trend": 13,
-    "releasedAt": "2026-07-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YAOGVWII7RO4WD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Giftori",
-    "description": "Find the perfect gift in 30 seconds with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b94f330a-1aea-429c-ab85-83d0ce523383.png?auto=format",
-    "downloads": 711033,
-    "trend": 73,
-    "releasedAt": "2026-07-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZKK6IYA2JCFY3H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
