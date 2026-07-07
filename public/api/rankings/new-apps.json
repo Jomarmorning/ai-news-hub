@@ -1,5 +1,77 @@
 [
   {
+    "name": "Lecsium",
+    "description": "Learn languages by reading AI-generated interactive novels",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ed71ea39-84ed-4021-86b8-28c53f8dcf6c.png?auto=format",
+    "downloads": 160807,
+    "trend": 106,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VTI4GYXH3IA7MS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Video Subtitle Remover ",
+    "description": "Tool ",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/ead6915e-ef63-4c37-98c8-a3921344620e.png?auto=format",
+    "downloads": 299534,
+    "trend": 97,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SIPVWJ6V2H7OTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Odara",
+    "description": "AI-first ETL in Rust — describe your pipeline in English",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8b02c407-d74e-407d-bee0-3d3358d38969.png?auto=format",
+    "downloads": 377975,
+    "trend": 58,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VF77K5TWTFIJAJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SiteRoast AI",
+    "description": "Roast any website with AI in under 30 seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a86e1ee0-4b3c-42c3-bce3-2e9b145502c7.png?auto=format",
+    "downloads": 683739,
+    "trend": 23,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MHXUNCYPZGQVST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Clipforge AI",
+    "description": "Turn long videos into viral Shorts with AI in 1 click 🚀",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/ce685c00-24cb-41b2-8e60-1fadae4091b5.png?auto=format",
+    "downloads": 268103,
+    "trend": 76,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NNJCX4G6KXLPRN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Acrity",
+    "description": "AI code review with adversarial consensus",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/dde694b4-68d2-4732-afa6-a9591106459b.png?auto=format",
+    "downloads": 1073952,
+    "trend": 28,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MHEVNSISQIIOO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "ChatingerX",
     "description": "Your Privacy, Our Priority.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/BKVRPESLK67LCW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MomentSift",
-    "description": "Cull, enhance, and create better photos with AI",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/bc6c925c-4726-45dc-9018-4930e78735ed.png?auto=format",
-    "downloads": 874585,
-    "trend": 103,
-    "releasedAt": "2026-07-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BLRMM32LMH35NZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RaptorCode",
-    "description": "AI-Native Autonomous Agentic Coding CLI",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/dc62b440-ac30-49b5-8492-97ffaf1c5403.png?auto=format",
-    "downloads": 777229,
-    "trend": 104,
-    "releasedAt": "2026-07-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3QFMLTYULAR5HS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Customer Service In A Box",
-    "description": "AI Customer Service Agents that automate your CS Needs.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2cd49a50-7103-47fe-942d-d0971cc2a1c7.jpeg?auto=format",
-    "downloads": 1016797,
-    "trend": 47,
-    "releasedAt": "2026-07-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EK7FLEU566GYHC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WorldReply",
-    "description": "Never send the wrong reply again.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/554d5872-f8f7-420e-9178-56bcf607c19c.png?auto=format",
-    "downloads": 883729,
-    "trend": 62,
-    "releasedAt": "2026-07-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PXGDZQEXHBXAZ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ReplyFlow",
-    "description": "AI-powered replies for customer support, in seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/02aa485b-ae69-4d3d-83e5-141f41776a3b.jpeg?auto=format",
-    "downloads": 698315,
-    "trend": 45,
-    "releasedAt": "2026-07-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AANSMACH52OJNK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Relaunch your next role, found for you",
-    "description": "Job matches, tailored résumés, real salary insights, daily",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d11534ea-6f07-49f5-ac64-4ac1e2656c9a.png?auto=format",
-    "downloads": 1030845,
-    "trend": 33,
-    "releasedAt": "2026-07-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PIHDIPZN3LO7QP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
