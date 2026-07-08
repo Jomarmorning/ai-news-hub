@@ -4,8 +4,8 @@
     "description": "Learn languages by reading AI-generated interactive novels",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/ed71ea39-84ed-4021-86b8-28c53f8dcf6c.png?auto=format",
-    "downloads": 160807,
-    "trend": 106,
+    "downloads": 801419,
+    "trend": 42,
     "releasedAt": "2026-07-07T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
@@ -16,12 +16,36 @@
     "description": "Tool ",
     "category": "AI视频",
     "icon": "https://ph-files.imgix.net/ead6915e-ef63-4c37-98c8-a3921344620e.png?auto=format",
-    "downloads": 299534,
-    "trend": 97,
+    "downloads": 917874,
+    "trend": 75,
     "releasedAt": "2026-07-07T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/SIPVWJ6V2H7OTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SiteRoast AI",
+    "description": "Roast any website with AI in under 30 seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a86e1ee0-4b3c-42c3-bce3-2e9b145502c7.png?auto=format",
+    "downloads": 939021,
+    "trend": 83,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MHXUNCYPZGQVST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Aviation Gazetteer",
+    "description": "a comprehensive account of all the air museums in the UK",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e4420992-11d6-4b03-8f34-5180a63052a6.svg?auto=format",
+    "downloads": 785079,
+    "trend": 106,
+    "releasedAt": "2026-07-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/C2W44DLQ5KHWJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Odara",
@@ -34,18 +58,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/VF77K5TWTFIJAJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SiteRoast AI",
-    "description": "Roast any website with AI in under 30 seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a86e1ee0-4b3c-42c3-bce3-2e9b145502c7.png?auto=format",
-    "downloads": 683739,
-    "trend": 23,
-    "releasedAt": "2026-07-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MHXUNCYPZGQVST?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Clipforge AI",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/UGWY2Q2TXIZHBS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CV RESET",
-    "description": "AI resume optimizer that rewrites your CV to beat the ATS",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/f7a812fe-c3bc-4760-aed8-01c65b85834a.png?auto=format",
-    "downloads": 1046911,
-    "trend": 45,
-    "releasedAt": "2026-07-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BKVRPESLK67LCW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
