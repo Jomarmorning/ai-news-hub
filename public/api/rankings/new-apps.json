@@ -1,5 +1,77 @@
 [
   {
+    "name": "Cloth & Chalk",
+    "description": "Free fabric yardage calculator for tailors and their clients",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/86ec5b44-84b9-4c85-a010-707ad96ea710.png?auto=format",
+    "downloads": 639484,
+    "trend": 54,
+    "releasedAt": "2026-07-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EOKP54TQTKH7XR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Creatorai",
+    "description": "CreatorAI is a platform to play games, watch videos & shorts",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/37942446-b45d-4b83-9dd3-b540b9a26a39.jpeg?auto=format",
+    "downloads": 741697,
+    "trend": 62,
+    "releasedAt": "2026-07-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/INRJWC7AG7ASWC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LOCKIN.com",
+    "description": "Focus is your unfair advantage.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/842a2735-5ece-4bd4-8d17-da6ebcc2ac9e.svg?auto=format",
+    "downloads": 375473,
+    "trend": 78,
+    "releasedAt": "2026-07-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PGJRW6A3ZOIGXI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MR Z AI",
+    "description": "Your AI fitness coach built from 18 years of real coaching",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f9c06fd1-24bf-4d3c-ada2-f51c617ad4d7.jpeg?auto=format",
+    "downloads": 810934,
+    "trend": 84,
+    "releasedAt": "2026-07-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4K5ANHRSKAV5T7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Claude Hibernate",
+    "description": "Don't lose running session on Claude Code CLI",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/b5b24fbe-c718-4f89-9bef-e020efb70192.png?auto=format",
+    "downloads": 519401,
+    "trend": 81,
+    "releasedAt": "2026-07-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AQBDTSDQHUDPTJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Transparent AI Customer Support ",
+    "description": "B2B SaaS ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ed2f10b1-907f-4700-aa42-2d575665cbcf.png?auto=format",
+    "downloads": 233431,
+    "trend": 36,
+    "releasedAt": "2026-07-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7IC5UP6AID4DHT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Seedmusic AI",
     "description": "Create studio-quality AI music from text prompts",
     "category": "AI音频",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/33YMGL33H4VFN7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ChatCut",
-    "description": "Your AI video editor in ChatGPT, desktop, and web",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/1d15a575-7af7-4a02-8a77-6ef871232720.png?auto=format",
-    "downloads": 1049088,
-    "trend": 48,
-    "releasedAt": "2026-07-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FMMICV7TH5Z6XW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vibe-check skill",
-    "description": "Stop your AI from building the wrong app",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/be4e5e2d-064a-4ea7-bb42-5fb75f9b04a5.svg?auto=format",
-    "downloads": 147678,
-    "trend": 31,
-    "releasedAt": "2026-07-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CCKG6LRLA4B5DX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Qlane",
-    "description": "Merge PRs with confidence - AI QA that runs your whole app",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ecaff02f-3eae-4976-9185-51c2c3feb9a7.svg?auto=format",
-    "downloads": 1090551,
-    "trend": 58,
-    "releasedAt": "2026-07-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VHXZANXJAKKZ7D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ConnectMachine 2.0",
-    "description": "AI digital business card that remembers everyone you meet",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/42c81dc5-4763-4387-81c8-d40527b0f769.svg?auto=format",
-    "downloads": 135399,
-    "trend": 89,
-    "releasedAt": "2026-07-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HVV46NUF3UEKB4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Couchette: Overnight Focus",
-    "description": "A focus timer that runs on rails",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7f576eef-b6bd-40bf-a7c9-3a59988303bd.png?auto=format",
-    "downloads": 376364,
-    "trend": 26,
-    "releasedAt": "2026-07-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E2L6446CI3AYKP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PlugThis",
-    "description": "Create your own Chrome Extensions by chatting with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e7926699-f5cb-4025-928b-93fed22bb291.png?auto=format",
-    "downloads": 1084935,
-    "trend": 31,
-    "releasedAt": "2026-07-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KCCS273QTMHFNM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
