@@ -1,5 +1,65 @@
 [
   {
+    "name": "MyTempMail – Temporary Email with OTP",
+    "description": "Customized disposable email addresses with OTP support.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c06853a7-d146-47dd-81f2-5554061165da.svg?auto=format",
+    "downloads": 395614,
+    "trend": 104,
+    "releasedAt": "2026-07-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KM2Y4NGO5OUHVG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "YAML2JSON",
+    "description": "YAML to JSON and back, right in your browser.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e92a3f84-d3bc-4aad-bd52-2876b24decde.png?auto=format",
+    "downloads": 960138,
+    "trend": 90,
+    "releasedAt": "2026-07-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4FKBX5INW67RAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Messello",
+    "description": "One AI inbox for WhatsApp, Instagram, Telegram, and email",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/44b3086d-2882-4db1-9ac2-1fdd02eb3e7c.png?auto=format",
+    "downloads": 314751,
+    "trend": 96,
+    "releasedAt": "2026-07-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WKUPHNHK2FZAZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Greysco ",
+    "description": "AI creative studio for viral content & social media growth",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/28e4307f-2964-4e02-8516-e3d74e2621ef.jpeg?auto=format",
+    "downloads": 744223,
+    "trend": 93,
+    "releasedAt": "2026-07-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ALHI767VMBU72R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Citavo",
+    "description": "AI Visibility Monitoring for Modern Businesses",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/22ce8aa0-f9a8-4118-bcda-af44af8c3e04.png?auto=format",
+    "downloads": 311990,
+    "trend": 107,
+    "releasedAt": "2026-07-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/I2EPDMHYIEYLVP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Simba Voice Agents",
     "description": "Voice agents powered by Simba 3.2 the world's #1 voice model",
     "category": "AI音频",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/VJRMXKTQ7OZY2X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Fudge MCP",
-    "description": "Give your AI agents design taste from existing websites",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/aacf5ba5-034e-48f0-9798-7447f0f3570c.png?auto=format",
-    "downloads": 101513,
-    "trend": 71,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2MPLNBWN5RSVIQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PromptVault Pro",
-    "description": "The offline AI Prompt Operating System that runs anywhere.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fcb82a10-3fe4-4446-b17e-9c1c41323ad8.png?auto=format",
-    "downloads": 637418,
-    "trend": 51,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/U43W5IFMMPJGDV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Green the Chain ",
-    "description": "Best way businesses can source sustainable building products",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/002728e3-89f6-4190-8ed5-53b6847243e4.webp?auto=format",
-    "downloads": 1074758,
-    "trend": 84,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4FG4VNNBUZRYNK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sawa",
-    "description": "A prediction market that lives in your group chat",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/23862822-0d32-4f41-816c-f852292fee89.png?auto=format",
-    "downloads": 853246,
-    "trend": 58,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OPVL2VCIW3U5YZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "VocalRemover.one",
-    "description": "Extract vocals and instrumentals instantly with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/94d9ba44-2f21-4690-bc53-335a739cb4aa.png?auto=format",
-    "downloads": 140063,
-    "trend": 49,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JU2JADX7ASWFKA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
