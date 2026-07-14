@@ -1,5 +1,53 @@
 [
   {
+    "name": "Nottle",
+    "description": "A 2-minute daily mood check-in with gentle AI insights",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/50e25fda-199a-45f7-ad08-2eca357b68c6.png?auto=format",
+    "downloads": 395431,
+    "trend": 32,
+    "releasedAt": "2026-07-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SHJXKNIWPH7VNC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Baby Soma",
+    "description": "Personalized baby sleep and routine assistant",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a49210be-2184-49f5-99c9-74babc931b45.jpeg?auto=format",
+    "downloads": 857849,
+    "trend": 67,
+    "releasedAt": "2026-07-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Q57JWMMUIFLUOP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Onward",
+    "description": "Turn daily actions into lasting change.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/27813f46-09a0-4f88-8007-17475e68ce72.svg?auto=format",
+    "downloads": 403262,
+    "trend": 34,
+    "releasedAt": "2026-07-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6J3JJVFL6HTTR4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ContextVault",
+    "description": "The shared memory layer for your AI and your team.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cf33e8a5-6b09-403e-acad-3563dcb63be6.png?auto=format",
+    "downloads": 657039,
+    "trend": 84,
+    "releasedAt": "2026-07-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LHPB4NWHBAUKBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "MyTempMail – Temporary Email with OTP",
     "description": "Customized disposable email addresses with OTP support.",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/NBZWCN2BQJJWFG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "v1be | vibe marketing software",
-    "description": "v1be is an AI growth software company built GEO and SEO.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d6023771-1e06-4854-b584-88242a130db7.svg?auto=format",
-    "downloads": 128160,
-    "trend": 55,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TSWYXDDQ6YSYKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Robynn AI",
-    "description": "Deploy marketing agents that never forget your brand",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f81a132e-c314-428c-9416-b2e653ac1394.png?auto=format",
-    "downloads": 806970,
-    "trend": 96,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VNSAV4WJRED74I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ECOPay Self-Custody Wallet",
-    "description": "One wallet. Every chain. No borders.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5c2a2f66-9de7-43fa-b79a-abc85264135b.png?auto=format",
-    "downloads": 453123,
-    "trend": 23,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CTJKGOHRVETNWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ZenScroll",
-    "description": "AI-powered social media for creativity & wellness.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5993011f-62b5-4439-b388-c58041820e3b.png?auto=format",
-    "downloads": 405590,
-    "trend": 76,
-    "releasedAt": "2026-07-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VJRMXKTQ7OZY2X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
