@@ -1,5 +1,77 @@
 [
   {
+    "name": "LKLKAI",
+    "description": "AI creation platform for designers and creators",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e841e4cb-19e2-45a2-91b2-cd9c852cacec.png?auto=format",
+    "downloads": 435548,
+    "trend": 55,
+    "releasedAt": "2026-07-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7E3C2O576L6ZDK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "piceditr",
+    "description": "Free AI Photo Editor Online - Type to Edit & Transform Image",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/dbee6de8-fce5-4450-96d5-fb7b70df9d76.png?auto=format",
+    "downloads": 942325,
+    "trend": 26,
+    "releasedAt": "2026-07-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5PPU2FUK4TH4GK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OptMsg",
+    "description": "Opt-in email — only people you approve can reach you",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b1387085-0510-4d59-b389-9b5513d21836.png?auto=format",
+    "downloads": 584374,
+    "trend": 29,
+    "releasedAt": "2026-07-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DSSO6L4H6GNZWM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "zest.win",
+    "description": "AI-powered & ML-backed predictions for eSports Dota2/CS2/LOL",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0ba170f9-2d7c-4a61-b288-3ad7fa57694c.png?auto=format",
+    "downloads": 260740,
+    "trend": 58,
+    "releasedAt": "2026-07-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YMPDET2GH437WQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Reliable AI Delivery System",
+    "description": "Turn AI coding output into evidence-backed delivery",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/bec16104-4a18-4564-b62b-dfb66d7c26ed.png?auto=format",
+    "downloads": 658120,
+    "trend": 91,
+    "releasedAt": "2026-07-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MAMSXW5JPHCH2I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Music Video Generator",
+    "description": "Turn any song into a cinematic music video—in minutes",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/efd130a9-a333-4404-b2f6-120dea395e88.png?auto=format",
+    "downloads": 814563,
+    "trend": 55,
+    "releasedAt": "2026-07-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G6RAUEWDZQ6BD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "InkComet",
     "description": "Design emails by chatting with AI",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/DFH3CBJQN76Z5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CryptX",
-    "description": "AI-powered crypto research, signals and market insights",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/f2bf8b1c-5b60-44e7-ac98-0716d2d7a28e.png?auto=format",
-    "downloads": 875617,
-    "trend": 27,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CEOL52JEYVSX4K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CiteGround",
-    "description": "See which brands AI answers name, and if you're one",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/aa57caf2-5d4d-4f88-863e-e2798f5a68d7.svg?auto=format",
-    "downloads": 716290,
-    "trend": 89,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/47KFPA2DZ5GYBR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WebAnalyzer",
-    "description": "Score your site 0-100 for SEO, AI visibility & more",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a5f27dc0-fe61-4a3e-9850-70e4d1dbf20b.svg?auto=format",
-    "downloads": 713287,
-    "trend": 17,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/66N6MHUXHYI72D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TagFlow by ACOPES AI",
-    "description": "AI listing optimization for Etsy sellers",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7714dc49-7f6c-418e-af5c-cfd5a661b9cf.png?auto=format",
-    "downloads": 733673,
-    "trend": 47,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Z7BBZMZKOLAG4S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PotatoTools",
-    "description": "Free no-signup tools for data, files & daily tasks",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/08c26139-2829-4640-865d-f51a972ab545.png?auto=format",
-    "downloads": 970041,
-    "trend": 30,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VG6AEDIAX72MXA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MySudokuWorld",
-    "description": "Free Sudoku online: daily puzzles, 10+ modes, AI academy.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/76fd7d12-5383-4bfb-8334-e9abf5077624.png?auto=format",
-    "downloads": 985781,
-    "trend": 84,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/N7OBLVWMQWB36V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
