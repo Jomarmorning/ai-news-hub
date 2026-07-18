@@ -1,5 +1,53 @@
 [
   {
+    "name": "PvP Esports Arena and Onchaine",
+    "description": "blockchaine , testnet , gaming , streamer",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3af9dc58-5c98-4a26-b6df-d22b7b1ec385.png?auto=format",
+    "downloads": 930013,
+    "trend": 43,
+    "releasedAt": "2026-07-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UCPNDYQQLTBEXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ChatEmoji",
+    "description": "Copy & search emojis instantly for every conversation",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/d3fc977c-30ee-482d-be31-b1e7a0ee6e51.png?auto=format",
+    "downloads": 590737,
+    "trend": 52,
+    "releasedAt": "2026-07-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MO6NVBLKZ3XDJ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NanoBanana 3",
+    "description": "NanoBanana AI Image Generator",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/26f6915f-eac4-489d-9399-aeef1cccb4a8.vnd.microsoft.icon?auto=format",
+    "downloads": 415790,
+    "trend": 19,
+    "releasedAt": "2026-07-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7TRSLNFYBDX7XU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kynara",
+    "description": "An Enterprise Permission Layer for AI Agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c3c872d6-f631-4efb-a901-d0bf7501ade7.png?auto=format",
+    "downloads": 904417,
+    "trend": 44,
+    "releasedAt": "2026-07-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DWUQB4WSD5BX3R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "LKLKAI",
     "description": "AI creation platform for designers and creators",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/L7XBSXA4J2KEXJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Music Video Generator",
-    "description": "Turn any song into a cinematic music video—in minutes",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/efd130a9-a333-4404-b2f6-120dea395e88.png?auto=format",
-    "downloads": 814563,
-    "trend": 55,
-    "releasedAt": "2026-07-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/G6RAUEWDZQ6BD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "InkComet",
-    "description": "Design emails by chatting with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3744a14f-7ad6-4ab9-9064-c05222e21eff.png?auto=format",
-    "downloads": 870443,
-    "trend": 70,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7N6NFTFOEHIL7G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Generative Engine Optimization",
-    "description": "Get your brand cited by ChatGPT, Gemini & AI Search",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/44e1d773-faa6-451d-bac3-0d3f3b048b13.png?auto=format",
-    "downloads": 644867,
-    "trend": 14,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SXD4R5WC7MFQJ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OvioPlus",
-    "description": "AI assistant helping restaurants manage calls & bookings",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fcf3aad5-f347-403c-bf84-74b0b36ca36b.png?auto=format",
-    "downloads": 884799,
-    "trend": 84,
-    "releasedAt": "2026-07-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4EQJBH2BBVISNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
