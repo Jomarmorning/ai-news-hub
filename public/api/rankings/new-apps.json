@@ -1,5 +1,77 @@
 [
   {
+    "name": "Askee",
+    "description": "Chat with any website, video, or document in seconds.",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/2d32f1fa-7d4d-4e47-8aa4-74d61658ac6f.png?auto=format",
+    "downloads": 942879,
+    "trend": 93,
+    "releasedAt": "2026-07-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RTLTY442QHY3AU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ARK",
+    "description": "All your customer conversations. One AI-powered inbox",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/298eee11-0c8c-4c3d-b4fa-4c1127173c51.png?auto=format",
+    "downloads": 287287,
+    "trend": 75,
+    "releasedAt": "2026-07-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KYJT2FZTXTECFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BaseRT",
+    "description": "6.4x faster than llama.cpp, 3.9x faster than MLX",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3266ca93-6016-49ed-ab5c-ebdd4c73077a.png?auto=format",
+    "downloads": 386030,
+    "trend": 68,
+    "releasedAt": "2026-07-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3JJOOQXFG4LCTG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Panguard.AI",
+    "description": "Open-source malware scanner and runtime guard for AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7e07f763-d48c-4f60-9b71-61c8c6de1260.png?auto=format",
+    "downloads": 1060511,
+    "trend": 18,
+    "releasedAt": "2026-07-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XFEUYC76ANXRS5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Spycost",
+    "description": "Fell for a discount again?",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9c884a0a-c029-42a4-bb05-3fa1c9269175.gif?auto=format",
+    "downloads": 916218,
+    "trend": 32,
+    "releasedAt": "2026-07-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GQBVJSAAASPGEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "InterviewCopilot",
+    "description": "Job interview assistant that works seamlessly. ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5834c140-4b08-4292-abbe-ee1edf3dff30.png?auto=format",
+    "downloads": 159816,
+    "trend": 98,
+    "releasedAt": "2026-07-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WQUVZXK2JAZMO3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "PvP Esports Arena and Onchaine",
     "description": "blockchaine , testnet , gaming , streamer",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/OS4U7N7VUXA2SG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DocuSmart AI ",
-    "description": "Turning fragmented knowledge into one simple system",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/4676e4d3-e6de-46b3-aeb3-4f7fcedf53ad.png?auto=format",
-    "downloads": 684093,
-    "trend": 72,
-    "releasedAt": "2026-07-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Y6AVDRC5TA6OPY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ZooData",
-    "description": "The data layer for AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0e4b3e5e-3b1e-40f9-bacc-87e0610a77a3.png?auto=format",
-    "downloads": 354277,
-    "trend": 19,
-    "releasedAt": "2026-07-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2S6BVJ6IPXLOG5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NanoBanana 3",
-    "description": "NanoBanana AI Image Generator",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/26f6915f-eac4-489d-9399-aeef1cccb4a8.vnd.microsoft.icon?auto=format",
-    "downloads": 415790,
-    "trend": 19,
-    "releasedAt": "2026-07-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7TRSLNFYBDX7XU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Kynara",
-    "description": "An Enterprise Permission Layer for AI Agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c3c872d6-f631-4efb-a901-d0bf7501ade7.png?auto=format",
-    "downloads": 904417,
-    "trend": 44,
-    "releasedAt": "2026-07-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DWUQB4WSD5BX3R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LKLKAI",
-    "description": "AI creation platform for designers and creators",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e841e4cb-19e2-45a2-91b2-cd9c852cacec.png?auto=format",
-    "downloads": 764285,
-    "trend": 70,
-    "releasedAt": "2026-07-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7E3C2O576L6ZDK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "piceditr",
-    "description": "Free AI Photo Editor Online - Type to Edit & Transform Image",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/dbee6de8-fce5-4450-96d5-fb7b70df9d76.png?auto=format",
-    "downloads": 879549,
-    "trend": 45,
-    "releasedAt": "2026-07-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5PPU2FUK4TH4GK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
