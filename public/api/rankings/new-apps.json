@@ -1,5 +1,41 @@
 [
   {
+    "name": "Mailflame: Outreach & tracking on Gmail",
+    "description": "Complete your personalized outreach on Gmail in mins",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/457358d7-f951-4e4e-81d2-7d2977a407b7.png?auto=format",
+    "downloads": 170767,
+    "trend": 82,
+    "releasedAt": "2026-07-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ASJ5NNKOIQKRPM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Zuntria — AI Success Operating System",
+    "description": "Your entire life, business, and goals — automated into one ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cb464e53-48d2-47b8-b17f-e6f092bcec25.png?auto=format",
+    "downloads": 485232,
+    "trend": 109,
+    "releasedAt": "2026-07-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EKQVQ2FYWUGGXN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The Puck Drop",
+    "description": "Mail a real hockey puck with a personal message",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4ce76945-7146-47e4-bcd3-f583ac2058b8.avif?auto=format",
+    "downloads": 723203,
+    "trend": 75,
+    "releasedAt": "2026-07-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3GCJO7R5MRAPNB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Nautis",
     "description": "The AI-native Operating System for founders.",
     "category": "AI对话",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/JFE7XZUVIAWBTR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Notroa",
-    "description": "AI-scored motivated seller leads for Ohio investors",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/422b86cc-287f-4529-992e-ccd89b1ed85e.png?auto=format",
-    "downloads": 1021473,
-    "trend": 31,
-    "releasedAt": "2026-07-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5HCAUXWFYSG6WL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Askee",
-    "description": "Chat with any website, video, or document in seconds.",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/2d32f1fa-7d4d-4e47-8aa4-74d61658ac6f.png?auto=format",
-    "downloads": 895803,
-    "trend": 76,
-    "releasedAt": "2026-07-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RTLTY442QHY3AU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ARK",
-    "description": "All your customer conversations. One AI-powered inbox",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/298eee11-0c8c-4c3d-b4fa-4c1127173c51.png?auto=format",
-    "downloads": 1054402,
-    "trend": 108,
-    "releasedAt": "2026-07-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KYJT2FZTXTECFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
