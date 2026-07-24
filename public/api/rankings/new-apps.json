@@ -1,15 +1,87 @@
 [
   {
+    "name": "HuntAI",
+    "description": "Discover AI Tools Ranked by Real Traffic",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d8b0f081-25df-434d-bd31-cda4378da5b1.png?auto=format",
+    "downloads": 1037494,
+    "trend": 71,
+    "releasedAt": "2026-07-23T16:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2P3QWREO33ZA7W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "CartesiumAI",
     "description": "Learn by experimenting with a real-time AI companion",
     "category": "AI绘画",
     "icon": "https://ph-files.imgix.net/66cf8f09-090f-4825-888c-008d27019d0a.png?auto=format",
-    "downloads": 644070,
-    "trend": 68,
+    "downloads": 315401,
+    "trend": 79,
     "releasedAt": "2026-07-23T07:02:56Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/VY72EIJLNSDSIV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mark",
+    "description": "Daily theme-based creative micro-writing game",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c949e631-0179-4d4b-a647-eab0d4850924.x-icon?auto=format",
+    "downloads": 918360,
+    "trend": 10,
+    "releasedAt": "2026-07-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XMQ6DTXWU2LHER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FORVA",
+    "description": "Your AI Sales & Outreach Assistant",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/96bf0e14-c0d5-4b1b-9258-026bbb69a71a.jpeg?auto=format",
+    "downloads": 1013990,
+    "trend": 16,
+    "releasedAt": "2026-07-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6WATZX7JC7KZVD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Serein: Mindful Breathing",
+    "description": "Mindful breathing, journaling & daily calm",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9eaa66e0-d6de-4365-a310-abb620e5e339.png?auto=format",
+    "downloads": 160288,
+    "trend": 74,
+    "releasedAt": "2026-07-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OLPPYJBJTNYSIS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WinReclaim",
+    "description": "Understand your storage. Reclaim space without guessing",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ffe82ab8-1863-4ead-a1d0-a2b989ebe544.svg?auto=format",
+    "downloads": 549333,
+    "trend": 26,
+    "releasedAt": "2026-07-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IHA4OWIMROWTRV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "GymMatrix AI",
+    "description": "Log your gym sets by voice — AI does the rest",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/c387b530-5068-49e2-9f74-a153b05ea248.png?auto=format",
+    "downloads": 1021964,
+    "trend": 97,
+    "releasedAt": "2026-07-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WZEFTV6DB5NHFA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Boston Aerospace AI",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/UJH4EOPCD3MAWU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Brandforge AI",
-    "description": "AI generated Logos, names and slogan.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3cdb6b75-90b7-413f-98f4-a640510fc83f.jpeg?auto=format",
-    "downloads": 1000571,
-    "trend": 56,
-    "releasedAt": "2026-07-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2DOE3A3LJ5WZXH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "wings office | Ai Powered HRMS Software",
-    "description": "Give Wings to Your HR",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cff8d023-0e6d-47ab-a660-f137fe9c7f84.png?auto=format",
-    "downloads": 1033978,
-    "trend": 99,
-    "releasedAt": "2026-07-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7AP656AVBLBN3A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Kastra",
-    "description": "Runtime authorization for Claude, Cursor, Codex and OpenClaw",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/3d168980-ac1e-45d2-873b-c16d22e5fe51.png?auto=format",
-    "downloads": 1024740,
-    "trend": 37,
-    "releasedAt": "2026-07-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PIAVHXT5GCZFUV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Dunphora",
-    "description": "Recover failed Stripe subscription payments",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/31acb2b4-5614-41ab-8c71-bbf55d943987.svg?auto=format",
-    "downloads": 996948,
-    "trend": 15,
-    "releasedAt": "2026-07-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PV5P2GD6YXUOAV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Lattics",
-    "description": "Brain-like knowledge base with AI writing & deep research",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/2e80bb67-3c46-4494-a472-03612fcbd527.png?auto=format",
-    "downloads": 933313,
-    "trend": 31,
-    "releasedAt": "2026-07-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XVH6V4K7KY2B23?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ACME.BOT",
-    "description": "No-slop AI SEO agent that interviews you first",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/433758e7-43f2-4247-9527-9d6424a8e3ad.png?auto=format",
-    "downloads": 718673,
-    "trend": 58,
-    "releasedAt": "2026-07-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QTI2CZCO32XRUF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
