@@ -1,5 +1,65 @@
 [
   {
+    "name": "ComiForge",
+    "description": "Turn ideas into publish-ready comics with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/765dd711-0f8c-425d-b774-44254a77ce49.png?auto=format",
+    "downloads": 675740,
+    "trend": 60,
+    "releasedAt": "2026-07-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TDMDMWO32ZZOXJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PostOwl",
+    "description": "Let Claude Code or Codex post to your socials",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/e500fe21-eb55-4a90-81a1-c516099defb7.png?auto=format",
+    "downloads": 1037193,
+    "trend": 41,
+    "releasedAt": "2026-07-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KYCKLJ27VGLJMF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "DeepLearnHQ",
+    "description": "Learn to actually use AI — free, hands-on masterclas",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/41bbdcef-55d7-436b-98be-4d6a24356394.png?auto=format",
+    "downloads": 1091947,
+    "trend": 104,
+    "releasedAt": "2026-07-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RHBIFTNF6UQZSY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CraftScore",
+    "description": "Measure engineering craft, not AI output.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9093470e-eca8-43cf-acf1-ff500f510f4d.png?auto=format",
+    "downloads": 884934,
+    "trend": 105,
+    "releasedAt": "2026-07-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6WBZOD3JWTZPDZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NPK Sapien",
+    "description": "The Easiest Growing Planner, Mapper, Tracker, & Assistant",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/417ba8e9-ac5b-4200-bf02-e2cdeae6f75c.png?auto=format",
+    "downloads": 553732,
+    "trend": 63,
+    "releasedAt": "2026-07-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SB5VQPLMIC7WO3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Phantom",
     "description": "Voice-first AI agent that operates your Mac",
     "category": "AI音频",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/U43MYE3V76RPVV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Lightmeter",
-    "description": "AI CRM for photographers. Close clients in one link.",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/7ef6b1d4-dfba-46dd-bd79-d4b3cd84c0d7.png?auto=format",
-    "downloads": 367644,
-    "trend": 11,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CG3ZQLHXG75L25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Selah: Daily Bible Reflection",
-    "description": "One verse a day for the season you're in.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0efe81d2-4b3f-441a-8225-5590da41102b.png?auto=format",
-    "downloads": 117396,
-    "trend": 37,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3K7OBCPXXGWQJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ASL V6",
-    "description": "Open-Source AI Security Red-Teaming Engine",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f6ff834a-054f-44ff-9847-1969f38db210.svg?auto=format",
-    "downloads": 848917,
-    "trend": 104,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XNE26LJKCSYHBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CKS MCP Server",
-    "description": "Verifiable knowledge for LLMs — no more fake citations",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b59c0da0-494c-4ef9-a959-1c48e64061a4.jpeg?auto=format",
-    "downloads": 902149,
-    "trend": 78,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TUOVC3OKJAPW57?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TechNavi",
-    "description": "The AI assistant that guides, never replaces.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1999e3a8-b7d2-4242-ba32-734ac48049b6.jpeg?auto=format",
-    "downloads": 1070879,
-    "trend": 55,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JF7VSVYUABQVY5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
