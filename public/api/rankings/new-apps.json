@@ -1,5 +1,77 @@
 [
   {
+    "name": "Stubingly",
+    "description": "Generate Free Paystub & Invoices",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/8c563a9c-6edb-4026-9f12-ab6eca064c0f.png?auto=format",
+    "downloads": 157590,
+    "trend": 81,
+    "releasedAt": "2026-07-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XDGGWZTJUSTTXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FrameSprite",
+    "description": "AI sprite animations for game devs 🎮 1 image",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/1a04e56b-5d20-44e1-a47a-9ceaf5799177.png?auto=format",
+    "downloads": 394690,
+    "trend": 50,
+    "releasedAt": "2026-07-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LHRDNSGP5IFEPG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Learn Anything — Master any topic",
+    "description": "AI builds your course. Real sources teach it.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/91e6ac54-cfde-4d1f-aef8-f79be0ef9a15.vnd.microsoft.icon?auto=format",
+    "downloads": 951541,
+    "trend": 44,
+    "releasedAt": "2026-07-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7AMZTE4GOBWVTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PaperBleach",
+    "description": "AI Humanizer for all",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/754c9579-25e0-4479-a00a-b4f1f3d0d5f8.png?auto=format",
+    "downloads": 365926,
+    "trend": 106,
+    "releasedAt": "2026-07-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZHAOSSNSAXKGU4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Vertinab",
+    "description": "vertical AI Aget",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/24bfe057-715c-4635-a007-25f045418fc0.png?auto=format",
+    "downloads": 378561,
+    "trend": 21,
+    "releasedAt": "2026-07-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QWBZCF32ZF5YCH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Applyzio",
+    "description": "AI ATS Resume Checker + Auto-Apply",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6e9bd95f-2093-4682-8c34-2842b76d7fd6.png?auto=format",
+    "downloads": 848638,
+    "trend": 56,
+    "releasedAt": "2026-07-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/U2JVEHVZF7U4QM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Aisha",
     "description": "She replies. You sell.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/4XQD77LCKKTDN5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Travel Website Builder",
-    "description": "AI-powered WordPress travel booking website builder",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/13a8c38b-211d-457c-a82d-d7a7a3634065.png?auto=format",
-    "downloads": 133218,
-    "trend": 106,
-    "releasedAt": "2026-07-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/V2D5AASKKK63YP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "gate.cat",
-    "description": "Blocks rm -rf before your AI agent can run it",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1bd9a169-7ddf-4926-a992-acc90c18a8c2.png?auto=format",
-    "downloads": 871759,
-    "trend": 17,
-    "releasedAt": "2026-07-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RMWUW4MVCXSXWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Detechtor AI",
-    "description": "Instantly reveal any website's full tech stack",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/62f78f0a-8faa-480d-bfc8-f3520ef3ff19.png?auto=format",
-    "downloads": 772413,
-    "trend": 94,
-    "releasedAt": "2026-07-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BEFCDXXZR72X2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ComiForge",
-    "description": "Turn ideas into publish-ready comics with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/765dd711-0f8c-425d-b774-44254a77ce49.png?auto=format",
-    "downloads": 675740,
-    "trend": 60,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TDMDMWO32ZZOXJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PostOwl",
-    "description": "Let Claude Code or Codex post to your socials",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/e500fe21-eb55-4a90-81a1-c516099defb7.png?auto=format",
-    "downloads": 1037193,
-    "trend": 41,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KYCKLJ27VGLJMF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DeepLearnHQ",
-    "description": "Learn to actually use AI — free, hands-on masterclas",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/41bbdcef-55d7-436b-98be-4d6a24356394.png?auto=format",
-    "downloads": 1091947,
-    "trend": 104,
-    "releasedAt": "2026-07-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RHBIFTNF6UQZSY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
