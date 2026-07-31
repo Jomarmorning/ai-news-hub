@@ -1,5 +1,65 @@
 [
   {
+    "name": "Tutors Ai",
+    "description": "Your AI study buddy for coding, maths & more",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/99a94154-6d5a-4a11-bc51-ce048b251216.png?auto=format",
+    "downloads": 589117,
+    "trend": 51,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NX35JMJ7N5JTDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Amaya ",
+    "description": "Bring your own AI to Android — chat, agents, and tools",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5a1c050e-a33b-4fed-a5fa-73eea0cd808e.png?auto=format",
+    "downloads": 776155,
+    "trend": 55,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TB2YA5SZPCQFDT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kashinath – Maha Mrityunjaya Mantra",
+    "description": "Your daily Maha Mrityunjaya Mantra companion",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/243e8643-e89b-4b25-a725-59ea51e601a6.png?auto=format",
+    "downloads": 603969,
+    "trend": 41,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WGGBP6GZBSIPZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AuditAI",
+    "description": "Enterprise AI Security, Shadow IT Detection & EU AI ActAudit",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c57dbaee-9ac5-4b2b-9d62-508c4b7d6227.png?auto=format",
+    "downloads": 316398,
+    "trend": 19,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FKHXT4FRA4DJFV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Forecast AI",
+    "description": "Open-source multi-agent AI for prediction markets",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/234f7e11-2919-4a13-a067-f78e2e3f6313.png?auto=format",
+    "downloads": 645469,
+    "trend": 96,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/C2H4KMCIG727V6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "BiasForge",
     "description": "Daily macro trading bias, built by trader",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/KHVJ5UX5JMQ652?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Phantom Voice",
-    "description": "Local push-to-talk dictation for Mac",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/7408d008-6da8-4a56-9b75-596d3668952d.png?auto=format",
-    "downloads": 545079,
-    "trend": 68,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4P2FUXLVAXRB3A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Quoti: cotizaciones profesionales en seg",
-    "description": "Create pro quotes in seconds with AI, send via WhatsApp",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/47932337-2eef-4d7a-a7b6-35bec8ea9106.png?auto=format",
-    "downloads": 632243,
-    "trend": 32,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BVWU6SLGPKJLPV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "nexloreai",
-    "description": "Connecting ideas, technologies, and discoveries in AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/deddaec1-e9ef-4cdf-9d11-c1886e4802a9.jpeg?auto=format",
-    "downloads": 744631,
-    "trend": 51,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/76UUXUNKBFMRFD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "emlaksun",
-    "description": "Real estate presentation with ai",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4103cdd2-0ac5-4f71-b233-49abd1be1e62.png?auto=format",
-    "downloads": 573303,
-    "trend": 57,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GLW5F45QPAZJS2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cortega AI Governance Platform",
-    "description": "Cortega runs on your infrastructure and governs all AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6f8ea622-de45-4642-a854-4b23a93af090.png?auto=format",
-    "downloads": 202368,
-    "trend": 31,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/X7JAFYLR524PMH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
