@@ -1,5 +1,53 @@
 [
   {
+    "name": "ERPnBox",
+    "description": "Your Business, Unboxed all 12 apps, set up by AI in minutes.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/566dbb6c-596b-44b3-b395-c8bd3cf59bc8.png?auto=format",
+    "downloads": 183461,
+    "trend": 61,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XLIFTO35Z2PCWK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "KDPAI Studio",
+    "description": "Create Amazon KDP books with AI in minutes",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5b91105e-a1a3-449d-ace1-8c219868b036.png?auto=format",
+    "downloads": 965108,
+    "trend": 25,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2BOJHRTO4TEMYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BOOKIN",
+    "description": "Online booking with a website, AI agent, and LINE mini app",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f55db723-3c43-44d7-8269-da86e6a8e163.png?auto=format",
+    "downloads": 711429,
+    "trend": 24,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7QQG3FTU2S6UC3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Coactivy",
+    "description": "Two-sided AI-powered recruitment platform.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b9a35ad2-f448-4c41-aacc-14c112d40563.png?auto=format",
+    "downloads": 502384,
+    "trend": 53,
+    "releasedAt": "2026-07-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GA6Z6KBJX7ZYYP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Tutors Ai",
     "description": "Your AI study buddy for coding, maths & more",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/4TGMK2FJTI6FIX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Memmy Agent",
-    "description": "Let every AI remember the same you.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/aef42c0d-8c1e-4887-bdaf-e0d6c7041c3b.png?auto=format",
-    "downloads": 679259,
-    "trend": 14,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5S7SGS3F5S6RN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Uniscript · Carousel Factory",
-    "description": "Build carousels for tiktok/instagram in minutes using AI!",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4391665d-95bc-4709-ab65-08d6641150e1.png?auto=format",
-    "downloads": 888755,
-    "trend": 97,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FZ6WI5V76OCFD5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Selah: Daily Bible Reflection",
-    "description": "One verse a day for the season you're in.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1e7eb981-eca3-4849-b08c-71234aaf47fb.png?auto=format",
-    "downloads": 870697,
-    "trend": 75,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BQODY34EMF25ZQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Caimera",
-    "description": "AI Visual Production Platform for Fashion Teams",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cab29659-dcf7-4fcd-ac3d-0bfd78c4ca73.png?auto=format",
-    "downloads": 934955,
-    "trend": 91,
-    "releasedAt": "2026-07-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KHVJ5UX5JMQ652?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
