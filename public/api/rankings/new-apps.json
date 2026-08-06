@@ -1,5 +1,77 @@
 [
   {
+    "name": "Rulip",
+    "description": "Let Chatgpt and Claude share the same context. ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/14e425e1-e081-4ab4-9479-e549b9d642d0.png?auto=format",
+    "downloads": 616857,
+    "trend": 105,
+    "releasedAt": "2026-08-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IF4QHP7OFT3RXU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI BluePrint Builder",
+    "description": "AI-powered tool pipeline generator from plain descriptions",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7e64afff-fe3d-4eb6-b840-e69f058be1b9.png?auto=format",
+    "downloads": 859640,
+    "trend": 81,
+    "releasedAt": "2026-08-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K7P5BHLQEBNK26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Campaign Evolved Guide",
+    "description": "Campaign Evolved Guide: Missions, Skulls & Terminals",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f256b4e3-bcd2-4a2b-8016-b76a4caecf87.svg?auto=format",
+    "downloads": 626051,
+    "trend": 61,
+    "releasedAt": "2026-08-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DXXTTSGPOMZLZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Unwordle Online",
+    "description": "The reverse Wordle game: A new daily puzzle",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b0265b5c-2b3c-4ac8-8f0b-ead3e21a2e1a.svg?auto=format",
+    "downloads": 351525,
+    "trend": 59,
+    "releasedAt": "2026-08-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ATUT7BAI5JWOY3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Projecord",
+    "description": "Keep project decisions consistent across AI tools",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a60e946d-75c0-4c4d-8540-17c17b86ee8e.png?auto=format",
+    "downloads": 807844,
+    "trend": 100,
+    "releasedAt": "2026-08-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JOJGJBPTFCLMSI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Air Aware Risk Assessment",
+    "description": "Airborne health risk customized to location & activity",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c07d2a83-3c61-47e1-af61-ed6096c014eb.png?auto=format",
+    "downloads": 473847,
+    "trend": 101,
+    "releasedAt": "2026-08-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TVYZR3LMCDHZNB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "On-device AI for meeting notes. No cloud",
     "description": "Meeting recordings → one morning brief. 100% on-device.",
     "category": "开发工具",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/VW2MQA6ZXXTSVK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ChiHaoFan - AI Fridge Manager & Recipes",
-    "description": "Log your fridge, get dinner in 3 seconds. No servers.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8bc643e2-0305-4a51-8a2f-24bfb033ea35.png?auto=format",
-    "downloads": 929185,
-    "trend": 88,
-    "releasedAt": "2026-08-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZVJVNRSLRHJH6S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Body Wash for Body Acne",
-    "description": "skin care and hair care",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/803fca95-bcd6-42f7-ac99-b4b5ae370817.jpeg?auto=format",
-    "downloads": 1012112,
-    "trend": 61,
-    "releasedAt": "2026-08-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LF4ZCXVGALJCFK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NurevoAI",
-    "description": "Discover and compare the best AI tools in one place",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ade735fb-82a5-4cce-aaf2-d08696242b5f.svg?auto=format",
-    "downloads": 420834,
-    "trend": 106,
-    "releasedAt": "2026-08-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2HEATQHLCVZVHW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Savings Runway Calculator",
-    "description": "See exactly how long your savings will last",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6fdd8417-1247-4260-b1b6-6ac91f129ca0.png?auto=format",
-    "downloads": 838481,
-    "trend": 48,
-    "releasedAt": "2026-08-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HVB3G47BDDL2HB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "HumanReviewed.io",
-    "description": "Expert human oversight for your AI-generated work.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c931be81-b834-4127-b518-6fbef83a25fb.png?auto=format",
-    "downloads": 217413,
-    "trend": 46,
-    "releasedAt": "2026-08-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QKH5J374JAUVG5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Earzbook",
-    "description": "Feed listening content to OpenClaw AI",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/94ccd5ac-f7c4-4251-9602-9a0cce55c8ca.png?auto=format",
-    "downloads": 664125,
-    "trend": 84,
-    "releasedAt": "2026-08-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SJPPI6WOMFBDY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
