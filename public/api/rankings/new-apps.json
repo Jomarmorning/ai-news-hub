@@ -1,5 +1,77 @@
 [
   {
+    "name": "HRAIdir",
+    "description": "AI tool reviews for professionals and recruiters.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/88ac0e0e-84e7-4ef2-9c32-1ea25b916201.png?auto=format",
+    "downloads": 288604,
+    "trend": 14,
+    "releasedAt": "2026-08-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/U52L47XD3U7KGX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OruClick",
+    "description": "AI-powered social media management platform",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/886460e5-4e8d-4ef7-b50e-705ef41f90ee.png?auto=format",
+    "downloads": 687348,
+    "trend": 34,
+    "releasedAt": "2026-08-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/O4FBT5GKSWAGSA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Leads Ranger",
+    "description": "AI Leads Generation - Multi-channel outreach & LinkedIn",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/96751f76-2abd-41f8-8eed-1e656514c36d.png?auto=format",
+    "downloads": 889673,
+    "trend": 35,
+    "releasedAt": "2026-08-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SKUOCDKOII5VYN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BeWorld-U",
+    "description": "Multi · AI · Chat · Debate · Forum · Community",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5cde8ccd-774e-4b5f-9afa-9807d3c2ef54.png?auto=format",
+    "downloads": 114043,
+    "trend": 59,
+    "releasedAt": "2026-08-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NS3ARJJD3HV4S6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ApplyASAP",
+    "description": "AI-powered Job Application Assistant",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9fc3eaa9-997d-4e0b-a0d2-49b4520cb8b3.svg?auto=format",
+    "downloads": 545642,
+    "trend": 41,
+    "releasedAt": "2026-08-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G6INJGGQPFAWC4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PaloQA",
+    "description": "Test E2E Flows, Visual & API Drift, 100% Local & AI-Powered",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/495b738d-e61d-4f28-8b95-b1f8c17cacf1.svg?auto=format",
+    "downloads": 304189,
+    "trend": 47,
+    "releasedAt": "2026-08-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CBR4QBZ7PKACIE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "PerchanceAI",
     "description": "Generate, edit, and animate images in one AI studio",
     "category": "AI绘画",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2WFRQ4YYRWITBG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NinetyMinutesPlus",
-    "description": "Follow football smarter with AI and real-time data",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/05d642e1-cd1b-4a28-a127-ab7cc31be6fb.x-icon?auto=format",
-    "downloads": 550695,
-    "trend": 93,
-    "releasedAt": "2026-08-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JZLFJ7LAVVRKWP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AllMCPs",
-    "description": "Discover & connect MCP servers to Claude, Cursor & AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/10b6321e-51d2-427d-beb0-39637d741063.vnd.microsoft.icon?auto=format",
-    "downloads": 127137,
-    "trend": 95,
-    "releasedAt": "2026-08-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XDNNDAEDD5C4JD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Receipts2sheets App",
-    "description": "AI Receipt Scanner & Analyzer App for Google Sheets",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b68b32b2-bf3a-4377-aa11-4b8f7a0b6b4e.png?auto=format",
-    "downloads": 249445,
-    "trend": 41,
-    "releasedAt": "2026-08-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RWFE2Z2QECYYNK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Jaipuria Geeks",
-    "description": "Expert Heritage Theme Customization for Shopify",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c767f9d4-b351-423a-a19f-efd986f0743d.png?auto=format",
-    "downloads": 385046,
-    "trend": 109,
-    "releasedAt": "2026-08-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/L55JGJNWYUZXQM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI BluePrint Builder",
-    "description": "AI-powered tool pipeline generator from plain descriptions",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7e64afff-fe3d-4eb6-b840-e69f058be1b9.png?auto=format",
-    "downloads": 859640,
-    "trend": 81,
-    "releasedAt": "2026-08-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/K7P5BHLQEBNK26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Campaign Evolved Guide",
-    "description": "Campaign Evolved Guide: Missions, Skulls & Terminals",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f256b4e3-bcd2-4a2b-8016-b76a4caecf87.svg?auto=format",
-    "downloads": 626051,
-    "trend": 61,
-    "releasedAt": "2026-08-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DXXTTSGPOMZLZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
