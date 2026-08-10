@@ -1,5 +1,77 @@
 [
   {
+    "name": "Domain Dossier",
+    "description": "Free OSINT tool for investigating domains.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/91fafbe9-d7e6-45a0-a12c-374e057e6f2c.png?auto=format",
+    "downloads": 862780,
+    "trend": 88,
+    "releasedAt": "2026-08-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FFKGQIN5JKWLGI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Namemyfile",
+    "description": "AI-powered file renaming that keeps your files organized",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/95590a6e-6f25-4b89-81e0-d3b957e25940.png?auto=format",
+    "downloads": 753971,
+    "trend": 59,
+    "releasedAt": "2026-08-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MSJL4JTBSXPLPP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PDF2Emails",
+    "description": "Extract & verify emails from PDFs in-browser. 100% private.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6160a35e-2d7b-4b6a-a72d-8f5c74ad437c.png?auto=format",
+    "downloads": 951825,
+    "trend": 55,
+    "releasedAt": "2026-08-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IRMMEF2AY6P53C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SeatingSorted: AI Event Planner",
+    "description": "Let AI solve your seating. No spreadsheets, no sticky notes.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/46c9d488-ed16-4658-8a6a-1b7cbc9b1004.png?auto=format",
+    "downloads": 238011,
+    "trend": 14,
+    "releasedAt": "2026-08-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZEAOU7RSADRZCH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Booth Design",
+    "description": "Create AI-powered exhibition booth designs in seconds.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/57463d66-c6f9-4a6e-ab6d-4eb317778332.png?auto=format",
+    "downloads": 109236,
+    "trend": 59,
+    "releasedAt": "2026-08-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5ZMDIBZRXNWZEO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Orcred",
+    "description": "The live technical verification standard for AI/ML engineers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1cf7d00e-1d69-4aae-a578-52bc15cc40c8.png?auto=format",
+    "downloads": 846188,
+    "trend": 80,
+    "releasedAt": "2026-08-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IR3VPJ376NB4LU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "GA4 Dashboard",
     "description": "Real-time GA4 Dashboard with 3D Globe & AI Integration",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/46FSRKI7I4CWYX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Nexo International movers and Packers",
-    "description": "business ,services, news, shipping, freight,airfreight,",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e7ba3d88-4362-4885-bc8d-54e64444683c.png?auto=format",
-    "downloads": 218181,
-    "trend": 80,
-    "releasedAt": "2026-08-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DA65AOREFRHSYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Loreweaver's Cauldron",
-    "description": "ai-narrative text based classic dnd game",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/297dfaad-0f26-4192-a41a-b1c27e9ae68f.png?auto=format",
-    "downloads": 845413,
-    "trend": 18,
-    "releasedAt": "2026-08-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RFMTXNTM26OSBV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Email Jachai",
-    "description": "Enterprise-Grade Email Verifications SaaS Platform",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8c7bcbe2-7f3a-41d0-9cd7-546edf7b7594.svg?auto=format",
-    "downloads": 813160,
-    "trend": 47,
-    "releasedAt": "2026-08-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SNPXNFMVZJZDD2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TweetChain",
-    "description": "Archive your X posts permanently on the ICP blockchain",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9c35d27c-9f78-4a1b-831b-644be145e563.png?auto=format",
-    "downloads": 363606,
-    "trend": 19,
-    "releasedAt": "2026-08-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/J2OXUWYKU4TRJ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sunoi",
-    "description": "Generate full songs, lyrics, and vocals with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d523c220-b863-409e-9fa8-086e8aa483d0.png?auto=format",
-    "downloads": 1019246,
-    "trend": 68,
-    "releasedAt": "2026-08-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VROVDZHQCBGNI3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Echo: Voice Notes & AI Tasks",
-    "description": "Turn voice notes into clear summaries and actionable tasks",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/d8747447-9d9d-4214-9702-993b875c589e.octet-stream?auto=format",
-    "downloads": 513834,
-    "trend": 75,
-    "releasedAt": "2026-08-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FGYWFDFYECA3RV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
