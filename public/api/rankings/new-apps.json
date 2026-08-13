@@ -1,5 +1,53 @@
 [
   {
+    "name": "Contentosapp Studio",
+    "description": "Publish articles that actually rank — without the AI slop",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/e35af914-f9be-4106-81b7-eb0295d251f7.png?auto=format",
+    "downloads": 288187,
+    "trend": 93,
+    "releasedAt": "2026-08-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MDUDSVIK475JVU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Postilo",
+    "description": "Turn ideas into viral social media posts with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f98474ac-dad1-43a6-96e8-e88f8d864aba.jpeg?auto=format",
+    "downloads": 443377,
+    "trend": 57,
+    "releasedAt": "2026-08-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BTPXW5J6RZEZHD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "chiropax.ai",
+    "description": "AI-powered spine X-ray analysis for chiropractors",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c34d31a4-58b5-486d-bcfd-452f18f4fcf8.png?auto=format",
+    "downloads": 603085,
+    "trend": 17,
+    "releasedAt": "2026-08-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/H6P4BC2SCDM3QM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "InferRoute",
+    "description": "Never lose an AI request to rate limits again",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4ba8118c-9a22-40aa-87a1-b14961effdf9.png?auto=format",
+    "downloads": 590468,
+    "trend": 68,
+    "releasedAt": "2026-08-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BJPP2HHZG6CX5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Paste Pen",
     "description": "For AI coding interactions and Trading with charts overlay.",
     "category": "AI绘画",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/JFBTQNZMMWXYK4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "blinkbox",
-    "description": "Your AI agent can build workflows here. Literally.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0e4f3759-e348-47c0-b1c4-16cb88ab4402.png?auto=format",
-    "downloads": 206195,
-    "trend": 69,
-    "releasedAt": "2026-08-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CJIVUL4D65STJN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Rehsoomey",
-    "description": "Apply to j*bs faster with answers tailored to your resume.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/933a60dc-c850-4fe9-ad88-6fa79c87c28c.png?auto=format",
-    "downloads": 892496,
-    "trend": 77,
-    "releasedAt": "2026-08-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AQZOOPW2FMG3QR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pillarwise",
-    "description": "Your birth chart explained by astronomy, not fortune-telling",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/85580a38-d2c5-46e7-a018-7ec403ff8856.svg?auto=format",
-    "downloads": 548411,
-    "trend": 106,
-    "releasedAt": "2026-08-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RHGGO3Y37B66SB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WhatsApp Campaign Pro",
-    "description": "Run WhatsApp campaigns & support from one dashboard",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4c6adb6a-e206-4143-8ccb-d35fbc1dd22b.png?auto=format",
-    "downloads": 603836,
-    "trend": 97,
-    "releasedAt": "2026-08-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5DJOZPKF6QSOBF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
