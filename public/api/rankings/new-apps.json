@@ -1,5 +1,77 @@
 [
   {
+    "name": "Dreams AI Interpretation ",
+    "description": "Understand your dreams with grounded AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ac1dfbc6-98ce-4a4e-a6d8-e9d2c2accc41.png?auto=format",
+    "downloads": 802638,
+    "trend": 109,
+    "releasedAt": "2026-08-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UQNMBUSNQB74ZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SwarmTrace",
+    "description": "Time-travel debugger for multi-agent AI pipelines",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0eef04de-26bd-485e-8945-ebf8417c91d0.png?auto=format",
+    "downloads": 1022557,
+    "trend": 58,
+    "releasedAt": "2026-08-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7VGF2LWOTAIJZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Whatsapp Chat Analyzer",
+    "description": "Free, secure, and instant local WhatsApp chat analytics.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6dd813d9-c4b2-4eaa-a41f-f94c5f864862.jpeg?auto=format",
+    "downloads": 566992,
+    "trend": 58,
+    "releasedAt": "2026-08-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K4ECVJBQXA46WC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "San Francisco Appliance Repair Experts",
+    "description": "San Francisco Appliance Repair Experts",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7bbab794-24dc-47aa-b956-8d37a3795bde.png?auto=format",
+    "downloads": 609408,
+    "trend": 61,
+    "releasedAt": "2026-08-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HAGVWHTJDSBW2T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Voice note ai ",
+    "description": "Turn messy voice notes into clear, actionable notes.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/72914cfc-b7b5-49ec-a95f-c582ff50c2a5.jpeg?auto=format",
+    "downloads": 150657,
+    "trend": 31,
+    "releasedAt": "2026-08-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZB4EOGLNJWDMHV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Zoodle | PuzzNest",
+    "description": "Daily animal guessing game",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1765a7fb-3307-42b0-98c9-09e36b425543.png?auto=format",
+    "downloads": 918148,
+    "trend": 61,
+    "releasedAt": "2026-08-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JTP5ZYJOJRWHNG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Zynetic Coach",
     "description": "Scale your training business with precision and control",
     "category": "AI对话",
@@ -24,18 +96,6 @@
     "url": "https://www.producthunt.com/r/KEM5IQ7PDS4FFK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Dreams AI Interpretation ",
-    "description": "Understand your dreams with grounded AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ac1dfbc6-98ce-4a4e-a6d8-e9d2c2accc41.png?auto=format",
-    "downloads": 793967,
-    "trend": 16,
-    "releasedAt": "2026-08-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UQNMBUSNQB74ZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Prompt Jugaad",
     "description": "Free AI Prompts. Copy, Try, Create.",
     "category": "AI写作",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/KIWOWSA2B6L3DO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SwarmTrace",
-    "description": "Time-travel debugger for multi-agent AI pipelines",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0eef04de-26bd-485e-8945-ebf8417c91d0.png?auto=format",
-    "downloads": 700961,
-    "trend": 41,
-    "releasedAt": "2026-08-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7VGF2LWOTAIJZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Whatsapp Chat Analyzer",
-    "description": "Free, secure, and instant local WhatsApp chat analytics.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6dd813d9-c4b2-4eaa-a41f-f94c5f864862.jpeg?auto=format",
-    "downloads": 638960,
-    "trend": 26,
-    "releasedAt": "2026-08-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/K4ECVJBQXA46WC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LinaGPT",
-    "description": "Turn long YouTube videos into summaries and PDFs",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/745f855e-0047-4dfe-91d9-e1de36f3981b.png?auto=format",
-    "downloads": 934249,
-    "trend": 94,
-    "releasedAt": "2026-08-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VOPQ6CUQVVPBHJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Contentosapp Studio",
-    "description": "Publish articles that actually rank — without the AI slop",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/e35af914-f9be-4106-81b7-eb0295d251f7.png?auto=format",
-    "downloads": 826396,
-    "trend": 51,
-    "releasedAt": "2026-08-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MDUDSVIK475JVU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ChatNest",
-    "description": "AI support chatbots trained on your business. No code.",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/ffcc8774-52f3-49f3-9dcc-58cc57510fdf.png?auto=format",
-    "downloads": 946310,
-    "trend": 71,
-    "releasedAt": "2026-08-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PYZJCOZPA5ERF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
