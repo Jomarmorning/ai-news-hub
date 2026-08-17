@@ -1,5 +1,65 @@
 [
   {
+    "name": "YouTube to Transcript AI",
+    "description": "Turn any YouTube video into transcript and AI summaries.",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/19b07e30-04af-4c94-a2a6-d05a31aa43ca.png?auto=format",
+    "downloads": 1010090,
+    "trend": 51,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SCAC3RP2QJMIPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Stashly",
+    "description": "Airbnb for Storage",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ab9c82e9-a911-4c00-a907-6f3319824d06.svg?auto=format",
+    "downloads": 428951,
+    "trend": 72,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/34XJZOVBSIPKYK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Deemj By Niceloaf Inc.",
+    "description": "Your ai companion",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e71e8a62-d1ec-468a-b57c-2b98dc12dea4.png?auto=format",
+    "downloads": 558141,
+    "trend": 75,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3WIVPYUWVEDUDG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Splyntra",
+    "description": "Open-source AI agent observability and governance platform",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/98db583e-9370-4fbb-9f4c-0eabcde699b4.png?auto=format",
+    "downloads": 877666,
+    "trend": 60,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UMHYRJC2YVD7FY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AdmitPlus.AI",
+    "description": "A multimodal AI learning team, built around you.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c2cffad2-b917-4b60-aa23-018086350f9e.svg?auto=format",
+    "downloads": 232057,
+    "trend": 65,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EKEA253EV2XEVN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "MARKET//SKILLS",
     "description": "China-ready marketing workflows for AI agents",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/GX6PSYMZK2ECMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PushLeads",
-    "description": "Multichannel CRM with AI for Autopilot Sales",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b352ccb1-fb29-45c0-afdd-be67b281fcdf.png?auto=format",
-    "downloads": 150306,
-    "trend": 38,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DXFKTVWTUCGUHL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Invoday",
-    "description": "Create invoices, quotation, track expenses and payments.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/885434b0-11cb-45f5-92fc-238e5261ef67.png?auto=format",
-    "downloads": 926139,
-    "trend": 98,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YIAWMQJV2ZBAEL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MuseUnbound",
-    "description": "Create stunning AI images with fewer creative limits",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/2f65acf4-ea44-49e5-8860-d96ce78b7f05.png?auto=format",
-    "downloads": 188042,
-    "trend": 107,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LQHPZWEXTWNE27?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Prompt Engineer",
-    "description": "One extension, 8 AI writing tools, everywhere you type.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/10cd6a04-6062-489b-8b86-5b0467745904.png?auto=format",
-    "downloads": 606642,
-    "trend": 83,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KECUTBAPUUM7RU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OnSFX",
-    "description": "AI sound design inside Premiere Pro and DaVinci Resolve",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/a2c5c233-00d5-4d4f-b54c-168a874ba234.png?auto=format",
-    "downloads": 488604,
-    "trend": 104,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3JYFRNNIKN5S5Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
