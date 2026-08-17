@@ -4,12 +4,60 @@
     "description": "China-ready marketing workflows for AI agents",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/971acb77-f9cc-4fb8-a5b0-96a26d062493.png?auto=format",
-    "downloads": 604688,
-    "trend": 53,
+    "downloads": 393328,
+    "trend": 27,
     "releasedAt": "2026-08-16T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/4MYVWWDZX5WA46?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "stellaai",
+    "description": "NSFW AI Chat, Stella AI Video, AI Image Generator",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/7b91ba75-2918-4828-9db2-98ccbd5425fb.png?auto=format",
+    "downloads": 229857,
+    "trend": 27,
+    "releasedAt": "2026-08-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/J5QPQNJQC5PL4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Chat Exporter: Local Vault",
+    "description": "Archive, search, redact, and export with no cloud storage.",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/a30077ff-ed27-41b6-9aed-33b0d9f05252.png?auto=format",
+    "downloads": 916853,
+    "trend": 51,
+    "releasedAt": "2026-08-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RNPJTPV5G22JWC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Agentinel",
+    "description": "The local security guardrail for AI coding agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3c01b19a-6541-4b32-9bb1-15b5edf88c78.png?auto=format",
+    "downloads": 388088,
+    "trend": 14,
+    "releasedAt": "2026-08-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZGN4GJGVWF6FD6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Velvet: Get the Date",
+    "description": "Get the Date, not another endless chat.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/005d76bb-f5b6-4fa4-8aa6-380447875cf3.svg?auto=format",
+    "downloads": 934994,
+    "trend": 18,
+    "releasedAt": "2026-08-16T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GX6PSYMZK2ECMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "PushLeads",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/3JYFRNNIKN5S5Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AmplifyKlicks",
-    "description": "AI-Powered Digital Growth - SEO, PPC, Social, Website ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/23ffaa0b-76ea-4591-b21c-cd12980ae28d.png?auto=format",
-    "downloads": 991345,
-    "trend": 12,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OYNC43IAXQBOSU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AIN Research",
-    "description": "Automated literature review for researchers",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/5e169725-a9ed-4ac1-b874-6acff2676d33.png?auto=format",
-    "downloads": 290724,
-    "trend": 52,
-    "releasedAt": "2026-08-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LMTNE7E5V25JHT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Unmark",
-    "description": "Remove Gemini & Veo watermarks from images and video",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/92a31f15-3dad-4d03-a9d7-014a1a83a27e.png?auto=format",
-    "downloads": 804620,
-    "trend": 70,
-    "releasedAt": "2026-08-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2ZWA3VLMY4MNEF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Voxonate — Parametric AI Voice Studio",
-    "description": "Craft unique AI voices with TTS and DSP based design studio.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/39a63ae9-ba45-48eb-abbd-8dd5a92ff2b5.jpeg?auto=format",
-    "downloads": 338341,
-    "trend": 52,
-    "releasedAt": "2026-08-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DAACSLH47KSVRW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
