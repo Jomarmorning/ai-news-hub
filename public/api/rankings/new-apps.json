@@ -1,5 +1,53 @@
 [
   {
+    "name": "skyflow_ui",
+    "description": "Skip the noise. A private network for strictly paid devs.",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/7a44e81e-b752-4236-b852-004bdcc4127b.png?auto=format",
+    "downloads": 954246,
+    "trend": 92,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IFAT3HAZRQ6MGI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "KingCaller",
+    "description": "AI voice agents that qualify leads & book appointments",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/0880ca25-d3d3-4f67-9009-00bb634e3d7c.webp?auto=format",
+    "downloads": 708278,
+    "trend": 27,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JXL7CTAEEEGP6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Laughly: Daily Jokes",
+    "description": "Personalized jokes that match your sense of humor",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f9659aa3-1cc8-40c9-bb6b-b8560614ce6c.png?auto=format",
+    "downloads": 268414,
+    "trend": 54,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MGF25F3WYSPIDG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Omnifys",
+    "description": "Turn Your Knowledge Into an AI Assistant",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f89dfa54-d6c8-49f4-b211-1b019d2869cb.png?auto=format",
+    "downloads": 602587,
+    "trend": 53,
+    "releasedAt": "2026-08-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LOLYHSKPG6ZYG2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "YouTube to Transcript AI",
     "description": "Turn any YouTube video into transcript and AI summaries.",
     "category": "AI视频",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/4MYVWWDZX5WA46?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "stellaai",
-    "description": "NSFW AI Chat, Stella AI Video, AI Image Generator",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/7b91ba75-2918-4828-9db2-98ccbd5425fb.png?auto=format",
-    "downloads": 229857,
-    "trend": 27,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/J5QPQNJQC5PL4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Chat Exporter: Local Vault",
-    "description": "Archive, search, redact, and export with no cloud storage.",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/a30077ff-ed27-41b6-9aed-33b0d9f05252.png?auto=format",
-    "downloads": 916853,
-    "trend": 51,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RNPJTPV5G22JWC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Agentinel",
-    "description": "The local security guardrail for AI coding agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3c01b19a-6541-4b32-9bb1-15b5edf88c78.png?auto=format",
-    "downloads": 388088,
-    "trend": 14,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZGN4GJGVWF6FD6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Velvet: Get the Date",
-    "description": "Get the Date, not another endless chat.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/005d76bb-f5b6-4fa4-8aa6-380447875cf3.svg?auto=format",
-    "downloads": 934994,
-    "trend": 18,
-    "releasedAt": "2026-08-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GX6PSYMZK2ECMT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
