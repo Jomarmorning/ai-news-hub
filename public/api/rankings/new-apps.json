@@ -1,5 +1,65 @@
 [
   {
+    "name": "BizRisk AI Analyst",
+    "description": "AI-powered business due diligence and continuous monitoring.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ffe00aec-73c3-4b87-b5e4-6a6de554e711.x-icon?auto=format",
+    "downloads": 140766,
+    "trend": 37,
+    "releasedAt": "2026-08-20T00:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4PE3ORYATNXINM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Bookkeeping with BYO AI — HelloLedger",
+    "description": "Bookkeeping for small businesses that your own AI can use",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6ce69cd2-417f-496d-a541-66386cfa46ea.svg?auto=format",
+    "downloads": 827119,
+    "trend": 44,
+    "releasedAt": "2026-08-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WFMHRR2IWOFCUN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Radon",
+    "description": "One API for auth, payments, storage, email & AI.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/710dcb3a-5056-43d2-9c6f-70de239801d9.png?auto=format",
+    "downloads": 162068,
+    "trend": 19,
+    "releasedAt": "2026-08-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TQ3E5DLHQUQ6Y7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Tylt",
+    "description": "AI Copilot that syncs your bets and finds the edge",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2083dd7a-7cc2-42c5-b007-986d7e20b4f3.svg?auto=format",
+    "downloads": 374366,
+    "trend": 29,
+    "releasedAt": "2026-08-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AIQOPY4TZBUVXV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Unwait",
+    "description": "Fill the wait between prompts with flashcards",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ef755b05-0c27-42e3-a21d-27adef94c0bf.png?auto=format",
+    "downloads": 667985,
+    "trend": 105,
+    "releasedAt": "2026-08-19T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PDWOAOTDEFVKNS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Countdown timer for email",
     "description": "Self-hosted animated GIFs that work in any ESP",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/E2MW72GIJMCXRW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Marginal",
-    "description": "Governance that AI coding agents have to earn",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8055c2b2-7cb7-4728-82df-c744433f2d5a.png?auto=format",
-    "downloads": 290156,
-    "trend": 50,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2KUFAFMRZS5W3T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pic of the Day",
-    "description": " Your mood as a daily photo",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/265ddfd0-4974-4529-a50c-c2cb9b67ed66.png?auto=format",
-    "downloads": 174889,
-    "trend": 16,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FOBUT7R7O5UUIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OpsReveal",
-    "description": "Zero-trust retail loss prevention & browser-native audit",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/629e033c-ad18-4927-bcc5-4b88e471ce65.png?auto=format",
-    "downloads": 894400,
-    "trend": 45,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CBPLWMHBCKTBZ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI-Powered Chatbots",
-    "description": "AI-Powered Chatbots for Better Customer Conversations",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/249e2a4f-b4d1-470b-b372-f98157a481bd.png?auto=format",
-    "downloads": 978178,
-    "trend": 75,
-    "releasedAt": "2026-08-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CTWFGVUNGHBFCO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cad Desk",
-    "description": "Primavera Training in Jaipur – Build Your Project Management",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b7eda9e6-67f6-43cb-9787-0cb4c5ba4b32.png?auto=format",
-    "downloads": 892551,
-    "trend": 82,
-    "releasedAt": "2026-08-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HRLXDBIUE6WPHW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
