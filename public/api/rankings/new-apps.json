@@ -1,5 +1,77 @@
 [
   {
+    "name": "Abstenence",
+    "description": "Pay a commitment fee to abstain from something for 2-5 days",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5178f102-5599-4ab8-98e6-536beb973239.png?auto=format",
+    "downloads": 576953,
+    "trend": 63,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NS2P2BAVWU7OEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "StreetPainter",
+    "description": "Paint every street in your city by walking it",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4282e8cf-9656-4e65-b82c-981fc24e58db.png?auto=format",
+    "downloads": 201423,
+    "trend": 106,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CAB7GFSZG3QXSA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The Entrepreneurship Network (TEN)",
+    "description": "TEN Startup Discovery & AI Validation Engine",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/ac24c713-a06e-466f-963d-b361abaf5eeb.jpeg?auto=format",
+    "downloads": 737356,
+    "trend": 70,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5XUGRZ4NWRWBJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SluiceData",
+    "description": "Turn scattered data into trusted, AI-ready answers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/584f0bfd-f8cf-4cbf-b79d-7aca6256b211.svg?auto=format",
+    "downloads": 940765,
+    "trend": 33,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B34HLIIKF2LXZX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Cloudbench",
+    "description": "Client-side cost sizing for S3 egress, LLM tokens & MS cloud",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b2d16d83-f1f9-4abb-a89a-ee6570d26040.jpeg?auto=format",
+    "downloads": 410611,
+    "trend": 21,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LVBV3XHZRB5HVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "claudeFS",
+    "description": "Let Claude.ai read and edit your local files",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ba62653c-3588-4efd-be01-879371fb2d72.png?auto=format",
+    "downloads": 547042,
+    "trend": 14,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2MAJ2DZGP5W4KZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "BizRisk AI Analyst",
     "description": "AI-powered business due diligence and continuous monitoring.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/AIQOPY4TZBUVXV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Unwait",
-    "description": "Fill the wait between prompts with flashcards",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ef755b05-0c27-42e3-a21d-27adef94c0bf.png?auto=format",
-    "downloads": 667985,
-    "trend": 105,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PDWOAOTDEFVKNS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Countdown timer for email",
-    "description": "Self-hosted animated GIFs that work in any ESP",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e54e3f2e-9534-4ca3-8884-52017d5bbdec.svg?auto=format",
-    "downloads": 882217,
-    "trend": 88,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JZVCAZNKOAPZZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "HOUSEKEEPING (USA)",
-    "description": "Full-time & Part-time opportunities may be available",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/721373fc-33e7-4e4a-a672-8b9460e4b9fa.png?auto=format",
-    "downloads": 926159,
-    "trend": 69,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KZBG7JHCFZIL4K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ImagineMyHouse",
-    "description": "Explore and compare AI home redesign styles in seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/74e6ad53-f9a6-4a87-8225-eb4788b7c677.svg?auto=format",
-    "downloads": 120726,
-    "trend": 92,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4LELJA7X2X7JWL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Portal Pilot",
-    "description": "All-in-one ERP + POS + AI for Latin American retail",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5f54c91e-8e81-473b-bac8-7fbc3acf3f5f.png?auto=format",
-    "downloads": 1086853,
-    "trend": 27,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/J2R62YF662EDN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Workshop Weaver",
-    "description": "AI-Powered Workshop Planning",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a24b4584-b383-41d5-b8b8-9210c0261612.png?auto=format",
-    "downloads": 938404,
-    "trend": 87,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E2MW72GIJMCXRW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
