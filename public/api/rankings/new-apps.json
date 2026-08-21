@@ -4,12 +4,72 @@
     "description": "Pay a commitment fee to abstain from something for 2-5 days",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/5178f102-5599-4ab8-98e6-536beb973239.png?auto=format",
-    "downloads": 576953,
-    "trend": 63,
+    "downloads": 269526,
+    "trend": 95,
     "releasedAt": "2026-08-20T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/NS2P2BAVWU7OEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SluiceData",
+    "description": "Turn scattered data into trusted, AI-ready answers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/584f0bfd-f8cf-4cbf-b79d-7aca6256b211.svg?auto=format",
+    "downloads": 536385,
+    "trend": 72,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B34HLIIKF2LXZX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "EmailPulse",
+    "description": "Tech,Privacy,Productivity,Developer Tools,tempmail",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/2ae21e2d-17eb-4211-9a1a-9e599ea06cff.png?auto=format",
+    "downloads": 768104,
+    "trend": 36,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SMETH6MK2AOGQ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Drift Asset",
+    "description": "Streamline and manage software asset releases effortlessly.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cd71bd6d-3751-4e63-89ab-3a7a671ca29c.png?auto=format",
+    "downloads": 129381,
+    "trend": 37,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CGEOHMOLTHJOCT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Wardin",
+    "description": "Tamper-evident audit receipts for every LLM call",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/508163cc-5733-4805-b658-0fcded03cb99.svg?auto=format",
+    "downloads": 182988,
+    "trend": 39,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/T6FOJ26SCXLNKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AnswerRank",
+    "description": "See if ChatGPT recommends your business - then fix it",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/bbac337f-aaa1-43d5-800f-ce526873e9fd.png?auto=format",
+    "downloads": 203884,
+    "trend": 54,
+    "releasedAt": "2026-08-20T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TCSK7RNREFUP6S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "StreetPainter",
@@ -36,18 +96,6 @@
     "url": "https://www.producthunt.com/r/5XUGRZ4NWRWBJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "SluiceData",
-    "description": "Turn scattered data into trusted, AI-ready answers",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/584f0bfd-f8cf-4cbf-b79d-7aca6256b211.svg?auto=format",
-    "downloads": 940765,
-    "trend": 33,
-    "releasedAt": "2026-08-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/B34HLIIKF2LXZX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Cloudbench",
     "description": "Client-side cost sizing for S3 egress, LLM tokens & MS cloud",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2MAJ2DZGP5W4KZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BizRisk AI Analyst",
-    "description": "AI-powered business due diligence and continuous monitoring.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ffe00aec-73c3-4b87-b5e4-6a6de554e711.x-icon?auto=format",
-    "downloads": 140766,
-    "trend": 37,
-    "releasedAt": "2026-08-20T00:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4PE3ORYATNXINM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Bookkeeping with BYO AI — HelloLedger",
-    "description": "Bookkeeping for small businesses that your own AI can use",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6ce69cd2-417f-496d-a541-66386cfa46ea.svg?auto=format",
-    "downloads": 827119,
-    "trend": 44,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WFMHRR2IWOFCUN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Radon",
-    "description": "One API for auth, payments, storage, email & AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/710dcb3a-5056-43d2-9c6f-70de239801d9.png?auto=format",
-    "downloads": 162068,
-    "trend": 19,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TQ3E5DLHQUQ6Y7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Tylt",
-    "description": "AI Copilot that syncs your bets and finds the edge",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2083dd7a-7cc2-42c5-b007-986d7e20b4f3.svg?auto=format",
-    "downloads": 374366,
-    "trend": 29,
-    "releasedAt": "2026-08-19T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AIQOPY4TZBUVXV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
