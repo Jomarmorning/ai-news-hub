@@ -1,5 +1,77 @@
 [
   {
+    "name": "Runvina",
+    "description": "Plan, track, and review your running training.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9216a57c-91f5-4081-9a6c-df4948f92f0b.png?auto=format",
+    "downloads": 187065,
+    "trend": 82,
+    "releasedAt": "2026-08-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JDTYIQ6NZ4DENN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NFUSE LABS",
+    "description": "AI Video Production Agency",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/c6c224df-f3aa-4b09-933c-7b302c038487.png?auto=format",
+    "downloads": 587590,
+    "trend": 34,
+    "releasedAt": "2026-08-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RFVSHZHUYCFL24?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SutraAI",
+    "description": "Give every AI the context you choose.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1f88c5a8-6fac-4f55-802b-011de79cf555.svg?auto=format",
+    "downloads": 541465,
+    "trend": 34,
+    "releasedAt": "2026-08-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Y5IAMOH5FUJRPT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Privacy Scribe",
+    "description": "100% Offline AI Voice Dictation for Windows",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/508b138b-688f-429b-8aab-6266d613ec05.png?auto=format",
+    "downloads": 532803,
+    "trend": 11,
+    "releasedAt": "2026-08-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K2P6QKWFNDP4LE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Opmaint",
+    "description": "Mobile-first, AI-assisted CMMS for factories & facilities",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ba2ad00d-79d3-44b1-83ba-893404c48cae.jpeg?auto=format",
+    "downloads": 830537,
+    "trend": 102,
+    "releasedAt": "2026-08-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KRQPH4VCSSHSV3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Check Domain",
+    "description": "Check Domain - Domain Availability, WHOIS and Prices",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/20d1b288-eb70-4bbe-9f27-1dc4b4b11dbc.jpeg?auto=format",
+    "downloads": 130042,
+    "trend": 30,
+    "releasedAt": "2026-08-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UFSCWNCCHYJWXI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Abstenence",
     "description": "Pay a commitment fee to abstain from something for 2-5 days",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/CGEOHMOLTHJOCT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Wardin",
-    "description": "Tamper-evident audit receipts for every LLM call",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/508163cc-5733-4805-b658-0fcded03cb99.svg?auto=format",
-    "downloads": 182988,
-    "trend": 39,
-    "releasedAt": "2026-08-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/T6FOJ26SCXLNKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AnswerRank",
-    "description": "See if ChatGPT recommends your business - then fix it",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bbac337f-aaa1-43d5-800f-ce526873e9fd.png?auto=format",
-    "downloads": 203884,
-    "trend": 54,
-    "releasedAt": "2026-08-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TCSK7RNREFUP6S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "StreetPainter",
-    "description": "Paint every street in your city by walking it",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4282e8cf-9656-4e65-b82c-981fc24e58db.png?auto=format",
-    "downloads": 201423,
-    "trend": 106,
-    "releasedAt": "2026-08-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CAB7GFSZG3QXSA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "The Entrepreneurship Network (TEN)",
-    "description": "TEN Startup Discovery & AI Validation Engine",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/ac24c713-a06e-466f-963d-b361abaf5eeb.jpeg?auto=format",
-    "downloads": 737356,
-    "trend": 70,
-    "releasedAt": "2026-08-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5XUGRZ4NWRWBJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cloudbench",
-    "description": "Client-side cost sizing for S3 egress, LLM tokens & MS cloud",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b2d16d83-f1f9-4abb-a89a-ee6570d26040.jpeg?auto=format",
-    "downloads": 410611,
-    "trend": 21,
-    "releasedAt": "2026-08-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LVBV3XHZRB5HVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "claudeFS",
-    "description": "Let Claude.ai read and edit your local files",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ba62653c-3588-4efd-be01-879371fb2d72.png?auto=format",
-    "downloads": 547042,
-    "trend": 14,
-    "releasedAt": "2026-08-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2MAJ2DZGP5W4KZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
