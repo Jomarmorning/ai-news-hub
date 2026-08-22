@@ -1,5 +1,29 @@
 [
   {
+    "name": "SubtitleGenerator",
+    "description": "From video to publish-ready AI subtitles—all in one browser",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/b1ed3fdd-273d-4d50-8124-c04bface24d9.png?auto=format",
+    "downloads": 961980,
+    "trend": 36,
+    "releasedAt": "2026-08-22T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZYQ3SSNKVR2CLN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kaevo",
+    "description": "The AI chief of staff for your household",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/62221591-d0fa-45f9-80ad-70afc4a9767a.jpeg?auto=format",
+    "downloads": 981965,
+    "trend": 53,
+    "releasedAt": "2026-08-22T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B7SQSNCPA47PCB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Runvina",
     "description": "Plan, track, and review your running training.",
     "category": "AI对话",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/RFVSHZHUYCFL24?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SutraAI",
-    "description": "Give every AI the context you choose.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1f88c5a8-6fac-4f55-802b-011de79cf555.svg?auto=format",
-    "downloads": 541465,
-    "trend": 34,
-    "releasedAt": "2026-08-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Y5IAMOH5FUJRPT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Privacy Scribe",
-    "description": "100% Offline AI Voice Dictation for Windows",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/508b138b-688f-429b-8aab-6266d613ec05.png?auto=format",
-    "downloads": 532803,
-    "trend": 11,
-    "releasedAt": "2026-08-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/K2P6QKWFNDP4LE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
