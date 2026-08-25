@@ -1,5 +1,101 @@
 [
   {
+    "name": "SetlesStudio",
+    "description": "Realistic AI Studio Photography for Apparel Brands",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/33859082-0f0a-4bf3-b4e6-d026ee1b5d4b.png?auto=format",
+    "downloads": 1019056,
+    "trend": 41,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/45WL7G7OXJJWLJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Bidspot",
+    "description": "Fair & transparent visibility for internet makers ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2fc6bdbe-f4d1-40ae-8ac7-e4cd3b46462d.png?auto=format",
+    "downloads": 304506,
+    "trend": 79,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VSZS2GPTLNWLGR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Nod: Sleep Debt Tracker",
+    "description": "Track sleep debt and optimize daily recovery offline.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/387de5cb-fda7-4ae3-9e9b-e7c33161daf7.png?auto=format",
+    "downloads": 573299,
+    "trend": 71,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/42AFCQFNSVK3TS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ExportyAI",
+    "description": "Export AI chats from 15+ models to Markdown & PDF",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/386e47f9-4f91-4149-82ed-247852b07520.png?auto=format",
+    "downloads": 157523,
+    "trend": 88,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2SRE2KC4S6AXSM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "KiftMe",
+    "description": "A prepaid recommendation app",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ff4b386d-228f-4a56-8185-a8010208e75c.png?auto=format",
+    "downloads": 374807,
+    "trend": 27,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LPOGH5SO6VY6ET?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Navigara",
+    "description": "Connect Your AI Spend Directly to Your Roadmap",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cbf9525b-3c2f-4caf-89cd-cf7b958e76d6.png?auto=format",
+    "downloads": 599688,
+    "trend": 86,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/N4737ZSIONEFWG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Offloop",
+    "description": "A shared workspace where people and AI agents get work done",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5edc1f32-7d4f-4748-a5a0-72ec3daed353.png?auto=format",
+    "downloads": 928532,
+    "trend": 13,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QKHNZCG3KG6RH3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SpikeCore AI",
+    "description": "Turn any RFP into a citation-backed bid response",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9986a837-c531-4184-bc27-739e2f308663.png?auto=format",
+    "downloads": 863352,
+    "trend": 77,
+    "releasedAt": "2026-08-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PZMTYBQLLBWXBA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Rainlane",
     "description": "white noise, meditation piano, nature sounds, deep focus",
     "category": "AI音频",
@@ -12,18 +108,6 @@
     "url": "https://www.producthunt.com/r/FM6FABR3GUISVQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Navigara",
-    "description": "Connect Your AI Spend Directly to Your Roadmap",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cbf9525b-3c2f-4caf-89cd-cf7b958e76d6.png?auto=format",
-    "downloads": 250646,
-    "trend": 14,
-    "releasedAt": "2026-08-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/N4737ZSIONEFWG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Trama",
     "description": "Create macOS native automations using plain language",
     "category": "AI对话",
@@ -34,89 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/V7HJKXXGPGC7QL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "The Best Tapa",
-    "description": "Spain's tapas, ranked by people who were actually there",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f34681ce-6101-4b93-9a38-41046e35e3b4.png?auto=format",
-    "downloads": 726746,
-    "trend": 19,
-    "releasedAt": "2026-08-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VRRDA7PEIUGYXB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TikTok Unfollow AI",
-    "description": "Mass unfollow everyone on TikTok who doesn't follow back",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6b40d9a7-ed39-40c2-86a8-55da0b2911ef.png?auto=format",
-    "downloads": 838540,
-    "trend": 31,
-    "releasedAt": "2026-08-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HIEZMWAFJCAK3V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NetraSetu: Explainable DR Screening",
-    "description": "**NetraSetu: AI-Powered Vision, Explained**",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/632c4434-a6d8-4542-936b-df6023386fe6.png?auto=format",
-    "downloads": 163171,
-    "trend": 68,
-    "releasedAt": "2026-08-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E6KHHKXT47HSHO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Solenta",
-    "description": "Shared memory for Claude Code, Codex, Cursor & Grok",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/424c756e-0b0d-4f68-b6ea-ecd02cebe14e.svg?auto=format",
-    "downloads": 790823,
-    "trend": 54,
-    "releasedAt": "2026-08-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AGE3HTG6ZBB5PK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Claude Academy",
-    "description": "The Official Learning Hub by Anthropic",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9cf0826e-cd07-4ec6-bcca-46ff5a48c470.svg?auto=format",
-    "downloads": 925355,
-    "trend": 46,
-    "releasedAt": "2026-08-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5XZCCZGFQOKTU2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Netcreativemind",
-    "description": "Workflow Automation & Process Optimization",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/73c6a426-da43-40dd-8d3f-0f5a5709a0fc.png?auto=format",
-    "downloads": 1084907,
-    "trend": 10,
-    "releasedAt": "2026-08-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GVOG7QJICAGCPK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Local Music Organizer for Mac",
-    "description": "Ultimate toolkit for local Apple Music library maintenance",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/e562c25c-4371-4111-9944-318939d7cb52.png?auto=format",
-    "downloads": 576104,
-    "trend": 22,
-    "releasedAt": "2026-08-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WTW5AAPLCP3OUG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
