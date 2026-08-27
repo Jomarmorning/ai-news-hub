@@ -1,5 +1,65 @@
 [
   {
+    "name": "Ticket Fairy CLI",
+    "description": "Ticket Fairy event ticketing CLI & MCP server",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b6768057-2920-410c-8f14-a2cb21b8e87c.png?auto=format",
+    "downloads": 944123,
+    "trend": 88,
+    "releasedAt": "2026-08-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PMHSZLOD7UENSH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Chainlink",
+    "description": "CRM and Retention Tool for Bar and Club Owners",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1a1ad36a-bc11-4c98-8717-08b061188adc.png?auto=format",
+    "downloads": 1002749,
+    "trend": 54,
+    "releasedAt": "2026-08-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KUH7FZYXWLXPEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Eventually",
+    "description": "Your X bookmarks, emailed back as your personal newsletter",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/af0d82fa-50a7-40cd-bec8-de528e57f2d9.png?auto=format",
+    "downloads": 528044,
+    "trend": 59,
+    "releasedAt": "2026-08-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/W4L5JPQWTWIAXC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Gemini 3.5 Transcribe",
+    "description": "Our most precise speech-to-text model yet",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d5adf50a-04e4-4fe9-b9a6-85fd6787b7cd.png?auto=format",
+    "downloads": 343092,
+    "trend": 101,
+    "releasedAt": "2026-08-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JBVAAWRYCWB575?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FOMO AI: Learn AI",
+    "description": "Learn AI by playing and storytelling, not watching lectures",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d048123f-da1a-4f6d-8544-f125cf2b5261.png?auto=format",
+    "downloads": 777899,
+    "trend": 74,
+    "releasedAt": "2026-08-27T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NSBZJK2NNZJ74Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "ChatCut Desktop",
     "description": "Video editor built for humans & AI. Edit with GPT & Claude.",
     "category": "AI视频",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/ANXOMLG2Z3EDOB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MCP-Builder.ai",
-    "description": "The fastest way to connect your data with your AI Tools. ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e5c3ef84-6207-431e-ba2f-428b98962003.png?auto=format",
-    "downloads": 706388,
-    "trend": 48,
-    "releasedAt": "2026-08-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VCPNXA2NR6U5CT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Knack MCP Server",
-    "description": "The HIPAA-compliant backend for AI builders",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cf4557e1-ab1e-4ef8-9552-b0210a1b28fe.png?auto=format",
-    "downloads": 373612,
-    "trend": 56,
-    "releasedAt": "2026-08-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CDIFP6FEYGNTYR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ify",
-    "description": "Resolution AI that works on top of your existing helpdesk",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9d4742b0-bcd4-4d5a-b288-9447e92dec15.png?auto=format",
-    "downloads": 545416,
-    "trend": 33,
-    "releasedAt": "2026-08-26T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QV2KSOZBY2NWLU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ninjō AI",
-    "description": "AI sales agents on any channel that runs from Claude Code",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/fc02f063-50b8-420c-8ec0-22ba147b97c1.jpeg?auto=format",
-    "downloads": 217005,
-    "trend": 34,
-    "releasedAt": "2026-08-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5OOMHTQENABQUM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Linguar",
-    "description": "Language exchange with real people — and AI on your side",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8cde303e-903c-412a-ad5e-11ad8acc5015.png?auto=format",
-    "downloads": 929761,
-    "trend": 37,
-    "releasedAt": "2026-08-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JCAHQ7ZJ6YVUYV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
