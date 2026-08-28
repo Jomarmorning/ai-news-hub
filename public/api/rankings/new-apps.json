@@ -4,8 +4,8 @@
     "description": "Responsive UI template for 3D renders & floor plans",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/79c380ae-b650-4e5c-b613-ea77d2e5699f.jpeg?auto=format",
-    "downloads": 295188,
-    "trend": 58,
+    "downloads": 1098609,
+    "trend": 33,
     "releasedAt": "2026-08-28T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
@@ -16,8 +16,8 @@
     "description": "Video and audio transcripts, structured for AI",
     "category": "AI视频",
     "icon": "https://ph-files.imgix.net/fa418379-462e-488f-8559-8fe192bd4365.png?auto=format",
-    "downloads": 740612,
-    "trend": 87,
+    "downloads": 829751,
+    "trend": 100,
     "releasedAt": "2026-08-28T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
@@ -28,12 +28,24 @@
     "description": "Get paid by people and agents. One catalog.",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/75a4ee25-0f63-45e3-9b90-acea31741a9d.png?auto=format",
-    "downloads": 896722,
-    "trend": 33,
+    "downloads": 743362,
+    "trend": 77,
     "releasedAt": "2026-08-28T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/4KB2X2BD4GHMEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "aideepfake.io",
+    "description": "Swap any face, in seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/de97e23c-eb21-4fad-abee-8c9c0ac3facf.png?auto=format",
+    "downloads": 592696,
+    "trend": 107,
+    "releasedAt": "2026-08-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FZFKDGX3J5UQXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "AgentSkills",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/MSCP2DY4XMNQCD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Famulor",
-    "description": "AI-native business calling",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/544c90f5-eeeb-4be7-b917-035bd16bcb1a.png?auto=format",
-    "downloads": 271891,
-    "trend": 45,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SWNKKTPV6JZKF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
