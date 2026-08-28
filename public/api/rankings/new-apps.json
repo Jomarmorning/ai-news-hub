@@ -1,5 +1,53 @@
 [
   {
+    "name": "Architectural AI Dashboard UI",
+    "description": "Responsive UI template for 3D renders & floor plans",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/79c380ae-b650-4e5c-b613-ea77d2e5699f.jpeg?auto=format",
+    "downloads": 295188,
+    "trend": 58,
+    "releasedAt": "2026-08-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4MJIPYPDSIW55D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TranscriptFetch",
+    "description": "Video and audio transcripts, structured for AI",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/fa418379-462e-488f-8559-8fe192bd4365.png?auto=format",
+    "downloads": 740612,
+    "trend": 87,
+    "releasedAt": "2026-08-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YBAOW3MKJ2K22U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Vybe Agentic Payment Gateway",
+    "description": "Get paid by people and agents. One catalog.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/75a4ee25-0f63-45e3-9b90-acea31741a9d.png?auto=format",
+    "downloads": 896722,
+    "trend": 33,
+    "releasedAt": "2026-08-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4KB2X2BD4GHMEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AgentSkills",
+    "description": "Portable Agent Skills for AI coding agents.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2e6bbe64-ff2d-4c38-bf01-565a4d24aa42.svg?auto=format",
+    "downloads": 134742,
+    "trend": 107,
+    "releasedAt": "2026-08-28T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B7RVZANRXRN7ER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Aegis Latent Core",
     "description": "Governed LLM traffic with verifiable audit evidence",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/SWNKKTPV6JZKF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Enter Pro",
-    "description": "The AI-native platform to build and scale your apps",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2a2e769a-18c0-436e-9c92-a7dcd96da2e9.png?auto=format",
-    "downloads": 1005380,
-    "trend": 70,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BLPV3H4S2Y7TQX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Lenz",
-    "description": "Independent, multi-model fact-checking API for AI workflows",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/19850e68-d4c5-437c-9e23-b704e5681619.png?auto=format",
-    "downloads": 536436,
-    "trend": 29,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4USMUFE5GNEFA6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ChatGenio",
-    "description": "The AI assistant that never clocks out",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bd3f2c72-fe61-480a-a929-79c2d498281f.png?auto=format",
-    "downloads": 917496,
-    "trend": 71,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DRM35E5JPIVA6B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FixMyResume",
-    "description": "Tailor your resume to any job in seconds using AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2ef2238e-2876-4214-8a93-f5c961554e16.png?auto=format",
-    "downloads": 187586,
-    "trend": 75,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/K35EONGO5QBJ2R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
