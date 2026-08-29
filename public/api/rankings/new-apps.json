@@ -1,5 +1,65 @@
 [
   {
+    "name": "Iman AI",
+    "description": "Prayer times, Qibla, Quran, and a source-cited assistant",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7c453dce-4f40-4ad2-9e05-3669f177d4f0.png?auto=format",
+    "downloads": 105548,
+    "trend": 53,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BBX74NDWXHWP43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Symvanta",
+    "description": "The code graph your AI coding agent is missing",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/1f3c6888-dabe-4d7a-89b2-6ce9a3f8c9b1.png?auto=format",
+    "downloads": 411101,
+    "trend": 58,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UX2MI7SQK7E2VE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Finmaticx Prompt Generator",
+    "description": "Create Better Prompts. Get Better AI Results.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2c9c7fbc-3c29-4915-89ed-45749e60303e.png?auto=format",
+    "downloads": 785650,
+    "trend": 29,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/L56RCX33JDHEZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Stashly",
+    "description": "Your AI-powered smart inventory for everything you own.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/edd82689-4c28-4f9c-b9a6-2f61197ea4b3.jpeg?auto=format",
+    "downloads": 999917,
+    "trend": 18,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OZPHG7L22ABGXE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Capsule Wardrobe",
+    "description": "AI outfits from clothes you actually own",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1cd5d982-defe-4839-a8d6-2d2dcdf7d2c3.png?auto=format",
+    "downloads": 1018482,
+    "trend": 107,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MDP2OL5JWYUMNL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Architectural AI Dashboard UI",
     "description": "Responsive UI template for 3D renders & floor plans",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/B7RVZANRXRN7ER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Aegis Latent Core",
-    "description": "Governed LLM traffic with verifiable audit evidence",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7496d8df-5498-4471-8759-abc8fad76b3c.png?auto=format",
-    "downloads": 643507,
-    "trend": 78,
-    "releasedAt": "2026-08-27T12:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CFII3MSRT7NERD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ojin",
-    "description": "Talk to an AI Agent with a real face and voice, in real time",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/df2a4e8a-1547-4dbd-b0a1-20a882f02505.png?auto=format",
-    "downloads": 443517,
-    "trend": 71,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YAV4JDAEVK32EV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sendra",
-    "description": "Design emails in Figma, export HTML that works everywhere",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/28b35d6b-3484-4113-9468-61970b2f22e2.png?auto=format",
-    "downloads": 519231,
-    "trend": 20,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/I4NCFSIET2ULKJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Wondering Canvas",
-    "description": "Visual ChatGPT in Parallel",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ae1c1a58-dba1-4b7e-90fa-48c61aaf37c3.png?auto=format",
-    "downloads": 792370,
-    "trend": 65,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FJSKF3B2RRZPS4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Savvy",
-    "description": "An assistant that whispers what to say during a meeting",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c36611b3-c65e-4319-9955-8fdcdf7f2644.png?auto=format",
-    "downloads": 827616,
-    "trend": 37,
-    "releasedAt": "2026-08-27T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MSCP2DY4XMNQCD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
