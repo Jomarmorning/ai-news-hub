@@ -1,5 +1,77 @@
 [
   {
+    "name": "MiniMax H3 (Hailuo 3)",
+    "description": "Create AI videos with text, images, and reference clips",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/66a058b0-f2f4-44a4-86dd-b5bad25bc8af.png?auto=format",
+    "downloads": 791139,
+    "trend": 46,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BJ6BHMOMTFZ4JW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LemonApp",
+    "description": "Free AI image & video generator powered by rewarded tasks",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/c08b2e0c-139a-4f97-ab9a-00fbf85275d1.jpeg?auto=format",
+    "downloads": 442099,
+    "trend": 22,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G3IZGQ5WSNES7P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Axix IDP Engine",
+    "description": "AI-powered invoice & document processing for modern finance",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/5ca75e91-617d-44b5-98c2-80601fa87861.png?auto=format",
+    "downloads": 418366,
+    "trend": 98,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JBZWOVJCTXWMDE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sona",
+    "description": "Draft ideas in your voice at the speed of light",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/d6dd4dd6-184f-4005-aeb3-df8e19b75790.svg?auto=format",
+    "downloads": 759338,
+    "trend": 86,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BSEVGBH2CYUE5W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "InsureFlow",
+    "description": "Simplifying insurance with AI-powered insights",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/879fd377-b1eb-46b9-9293-e2302945bb70.png?auto=format",
+    "downloads": 1092912,
+    "trend": 107,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XSEVY2BGPYJB6Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LegalEase_AI",
+    "description": " Understand legal documents in simple language with AI.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e9ddda39-8fc2-4926-bcae-de8cdcd57fdd.vnd.microsoft.icon?auto=format",
+    "downloads": 700590,
+    "trend": 70,
+    "releasedAt": "2026-08-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/O5O3KH3646RC3L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Iman AI",
     "description": "Prayer times, Qibla, Quran, and a source-cited assistant",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/OZPHG7L22ABGXE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Capsule Wardrobe",
-    "description": "AI outfits from clothes you actually own",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1cd5d982-defe-4839-a8d6-2d2dcdf7d2c3.png?auto=format",
-    "downloads": 1018482,
-    "trend": 107,
-    "releasedAt": "2026-08-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MDP2OL5JWYUMNL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Architectural AI Dashboard UI",
-    "description": "Responsive UI template for 3D renders & floor plans",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/79c380ae-b650-4e5c-b613-ea77d2e5699f.jpeg?auto=format",
-    "downloads": 904479,
-    "trend": 89,
-    "releasedAt": "2026-08-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4MJIPYPDSIW55D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TranscriptFetch",
-    "description": "Video and audio transcripts, structured for AI",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/fa418379-462e-488f-8559-8fe192bd4365.png?auto=format",
-    "downloads": 1082827,
-    "trend": 104,
-    "releasedAt": "2026-08-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YBAOW3MKJ2K22U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vybe Agentic Payment Gateway",
-    "description": "Get paid by people and agents. One catalog.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/75a4ee25-0f63-45e3-9b90-acea31741a9d.png?auto=format",
-    "downloads": 525149,
-    "trend": 94,
-    "releasedAt": "2026-08-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4KB2X2BD4GHMEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "aideepfake.io",
-    "description": "Swap any face, in seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/de97e23c-eb21-4fad-abee-8c9c0ac3facf.png?auto=format",
-    "downloads": 549662,
-    "trend": 105,
-    "releasedAt": "2026-08-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FZFKDGX3J5UQXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AgentSkills",
-    "description": "Portable Agent Skills for AI coding agents.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2e6bbe64-ff2d-4c38-bf01-565a4d24aa42.svg?auto=format",
-    "downloads": 134742,
-    "trend": 107,
-    "releasedAt": "2026-08-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/B7RVZANRXRN7ER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
