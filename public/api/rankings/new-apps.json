@@ -1,5 +1,29 @@
 [
   {
+    "name": "Invoicara",
+    "description": "Free invoice, receipt & quote generator, no sign up",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/2a969077-c628-461a-81cb-81bc5d9dfb89.png?auto=format",
+    "downloads": 636300,
+    "trend": 17,
+    "releasedAt": "2026-08-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5KC3ANFJZ33DVQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ChatGPT Auth V2",
+    "description": "Let users log in with ChatGPT and use AI on their own plan",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ceae9c44-6238-450f-841b-e9de411c7eab.png?auto=format",
+    "downloads": 857732,
+    "trend": 75,
+    "releasedAt": "2026-08-31T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ECRFZBQWRGYCSA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Seedream 5.0 Pro",
     "description": "Create AI images with multilingual text and precise layouts",
     "category": "AI绘画",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/S7PPIRFIUY54DK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "oMLX",
-    "description": "Mac LLM server that cuts agent wait times from 90s to 5s",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3ceb15d9-cc0c-4aeb-a5d8-9dc678df991f.png?auto=format",
-    "downloads": 225133,
-    "trend": 25,
-    "releasedAt": "2026-08-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2ABHAOG4SSOU7B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sayscroll",
-    "description": "The AI Teleprompter that scrolls as you speak",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fd792fb0-01d8-409b-a2a1-bb13a8e73a9c.png?auto=format",
-    "downloads": 910958,
-    "trend": 39,
-    "releasedAt": "2026-08-30T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TNCAQ5WNJCVBP5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
