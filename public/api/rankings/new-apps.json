@@ -1,5 +1,65 @@
 [
   {
+    "name": "Luno",
+    "description": "AI Mental Health Companion",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/68556d79-2da5-426a-90a7-4e4b0d8ed72b.png?auto=format",
+    "downloads": 764933,
+    "trend": 102,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/343OSXQHW3YU7I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TouchGrassBar",
+    "description": "Codex and Claude usage, limits, and a public leaderboard",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/f393087b-1732-45df-a8d4-fe03120bf23f.png?auto=format",
+    "downloads": 537771,
+    "trend": 85,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5EXQXSA3YEGA3W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Akinfo Tools",
+    "description": "mobile repair tools",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5ee357b3-4281-44fb-8ae6-2a1471028fda.png?auto=format",
+    "downloads": 750454,
+    "trend": 92,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YE332ERUVK33F2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ForgeBill",
+    "description": "Quote jobs, run work, invoice, and get paid",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/638d7396-5199-4a03-b4b7-67d9c3f94915.png?auto=format",
+    "downloads": 292798,
+    "trend": 90,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K6DVIGCS7GUF4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Migraine Meta",
+    "description": "An app designed for people suffering from Migraine",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/30c953f6-e0ef-496d-9923-083f01bb8d5a.webp?auto=format",
+    "downloads": 773682,
+    "trend": 37,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TO6I547S4YOHNZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "KAI - Agentic AI Platform",
     "description": "Agentic AI Platform for Seamless Enterprise Automation",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/RCUGLDR5MLQDA6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OpTYXo",
-    "description": "Free 100-point website audit, including AI visibility (GEO)",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/885d88ad-ef50-4786-beaf-1137dc9a2c7e.png?auto=format",
-    "downloads": 358035,
-    "trend": 103,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BAYBMHIXIYWXO6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Chat Extension Now",
-    "description": "Bulk clear your AI chat history from Safari, one time fee",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b1eef02b-cc57-41bb-859c-b689ef4887d4.jpeg?auto=format",
-    "downloads": 591091,
-    "trend": 10,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/I2OIVAV6CS374L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "askOdin",
-    "description": "AI due-diligence & deck stress-testing for startups and VCs",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/abb887d1-dffe-4d29-a5e6-01be3882b33b.png?auto=format",
-    "downloads": 704237,
-    "trend": 100,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JCZBUS52SPMDQQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Stress Less 2.0 With On-Device AI",
-    "description": "Don't just track stress. Do something about it now",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/aaaa1bf1-97eb-4ab6-8873-2461565f3aa2.png?auto=format",
-    "downloads": 741027,
-    "trend": 100,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CHZI5NK32QFTHQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Customs Shield",
-    "description": "AI customs compliance & expert marketplace for UK SMBs",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/15a6d997-b6d0-42e4-b5a5-1cbe5c27f5ae.png?auto=format",
-    "downloads": 334819,
-    "trend": 109,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Z3SSEY2GIFREEE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
