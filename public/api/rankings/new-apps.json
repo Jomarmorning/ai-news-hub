@@ -1,5 +1,77 @@
 [
   {
+    "name": "Agent Looker",
+    "description": "Scam-proof your AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a57b839d-b7d3-43b3-af3b-6f20f59f288d.png?auto=format",
+    "downloads": 497277,
+    "trend": 29,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OI52AJDZ77X5DI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "buttercup.sh",
+    "description": "Em dashes welcome — learn how to build AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4a9ad160-b64c-445c-88e2-294c8a7ca8fb.png?auto=format",
+    "downloads": 879302,
+    "trend": 79,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OYONSYD3FYG4TX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Leiolai",
+    "description": "An intelligence that pays its users",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/64cc6269-12a4-4bb4-8915-a6add85dadc3.png?auto=format",
+    "downloads": 918280,
+    "trend": 20,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DPOU6IWKWVCY7U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Brain",
+    "description": "A small, blazingly fast and extensible agent runtime",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5aec73c7-c380-42f4-9c03-b5e4f94c1253.png?auto=format",
+    "downloads": 378932,
+    "trend": 104,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MHSKQ2ZRYTUWG4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CodePet",
+    "description": "Keep AI coding moving across agents and teammates",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/42a3a1af-715b-4486-ae84-e41f8b717b41.png?auto=format",
+    "downloads": 875908,
+    "trend": 109,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TQCX5D4JIM5JXW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AgentBoard AI",
+    "description": "Can AI see and use your website? ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f6eedccd-b306-420b-986e-5d5de606f6b6.png?auto=format",
+    "downloads": 555872,
+    "trend": 41,
+    "releasedAt": "2026-09-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/57CSC44OLOVM7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Luno",
     "description": "AI Mental Health Companion",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/K6DVIGCS7GUF4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Migraine Meta",
-    "description": "An app designed for people suffering from Migraine",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/30c953f6-e0ef-496d-9923-083f01bb8d5a.webp?auto=format",
-    "downloads": 773682,
-    "trend": 37,
-    "releasedAt": "2026-09-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TO6I547S4YOHNZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "KAI - Agentic AI Platform",
-    "description": "Agentic AI Platform for Seamless Enterprise Automation",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c6cc9075-0d9d-4d42-9565-ac55e9e4a915.jpeg?auto=format",
-    "downloads": 473576,
-    "trend": 79,
-    "releasedAt": "2026-09-02T08:48:28Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/T7NEZDKWSLIGE6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TORGGO",
-    "description": "Global P2P classifieds. No fees. Talk in chat.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e3fde788-6114-45da-b291-93e9913eb40f.png?auto=format",
-    "downloads": 481828,
-    "trend": 42,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ESPAXPJB6LYJEJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Text & CSV Cleaner",
-    "description": "Clean, format, and prep raw text or CSVs for ChatGPT",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b4dc0ee8-d6aa-42cc-a93a-72b9452e9d2d.png?auto=format",
-    "downloads": 1008487,
-    "trend": 29,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QBLHKPYFNCK2YO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TradeOS Vietnam",
-    "description": "AI Export Compliance Agent",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bfc4b047-af43-49cb-9c96-cbbe3a46bfae.png?auto=format",
-    "downloads": 418832,
-    "trend": 75,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TOK3UMMIZBCH3P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Happy Shrimp AI",
-    "description": "Create playful visuals and character ideas with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f70aecd6-141e-49d9-a53e-418f7c8348fd.png?auto=format",
-    "downloads": 969040,
-    "trend": 67,
-    "releasedAt": "2026-09-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RCUGLDR5MLQDA6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
