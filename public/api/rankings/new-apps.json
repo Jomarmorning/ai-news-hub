@@ -1,5 +1,41 @@
 [
   {
+    "name": "Roost",
+    "description": "A native Mac terminal built around AI coding agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/042a9db4-496e-4b7d-9660-082d3a185e89.png?auto=format",
+    "downloads": 365399,
+    "trend": 23,
+    "releasedAt": "2026-09-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/E6ICNBE35LLBWO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TableAI",
+    "description": "Restaurant operations on WhatsApp. No app to install.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/db80b8c6-eaae-45d5-aef6-d51f07c7d98c.png?auto=format",
+    "downloads": 1016992,
+    "trend": 70,
+    "releasedAt": "2026-09-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZAQGIU4JPD4ID2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ReesetMe",
+    "description": "AI habit change coach for honest check-ins",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e88fd3a1-6cf0-48d2-baeb-997153f1b78e.png?auto=format",
+    "downloads": 277509,
+    "trend": 61,
+    "releasedAt": "2026-09-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5RWUAAS77QEZ4Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "GPT-6 Astra",
     "description": "OpenAI's most capable model for end-to-end work",
     "category": "AI对话",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/UFSZU36KRVAQKF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Agent Looker",
-    "description": "Scam-proof your AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a57b839d-b7d3-43b3-af3b-6f20f59f288d.png?auto=format",
-    "downloads": 497277,
-    "trend": 29,
-    "releasedAt": "2026-09-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OI52AJDZ77X5DI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "buttercup.sh",
-    "description": "Em dashes welcome — learn how to build AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4a9ad160-b64c-445c-88e2-294c8a7ca8fb.png?auto=format",
-    "downloads": 879302,
-    "trend": 79,
-    "releasedAt": "2026-09-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OYONSYD3FYG4TX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Leiolai",
-    "description": "An intelligence that pays its users",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/64cc6269-12a4-4bb4-8915-a6add85dadc3.png?auto=format",
-    "downloads": 918280,
-    "trend": 20,
-    "releasedAt": "2026-09-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DPOU6IWKWVCY7U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
