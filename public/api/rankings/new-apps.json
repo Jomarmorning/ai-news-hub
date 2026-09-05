@@ -1,5 +1,77 @@
 [
   {
+    "name": "BFF By Valkence - Creator Waitlist",
+    "description": "Join the waitlist to become a BFF creator and earn from fans",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c10e5100-14ca-438b-b769-14aa596b14a9.webp?auto=format",
+    "downloads": 493686,
+    "trend": 104,
+    "releasedAt": "2026-09-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UKVHVSFW6IFP3Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "vue3-pdf-export",
+    "description": "Generate feature-rich PDFs from HTML in Vue 3",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3640f010-23ab-495d-bf31-f48fa298fa02.png?auto=format",
+    "downloads": 1013995,
+    "trend": 31,
+    "releasedAt": "2026-09-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2EDHYRNC4Q6D6K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SWARA",
+    "description": "Your resume. Our AI. Gets you hired.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9186521f-2685-42d7-b794-b26c6f9d6ba3.png?auto=format",
+    "downloads": 169692,
+    "trend": 22,
+    "releasedAt": "2026-09-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PFOKVP2KDHJRVZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ponytail",
+    "description": "Make new code the last resort",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/8cfb3440-449b-4b91-b73e-8ee4edf607a1.jpeg?auto=format",
+    "downloads": 603151,
+    "trend": 54,
+    "releasedAt": "2026-09-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/F54V33UO2L5EHU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Hyperprobe",
+    "description": "Lets your AI agents debug production without redeploying",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/45ac4fb6-cce6-49be-8aed-fbc466a26252.png?auto=format",
+    "downloads": 699736,
+    "trend": 11,
+    "releasedAt": "2026-09-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/G2JREG7FXOOWLK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Reflexio",
+    "description": "Behavioral learning that makes AI agents better over time",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/949ae9ec-379e-4d5d-87bd-84df2f0b1a1f.png?auto=format",
+    "downloads": 419164,
+    "trend": 99,
+    "releasedAt": "2026-09-05T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3COBJOOBFV7YMA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Roost",
     "description": "A native Mac terminal built around AI coding agents",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/JZWSD2RN4SUNT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WeatherNext 3",
-    "description": "Our most advanced and accurate global weather AI model",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/138214d5-1ce3-4b79-9fe8-940e5acccad2.png?auto=format",
-    "downloads": 1087336,
-    "trend": 96,
-    "releasedAt": "2026-09-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3UIBZLKQ7QOH46?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "myAIcademy",
-    "description": "Learn AI skills for your specific role and team",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7117bad3-79cd-4de5-babb-c4e6949137f8.png?auto=format",
-    "downloads": 924917,
-    "trend": 86,
-    "releasedAt": "2026-09-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZV2IS4ZFBSIMTJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Clockwork",
-    "description": "The calendar where your AI agents show up for work",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5490ea8f-cf86-461e-924e-8b9efaf0dba9.svg?auto=format",
-    "downloads": 337622,
-    "trend": 26,
-    "releasedAt": "2026-09-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JW45CRUJFINZDM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FeedMonitor Decision Brief",
-    "description": "Source-backed pricing briefs for early AI SaaS founders",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3941f338-f247-4f9a-92b0-3188a0dc2778.png?auto=format",
-    "downloads": 830004,
-    "trend": 18,
-    "releasedAt": "2026-09-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HXX42A3FBCNDIG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "EmlakDiyo — Emlak CRM uygulaması",
-    "description": "The mobile CRM built for real estate teams",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4bde8574-0255-49a5-9aca-3b0b5d8100b1.png?auto=format",
-    "downloads": 216579,
-    "trend": 38,
-    "releasedAt": "2026-09-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NX4MTIN4KVQ7DY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Indian hydraulic",
-    "description": "Chennai's Trusted Hydraulic Equipment Supplier Since 1993",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/91d4a846-eb7d-430c-8efb-7a973e24a0ed.png?auto=format",
-    "downloads": 668319,
-    "trend": 107,
-    "releasedAt": "2026-09-04T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UFSZU36KRVAQKF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
