@@ -1,5 +1,77 @@
 [
   {
+    "name": "Maque AI Video Watermark Remover",
+    "description": "Remove video watermarks with AI in your browser",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/58fc4388-922f-47fe-871c-3ef4995750db.png?auto=format",
+    "downloads": 511092,
+    "trend": 106,
+    "releasedAt": "2026-09-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UQG3XPRNBP7J5L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "deltaairtravel.com",
+    "description": "Delta Air Travel",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c08b803b-5e48-4740-9412-d1b8023060ed.png?auto=format",
+    "downloads": 270309,
+    "trend": 13,
+    "releasedAt": "2026-09-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B3NHDQJTU5SZC5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Pic2Emoji",
+    "description": "Make Emoji from Photo – AI Photo to Emoji Converter",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/db0aadf4-9280-4d09-b63c-8246aa5a98af.svg?auto=format",
+    "downloads": 214122,
+    "trend": 99,
+    "releasedAt": "2026-09-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DXK3GR26DUXWZI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ContextForge → AI Coding Context",
+    "description": "Your AI can write the code. It can't see your browser",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/821cda28-7ce8-4902-8d15-87334afad59b.png?auto=format",
+    "downloads": 661207,
+    "trend": 16,
+    "releasedAt": "2026-09-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WAT5FKTP3NJB3B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "HeyVigo AI",
+    "description": "Turn images, clips, and scripts to creative AI videos.",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/dd43119c-e8ec-4094-a975-16e9e057ea53.png?auto=format",
+    "downloads": 192683,
+    "trend": 38,
+    "releasedAt": "2026-09-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/67OXFUHAOZFK6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Tempy",
+    "description": "Turn any email into a webhook",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/40814a00-8ddb-4de7-bcc2-93316c0e5f68.svg?auto=format",
+    "downloads": 765817,
+    "trend": 67,
+    "releasedAt": "2026-09-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/I27PFT2OQRC425?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Mail merge from Excel to PDF",
     "description": "Word or PDF template, one file per row, all in your browser",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/OKYBQSA4H6VO7X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "botready.dev",
-    "description": "Make your website visible to AI",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/70189dbc-e8ad-4f56-8148-f3a61bf17299.png?auto=format",
-    "downloads": 904465,
-    "trend": 11,
-    "releasedAt": "2026-09-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZBEJ5HBYP2I7KD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sygents",
-    "description": "Linkedin For AI Agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a0ff62a9-8c31-4649-b1d1-92242fb89c0c.png?auto=format",
-    "downloads": 407326,
-    "trend": 50,
-    "releasedAt": "2026-09-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O5P3A7IJUZN6IG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ponytail",
-    "description": "Make new code the last resort",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/8cfb3440-449b-4b91-b73e-8ee4edf607a1.jpeg?auto=format",
-    "downloads": 730312,
-    "trend": 77,
-    "releasedAt": "2026-09-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/F54V33UO2L5EHU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DocSanitizer",
-    "description": "Censor private PII & shrink docs to fit any AI prompt",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7993caca-de63-4eb8-99b0-1efacc6436fe.png?auto=format",
-    "downloads": 862544,
-    "trend": 66,
-    "releasedAt": "2026-09-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/U2X7U54LLCMG2P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Magic Eraser & Retouch: Omit",
-    "description": "Tap the object, not around it. AI erases the rest.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/486094ef-a932-42a9-aeaa-2ccea7ff57fd.png?auto=format",
-    "downloads": 661668,
-    "trend": 56,
-    "releasedAt": "2026-09-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CWSURJKXNIASSR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Retold",
-    "description": "Turn family voices into hand-drawn story films",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/0667e904-30bc-4bda-bdb9-a65caeacb6c4.png?auto=format",
-    "downloads": 333017,
-    "trend": 27,
-    "releasedAt": "2026-09-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O6EWZGAHLH3P7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
