@@ -1,5 +1,65 @@
 [
   {
+    "name": "Waterfall AI Test",
+    "description": "Turn requirements into verified Playwright tests",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/97496d5f-11cf-4262-9465-8e487c4aebc2.png?auto=format",
+    "downloads": 658925,
+    "trend": 54,
+    "releasedAt": "2026-09-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/C7I2F63TGTEHJA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "shashi.ai",
+    "description": "Building the Future of the AI-Powered Guest Experience",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5cb17974-8d9b-49e4-955e-e28900c8ed94.png?auto=format",
+    "downloads": 822602,
+    "trend": 20,
+    "releasedAt": "2026-09-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YQBCWHKLJBUAIG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Consegna Fiori a Napoli",
+    "description": "the AI flower composition configurator.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e610b31b-aca3-400a-ace1-675e32a7fdd8.png?auto=format",
+    "downloads": 418116,
+    "trend": 48,
+    "releasedAt": "2026-09-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SHNQSDTCV63RRP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Soft Corner: AI Companion",
+    "description": "AI companions that feel remarkably human",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d0f38cf4-98eb-4a85-97b3-623abb589094.png?auto=format",
+    "downloads": 491375,
+    "trend": 73,
+    "releasedAt": "2026-09-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YURK63ZKCKGTOF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BeChat",
+    "description": "La app donde tu empresa se comunica y se organiza.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/d5ef9aa1-1403-4ba8-9628-39ead20f3501.png?auto=format",
+    "downloads": 955152,
+    "trend": 100,
+    "releasedAt": "2026-09-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4D5UUSHVWVIIR6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Proofly",
     "description": "Don’t Just Trust AI. Check It.",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/6UBPIFNE4AZJCJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cifzy",
-    "description": "Discover, copy & share AI prompts",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/bb8155a1-87d6-4691-a0ba-7bb3c03378a5.png?auto=format",
-    "downloads": 248024,
-    "trend": 33,
-    "releasedAt": "2026-09-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5KXD5GIYYZ7YBC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Toolify Studio",
-    "description": " 312+ Free AI Tools & Generators",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e601057b-eb86-4c64-8174-d90e3b8f8983.png?auto=format",
-    "downloads": 661299,
-    "trend": 13,
-    "releasedAt": "2026-09-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TFA4J257MXD355?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CFDB",
-    "description": "Chilean football data, ready for AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6fdb6cb1-9306-4063-8cc9-f22d8f611bb7.png?auto=format",
-    "downloads": 1000609,
-    "trend": 99,
-    "releasedAt": "2026-09-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PUPGT23NNJNMWH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Juvina",
-    "description": "Persistent, local AI memory for Copilot & Claude Code",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/9fa6772e-bfcc-47a1-9af2-bd321d612958.png?auto=format",
-    "downloads": 1084754,
-    "trend": 84,
-    "releasedAt": "2026-09-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WFIMQN5SOS6LYV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "The AI Job Search Playbook",
-    "description": "AI-powered tools for a smarter job search",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/44a1ff6c-55cf-4887-a118-615e604617ba.png?auto=format",
-    "downloads": 847304,
-    "trend": 70,
-    "releasedAt": "2026-09-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UK4JRWKVOTTV43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
