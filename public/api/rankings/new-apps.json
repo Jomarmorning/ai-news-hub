@@ -1,5 +1,41 @@
 [
   {
+    "name": "QR Campaign",
+    "description": "Track QR codes & links. One link for iOS & Android stores",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/5d219797-d613-423a-a3e6-2fa64ab2ed68.png?auto=format",
+    "downloads": 692977,
+    "trend": 88,
+    "releasedAt": "2026-09-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HIQPREXQM4NXFG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Vocari Health",
+    "description": "AI front desk that scales with your clinic",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/fa186774-07fc-4e1b-a31d-cf12f05c597e.png?auto=format",
+    "downloads": 131806,
+    "trend": 61,
+    "releasedAt": "2026-09-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4HPMSVGATUH254?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Delta HRMS",
+    "description": "HR Software Dubai for Payroll, WPS & HR Management",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9e905c8b-a6d0-4447-bbf2-1c95a702dc7e.png?auto=format",
+    "downloads": 1042621,
+    "trend": 18,
+    "releasedAt": "2026-09-10T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SG2BZMJ3KWN7RL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Modeinspect",
     "description": "99 Days Free AI Credits - Design product UI in your codebase",
     "category": "开发工具",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/VIJDGY3KUHZF23?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WhoCanFindMe",
-    "description": "Find out if AI can find your business",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4c9615b4-3b81-4fc1-b734-e29602639770.png?auto=format",
-    "downloads": 713314,
-    "trend": 51,
-    "releasedAt": "2026-09-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QNB2Q5GG27A445?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NextGenSwitch",
-    "description": "White-label AI contact center for service providers",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/28611871-36eb-4078-9e56-db57a067036f.jpeg?auto=format",
-    "downloads": 700924,
-    "trend": 84,
-    "releasedAt": "2026-09-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PMQDK5K42JF6D2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Certified Payroll",
-    "description": "WH-347 certified payroll, checked against SAM.gov live",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c1a660de-8b55-41c1-abfe-d77e65797713.svg?auto=format",
-    "downloads": 431734,
-    "trend": 44,
-    "releasedAt": "2026-09-09T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VJ452SZDAL5DHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
