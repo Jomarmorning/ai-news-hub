@@ -1,5 +1,41 @@
 [
   {
+    "name": "ALOP-AI",
+    "description": "AI council.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0b25e904-b974-408c-a9d5-ef7fb56330c8.png?auto=format",
+    "downloads": 622427,
+    "trend": 20,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ML2MOXN7DK5YQ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ABrush",
+    "description": "AI Studio for Digital Artists",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/60b19c18-251e-4975-9c64-a4dcf1032962.png?auto=format",
+    "downloads": 106915,
+    "trend": 49,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WNR63HR4RGXHOI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PowerHub",
+    "description": "Fund your AI budget. Keep building. Hear from the players.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/64fa9a0c-69d2-4d3d-b6a7-5a0b49f230ff.png?auto=format",
+    "downloads": 740964,
+    "trend": 103,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/45YG3R53CCE6EV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Jarvey — proactive AI Agent",
     "description": "Right in your Google Meet & Zoom calls",
     "category": "AI对话",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/X6AHJIKYX5ZTMJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Giffit",
-    "description": "Wish lists and AI gift ideas for the people you love",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3a3a197a-0bb6-4d27-8446-47630a1ed050.png?auto=format",
-    "downloads": 1078504,
-    "trend": 78,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JBWRG5JVDTBESO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SeamUI",
-    "description": "We kept the models and deleted the chat.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8c3ef04b-1074-4f42-900b-6e40a12462a1.jpeg?auto=format",
-    "downloads": 335877,
-    "trend": 27,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QKEKSHH66CZ5IJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "iCustomer Growth Brain",
-    "description": "Your growth team's always-on brain, where you work",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2c57fc36-bdb6-48af-96f3-9b608f5820a4.png?auto=format",
-    "downloads": 915223,
-    "trend": 82,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2Z62AIAE5KB24Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
