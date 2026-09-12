@@ -1,5 +1,53 @@
 [
   {
+    "name": "Jarvey — proactive AI Agent",
+    "description": "Right in your Google Meet & Zoom calls",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1712eeea-8b2e-475b-85cb-882ce9943b3a.png?auto=format",
+    "downloads": 129564,
+    "trend": 15,
+    "releasedAt": "2026-09-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/L2XMT3QTR7GHAR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Luen",
+    "description": "Free GST & Multi-Currency Invoice Generator",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/fcba99be-5348-47aa-9e51-270720b91694.png?auto=format",
+    "downloads": 712995,
+    "trend": 61,
+    "releasedAt": "2026-09-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BGPUYWJOBW7XPO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "xMailman",
+    "description": "A one-binary, self-hosted mailing list manager.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/39f3ebc8-b1b0-41b8-b229-da77e680e267.png?auto=format",
+    "downloads": 453230,
+    "trend": 10,
+    "releasedAt": "2026-09-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KHMRGPFPRVZN43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Fontsum",
+    "description": "Free font discovery, font pairings, and typography tools",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ca9f73dc-6432-4ac3-928f-f76cb5909a76.png?auto=format",
+    "downloads": 785700,
+    "trend": 24,
+    "releasedAt": "2026-09-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/65D7UWLEMZ2QL6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Masteron Enanthate 100mg/ml – 10ml Vial",
     "description": "Masteron Enanthate 100mg/ml - 10ml Injectable Vial",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2Z62AIAE5KB24Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Blyth AI",
-    "description": "One AI workspace for image, video, audio, 3D & workflows",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/f8697ca8-6bca-492b-9619-b2aff1bf2c2f.png?auto=format",
-    "downloads": 674914,
-    "trend": 63,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4YYJE4OUCNEW2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "QR Campaign",
-    "description": "Track QR codes & links. One link for iOS & Android stores",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/5d219797-d613-423a-a3e6-2fa64ab2ed68.png?auto=format",
-    "downloads": 692977,
-    "trend": 88,
-    "releasedAt": "2026-09-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HIQPREXQM4NXFG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vocari Health",
-    "description": "AI front desk that scales with your clinic",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fa186774-07fc-4e1b-a31d-cf12f05c597e.png?auto=format",
-    "downloads": 131806,
-    "trend": 61,
-    "releasedAt": "2026-09-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4HPMSVGATUH254?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Delta HRMS",
-    "description": "HR Software Dubai for Payroll, WPS & HR Management",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9e905c8b-a6d0-4447-bbf2-1c95a702dc7e.png?auto=format",
-    "downloads": 1042621,
-    "trend": 18,
-    "releasedAt": "2026-09-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SG2BZMJ3KWN7RL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
