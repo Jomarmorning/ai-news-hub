@@ -1,5 +1,65 @@
 [
   {
+    "name": "Posting Machine",
+    "description": "AI content engine for B2B founders",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/e7f38f9e-c0a9-4217-a902-0a563ae693bd.svg?auto=format",
+    "downloads": 1085583,
+    "trend": 86,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/74EIORXSFUZM3E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Full-Duplex Code",
+    "description": "Talk to Claude Code while it works",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/32b5ce7c-7086-4eb4-b58f-513b71520417.png?auto=format",
+    "downloads": 801211,
+    "trend": 103,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5KARYI3SX3KALL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AtlasBurn",
+    "description": "Know what your AI will cost before the invoice does",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/6e335094-1702-46a6-ae81-9febe31bb9ba.jpeg?auto=format",
+    "downloads": 235467,
+    "trend": 70,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MUCSVXJZHZLK73?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WraithAuth",
+    "description": "Seamless auth & HWID licensing built for developers",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/683c70a2-c63b-4d1b-9883-fe46595cc03f.webp?auto=format",
+    "downloads": 218337,
+    "trend": 106,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WI6RGN77LQVIFO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ConvertScreen",
+    "description": "AI App Store & Google Play screenshots that convert",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/83b6239e-b79a-47ef-a054-f04566503df1.jpeg?auto=format",
+    "downloads": 121201,
+    "trend": 45,
+    "releasedAt": "2026-09-12T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YZ43WREPNASGNK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "ALOP-AI",
     "description": "AI council.",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/BGPUYWJOBW7XPO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "xMailman",
-    "description": "A one-binary, self-hosted mailing list manager.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/39f3ebc8-b1b0-41b8-b229-da77e680e267.png?auto=format",
-    "downloads": 453230,
-    "trend": 10,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KHMRGPFPRVZN43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Fontsum",
-    "description": "Free font discovery, font pairings, and typography tools",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ca9f73dc-6432-4ac3-928f-f76cb5909a76.png?auto=format",
-    "downloads": 785700,
-    "trend": 24,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/65D7UWLEMZ2QL6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Masteron Enanthate 100mg/ml – 10ml Vial",
-    "description": "Masteron Enanthate 100mg/ml - 10ml Injectable Vial",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e082b3e7-dd5e-4b12-ad51-2a08ce54f8ea.jpeg?auto=format",
-    "downloads": 867707,
-    "trend": 19,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FQJVBVVU4WHIYZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pure Croft",
-    "description": "High-bioavailability functional mushroom extracts",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8684d3fe-a793-4723-b3de-982364dbe72f.png?auto=format",
-    "downloads": 687509,
-    "trend": 36,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QJ7XKX4PY4ZEDY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Word Association Now",
-    "description": "AirPlay word association that turns your TV into a game show",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b4c33765-0d4c-4bbb-b732-a912ae42c90a.jpeg?auto=format",
-    "downloads": 774440,
-    "trend": 103,
-    "releasedAt": "2026-09-11T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/X6AHJIKYX5ZTMJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
