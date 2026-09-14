@@ -1,5 +1,53 @@
 [
   {
+    "name": "Pirate Markdown",
+    "description": "Turn any webpage into clean, LLM-ready Markdown. ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b2bb4e84-2e34-4c75-ab53-749ea1c62e4e.png?auto=format",
+    "downloads": 859774,
+    "trend": 104,
+    "releasedAt": "2026-09-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/THSE5SAJPDYFLF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "baoer_signal_grep",
+    "description": "A tiny local librarian for AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/690f2429-a845-4aa1-bd20-958d5dca4472.jpeg?auto=format",
+    "downloads": 301232,
+    "trend": 103,
+    "releasedAt": "2026-09-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZM4SLAJ6WVS6DC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Spenco AI: Expense Tracker",
+    "description": "The expense tracker that shows you what’s coming next",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/eb3b1870-a6c0-454e-afcb-6292e011970a.png?auto=format",
+    "downloads": 355447,
+    "trend": 23,
+    "releasedAt": "2026-09-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KJXVZRI5WLQKAO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AgentArk",
+    "description": "Personal AI Assistant, secure first, self learning",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5a7a461a-5369-4143-8983-f41004b18e1b.png?auto=format",
+    "downloads": 173703,
+    "trend": 32,
+    "releasedAt": "2026-09-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JPFS5P5I3DX7R7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Neopress",
     "description": "Build and grow your website by chatting with AI",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/5IWKJOELJGRMKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AXRAY",
-    "description": "See what ChatGPT actually reads on your website",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/daf09abc-c9e1-4c28-ba49-c1b680ce7a81.jpeg?auto=format",
-    "downloads": 298464,
-    "trend": 103,
-    "releasedAt": "2026-09-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VVLZT3SSDP7XR5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Posting Machine",
-    "description": "AI content engine for B2B founders",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/e7f38f9e-c0a9-4217-a902-0a563ae693bd.svg?auto=format",
-    "downloads": 1085583,
-    "trend": 86,
-    "releasedAt": "2026-09-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/74EIORXSFUZM3E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Full-Duplex Code",
-    "description": "Talk to Claude Code while it works",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/32b5ce7c-7086-4eb4-b58f-513b71520417.png?auto=format",
-    "downloads": 801211,
-    "trend": 103,
-    "releasedAt": "2026-09-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5KARYI3SX3KALL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AtlasBurn",
-    "description": "Know what your AI will cost before the invoice does",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/6e335094-1702-46a6-ae81-9febe31bb9ba.jpeg?auto=format",
-    "downloads": 235467,
-    "trend": 70,
-    "releasedAt": "2026-09-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MUCSVXJZHZLK73?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
