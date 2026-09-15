@@ -1,5 +1,77 @@
 [
   {
+    "name": "ViralWireNow",
+    "description": "Latest news on AI, tech, and global trends",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ce075184-c622-4314-85c3-2948d9d0cab1.png?auto=format",
+    "downloads": 213685,
+    "trend": 21,
+    "releasedAt": "2026-09-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VTXM55N7576YOA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Praise — Collect customer testimonials",
+    "description": "Turn customer love into testimonials that sell",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3addc072-3b58-4d01-80b6-3da3658302da.png?auto=format",
+    "downloads": 670871,
+    "trend": 106,
+    "releasedAt": "2026-09-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/D565UEDFKPJQV4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "bitparsec",
+    "description": "See what AI recommends - public ai visibility tracker",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b1c97268-24da-456c-9557-25050f9caa47.png?auto=format",
+    "downloads": 409222,
+    "trend": 21,
+    "releasedAt": "2026-09-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HC72TMU4RMOHVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ReelComet",
+    "description": "AI workspace for image creation, editing, and video drafts",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/c70f5083-055c-4850-89de-0b1f3d1f2b3e.png?auto=format",
+    "downloads": 911208,
+    "trend": 21,
+    "releasedAt": "2026-09-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RMDVARE33HW3E3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Free Campaign URL Generator",
+    "description": "Stop guessing at UTM tags. Build them right, every time.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/70fd6fa2-c43e-42be-82a3-7d506b8145b2.png?auto=format",
+    "downloads": 541132,
+    "trend": 85,
+    "releasedAt": "2026-09-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XC7J76OZQN5R7S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "EmbAI",
+    "description": "AI-native STM32 IDE: from schematic to firmware",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/077c609c-740b-4872-bcb6-f6c106222c72.png?auto=format",
+    "downloads": 139860,
+    "trend": 94,
+    "releasedAt": "2026-09-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RIXAVV2KAZLXDJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Syngraphe",
     "description": "Structured repo context behind AGENTS.md, for AI and humans.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/ZG6GFMJINPWTDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Emailens",
-    "description": "Automated code & design QA across all email clients",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/d3fa09a4-02bb-450e-98cf-ce585b0413e5.png?auto=format",
-    "downloads": 205217,
-    "trend": 18,
-    "releasedAt": "2026-09-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/THMME534U45UK3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SVG2CSS",
-    "description": "Convert SVGs to CSS, data URIs & Tailwind classes",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b3ac71a5-56e1-457c-b63d-d69ec81676b3.png?auto=format",
-    "downloads": 875007,
-    "trend": 35,
-    "releasedAt": "2026-09-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/I3WUWESZIXD7DG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Doculan",
-    "description": "AI based CLM, Virtual Data Room & eSignature Platform",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e1884c59-e09c-4d14-9f7d-4e7ddf2feafe.png?auto=format",
-    "downloads": 591936,
-    "trend": 41,
-    "releasedAt": "2026-09-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2VCX5EIKQI7RRF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pirate Markdown",
-    "description": "Turn any webpage into clean, LLM-ready Markdown. ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b2bb4e84-2e34-4c75-ab53-749ea1c62e4e.png?auto=format",
-    "downloads": 859774,
-    "trend": 104,
-    "releasedAt": "2026-09-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/THSE5SAJPDYFLF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "baoer_signal_grep",
-    "description": "A tiny local librarian for AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/690f2429-a845-4aa1-bd20-958d5dca4472.jpeg?auto=format",
-    "downloads": 301232,
-    "trend": 103,
-    "releasedAt": "2026-09-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZM4SLAJ6WVS6DC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Spenco AI: Expense Tracker",
-    "description": "The expense tracker that shows you what’s coming next",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/eb3b1870-a6c0-454e-afcb-6292e011970a.png?auto=format",
-    "downloads": 355447,
-    "trend": 23,
-    "releasedAt": "2026-09-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KJXVZRI5WLQKAO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
