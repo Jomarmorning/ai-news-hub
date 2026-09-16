@@ -4,8 +4,8 @@
     "description": "Free and open-source AI-native digital audio workstation",
     "category": "AI音频",
     "icon": "https://ph-files.imgix.net/3868c06a-10d5-41e0-84e3-088321eaaf6c.png?auto=format",
-    "downloads": 609489,
-    "trend": 49,
+    "downloads": 744525,
+    "trend": 44,
     "releasedAt": "2026-09-15T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
@@ -16,8 +16,8 @@
     "description": "Check if GPTBot & ClaudeBot can crawl your site, fre",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/f93f032d-a215-4da8-a5e2-652751a7845f.png?auto=format",
-    "downloads": 997864,
-    "trend": 75,
+    "downloads": 340531,
+    "trend": 82,
     "releasedAt": "2026-09-15T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
@@ -28,8 +28,8 @@
     "description": "Free web utilities and AI tools for content creators",
     "category": "AI写作",
     "icon": "https://ph-files.imgix.net/5da8369f-f69d-4f9b-a159-643951961bc0.png?auto=format",
-    "downloads": 540998,
-    "trend": 107,
+    "downloads": 434025,
+    "trend": 69,
     "releasedAt": "2026-09-15T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
@@ -40,12 +40,36 @@
     "description": "Never get stuck on what to say.",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/24021056-bcdc-4fb8-9280-3713bab6534e.webp?auto=format",
-    "downloads": 233017,
-    "trend": 17,
+    "downloads": 400557,
+    "trend": 49,
     "releasedAt": "2026-09-15T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/H42NTYEWZ4GT4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "RaterSidekick",
+    "description": "One dashboard for your AI contract work and earnings",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/23c6de26-bb88-4e43-9f9d-9cc918282385.png?auto=format",
+    "downloads": 420717,
+    "trend": 59,
+    "releasedAt": "2026-09-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7PQCP4UMHESHK6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ARVideoCards",
+    "description": "Swiss-made AR postcards for moments and campaigns",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/5140f944-cddc-411a-993c-cd9707810d64.png?auto=format",
+    "downloads": 903621,
+    "trend": 77,
+    "releasedAt": "2026-09-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WFPAURHJ4T5EJA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Replyvora",
@@ -84,18 +108,6 @@
     "url": "https://www.producthunt.com/r/QOBUZHRQC3KM4U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "RaterSidekick",
-    "description": "One dashboard for your AI contract work and earnings",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/23c6de26-bb88-4e43-9f9d-9cc918282385.png?auto=format",
-    "downloads": 643484,
-    "trend": 15,
-    "releasedAt": "2026-09-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7PQCP4UMHESHK6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "ViralWireNow",
     "description": "Latest news on AI, tech, and global trends",
     "category": "AI对话",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/VTXM55N7576YOA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Praise — Collect customer testimonials",
-    "description": "Turn customer love into testimonials that sell",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3addc072-3b58-4d01-80b6-3da3658302da.png?auto=format",
-    "downloads": 670871,
-    "trend": 106,
-    "releasedAt": "2026-09-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/D565UEDFKPJQV4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
