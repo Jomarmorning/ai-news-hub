@@ -1,5 +1,65 @@
 [
   {
+    "name": "ApexGrid UI",
+    "description": "React 19 & Tailwind CSS Dashboard Suites for Startups",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/accaafde-644c-48db-b8b1-c1300d542087.jpeg?auto=format",
+    "downloads": 345129,
+    "trend": 86,
+    "releasedAt": "2026-09-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KSKSLON2ORQ26L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Aithos Agent Cards",
+    "description": "Host your A2A Agent Cards on Aithos",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/03e1fd60-7b6a-4ca5-974a-983c61fed638.png?auto=format",
+    "downloads": 139525,
+    "trend": 12,
+    "releasedAt": "2026-09-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5XOFE4IH5ZLUF2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LAIGEND",
+    "description": "Find businesses. Discover what to sell them faster.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/4348ba77-06d8-409a-8900-25ec4366b3de.svg?auto=format",
+    "downloads": 1092456,
+    "trend": 43,
+    "releasedAt": "2026-09-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2CYADFKVSLRGYR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AyniCam",
+    "description": "Turn your iPhone into an AI driving co-pilot",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/02fb542d-1fd4-450e-aa39-8cb0c83e8d55.png?auto=format",
+    "downloads": 1086088,
+    "trend": 81,
+    "releasedAt": "2026-09-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/K3NLVABPVUQR7S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Code Tracker AI",
+    "description": "AI-powered code intelligence for JetBrains IDEs",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/0da07d53-b823-4dd7-931a-c45ee0e62f1a.png?auto=format",
+    "downloads": 682596,
+    "trend": 63,
+    "releasedAt": "2026-09-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SEC7TSP6SV3PGB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Higgsfield API",
     "description": "One async API for 50+ generative media models",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/BT4VXYMQNVMEGC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "QAgent",
-    "description": "Automated QA for AI agents. Stop shipping on vibes.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5ab4d6aa-b847-4522-a5d6-3ffc96625d80.png?auto=format",
-    "downloads": 440062,
-    "trend": 92,
-    "releasedAt": "2026-09-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OYMV6EL4HSY2Y4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Amy by Jellyfish",
-    "description": "Your AI sourcing employee for recruiting teams",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/065e4a7e-7850-4faa-b4dc-e5435178dbe5.png?auto=format",
-    "downloads": 721745,
-    "trend": 53,
-    "releasedAt": "2026-09-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HR4RM6MZDO72UL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AskDeck",
-    "description": "Call an AI to get a PowerPoint and a narrated video back",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/1dec9a80-3dd7-46d0-a85d-a9f72419bfe4.png?auto=format",
-    "downloads": 946251,
-    "trend": 15,
-    "releasedAt": "2026-09-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PKIB7T2AMFBP43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "lepoch",
-    "description": "Fine-tune and deploy AI models with your own data",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/efd8f723-d1fe-4ddc-9d11-1040115f90bd.svg?auto=format",
-    "downloads": 683360,
-    "trend": 103,
-    "releasedAt": "2026-09-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NOEGKJ6AUYBQXZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Jottoo",
-    "description": "AI meeting notes that turn into tracked tasks",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/8808dac9-6745-49a5-b0f2-4f3c3cf1e0e6.png?auto=format",
-    "downloads": 738913,
-    "trend": 34,
-    "releasedAt": "2026-09-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/76QCSX3DKL7KCG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
