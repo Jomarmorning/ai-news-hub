@@ -1,5 +1,77 @@
 [
   {
+    "name": "PingCatchAI",
+    "description": "The modern Google Alerts alternative. Track brand mentions.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/131f9889-13e1-49b9-95b3-5687c89137b3.png?auto=format",
+    "downloads": 820836,
+    "trend": 57,
+    "releasedAt": "2026-09-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BFB42GE4JY2AQJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Habiv",
+    "description": "Play and publish AI-made games in your browser",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c5baa9ec-11f7-40ec-99e3-4c2025825519.png?auto=format",
+    "downloads": 594595,
+    "trend": 59,
+    "releasedAt": "2026-09-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5UNTNCLVSRCSTM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mudd",
+    "description": "Team chat and project tasks with AI-assisted task extraction",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ffcdb1e3-d033-4d40-8367-ca13027e3e3a.png?auto=format",
+    "downloads": 277952,
+    "trend": 93,
+    "releasedAt": "2026-09-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QQAVD26ZCXV5CV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Color Season AI",
+    "description": " Personal color analysis you can actually use",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f782fe27-d8ca-4a80-8251-eb2e06b32cc2.png?auto=format",
+    "downloads": 276460,
+    "trend": 92,
+    "releasedAt": "2026-09-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BAXK7WC2GQPPDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Decomind — AI for real-state agents",
+    "description": "AI for real estate agents. Try the 3D home module free",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2f0a8ff8-e74b-4cfd-a964-104435ce4d47.png?auto=format",
+    "downloads": 299571,
+    "trend": 37,
+    "releasedAt": "2026-09-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FNQUXJ3XUIYO5R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The GeoPilot AI chat agent",
+    "description": "AI Chat Agent built specifically for Packers & Movers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/324450e8-81ae-4cf2-907f-0a18befc20f4.png?auto=format",
+    "downloads": 118359,
+    "trend": 56,
+    "releasedAt": "2026-09-18T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6WTSRYER7GFVOF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Birthday Traffic",
     "description": "How rare is your birthday? Rank it against 85.7M others",
     "category": "AI对话",
@@ -24,18 +96,6 @@
     "url": "https://www.producthunt.com/r/JKFZITFOVBJXIO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "PingCatchAI",
-    "description": "The modern Google Alerts alternative. Track brand mentions.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/131f9889-13e1-49b9-95b3-5687c89137b3.png?auto=format",
-    "downloads": 971011,
-    "trend": 104,
-    "releasedAt": "2026-09-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BFB42GE4JY2AQJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "DrawDuo",
     "description": "Draw and Guess game with AI bot or friends",
     "category": "AI绘画",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/23ACAO4YWQ5LEF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Habiv",
-    "description": "Play and publish AI-made games in your browser",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c5baa9ec-11f7-40ec-99e3-4c2025825519.png?auto=format",
-    "downloads": 797325,
-    "trend": 31,
-    "releasedAt": "2026-09-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5UNTNCLVSRCSTM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pretty Bench",
-    "description": "Human-ranked arenas for AI-generated work",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d6b0eb7a-8723-46fc-a27f-4c32c6f293ad.png?auto=format",
-    "downloads": 373071,
-    "trend": 14,
-    "releasedAt": "2026-09-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YR7Q24ZSAHSB2P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Brain Rot Posts",
-    "description": "Have a fruit fly judge your Linkedin posts",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4702a3f5-3b39-406f-94dd-df36eb2753ff.png?auto=format",
-    "downloads": 1019648,
-    "trend": 78,
-    "releasedAt": "2026-09-18T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IFNYPEP4NRWU2Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ApexGrid UI",
-    "description": "React 19 & Tailwind CSS Dashboard Suites for Startups",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/accaafde-644c-48db-b8b1-c1300d542087.jpeg?auto=format",
-    "downloads": 345129,
-    "trend": 86,
-    "releasedAt": "2026-09-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KSKSLON2ORQ26L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Aithos Agent Cards",
-    "description": "Host your A2A Agent Cards on Aithos",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/03e1fd60-7b6a-4ca5-974a-983c61fed638.png?auto=format",
-    "downloads": 139525,
-    "trend": 12,
-    "releasedAt": "2026-09-17T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5XOFE4IH5ZLUF2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
