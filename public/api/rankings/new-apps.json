@@ -1,5 +1,89 @@
 [
   {
+    "name": "Streamlit",
+    "description": "AI-Powered Customer Sentiment Analysis Tool",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9b6f7d76-c753-4056-83ae-893134509943.jpeg?auto=format",
+    "downloads": 909643,
+    "trend": 105,
+    "releasedAt": "2026-09-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UFLQYCL7KOC777?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Pro Journal",
+    "description": "AI-Powered Trading Journal for Smarter Trading",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/b5ec2074-f859-45b4-8d01-88231929a826.png?auto=format",
+    "downloads": 403640,
+    "trend": 26,
+    "releasedAt": "2026-09-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/C4YXRJH5VXXZCN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Caybl.ai",
+    "description": "The Caybl to your Google Analytics, Ads & Search Console",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/1fe9c9f9-c0e9-4d31-8bcc-f7c27228916b.png?auto=format",
+    "downloads": 975089,
+    "trend": 30,
+    "releasedAt": "2026-09-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TMEDLV3ZUK5XLV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Amplifly",
+    "description": "Take control of your neurodivergent brain",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0917c612-2f21-42af-859d-cd1c5767cef5.svg?auto=format",
+    "downloads": 1020669,
+    "trend": 18,
+    "releasedAt": "2026-09-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7R6Z2KJZSHEA6O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Show Me - A next generation Imagination",
+    "description": "Search stock photos and generate AI images - visual studio",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/1c511dde-61b4-4b6d-aa57-4016e8d3cd62.png?auto=format",
+    "downloads": 661531,
+    "trend": 28,
+    "releasedAt": "2026-09-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PYY6BFVL4DIFUW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Vitality AI Coach for Garmin",
+    "description": "AI coach for your Garmin watch — private, free, open source",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/27dda203-ba12-4e24-9581-842774400c5e.png?auto=format",
+    "downloads": 937108,
+    "trend": 43,
+    "releasedAt": "2026-09-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/O3ZB66V3KGUHWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Reussitess®971",
+    "description": "ReussitessAi Guadeloupe Terres De Champions ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9f56e062-982c-45f8-8a22-bf2020937e43.png?auto=format",
+    "downloads": 181995,
+    "trend": 56,
+    "releasedAt": "2026-09-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZBXIYLLINVZFIX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Invoice Studio",
     "description": "Edit the markdown and CSS for your invoice, Generate a PDF.",
     "category": "AI音频",
@@ -10,18 +94,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2RTVOOBJCROLA3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vitality AI Coach for Garmin",
-    "description": "AI coach for your Garmin watch — private, free, open source",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/27dda203-ba12-4e24-9581-842774400c5e.png?auto=format",
-    "downloads": 495021,
-    "trend": 38,
-    "releasedAt": "2026-09-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O3ZB66V3KGUHWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Sai",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/K3SQFGJYMKIYER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AISongGenie3D",
-    "description": "Free AI Song Generator & Song Maker | AISongGenie",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a0d90cf6-9d0c-4e43-99f5-220b4bde6b37.svg?auto=format",
-    "downloads": 1048737,
-    "trend": 29,
-    "releasedAt": "2026-09-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KN3MFBZUGEPBO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Lucidity Paints - Digital Art App",
-    "description": "New Digital Art Application Being Created",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/b6e10efd-f424-4df3-ac7f-f82a98692ef4.jpeg?auto=format",
-    "downloads": 908333,
-    "trend": 23,
-    "releasedAt": "2026-09-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2PZTQ3O666G7XI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Postraid",
-    "description": "Turn your website into a month of social content",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/23aa7964-4b7d-4f91-87e9-501c46eb08ff.png?auto=format",
-    "downloads": 337545,
-    "trend": 85,
-    "releasedAt": "2026-09-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3UCTE2Z7BWGIKO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Edutain Certificate Validator",
-    "description": "A No-Code WordPress Certificate Verification Plugin",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/4c708887-3bf7-4fc8-b085-dfb684689845.png?auto=format",
-    "downloads": 898751,
-    "trend": 19,
-    "releasedAt": "2026-09-21T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MS75CRK6UZW6B4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ThreadLine",
-    "description": "Email outreach and support, unified.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/28d32717-6f3a-4bd6-804c-ca7ab0562477.png?auto=format",
-    "downloads": 150546,
-    "trend": 42,
-    "releasedAt": "2026-09-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FNOFWE2BAPPOW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "NexusAI OS",
-    "description": "B2B artificial-intelligence operating system",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/3ec552ee-9600-4165-83bb-c69bcf587a85.jpeg?auto=format",
-    "downloads": 437307,
-    "trend": 20,
-    "releasedAt": "2026-09-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4JLZT4PLCOWRE2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
