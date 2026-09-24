@@ -1,5 +1,65 @@
 [
   {
+    "name": "KoreSignal",
+    "description": "Copy Telegram trading signals to MT4/MT5, with guardrails",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/3f4a4b82-eeb2-4d3d-b867-4ac9f5f2be8a.png?auto=format",
+    "downloads": 1031469,
+    "trend": 26,
+    "releasedAt": "2026-09-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FF6RHVRXGS7JKJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "InvoiceNudge",
+    "description": "Overdue Invoice Email Generator Stop chasing unpaid accounts",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/e045d146-f886-4378-a395-36cfa891b0ec.png?auto=format",
+    "downloads": 329128,
+    "trend": 56,
+    "releasedAt": "2026-09-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EAULPUFDMZ2HQM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kalend : Daily Planner And Habits",
+    "description": "To Do List, Calendar, Habit Tracker And Journal",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e8f9d9b2-4fe8-494d-b6f6-f43733f6ca15.jpeg?auto=format",
+    "downloads": 843118,
+    "trend": 72,
+    "releasedAt": "2026-09-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/M3Z4YEFQTN5NAI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ThinkerWave",
+    "description": "Local AI that argues with itself so it won't bluff you",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9ff82d2b-c718-4cee-ad82-717c7397e03a.svg?auto=format",
+    "downloads": 653210,
+    "trend": 107,
+    "releasedAt": "2026-09-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/V5ETUKY5OUHMTQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Disburse",
+    "description": "Getting B2B data shouldn't be painful or expensive.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/fab00a95-6afb-493c-9c64-99fd509f10a9.svg?auto=format",
+    "downloads": 124063,
+    "trend": 52,
+    "releasedAt": "2026-09-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HLI67QJDAM5YBV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Wormillion",
     "description": "Dig for the obscure. A daily geography game.",
     "category": "AI对话",
@@ -22,18 +82,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/WD6CN5YB5MRDAO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Disburse",
-    "description": "Getting B2B data shouldn't be painful or expensive.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fab00a95-6afb-493c-9c64-99fd509f10a9.svg?auto=format",
-    "downloads": 118154,
-    "trend": 28,
-    "releasedAt": "2026-09-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HLI67QJDAM5YBV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "CiraIQ",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/WDC2UXPY4K3MJA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RemoveBG Top 2.0",
-    "description": "Hair-level AI background remover & drop-in API",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0c24ec75-a291-40f3-a66f-d322db93d38f.png?auto=format",
-    "downloads": 322500,
-    "trend": 62,
-    "releasedAt": "2026-09-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IVFYMI2NRZSIUD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PixelNiches",
-    "description": "Get Discovered. Claim Your Spot on Niche Boards.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/73bb5876-0b8d-4ad6-af60-fe06b82f71a7.png?auto=format",
-    "downloads": 1072410,
-    "trend": 23,
-    "releasedAt": "2026-09-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ICZZ2ISBQ4TC2I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "HelloNoa",
-    "description": "Proposals, contracts and invoices for UK freelancers",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/f90caa95-24c9-4d88-84c2-05e77a7f6f9d.png?auto=format",
-    "downloads": 403528,
-    "trend": 88,
-    "releasedAt": "2026-09-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2JIJBTAYKTYAZH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "999999999.pro",
-    "description": "AI astrology, tarot & BaZi readings for life insights",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f2a9da0a-4fa8-4826-93d4-79ba1dd2070e.png?auto=format",
-    "downloads": 972913,
-    "trend": 17,
-    "releasedAt": "2026-09-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NOMD57RM2V2XE6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
