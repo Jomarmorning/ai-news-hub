@@ -4,12 +4,60 @@
     "description": "Track your biological age across the 12 hallmarks of aging",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/f11420de-76a0-463f-983a-6f4e7d1bd80c.png?auto=format",
-    "downloads": 334248,
-    "trend": 49,
+    "downloads": 631476,
+    "trend": 106,
     "releasedAt": "2026-09-24T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/LSOGSA4V2CVTKT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Overdue",
+    "description": "Polite invoice follow-ups that help you get paid",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/7ea86bfa-d1b0-42b1-a9b3-54def581a5a3.svg?auto=format",
+    "downloads": 368002,
+    "trend": 99,
+    "releasedAt": "2026-09-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UAVGLDYNBYPDBW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MVP.ai",
+    "description": "AI companions with personality, bonding, and progression",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5abc03f6-90e3-4c6b-a0e4-51bd42016718.png?auto=format",
+    "downloads": 618308,
+    "trend": 78,
+    "releasedAt": "2026-09-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LI6WHGFRFHBWH5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BenchPing",
+    "description": "Customer updates and tracking for independent repair shops",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/85a05d6a-024c-49b0-b920-c4c924d27cd3.svg?auto=format",
+    "downloads": 467281,
+    "trend": 106,
+    "releasedAt": "2026-09-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QRNC4AYUOWI47C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Checkstep",
+    "description": "The AI Content Moderation Platform.",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/79f7ea99-088f-40df-acec-df69fc934ab9.png?auto=format",
+    "downloads": 270595,
+    "trend": 58,
+    "releasedAt": "2026-09-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JTD7ODD257B3JZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Megor",
@@ -60,18 +108,6 @@
     "url": "https://www.producthunt.com/r/HFSBSWQYSGOILP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Overdue",
-    "description": "Polite invoice follow-ups that help you get paid",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/7ea86bfa-d1b0-42b1-a9b3-54def581a5a3.svg?auto=format",
-    "downloads": 101266,
-    "trend": 12,
-    "releasedAt": "2026-09-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UAVGLDYNBYPDBW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Mitra",
     "description": "Your AI assistant that makes and answers your calls",
     "category": "AI对话",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/KASFCX2NOINXV4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ViralBoom",
-    "description": "Every viral AI photo trend from one selfie, starting at $2",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/8302049f-a20e-4cb2-b08e-a5c76432c491.svg?auto=format",
-    "downloads": 895122,
-    "trend": 69,
-    "releasedAt": "2026-09-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BRWUZBOLSKRRYC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "KoreSignal",
-    "description": "Copy Telegram trading signals to MT4/MT5, with guardrails",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/3f4a4b82-eeb2-4d3d-b867-4ac9f5f2be8a.png?auto=format",
-    "downloads": 1031469,
-    "trend": 26,
-    "releasedAt": "2026-09-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FF6RHVRXGS7JKJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "InvoiceNudge",
-    "description": "Overdue Invoice Email Generator Stop chasing unpaid accounts",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/e045d146-f886-4378-a395-36cfa891b0ec.png?auto=format",
-    "downloads": 329128,
-    "trend": 56,
-    "releasedAt": "2026-09-23T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EAULPUFDMZ2HQM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
