@@ -1,5 +1,77 @@
 [
   {
+    "name": "IndieBrotherhood Suite",
+    "description": "AI-powered tools built for independent music artists",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/de7ea439-7eb1-4f28-9abb-8e0074918c84.jpeg?auto=format",
+    "downloads": 635128,
+    "trend": 67,
+    "releasedAt": "2026-09-25T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NHKP5M46WGPJT4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Dojo Workspace",
+    "description": "Voice-first AI teammate for coding and multimedia",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/2f4b5a60-e1f5-4dab-b216-7d1f288368e5.png?auto=format",
+    "downloads": 697560,
+    "trend": 28,
+    "releasedAt": "2026-09-25T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/JY2OFJJR3ZBGNM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PhotoAgent",
+    "description": "AI-powered photo generation and editing lets users create",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/42ac8f24-84af-4e1b-beac-97a953b573ee.png?auto=format",
+    "downloads": 992014,
+    "trend": 51,
+    "releasedAt": "2026-09-25T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HLBY4IQ2JDJQUP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "KlicChat",
+    "description": "realistic ai chatbot with honest answers and memory",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f695cf67-4586-4d97-bc41-240757c70dfe.png?auto=format",
+    "downloads": 699233,
+    "trend": 41,
+    "releasedAt": "2026-09-25T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HTE4WN6NBD56LT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LudumLanding",
+    "description": "Create a custom Steam playtest feedback page in 60 seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/59801f8b-27a4-4aad-94d7-db23a41d6d9c.png?auto=format",
+    "downloads": 588299,
+    "trend": 95,
+    "releasedAt": "2026-09-25T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TNIWFCXVI5ZNPC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Professional Headshot Generator",
+    "description": "Professional AI headshots that still look like you.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ab5c325b-2180-4072-b642-4ff2c114debd.png?auto=format",
+    "downloads": 679416,
+    "trend": 75,
+    "releasedAt": "2026-09-25T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/T5JG7DTQROSX6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Xonta",
     "description": "AI agents, marketplace, vendor lock-in, startups, A2A",
     "category": "AI绘画",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/EDGTAELF5NVCFW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MDDock",
-    "description": "Local-first Markdown editor with AI memory.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/26713446-9e6b-4aae-9bce-79c320e2a477.png?auto=format",
-    "downloads": 648954,
-    "trend": 53,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PZ4FNY4ESTFGJ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "thorg.ai",
-    "description": "A companion for your mind — always here to listen",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/09d71f2c-783b-4f2d-88fb-cbdcba46636d.png?auto=format",
-    "downloads": 268181,
-    "trend": 56,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/L46ZCLFARJ72IO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "IndieBrotherhood Suite",
-    "description": "AI-powered tools built for independent music artists",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/de7ea439-7eb1-4f28-9abb-8e0074918c84.jpeg?auto=format",
-    "downloads": 626799,
-    "trend": 92,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NHKP5M46WGPJT4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ageless Atlas ",
-    "description": "Track your biological age across the 12 hallmarks of aging",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f11420de-76a0-463f-983a-6f4e7d1bd80c.png?auto=format",
-    "downloads": 631476,
-    "trend": 106,
-    "releasedAt": "2026-09-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LSOGSA4V2CVTKT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Overdue",
-    "description": "Polite invoice follow-ups that help you get paid",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/7ea86bfa-d1b0-42b1-a9b3-54def581a5a3.svg?auto=format",
-    "downloads": 368002,
-    "trend": 99,
-    "releasedAt": "2026-09-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UAVGLDYNBYPDBW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MVP.ai",
-    "description": "AI companions with personality, bonding, and progression",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5abc03f6-90e3-4c6b-a0e4-51bd42016718.png?auto=format",
-    "downloads": 618308,
-    "trend": 78,
-    "releasedAt": "2026-09-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LI6WHGFRFHBWH5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
