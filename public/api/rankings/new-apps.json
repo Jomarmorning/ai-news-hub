@@ -1,5 +1,65 @@
 [
   {
+    "name": "SafeAuto",
+    "description": "Spot hidden costs and red flags on car listings with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e6f51beb-101e-4a6c-8e7f-5c586cb70bc1.png?auto=format",
+    "downloads": 646284,
+    "trend": 84,
+    "releasedAt": "2026-09-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FTML3SBS7LGD5R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kanbano",
+    "description": "Privacy-first kanban, no AI, ready in 30 seconds",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/23f70617-8d0f-4691-94d6-b4689be53eef.png?auto=format",
+    "downloads": 1062069,
+    "trend": 44,
+    "releasedAt": "2026-09-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OEAYISV4QDAUOO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "qclip",
+    "description": "Get paid per verified view, not per screenshot",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c3f0b32a-f89c-4b7a-9bc6-e1e0cb75f8ab.png?auto=format",
+    "downloads": 507981,
+    "trend": 95,
+    "releasedAt": "2026-09-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KEY2CFKVIGUNCM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NMR Data Analysis Software by ROMBO AI",
+    "description": "Advanced NMR Data Analysis Software by ROMBO AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/55968c36-5346-4ad0-8fb0-d5356e2ddb11.png?auto=format",
+    "downloads": 790015,
+    "trend": 44,
+    "releasedAt": "2026-09-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2ZAYVMNPYD4BVL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Robo Stock Trading, Price Alerts, News",
+    "description": "AI-driven automated stock trading & real-time execution",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9754fd9b-6e41-4542-8631-57a149e29d28.jpeg?auto=format",
+    "downloads": 706391,
+    "trend": 76,
+    "releasedAt": "2026-09-26T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ETYYLIKHO2DVQ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "IndieBrotherhood Suite",
     "description": "AI-powered tools built for independent music artists",
     "category": "AI绘画",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/TNIWFCXVI5ZNPC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Professional Headshot Generator",
-    "description": "Professional AI headshots that still look like you.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ab5c325b-2180-4072-b642-4ff2c114debd.png?auto=format",
-    "downloads": 679416,
-    "trend": 75,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/T5JG7DTQROSX6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Xonta",
-    "description": "AI agents, marketplace, vendor lock-in, startups, A2A",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/05cd9dff-1a69-432f-b60c-5c9663975082.png?auto=format",
-    "downloads": 787204,
-    "trend": 51,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HKCIBFAJCVXEUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Eliten",
-    "description": "Every AI tool in one chat, with a coach that teaches you.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fc30a92e-d3e4-441b-9645-84a4fbf934ab.png?auto=format",
-    "downloads": 141920,
-    "trend": 33,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DVHI3XQAITMQX4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MIRA AI",
-    "description": "50+ AI models for video, 3D & games — one prompt",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/31cb4d74-d0d6-4bd9-8967-ed3c091a08e2.png?auto=format",
-    "downloads": 1077390,
-    "trend": 35,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZMSIRVDMPK7TTU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Skills Pack for Builders",
-    "description": "14 AI skills that turn your coding agent into a senior dev",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/5d09a309-1c81-4535-a71f-90a61209d67a.png?auto=format",
-    "downloads": 1056644,
-    "trend": 51,
-    "releasedAt": "2026-09-25T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EDGTAELF5NVCFW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
