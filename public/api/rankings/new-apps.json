@@ -1,5 +1,77 @@
 [
   {
+    "name": "PostQuest",
+    "description": "Manage your social media with AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/13916eaf-ffa3-403e-9932-4a75d3f0dd43.png?auto=format",
+    "downloads": 945316,
+    "trend": 89,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UFEDWSXYDQ4PJF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ClearJournal",
+    "description": "Automated crypto journal with an AI that explains you.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3acf120f-0886-425f-ae7f-c15912b7301b.png?auto=format",
+    "downloads": 845814,
+    "trend": 36,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ID7F4EONN7HI5L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "BidShakti",
+    "description": "AI co-pilot for Indian government tenders",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cf496b3e-4808-4b6e-a1a2-f844fbc4bc9d.png?auto=format",
+    "downloads": 652148,
+    "trend": 109,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KYNOZQMHUCTOWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ProNet IT Solutions",
+    "description": "Your daily diet, simplified.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8e06fd52-9fcf-405d-86c9-de97b859b796.png?auto=format",
+    "downloads": 1089871,
+    "trend": 54,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/J7AKTVHBJTDE6O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Neural Beats Ai",
+    "description": "AI music has never been better",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/15a371f2-83d1-41a2-ac63-af1a77e6275e.png?auto=format",
+    "downloads": 566543,
+    "trend": 95,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DVQ2P35ZYKXR7J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Whislink",
+    "description": "Anonymous voice calls with a random stranger",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/4c9e4020-d896-4d3f-8214-1bd86d352fd5.png?auto=format",
+    "downloads": 411343,
+    "trend": 83,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2O6TDOJNJDZU3K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Curie",
     "description": "Assistant for scientific literature and document analysis.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/FDS3AJY3JSD7G2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Hopscotch AI",
-    "description": "500+ AI models available via a single API",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b5dec0b1-01c8-4c15-8e43-395d59e514ce.svg?auto=format",
-    "downloads": 552887,
-    "trend": 94,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YGFDPVXISG4YPG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LUCI Desktop",
-    "description": "Let your AI agents remember what you've seen",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/43d373ea-8fb5-4738-b877-c6d7202ba385.png?auto=format",
-    "downloads": 971548,
-    "trend": 82,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IAYIS7TAFM7O7D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Timeless Code",
-    "description": "Meeting notetaker that installs and runs inside Claude Code",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/61704cab-4fd4-4411-8401-840e6adb4334.png?auto=format",
-    "downloads": 640704,
-    "trend": 30,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M7DFF5NRZNCIFP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Semos.ai Manager Agents",
-    "description": "AI agents purpose-built for managers ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f4b6d96a-067b-463f-af00-fed689b44f9e.png?auto=format",
-    "downloads": 541244,
-    "trend": 77,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BXLTD6AHRVUQBJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Insight Oracle V2.1",
-    "description": "Evidence-based AI Intelligence Refinery for Tech Founders.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4309093e-1cc6-45f3-a8ac-6420ce8cfe8f.png?auto=format",
-    "downloads": 766105,
-    "trend": 21,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WS764LLS2AUDAE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MyHelpr",
-    "description": "Best Home Service App in Delhi, Gurugram, & Mumbai",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e0f2fab2-c8af-40a4-ade5-8323bf236cd8.png?auto=format",
-    "downloads": 658294,
-    "trend": 76,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CPC4ZDYCAUZ7WW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
