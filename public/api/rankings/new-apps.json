@@ -1,5 +1,53 @@
 [
   {
+    "name": "Daily Skyline",
+    "description": "A shared daily 5×5 skyscraper logic puzzle",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/28963e52-7608-48b9-b573-8076c3fc3bd5.jpeg?auto=format",
+    "downloads": 119848,
+    "trend": 29,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KHGBQLX2OFRUSR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Jeeves",
+    "description": "Turn repeat work into reusable AI workflows",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cc300f74-0ff2-4989-bb24-a052fd756a37.png?auto=format",
+    "downloads": 204007,
+    "trend": 61,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5J7AV6GX7R7OHL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Praxis",
+    "description": "The AI agent at the tip of your cursor ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/63d2742e-5b67-4586-a260-9154fc981991.gif?auto=format",
+    "downloads": 1054659,
+    "trend": 31,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RSXGZ2P424J2LP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Claim Your Gift Card Reward Today!",
+    "description": "🎁 Your Next Gift Card Could Be Just a Click Away!",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/dbabce6f-9a39-4593-8b05-d82b487dcea9.jpeg?auto=format",
+    "downloads": 736367,
+    "trend": 42,
+    "releasedAt": "2026-09-30T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6ICTMKS4PRAPXG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "PostQuest",
     "description": "Manage your social media with AI agents",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2O6TDOJNJDZU3K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Curie",
-    "description": "Assistant for scientific literature and document analysis.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cb6aeb2b-e4ba-48d4-aea5-05d7fdff13fe.vnd.microsoft.icon?auto=format",
-    "downloads": 1053690,
-    "trend": 33,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QQU43VQCPVEM4Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Arsaze",
-    "description": "Let Claude, ChatGPT or Gemini edit your real timeline ",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/158d5a31-0a9b-461b-a1ca-52b73978f586.png?auto=format",
-    "downloads": 271171,
-    "trend": 51,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DA4DDJ5OBTY76T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "iFixAi",
-    "description": "Independent auditing of AI agents to uncover misalignment",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
-    "downloads": 964626,
-    "trend": 71,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GH7ZXAZXZF36UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Codex Remote",
-    "description": "Put Codex or Claude Code on your own cloud machine",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/40a967ae-251c-4934-9ac6-0843414bc44b.png?auto=format",
-    "downloads": 1088387,
-    "trend": 18,
-    "releasedAt": "2026-09-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FDS3AJY3JSD7G2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
