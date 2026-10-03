@@ -1,5 +1,41 @@
 [
   {
+    "name": "Dub With Your Friends",
+    "description": "A party game about bad voices and good friends.",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/258885ed-2742-49f1-9e17-eec0db307dc0.png?auto=format",
+    "downloads": 501971,
+    "trend": 23,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QW43BEAZLQHYO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "10 AI Agents for Developers",
+    "description": "10 AI Agents for Developers",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/a2551b73-c7a4-4c9e-8bb2-341bb6aebcda.jpeg?auto=format",
+    "downloads": 462803,
+    "trend": 85,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/V5U22URJRY6AUZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AirDeck",
+    "description": "Free stream deck app",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/424d4100-0b74-4a77-9de5-737b9803939d.png?auto=format",
+    "downloads": 518808,
+    "trend": 76,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/X6RNOJYFPSWQXI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "StudyHelpAI",
     "description": "Homework help that lets you check what the AI read first",
     "category": "AI对话",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/6XZVTY74NPFNZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Syllaby AI Avatar 2.0",
-    "description": "Create Your Own Avatar In Seconds",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a5ad777d-3176-4f24-95fc-18e83d893851.svg?auto=format",
-    "downloads": 841498,
-    "trend": 28,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/K3CFTFHDXN2FZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "airportbus.in",
-    "description": "Airport bus routes, stops and timings in India",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/38e2dff7-d3d6-4bde-8a4d-fff560150cd2.png?auto=format",
-    "downloads": 466148,
-    "trend": 78,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TTBLRYW3CCBGHC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Your Wedding, Calmly Organized",
-    "description": "Plan your whole wedding in one calm place",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9df485fd-1112-44a8-bcae-fe138b76088f.png?auto=format",
-    "downloads": 835924,
-    "trend": 56,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ERPMT2QYSXGFDI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
