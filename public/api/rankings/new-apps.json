@@ -1,5 +1,65 @@
 [
   {
+    "name": "Auday",
+    "description": "Turn your Apple Watch into your all-day AI recorder.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/acf617fa-dd71-4e52-aa62-cc29b913284d.svg?auto=format",
+    "downloads": 998738,
+    "trend": 35,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/W33JS4MAURJSEJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Thanor AI",
+    "description": "Make your AI-built sites look expensive and not like slop",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ce916c37-31b7-46b1-a302-4aba427c718a.png?auto=format",
+    "downloads": 211530,
+    "trend": 14,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6OMCK4EXP6CPA3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": " Utter — Offline personal assistant",
+    "description": "Hold a key, say it — your desktop does it. 🎙️",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f933f943-3823-4cd2-bd61-662521b8cad9.png?auto=format",
+    "downloads": 752403,
+    "trend": 54,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FBLLGEDBZ3X52U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sukar",
+    "description": "AI live chat that answers, qualifies and sells 24/7",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7a62f03a-f5cb-4407-a975-7a9790fb844a.png?auto=format",
+    "downloads": 434800,
+    "trend": 31,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZRF7X2MTS4FLTH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Glowed",
+    "description": "Simple NPS surveys with AI-powered customer insights",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/02a740f9-06c1-43ad-95dc-047965f0a116.png?auto=format",
+    "downloads": 1049666,
+    "trend": 95,
+    "releasedAt": "2026-10-03T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OQ3SQ3GS5HVZ53?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Dub With Your Friends",
     "description": "A party game about bad voices and good friends.",
     "category": "AI绘画",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/GWVDMUMMQDCY4F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sayonic",
-    "description": "A voice assistant in your Mac's notch that does the task",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/98778800-6238-4972-a55d-360f5b1cfef4.gif?auto=format",
-    "downloads": 340091,
-    "trend": 33,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NLYPHOKTLSPEYT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "esigna",
-    "description": "A design studio for your email signature",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/44af8134-e194-4f37-b609-407c6545139b.png?auto=format",
-    "downloads": 882744,
-    "trend": 30,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7EJVQUBX7BZRBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Moxie",
-    "description": "Use any AI with Claude Code, switch accounts mid-task",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/19f7c87d-0b40-4ec5-9c05-2066f0a5221b.png?auto=format",
-    "downloads": 317925,
-    "trend": 76,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WD7FOLLQ2LNECL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Gauth Unlimited Digital Canvas ",
-    "description": "An AI tutor on an infinite whiteboard, not a chat thread",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
-    "downloads": 615030,
-    "trend": 87,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TCMAWBRPUPSDRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Eleven v4 and Eleven v4 Turbo",
-    "description": "Elevenlabs' fastest and most emotive voice models yet",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/8592dbad-4f55-4b04-979b-0e79877bbc61.png?auto=format",
-    "downloads": 959260,
-    "trend": 11,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6XZVTY74NPFNZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
