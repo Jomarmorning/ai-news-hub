@@ -1,5 +1,77 @@
 [
   {
+    "name": "Chairwarden",
+    "description": "The booking app that keeps your long appointments whole",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5a59dcff-1d6e-4447-b4ec-c1ec6f7da326.png?auto=format",
+    "downloads": 724826,
+    "trend": 70,
+    "releasedAt": "2026-10-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2YPMC24HPWDFR5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "opensend.cc",
+    "description": "The open source email platform that runs on your server",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5c279be1-a198-4b57-a4e3-26e94b9fe2ec.png?auto=format",
+    "downloads": 865617,
+    "trend": 96,
+    "releasedAt": "2026-10-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HNGGRC2ECUBURA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sorcrr",
+    "description": "Ai enabled bounty driven referral platform for hiring & gtm",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c0a1e14a-9d24-47a7-a218-7121ec8ca7be.png?auto=format",
+    "downloads": 931242,
+    "trend": 12,
+    "releasedAt": "2026-10-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2BRG3ADWGO5GFB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "LaunchReel",
+    "description": "claude design but for editing professional videos faster.",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/0c177724-c33f-4116-ae58-5788bfb2ce5c.png?auto=format",
+    "downloads": 577978,
+    "trend": 94,
+    "releasedAt": "2026-10-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GB77BBKMOTKP4G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MerbIQ",
+    "description": "IDAI: AI-powered visibility & intelligence for SMBs",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/83aa3777-5a30-43ab-bde7-2945e0b22a00.png?auto=format",
+    "downloads": 653430,
+    "trend": 108,
+    "releasedAt": "2026-10-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/H6BTW2EBZXYJX2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kairo",
+    "description": "AI Infrastructure Engineer for developers",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/17352ae1-2ddb-42c8-9414-a610b54ab0f4.png?auto=format",
+    "downloads": 247370,
+    "trend": 54,
+    "releasedAt": "2026-10-04T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LS4YDBIG2PVLNO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Auday",
     "description": "Turn your Apple Watch into your all-day AI recorder.",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/ZRF7X2MTS4FLTH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Glowed",
-    "description": "Simple NPS surveys with AI-powered customer insights",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/02a740f9-06c1-43ad-95dc-047965f0a116.png?auto=format",
-    "downloads": 1049666,
-    "trend": 95,
-    "releasedAt": "2026-10-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OQ3SQ3GS5HVZ53?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Dub With Your Friends",
-    "description": "A party game about bad voices and good friends.",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/258885ed-2742-49f1-9e17-eec0db307dc0.png?auto=format",
-    "downloads": 501971,
-    "trend": 23,
-    "releasedAt": "2026-10-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QW43BEAZLQHYO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "10 AI Agents for Developers",
-    "description": "10 AI Agents for Developers",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/a2551b73-c7a4-4c9e-8bb2-341bb6aebcda.jpeg?auto=format",
-    "downloads": 462803,
-    "trend": 85,
-    "releasedAt": "2026-10-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/V5U22URJRY6AUZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AirDeck",
-    "description": "Free stream deck app",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/424d4100-0b74-4a77-9de5-737b9803939d.png?auto=format",
-    "downloads": 518808,
-    "trend": 76,
-    "releasedAt": "2026-10-03T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/X6RNOJYFPSWQXI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "StudyHelpAI",
-    "description": "Homework help that lets you check what the AI read first",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a55dee60-13ad-4513-96bd-7f90edc5b4da.png?auto=format",
-    "downloads": 670126,
-    "trend": 69,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MZOUTPGWM7EEFW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Audryo",
-    "description": "Customer email your agent can operate.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/220237c5-4d36-4326-8397-a0e0d7916f3a.png?auto=format",
-    "downloads": 562353,
-    "trend": 98,
-    "releasedAt": "2026-10-02T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GWVDMUMMQDCY4F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
