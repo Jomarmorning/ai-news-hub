@@ -1,5 +1,77 @@
 [
   {
+    "name": "Takweem AI",
+    "description": "The AI calendar that makes room for your most important work",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/96349e72-4793-485d-94b0-b2c119340b87.png?auto=format",
+    "downloads": 937932,
+    "trend": 52,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/J44XWBHNBLVPDR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Callirra",
+    "description": "Top AI video and image models, one low-cost balance",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/b97edd44-a700-49c0-a8e9-bbe0303bac40.png?auto=format",
+    "downloads": 142612,
+    "trend": 38,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HWLRAZYYEGFGQF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "On.design",
+    "description": "Design, together — again",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/395a1105-80bd-41a5-ab9f-a9744747d320.jpeg?auto=format",
+    "downloads": 722082,
+    "trend": 35,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MJNNJEDVKRIEKK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Chots platform ",
+    "description": "Chat with world",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/da592ed7-0d5f-4b02-921a-346d53dd4e93.png?auto=format",
+    "downloads": 1045760,
+    "trend": 88,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5BFSKWQAU3Y4UA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "FINN AI",
+    "description": "Close live deals at rocket speed.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f5540c78-6894-4965-86e8-f9aab8dc972c.jpeg?auto=format",
+    "downloads": 581451,
+    "trend": 29,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/757WZZ62I4MOHE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "EasyBills",
+    "description": "Your restaurant POS, accounting & AI assistant in one",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ae7665e8-722b-4e6c-858b-4bc81089d515.png?auto=format",
+    "downloads": 304515,
+    "trend": 34,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/54JQLSQAE6EKO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Tokn",
     "description": " All your AI CLIs, one number, kept forever",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/SO66SL5PLEYIZR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Tucker",
-    "description": "Hyper-local AI gardening coach for home food growers",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9be32502-db37-46e8-ae7b-ace1076c260e.webp?auto=format",
-    "downloads": 297200,
-    "trend": 72,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6OK6PSM33WJ74F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PaidTaskers",
-    "description": "A directory of verified paid tasks platforms",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3e212fe5-57f5-4299-9312-2ef3b75888ea.png?auto=format",
-    "downloads": 209947,
-    "trend": 58,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XADHIJV5I442GY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ETHICAL AI AUDIT TOOLKIT FOR STARTUPS",
-    "description": "Practical toolkit for ethical AI auditing and compliance",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/3b3d0f3d-2c57-4a9b-845f-444faabc98e8.png?auto=format",
-    "downloads": 320168,
-    "trend": 46,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EL4ACPHFUFBALS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "aida — Native Markdown Editor for macOS",
-    "description": "Markdown for humans",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/902edc75-fd33-4a7d-b244-729929f50f42.png?auto=format",
-    "downloads": 846112,
-    "trend": 35,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TE5JVRCQBSTHHN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Quota",
-    "description": "Your Claude usage limits, always in the corner of your Mac",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/278fd074-9485-47da-8bbb-601e3748aa9d.png?auto=format",
-    "downloads": 743081,
-    "trend": 56,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DMHGUMTX7FLQ3R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "People Commons",
-    "description": "Common ground for HR and AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7e567f05-dc43-45e2-8289-966af40697c6.svg?auto=format",
-    "downloads": 798987,
-    "trend": 61,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PXYTQBMED6ILQE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
