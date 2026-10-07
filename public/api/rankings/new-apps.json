@@ -1,5 +1,53 @@
 [
   {
+    "name": " Mystique Sports ",
+    "description": "Transparent AI predictions for horse racing & football",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1fca68a4-68e1-448a-8432-0bb43ce37a51.vnd.microsoft.icon?auto=format",
+    "downloads": 648435,
+    "trend": 19,
+    "releasedAt": "2026-10-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ATWBG2LR5HLOI7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AgentExploitDB",
+    "description": "Zero-dependency security shield & exploit benchmark for AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ecae274a-0952-45c8-a995-c31b6bc8e9e3.jpeg?auto=format",
+    "downloads": 273479,
+    "trend": 74,
+    "releasedAt": "2026-10-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EJ5D7SGFBXP762?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Thepatient AI",
+    "description": "AI Patient Simulator",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8eeb22ee-4e50-4e3f-9d2a-3606ffa9f73f.png?auto=format",
+    "downloads": 262790,
+    "trend": 104,
+    "releasedAt": "2026-10-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EYID7BKIC6CJRV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Chat Structure Helper",
+    "description": "Infrastructure-as-code for Telegram group chats",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/fad52973-b6e2-4214-a8df-a1afd9704064.png?auto=format",
+    "downloads": 824643,
+    "trend": 17,
+    "releasedAt": "2026-10-07T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AQYXUZWPPPGGI7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Sequo",
     "description": "Your idea to an ordered build plan your AI agent can follow",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/HWLRAZYYEGFGQF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "On.design",
-    "description": "Design, together — again",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/395a1105-80bd-41a5-ab9f-a9744747d320.jpeg?auto=format",
-    "downloads": 722082,
-    "trend": 35,
-    "releasedAt": "2026-10-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MJNNJEDVKRIEKK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Chots platform ",
-    "description": "Chat with world",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/da592ed7-0d5f-4b02-921a-346d53dd4e93.png?auto=format",
-    "downloads": 1045760,
-    "trend": 88,
-    "releasedAt": "2026-10-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5BFSKWQAU3Y4UA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "FINN AI",
-    "description": "Close live deals at rocket speed.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f5540c78-6894-4965-86e8-f9aab8dc972c.jpeg?auto=format",
-    "downloads": 581451,
-    "trend": 29,
-    "releasedAt": "2026-10-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/757WZZ62I4MOHE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "EasyBills",
-    "description": "Your restaurant POS, accounting & AI assistant in one",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ae7665e8-722b-4e6c-858b-4bc81089d515.png?auto=format",
-    "downloads": 304515,
-    "trend": 34,
-    "releasedAt": "2026-10-06T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/54JQLSQAE6EKO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
