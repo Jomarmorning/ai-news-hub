@@ -1,5 +1,53 @@
 [
   {
+    "name": "Sequo",
+    "description": "Your idea to an ordered build plan your AI agent can follow",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2fd47c06-85dc-49f4-b32a-68d567c9143a.svg?auto=format",
+    "downloads": 116913,
+    "trend": 107,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4QFMXGHFOO3HXR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Daily Case — A mystery a day",
+    "description": "A daily detective mystery.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e7158adf-cb51-478a-b899-b5cfe5d7e515.png?auto=format",
+    "downloads": 130988,
+    "trend": 43,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RECAG5QRIBZNOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Avern",
+    "description": "Turn everyday cars into billboards, paid per kilometre",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3d9df40c-6255-4f72-b1e5-2f98d979c832.png?auto=format",
+    "downloads": 973242,
+    "trend": 37,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TNO5FMKB4RHSTR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ekynavy",
+    "description": "The digital logbook for offshore sailors — offline-first",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/95174526-c53c-4057-afe7-379789983ee4.png?auto=format",
+    "downloads": 1029383,
+    "trend": 33,
+    "releasedAt": "2026-10-06T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IGKGVHBYLXF2ZM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Takweem AI",
     "description": "The AI calendar that makes room for your most important work",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/54JQLSQAE6EKO5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Tokn",
-    "description": " All your AI CLIs, one number, kept forever",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/979326c2-ba75-4028-ad4f-b53e9089d8f5.png?auto=format",
-    "downloads": 1026405,
-    "trend": 77,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FKJPGSLWEARIUC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Hotel Lobby AI",
-    "description": "Turn two photos into orange-booth duet videos.",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/fa8a8428-f0a2-4c88-9dc5-b43131735969.png?auto=format",
-    "downloads": 411423,
-    "trend": 17,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/IM6MB3G5R5ZLLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Kolibri",
-    "description": "Europe's newest powerful open-source AI model",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fbb7dcb4-5f6d-4bce-83a9-9e693bc04a02.png?auto=format",
-    "downloads": 196740,
-    "trend": 24,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YWQQP4XCVKVVJG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Empire Limousine",
-    "description": "Professional ground transportation for airport, business",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3b7cc485-f5c0-4f32-b776-88f04f552459.jpeg?auto=format",
-    "downloads": 370327,
-    "trend": 68,
-    "releasedAt": "2026-10-05T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SO66SL5PLEYIZR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
