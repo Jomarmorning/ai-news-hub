@@ -4,12 +4,36 @@
     "description": "Instantly convert JSON to SQL. No AI, zero uploads.",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/8ebc876c-b104-4e2c-b9d1-4dceae05cd6b.png?auto=format",
-    "downloads": 962462,
-    "trend": 72,
+    "downloads": 416788,
+    "trend": 100,
     "releasedAt": "2026-10-08T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/STWNWJJY3R3IBO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "YOMIOO",
+    "description": "AI image & video studio—create from a prompt or photo",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/7137f044-fc62-4986-860e-f5c87d70c608.x-icon?auto=format",
+    "downloads": 622760,
+    "trend": 19,
+    "releasedAt": "2026-10-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Q4UJFMBSRLVLDC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AImmigration",
+    "description": "Free, source-backed immigration pathway research",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/0d703969-06f3-4fde-97fa-7f4b7e90e7ac.png?auto=format",
+    "downloads": 229819,
+    "trend": 80,
+    "releasedAt": "2026-10-08T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3XSI4T4FZPNWZD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Rext AI",
@@ -34,18 +58,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/PYSTU5CU6BH6WO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "YOMIOO",
-    "description": "AI image & video studio—create from a prompt or photo",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/7137f044-fc62-4986-860e-f5c87d70c608.x-icon?auto=format",
-    "downloads": 813170,
-    "trend": 43,
-    "releasedAt": "2026-10-08T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Q4UJFMBSRLVLDC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Keryx",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/OPYTQSDATWSANZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "SEODojo",
-    "description": "See if AI recommends you, and get the page that fixes it",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a9c34f0d-1870-4e75-a73c-0551a1db25e1.png?auto=format",
-    "downloads": 599793,
-    "trend": 61,
-    "releasedAt": "2026-10-07T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XJZEHUGWCU62FQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
