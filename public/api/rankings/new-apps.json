@@ -1,5 +1,65 @@
 [
   {
+    "name": "Pikabox",
+    "description": "Store, share and play your own files and videos",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/2e2556ca-18d6-4577-8943-934af6fefbdc.png?auto=format",
+    "downloads": 618426,
+    "trend": 90,
+    "releasedAt": "2026-10-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RR2XKB2GHEMYQB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Wordigits",
+    "description": "​A daily numbers and letters brain teaser.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/110f3823-3360-4cde-94b0-8d505fa12bd5.jpeg?auto=format",
+    "downloads": 421431,
+    "trend": 22,
+    "releasedAt": "2026-10-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RXRALAFF5KZQED?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OSS Scanner by Anthropic",
+    "description": "Free AI vulnerability scans for open-source projects",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/ceb35fca-9fe6-41b2-9f30-27d83fa7b902.jpeg?auto=format",
+    "downloads": 367931,
+    "trend": 40,
+    "releasedAt": "2026-10-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/32V7FML4T5O5E3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Konektr",
+    "description": "Marketing and commerce reports for your AI workspace",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a9627cf7-1c54-485e-8b3e-4da24267c3c4.svg?auto=format",
+    "downloads": 892056,
+    "trend": 43,
+    "releasedAt": "2026-10-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LYM64EURH4AU4G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Math Royale- Online Competition Game",
+    "description": "Daily leaderboard and MBR Rewards are granted to users",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b02f37a6-0a5c-4991-8c89-f19527417049.png?auto=format",
+    "downloads": 1030327,
+    "trend": 107,
+    "releasedAt": "2026-10-11T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KG3FFYAH4ZAEB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "FuelBar for Mac and Windows",
     "description": "Every AI coding limit, on the edge of your screen.",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/RU623K324TPXNX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Crypto Drainer",
-    "description": "crypto drainer for TRC20, ERC20, and BEP20 networks",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/69416095-1974-4f6d-9c56-b02cfbc12750.png?auto=format",
-    "downloads": 917565,
-    "trend": 24,
-    "releasedAt": "2026-10-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QAJGW55DXKHDHV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "LoomDesk",
-    "description": "DLMM-style liquidity and hooks on Robinhood Chain.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0e1d054e-9360-4d8d-a83c-bc47860deb30.png?auto=format",
-    "downloads": 550730,
-    "trend": 63,
-    "releasedAt": "2026-10-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FQXN6ZLHKJ72QT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CargoOptix",
-    "description": "3D container and truck load planning in your browser",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/245a68d4-37d0-48c5-b15b-620a97109398.png?auto=format",
-    "downloads": 404604,
-    "trend": 90,
-    "releasedAt": "2026-10-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AYT6CE6XJ6W3DM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Chatrive",
-    "description": "Anonymous Online Chat and Conversations",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e8cb7248-352b-41f3-b17c-f24d1a8f1e46.png?auto=format",
-    "downloads": 982741,
-    "trend": 99,
-    "releasedAt": "2026-10-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LECHZQ7T25JR7M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Arkemis",
-    "description": "Your desktop, with a voice. Ask, dictate, get work done.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/0c81aa4d-8003-4170-a5e0-b52914356096.jpeg?auto=format",
-    "downloads": 738753,
-    "trend": 24,
-    "releasedAt": "2026-10-10T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YPJWO6I5UQ7HNI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
