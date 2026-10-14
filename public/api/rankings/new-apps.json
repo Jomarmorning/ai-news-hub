@@ -1,5 +1,65 @@
 [
   {
+    "name": "Dockhive",
+    "description": "Sovereign Cloud Infrastructure for AI Era",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/83e8c454-cc38-4277-bfcf-48ef00dcbd66.png?auto=format",
+    "downloads": 573474,
+    "trend": 72,
+    "releasedAt": "2026-10-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZAW3UU62JAKKXG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Clio: Learn AI in Arabic",
+    "description": "Learn AI in Arabic, with a Prompt Lab that grades your work",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b89d363a-daab-4874-bc89-f50bdaa9c0af.png?auto=format",
+    "downloads": 271975,
+    "trend": 34,
+    "releasedAt": "2026-10-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RNQZOKBFDJQRJI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Rynler Token Cost Calculator",
+    "description": "LLM cost calculator. No email. No tracking. Just math.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cea5c088-6681-4f98-a77c-d0bd436d8291.svg?auto=format",
+    "downloads": 108370,
+    "trend": 101,
+    "releasedAt": "2026-10-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/V6BOJGRIS34TTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The RainDance AI",
+    "description": "Explore RainDance AI videos, demos and photo guides",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/afd76542-5016-4e25-bcb4-b4069b44f6f2.svg?auto=format",
+    "downloads": 283279,
+    "trend": 65,
+    "releasedAt": "2026-10-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7SYUWINI2KWTMS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CargoSum",
+    "description": "Free freight calculators with a 3D container load planner",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a6debd3e-921d-4e2d-bf0f-935dab9dce2a.png?auto=format",
+    "downloads": 1031195,
+    "trend": 21,
+    "releasedAt": "2026-10-13T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7SQNACIT7IID62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Neroidea",
     "description": "Free browser mini-games + an AI prompt gallery",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/QJZY5BQEDEQ7DS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CVBuild- AI resume maker ",
-    "description": "ATS-friendly resume in minutes.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/afe4dfd4-fd33-4517-998c-90e68985a58d.webp?auto=format",
-    "downloads": 826733,
-    "trend": 39,
-    "releasedAt": "2026-10-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/C76XCUZTZ7GTRU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Phosphor",
-    "description": "A free macOS terminal that runs your servers and AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fdcbc6b6-4a37-43de-a86c-9f6c6b66d937.png?auto=format",
-    "downloads": 386297,
-    "trend": 88,
-    "releasedAt": "2026-10-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PUBKGENQJHJ76Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "nestd.ai",
-    "description": "Turn property photos into listing descriptions with AI",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/d0498a5f-1369-4688-be7c-330b44933a14.png?auto=format",
-    "downloads": 389265,
-    "trend": 45,
-    "releasedAt": "2026-10-13T00:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UR3KXNAYC7J6MK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Hedesu ",
-    "description": "Never lose a lead, ticket, or client request again",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bd09ffca-2e94-478f-a469-ba6c58f4ca00.png?auto=format",
-    "downloads": 675168,
-    "trend": 89,
-    "releasedAt": "2026-10-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/W6UE75YFBJXIAV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "carcode",
-    "description": "Talk to Claude Code from your car, with Siri and CarPlay",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/72324e8e-c86e-4247-9a26-df6936bdefec.png?auto=format",
-    "downloads": 944639,
-    "trend": 71,
-    "releasedAt": "2026-10-12T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/64D6ZPWC3MXOKZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
