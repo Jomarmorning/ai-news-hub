@@ -1,5 +1,77 @@
 [
   {
+    "name": "Best Automation Tools for Freelancers",
+    "description": "Automate repetitive tasks and save time as a freelancer",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/af1478e1-8af0-4384-bb8a-9099a2d641ea.webp?auto=format",
+    "downloads": 788929,
+    "trend": 101,
+    "releasedAt": "2026-10-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QBB7OVO54C4VU7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI-WEB-STUDIO (AWS)",
+    "description": "Fast , easy to use , 100% free .",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6f24e5bf-026a-492a-8ac8-f8f2efb0653b.png?auto=format",
+    "downloads": 1014803,
+    "trend": 59,
+    "releasedAt": "2026-10-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VVZAEAW3A7J44O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "pacr running",
+    "description": "India’s own running app, with a free AI coach",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2475f174-17ad-4540-a97f-a20cd0024547.png?auto=format",
+    "downloads": 631419,
+    "trend": 92,
+    "releasedAt": "2026-10-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/D7HZYYAE7PVHMV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MCT Retail OS",
+    "description": "NEED A TECHNICAL CO-FOUNDER",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c214aadc-c5a3-4e4b-be9d-939019236721.png?auto=format",
+    "downloads": 904661,
+    "trend": 70,
+    "releasedAt": "2026-10-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SD3IYXEB5KCSGC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Beamline UI",
+    "description": "A design system for you and your coding agent",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/eab17e1b-f433-4caf-9289-c184d06b845f.png?auto=format",
+    "downloads": 451135,
+    "trend": 24,
+    "releasedAt": "2026-10-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IOFFF723THOYXZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MertAGI",
+    "description": "AI agents for buying, selling, logistics and bookkeeping",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/6f73a216-bcaa-4d57-9a72-795a2328c275.png?auto=format",
+    "downloads": 323088,
+    "trend": 63,
+    "releasedAt": "2026-10-14T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AEG6RKJKQA35CW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "QueryBurst",
     "description": "The Workspace for Improving Brand Visibility in AI Search",
     "category": "AI搜索",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/KDAWNOBVT4SELZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Scapesome",
-    "description": "3D aquarium planner with AI previews and checks",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3963a04d-83e2-4ad5-91b1-3568de683322.png?auto=format",
-    "downloads": 116574,
-    "trend": 91,
-    "releasedAt": "2026-10-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M2LCWW2XVYAMFY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WatchLux Watch Faces",
-    "description": "Animated AI-art watch faces for Apple Watch and Wear OS",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/655d14d6-776f-4855-8278-13fa9e8318d0.png?auto=format",
-    "downloads": 559541,
-    "trend": 79,
-    "releasedAt": "2026-10-14T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SAPIJHVTNJUE44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Dockhive",
-    "description": "Sovereign Cloud Infrastructure for AI Era",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/83e8c454-cc38-4277-bfcf-48ef00dcbd66.png?auto=format",
-    "downloads": 573474,
-    "trend": 72,
-    "releasedAt": "2026-10-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZAW3UU62JAKKXG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Clio: Learn AI in Arabic",
-    "description": "Learn AI in Arabic, with a Prompt Lab that grades your work",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b89d363a-daab-4874-bc89-f50bdaa9c0af.png?auto=format",
-    "downloads": 271975,
-    "trend": 34,
-    "releasedAt": "2026-10-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RNQZOKBFDJQRJI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Rynler Token Cost Calculator",
-    "description": "LLM cost calculator. No email. No tracking. Just math.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cea5c088-6681-4f98-a77c-d0bd436d8291.svg?auto=format",
-    "downloads": 108370,
-    "trend": 101,
-    "releasedAt": "2026-10-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/V6BOJGRIS34TTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "The RainDance AI",
-    "description": "Explore RainDance AI videos, demos and photo guides",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/afd76542-5016-4e25-bcb4-b4069b44f6f2.svg?auto=format",
-    "downloads": 283279,
-    "trend": 65,
-    "releasedAt": "2026-10-13T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7SYUWINI2KWTMS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
