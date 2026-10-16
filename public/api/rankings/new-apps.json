@@ -1,15 +1,63 @@
 [
   {
+    "name": "Scout",
+    "description": "AI code review inside the GitHub pull request page",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/02e64988-0ecd-438c-9ea8-45903fb86cc4.svg?auto=format",
+    "downloads": 1077233,
+    "trend": 24,
+    "releasedAt": "2026-10-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CAE2LVZ4VETJBC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "SlipSlate",
     "description": "Every slip. Every boat. Calmly under control.",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/d3455f9c-7159-4233-b103-4fb61db5e1ae.svg?auto=format",
-    "downloads": 257432,
-    "trend": 91,
+    "downloads": 416668,
+    "trend": 50,
     "releasedAt": "2026-10-15T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/URTYQVE7GZIS3W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OneClick IT Consultancy",
+    "description": "AI-Powered Software Development for Growing Businesses",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/a74b3f29-7842-44f5-893a-45ca6048a325.png?auto=format",
+    "downloads": 682671,
+    "trend": 49,
+    "releasedAt": "2026-10-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PAIL2IW4YD5A6J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Editor AI Guard",
+    "description": "Academic AI Detector, Humanizer & Crossref Plagiarism Engine",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/822d4225-ac49-4bf3-95e8-79e4da366ec8.png?auto=format",
+    "downloads": 627403,
+    "trend": 48,
+    "releasedAt": "2026-10-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QIL7NR5SZT53OE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Corpusense",
+    "description": "AI assistant for earnings-call research",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/2d187367-a39d-4136-88e4-3f892bcf6443.png?auto=format",
+    "downloads": 825783,
+    "trend": 30,
+    "releasedAt": "2026-10-15T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/O5WQNDDQFBCUOF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Melunox",
@@ -22,18 +70,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/WO6TRAAU7GSEF7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "OneClick IT Consultancy",
-    "description": "AI-Powered Software Development for Growing Businesses",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/a74b3f29-7842-44f5-893a-45ca6048a325.png?auto=format",
-    "downloads": 318075,
-    "trend": 21,
-    "releasedAt": "2026-10-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PAIL2IW4YD5A6J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "精挑翻译",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/R5K3DAPPDEPWSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Wiqo",
-    "description": "Your AI agent that gets things done, not just chats.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5439840f-f42d-4189-bb47-071ae82204f5.png?auto=format",
-    "downloads": 194270,
-    "trend": 65,
-    "releasedAt": "2026-10-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3PSTM3K6YXDLHJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BrandScout 2.0",
-    "description": "Your competitor database, researched by AI",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/6ae9aa36-ac57-454d-a222-e387e50058a5.png?auto=format",
-    "downloads": 1037703,
-    "trend": 63,
-    "releasedAt": "2026-10-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AE25PJJBJ6K7ZY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Digital Love Letter",
-    "description": "Personal letters with optional AI drafts, photos and music",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/4df38b03-e95f-447a-9776-f2dc36f60a22.png?auto=format",
-    "downloads": 234754,
-    "trend": 14,
-    "releasedAt": "2026-10-15T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LK4S7KNAKAMWEC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
