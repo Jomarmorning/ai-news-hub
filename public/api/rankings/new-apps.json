@@ -1,5 +1,29 @@
 [
   {
+    "name": "LLMSpeed",
+    "description": "Feel the token/s before buying the hardware.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/3193b001-e85c-4893-89db-9350a1504f71.png?auto=format",
+    "downloads": 1061313,
+    "trend": 41,
+    "releasedAt": "2026-10-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LLB5Y4VI4KPU4P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mailvantis",
+    "description": "Find leads , close deals ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5bcff819-60eb-4a90-83ed-10b9bad1bec1.png?auto=format",
+    "downloads": 1038909,
+    "trend": 32,
+    "releasedAt": "2026-10-17T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZZFWUJ423C6QWS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Chathonk",
     "description": "Instant chat, web games, and audio calls with friends",
     "category": "AI音频",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/3PJO43WHWITX2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Swastho",
-    "description": "Smarter clinic management with AI-powered workflows.",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/cb95988a-7888-4563-88a2-be18df773330.png?auto=format",
-    "downloads": 607473,
-    "trend": 73,
-    "releasedAt": "2026-10-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MHDJFR7IQQH7BY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Aura Notes – a local-first ai notebook",
-    "description": "Ask your notes anything — private by design",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/a40af577-08ba-4c66-8327-b0abe9ffc67d.jpeg?auto=format",
-    "downloads": 835701,
-    "trend": 40,
-    "releasedAt": "2026-10-16T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6CJI4D4VHYJWTM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
