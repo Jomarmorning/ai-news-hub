@@ -4,71 +4,71 @@
     "description": "OpenAI开发的AI聊天助手",
     "category": "AI对话",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
-    "downloads": 5856262,
-    "trend": -10
+    "downloads": 5857482,
+    "trend": 29
   },
   {
     "name": "Midjourney",
     "description": "AI图像生成工具",
     "category": "AI绘画",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg",
-    "downloads": 4431390,
-    "trend": -8
+    "downloads": 4432583,
+    "trend": 36
   },
   {
     "name": "Claude",
     "description": "Anthropic AI助手",
     "category": "AI对话",
     "icon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-    "downloads": 3865969,
-    "trend": 32
+    "downloads": 3867345,
+    "trend": 35
   },
   {
     "name": "Runway",
     "description": "AI视频生成与编辑",
     "category": "AI视频",
     "icon": "https://runwayml.com/favicon.ico",
-    "downloads": 3435058,
-    "trend": 26
+    "downloads": 3436096,
+    "trend": 33
   },
   {
     "name": "Jasper",
     "description": "AI写作助手",
     "category": "AI写作",
     "icon": "https://www.jasper.ai/favicon.ico",
-    "downloads": 3054988,
-    "trend": 1
+    "downloads": 3055948,
+    "trend": 29
   },
   {
     "name": "Synthesia",
     "description": "AI视频生成平台",
     "category": "AI视频",
     "icon": "https://www.synthesia.io/favicon.ico",
-    "downloads": 2768872,
-    "trend": 17
+    "downloads": 2770458,
+    "trend": 3
   },
   {
     "name": "Copy.ai",
     "description": "营销文案AI工具",
     "category": "AI写作",
     "icon": "https://www.copy.ai/favicon.ico",
-    "downloads": 2532902,
-    "trend": 2
+    "downloads": 2534790,
+    "trend": -6
   },
   {
     "name": "Notion AI",
     "description": "智能笔记与协作",
     "category": "生产力",
     "icon": "https://www.notion.so/images/favicon.ico",
-    "downloads": 2396222,
-    "trend": -9
+    "downloads": 2397577,
+    "trend": 39
   },
   {
     "name": "Grammarly",
     "description": "AI写作辅助工具",
     "category": "AI写作",
     "icon": "https://www.grammarly.com/favicon.ico",
-    "downloads": 2240729,
+    "downloads": 2242171,
     "trend": 14
   },
   {
@@ -76,7 +76,7 @@
     "description": "OpenAI图像生成",
     "category": "AI绘画",
     "icon": "https://openai.com/favicon.ico",
-    "downloads": 2079891,
-    "trend": 37
+    "downloads": 2080399,
+    "trend": 0
   }
 ]
