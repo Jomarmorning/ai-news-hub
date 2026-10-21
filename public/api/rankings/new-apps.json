@@ -1,5 +1,65 @@
 [
   {
+    "name": "bolipi",
+    "description": " Voice typing for Mac with no server to time out",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/de575555-9653-4ae0-a5d5-7c9e19961506.png?auto=format",
+    "downloads": 321412,
+    "trend": 82,
+    "releasedAt": "2026-10-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/637MWVWT2RHHUM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ChatterEase - AI Customer Support Agent ",
+    "description": "AI customer support agent + Inbox and Human Takeover",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5ad4e8b9-d622-4ffa-ab5c-0430136dcce6.jpeg?auto=format",
+    "downloads": 483044,
+    "trend": 26,
+    "releasedAt": "2026-10-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DSXWNV2XAFVGLL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Vicin",
+    "description": "Track local rankings, competitors, and AI search visibility",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/7b8b0495-7e4e-4f15-a712-851d54ac1d3f.png?auto=format",
+    "downloads": 196363,
+    "trend": 55,
+    "releasedAt": "2026-10-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EHQNNFMTFXTUNX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "iSonic",
+    "description": "iSonic – Empowering Creators with AI.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1be5d64f-8c85-437f-a955-20b609f6b85f.vnd.microsoft.icon?auto=format",
+    "downloads": 638184,
+    "trend": 60,
+    "releasedAt": "2026-10-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BU4NPKHG4DDFVQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ToolTier",
+    "description": "Tier lists of the AI tools builders actually use",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5a2221e0-e6f6-47e2-bb72-6e930c2c5d07.png?auto=format",
+    "downloads": 1000910,
+    "trend": 12,
+    "releasedAt": "2026-10-21T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NGTWYY37MPBW7U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "BhashaPost",
     "description": "Your Thoughts. Our AI. Endless Possibilities.",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/5HN7YKB6DSLLVS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ossvy",
-    "description": "Get recommended by AI. Track, fix and grow your visibility.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4cd36b28-134b-470a-8762-0a14cf0b929b.png?auto=format",
-    "downloads": 470035,
-    "trend": 74,
-    "releasedAt": "2026-10-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RAGACAS4MTN3BV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Word Remover",
-    "description": "Easily erase text, logos, and subtitles from videos with AI.",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/178698b5-8c66-4285-8d82-cd989a9d66fd.png?auto=format",
-    "downloads": 891179,
-    "trend": 101,
-    "releasedAt": "2026-10-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SEUR4SWPP6CDJ6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "fitfortrip",
-    "description": "Never pack a bad fit again",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/efe76a6f-fc52-480b-a06f-c0eaa77f8aa2.svg?auto=format",
-    "downloads": 179138,
-    "trend": 46,
-    "releasedAt": "2026-10-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AR4WPZ4ZAVBSTO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Moated",
-    "description": "Everything else can wait",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6a00ff99-3ce7-4259-81ef-ec7bfcd7d6c0.png?auto=format",
-    "downloads": 749835,
-    "trend": 58,
-    "releasedAt": "2026-10-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KXVMKZYQQ6LF6Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Air Scale",
-    "description": "Axle weights for your semi on your phone",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7e2cfa49-c5db-4e81-b2c7-7c9281668802.png?auto=format",
-    "downloads": 1073043,
-    "trend": 36,
-    "releasedAt": "2026-10-20T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VLDILF2CGE6XCE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
