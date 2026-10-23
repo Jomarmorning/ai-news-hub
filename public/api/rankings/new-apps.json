@@ -1,5 +1,41 @@
 [
   {
+    "name": "Drift: Daily Timeline",
+    "description": "Plan your day on one quiet, gesture-driven timeline",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/20b4bca4-c97d-41d5-99ab-1844e45995df.png?auto=format",
+    "downloads": 1081078,
+    "trend": 20,
+    "releasedAt": "2026-10-22T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MMF4SW24YJRKWR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TruePen",
+    "description": "Make AI text sound human. Free, no sign-up.",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/1c232610-e4fd-4100-8783-0232372e5694.png?auto=format",
+    "downloads": 654838,
+    "trend": 63,
+    "releasedAt": "2026-10-22T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NA5BUUWXFJHSRD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Anystock",
+    "description": "Every on-chain stock, in one place",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5d6f22aa-a6aa-4d55-8de8-86334c61a1d2.jpeg?auto=format",
+    "downloads": 799858,
+    "trend": 24,
+    "releasedAt": "2026-10-22T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XDO4BI3GLYPZNW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Toolbay Flow",
     "description": "Paid AI apps rebuilt free and open source: first, dictation",
     "category": "AI对话",
@@ -82,41 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/NHJ3TS2JQSOSXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Loom Record for agents",
-    "description": "Hit record and hand off to AI, now in the new Loom app",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/60829cc4-9de0-453d-9251-ddb8be1c15bb.png?auto=format",
-    "downloads": 1051719,
-    "trend": 107,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CEC7O36EG5BZTB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ramorie",
-    "description": "Project memory for AI coding agents, locally on your Mac",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/551809e7-9526-4f04-9f43-e7cbc83190e4.svg?auto=format",
-    "downloads": 1084352,
-    "trend": 41,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O72VVT5ISIIETB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BeeDone",
-    "description": "Gamified planner for ADHD brains that hate to-do lists",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/aa2e06b6-50a4-4099-86e2-c9fe363920df.png?auto=format",
-    "downloads": 368837,
-    "trend": 103,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7KVPR5DKNX73QP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
