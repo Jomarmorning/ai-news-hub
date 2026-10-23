@@ -1,5 +1,65 @@
 [
   {
+    "name": "hilighter",
+    "description": "AI skills & talent management platform for everyone",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b65228f6-51b6-4e5e-9521-cbc133b514ad.png?auto=format",
+    "downloads": 344086,
+    "trend": 74,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/H52EKMV3YCR5ZR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CloseLeads AI",
+    "description": "An AI agent that qualifies leads for personal trainers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/062c8d4b-8734-4b3f-9ba8-fbddbe0261db.png?auto=format",
+    "downloads": 966442,
+    "trend": 21,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/V55QJ2NMM3QYA5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Magic Quill: Be the Author",
+    "description": "Personalized AI illustrated stories with audio for kids",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/9da2bbc7-9275-446f-b253-c183bd255630.png?auto=format",
+    "downloads": 1035139,
+    "trend": 45,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IOSKN7DPFPAC2J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AIChatsHub",
+    "description": "WhatsApp & website chat inbox with AI sales reps",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e852c13c-de39-4c59-93e1-dd5e465a0280.png?auto=format",
+    "downloads": 769967,
+    "trend": 13,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MXFVU3LN6NAIEQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Aeriali Pole Dance",
+    "description": "Pole tutorials, routine planning and training progress",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/083f4a26-ff1d-4070-9d45-bb23e01b8866.png?auto=format",
+    "downloads": 576134,
+    "trend": 36,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SUKDU24J5ZKVED?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Drift: Daily Timeline",
     "description": "Plan your day on one quiet, gesture-driven timeline",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/BCSC5UGODEQF4Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Claude Duet",
-    "description": "Proactive agent that understands what needs your attention",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
-    "downloads": 614283,
-    "trend": 51,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Rowsend",
-    "description": "Self-hosted email marketing for the users in your database",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/db811fd4-0847-46d2-b3a6-15b7f60b6c63.png?auto=format",
-    "downloads": 1091536,
-    "trend": 101,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/A26QGGQBT7PACY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Notif",
-    "description": "AI for your Apple Reminders",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/fbd2d60c-8c78-414b-b0fa-c2850b3a8c92.png?auto=format",
-    "downloads": 388107,
-    "trend": 32,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O7SAXM7SLMPRP5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Fastlane 2.0",
-    "description": "Create, launch and scale winning ads with AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/911ad5e3-5acc-4533-a7a1-baa97ac898d8.png?auto=format",
-    "downloads": 525922,
-    "trend": 36,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/F336CZV4PLEFYY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CutBay",
-    "description": "AI Video Agent: Turn Anything into Videos via Chat",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/ae695785-2929-45ff-a3ce-8374d08688bd.png?auto=format",
-    "downloads": 593498,
-    "trend": 63,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NHJ3TS2JQSOSXM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
