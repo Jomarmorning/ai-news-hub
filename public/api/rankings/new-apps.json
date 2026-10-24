@@ -1,5 +1,65 @@
 [
   {
+    "name": "Quantum L7 AI",
+    "description": "AI, communities, learning & digital markets in one place",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/71a092aa-439b-43dd-bfd9-d8bbd8fffc5d.png?auto=format",
+    "downloads": 135895,
+    "trend": 61,
+    "releasedAt": "2026-10-23T18:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/Q3EYVHZXJGE7BQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "ByteSend",
+    "description": "Send and receive email. Open source, pay as you go",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/46a72b28-5577-4288-ae8e-ac00273c922c.png?auto=format",
+    "downloads": 927808,
+    "trend": 61,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4W57HX6WSGW7PY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "RentAKaren",
+    "description": "For when your AI agent can't get through to the manager",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/79d53982-b64b-425a-abc9-16abdc4365f9.svg?auto=format",
+    "downloads": 771517,
+    "trend": 78,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WNVRWLD63EH5GL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "STEMBridge Speaks",
+    "description": "Free AI speaking practice in 7 languages",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5c8aae0e-9901-4562-a4b3-c32934a80ac1.png?auto=format",
+    "downloads": 462957,
+    "trend": 87,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4Y6X2FY3ALPT3T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sotto Voice",
+    "description": "STT that adapts to every app",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/f99aace5-d555-4a3e-a032-680523839eff.png?auto=format",
+    "downloads": 670722,
+    "trend": 88,
+    "releasedAt": "2026-10-23T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YTD26HZXZDU7TS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "hilighter",
     "description": "AI skills & talent management platform for everyone",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/SUKDU24J5ZKVED?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Drift: Daily Timeline",
-    "description": "Plan your day on one quiet, gesture-driven timeline",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/20b4bca4-c97d-41d5-99ab-1844e45995df.png?auto=format",
-    "downloads": 1081078,
-    "trend": 20,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/MMF4SW24YJRKWR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TruePen",
-    "description": "Make AI text sound human. Free, no sign-up.",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/1c232610-e4fd-4100-8783-0232372e5694.png?auto=format",
-    "downloads": 654838,
-    "trend": 63,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NA5BUUWXFJHSRD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Anystock",
-    "description": "Every on-chain stock, in one place",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5d6f22aa-a6aa-4d55-8de8-86334c61a1d2.jpeg?auto=format",
-    "downloads": 799858,
-    "trend": 24,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XDO4BI3GLYPZNW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Toolbay Flow",
-    "description": "Paid AI apps rebuilt free and open source: first, dictation",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1a41e1ca-7165-4a3b-840b-e824df77cc40.png?auto=format",
-    "downloads": 497739,
-    "trend": 85,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4WEABQBDME4PRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CalMeter: AI Calorie Counter",
-    "description": "AI calorie counter: snap your meal, know your calories",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e446a9fa-eddd-40c9-9be2-0f95d752ac89.png?auto=format",
-    "downloads": 747268,
-    "trend": 88,
-    "releasedAt": "2026-10-22T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BCSC5UGODEQF4Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
