@@ -1,5 +1,53 @@
 [
   {
+    "name": "MindChess",
+    "description": "Your daily chess gym and study companion",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/a6f7351e-4b27-43b1-866e-5b2d0cdb8d02.png?auto=format",
+    "downloads": 385742,
+    "trend": 82,
+    "releasedAt": "2026-10-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OVHPNODASRIL4X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Smart Reminder",
+    "description": "The reminder app that emails you if you miss it",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/860da5af-272a-4c81-b121-150fd54963c0.png?auto=format",
+    "downloads": 906960,
+    "trend": 29,
+    "releasedAt": "2026-10-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5SJCFDKKFLDBG4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TaskSquad: humans & AI work together",
+    "description": "Your agents. Your machines. One squad. ",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5dda6685-783a-46e4-8649-b5576618ead7.jpeg?auto=format",
+    "downloads": 287068,
+    "trend": 107,
+    "releasedAt": "2026-10-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/MZGPPQ37OLPDRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "MAT LEADS AI PRO X",
+    "description": "Google Maps Lead Generation SaaS",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/45569609-0314-4100-a350-d1bbfd96a597.svg?auto=format",
+    "downloads": 1084703,
+    "trend": 50,
+    "releasedAt": "2026-10-24T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NT4ZEOKNNANHM6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Indish Marketer",
     "description": "Automation for Indie Marketers",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/K6DC5OZHHTOU4A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Autorys",
-    "description": "AI customer service that truly knows your business",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/f4aa3823-1751-4b58-8c5b-c6090d9e2c7a.png?auto=format",
-    "downloads": 439622,
-    "trend": 65,
-    "releasedAt": "2026-10-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5HHJ7KLPETFOVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "KOKORO RYO",
-    "description": "Journal, Diary & Daily Planner",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e80ad88e-8bc7-4c46-b6de-41b79e9291e0.png?auto=format",
-    "downloads": 552901,
-    "trend": 102,
-    "releasedAt": "2026-10-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EZGRFJFZIDVXXT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BeSpoke AI Stylist for iPad & Tablets",
-    "description": "Your AI stylist, now built for iPad and Android tablets",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/45719d64-76d0-4576-b099-0ea51b586b8c.png?auto=format",
-    "downloads": 669650,
-    "trend": 32,
-    "releasedAt": "2026-10-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NSK2XQFMUCNKRT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Creator Library",
-    "description": "Edit your videos with Claude by naming a style",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/03a1d507-4c15-4948-a68d-3c4198b8dcde.png?auto=format",
-    "downloads": 520996,
-    "trend": 82,
-    "releasedAt": "2026-10-24T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KGSFHDZDWVT4IP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
