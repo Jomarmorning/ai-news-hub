@@ -1,5 +1,77 @@
 [
   {
+    "name": "A(I)mplified Analyst",
+    "description": "AI-powered financial research, amplified by human analysts",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/5c0d1663-94fa-4af0-b5d0-1f4bad87af4e.png?auto=format",
+    "downloads": 280890,
+    "trend": 83,
+    "releasedAt": "2026-10-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QWGDEL3OSQYITN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WizardChat",
+    "description": "The Open-Source, Encrypted Discord Alternative",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9b5a8b84-0385-4956-89bc-ef7dcf7883b8.png?auto=format",
+    "downloads": 496189,
+    "trend": 52,
+    "releasedAt": "2026-10-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YIHQCJV7S4FDNQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Trisavia",
+    "description": "Give your own AI agent a home and neighbors in a pixel town",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/17f08fdf-9997-4c26-a71b-df2c05e69f7b.svg?auto=format",
+    "downloads": 414984,
+    "trend": 37,
+    "releasedAt": "2026-10-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CFREKNCVCLIXP2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Distrarc",
+    "description": "Distrarc, the AI lead finder",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/48b3343f-0226-4608-b051-7c27e5d9274c.png?auto=format",
+    "downloads": 525442,
+    "trend": 20,
+    "releasedAt": "2026-10-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WMF7GDLERPKE27?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Junk Removal Dubai",
+    "description": "Furniture removal in Dubai without the heavy lifting",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9229753f-6da0-49da-915d-065fab796a6d.jpeg?auto=format",
+    "downloads": 605283,
+    "trend": 73,
+    "releasedAt": "2026-10-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PQPWJEHLMF4HU6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "opendrive",
+    "description": "Weekly car rental for ride-hailing drivers",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/115b2f3a-4f3d-44b6-94d7-d76eeee8fad2.png?auto=format",
+    "downloads": 634870,
+    "trend": 88,
+    "releasedAt": "2026-10-29T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OJDEV7XEF4IMRN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Intoons",
     "description": "AI-Powered Storytelling App: Stories, Webtoons & Cinematic",
     "category": "AI对话",
@@ -10,18 +82,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/AGIOR6Y2P3YRN2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "A(I)mplified Analyst",
-    "description": "AI-powered financial research, amplified by human analysts",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/5c0d1663-94fa-4af0-b5d0-1f4bad87af4e.png?auto=format",
-    "downloads": 216103,
-    "trend": 100,
-    "releasedAt": "2026-10-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QWGDEL3OSQYITN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Koda",
@@ -36,18 +96,6 @@
     "url": "https://www.producthunt.com/r/UNLDXUCJ4HT6BO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "WizardChat",
-    "description": "The Open-Source, Encrypted Discord Alternative",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9b5a8b84-0385-4956-89bc-ef7dcf7883b8.png?auto=format",
-    "downloads": 945787,
-    "trend": 86,
-    "releasedAt": "2026-10-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YIHQCJV7S4FDNQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "TopCopilot",
     "description": "AI translation for Word, Excel & PPT that keeps formatting",
     "category": "AI对话",
@@ -60,30 +108,6 @@
     "url": "https://www.producthunt.com/r/6V52TMO23SXJTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Trisavia",
-    "description": "Give your own AI agent a home and neighbors in a pixel town",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/17f08fdf-9997-4c26-a71b-df2c05e69f7b.svg?auto=format",
-    "downloads": 282845,
-    "trend": 34,
-    "releasedAt": "2026-10-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CFREKNCVCLIXP2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Distrarc",
-    "description": "Distrarc, the AI lead finder",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/48b3343f-0226-4608-b051-7c27e5d9274c.png?auto=format",
-    "downloads": 664046,
-    "trend": 35,
-    "releasedAt": "2026-10-29T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/WMF7GDLERPKE27?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Benchline",
     "description": "Free GEO citability checker for AI crawlers",
     "category": "AI对话",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/MCPEQQZTM7EHPU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "nTra",
-    "description": "AI Orchestration OS for Spec-Driven Development",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/2efd1a1c-e7be-4f36-b99f-f6b78b7c9893.svg?auto=format",
-    "downloads": 337092,
-    "trend": 62,
-    "releasedAt": "2026-10-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/I2PH6WZMNJZKNO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ContextHint",
-    "description": "The Intelligence Platform for ChatGPT Ads",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5fed6f7a-0fc9-4b59-8fd6-4f15c2493e7a.webp?auto=format",
-    "downloads": 512820,
-    "trend": 24,
-    "releasedAt": "2026-10-28T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JKGA5GQKUYY2FV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
