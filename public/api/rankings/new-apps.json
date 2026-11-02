@@ -1,15 +1,75 @@
 [
   {
+    "name": "AI Manga Translator",
+    "description": "Translate full manga pages with text back in the bubbles",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e97a7a54-b8ee-4a1e-bef0-198b2e9b93d3.png?auto=format",
+    "downloads": 109898,
+    "trend": 74,
+    "releasedAt": "2026-11-02T00:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GIBZPWQACUCO7P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Groove Journey",
     "description": "Endless LoFi Music Player by Code. No AI.",
     "category": "AI音频",
     "icon": "https://ph-files.imgix.net/a5e5dec9-078e-4159-a4f3-01b79634cc7e.png?auto=format",
-    "downloads": 474705,
-    "trend": 96,
+    "downloads": 101427,
+    "trend": 16,
     "releasedAt": "2026-11-01T07:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/I4FXTRS5NQGNHJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "CaptchaNo",
+    "description": "Captcha solver API for scrapers, QA tests and AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/30737c42-685b-4999-985f-727324cbacd7.png?auto=format",
+    "downloads": 388475,
+    "trend": 66,
+    "releasedAt": "2026-11-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SHKPPOTHDENDCG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Style Sketch by Meta",
+    "description": "Meta's AI stylist that makes new outfits from your closet",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c37f0d0d-fe66-419b-b5c6-9fab7f2d3cf8.webp?auto=format",
+    "downloads": 305695,
+    "trend": 44,
+    "releasedAt": "2026-11-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2JSCK7YOC5YADA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Markdown to HTML Converter",
+    "description": "Markdown to HTML and back, with live preview. Free",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/40ed634a-c7df-46f4-99cb-6dfbafd83aec.png?auto=format",
+    "downloads": 1069607,
+    "trend": 87,
+    "releasedAt": "2026-11-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GFLQLYEUOIFHP4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Truth Check",
+    "description": "Prove your photos and videos are real, not AI-made",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/ef340d4e-fe92-4d5d-9827-852ea2a215be.png?auto=format",
+    "downloads": 739098,
+    "trend": 99,
+    "releasedAt": "2026-11-01T07:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/O5ECJFLJGFMT4F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "AIRAP Video",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/QET2OR3MMWDPCO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Signalyze",
-    "description": "AI market intelligence software for crypto",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/94336d31-0255-491c-9f27-8c63042f1f22.png?auto=format",
-    "downloads": 1093214,
-    "trend": 64,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XNEH6KM6FYNOZI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Claude Code Infinite Flow Toolkit",
-    "description": "Master Claude Code context limit for infinite AI dev session",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/37bfdccc-b6fa-40f3-9720-6daa9af7ed7c.png?auto=format",
-    "downloads": 181034,
-    "trend": 101,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5LG3B2HGQNZUS4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "$480 Gift Card Giveaway: Bonus Entries",
-    "description": "$480 Gift Card Giveaway: Bonus Entries Explained",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4450412e-a18c-4e25-a9bb-505c5f4c5179.jpeg?auto=format",
-    "downloads": 386080,
-    "trend": 108,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/27RYOSHB64RQPT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AIDetector.cx",
-    "description": "Detect AI content, plagiarism, deepfakes & more",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/56bd490a-407f-4e04-9e7d-1985b0b0f8bf.png?auto=format",
-    "downloads": 443981,
-    "trend": 103,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VMDEPRTTEGBECG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Genjutsu AI",
-    "description": "Swap characters, outfits or backgrounds and keep the motion",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/db7d740f-47e2-4123-b9e6-1c2c1b234e9a.png?auto=format",
-    "downloads": 719086,
-    "trend": 82,
-    "releasedAt": "2026-11-01T00:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7JBISPPERDPRB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
