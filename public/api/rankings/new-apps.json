@@ -1,5 +1,77 @@
 [
   {
+    "name": "MightyWidgets",
+    "description": "Describe a website widget, AI builds it, embed anywhere",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/f7d14c9c-389d-4991-b88d-a0a7e9dfcfe6.svg?auto=format",
+    "downloads": 372166,
+    "trend": 51,
+    "releasedAt": "2026-11-02T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/C7ZBFSIFQXX3GU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "SLM Mimir",
+    "description": "SLM-AI Solutions are Creator of SLM Mimir",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/908c1838-3a76-4c50-872a-bb729b1aeace.png?auto=format",
+    "downloads": 781853,
+    "trend": 74,
+    "releasedAt": "2026-11-02T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OCOB5S7NOX234C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "GEEKY AIQ",
+    "description": "AI Search Visibility Tool",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/0ee66cd8-12ee-4080-9bc6-ffe21ba6948c.png?auto=format",
+    "downloads": 792798,
+    "trend": 22,
+    "releasedAt": "2026-11-02T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CW43JHPDPZFRZ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WorkplaceReady",
+    "description": "AI Questionnaire Evidence & Business Readiness",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1028c33b-7c33-4f09-8c82-9d32c8136e72.png?auto=format",
+    "downloads": 566884,
+    "trend": 36,
+    "releasedAt": "2026-11-02T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/WFVH5JKDAPRZ4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Advocate",
+    "description": "Legal Research AI App - Made In Mysuru",
+    "category": "AI搜索",
+    "icon": "https://ph-files.imgix.net/7a67377e-13d6-4177-9f95-8127c3797e50.png?auto=format",
+    "downloads": 526407,
+    "trend": 94,
+    "releasedAt": "2026-11-02T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/E2WTZVBASR6UYL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "DeepTutor Mobile",
+    "description": "An open-source phone client for HKUDS's DeepTutor AI tutor",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2c698c50-1216-4484-848d-db75ed0d29c7.png?auto=format",
+    "downloads": 125745,
+    "trend": 74,
+    "releasedAt": "2026-11-02T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/UZBJL3SG275QFE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "AI Manga Translator",
     "description": "Translate full manga pages with text back in the bubbles",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/2JSCK7YOC5YADA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Markdown to HTML Converter",
-    "description": "Markdown to HTML and back, with live preview. Free",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/40ed634a-c7df-46f4-99cb-6dfbafd83aec.png?auto=format",
-    "downloads": 1069607,
-    "trend": 87,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GFLQLYEUOIFHP4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Truth Check",
-    "description": "Prove your photos and videos are real, not AI-made",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/ef340d4e-fe92-4d5d-9827-852ea2a215be.png?auto=format",
-    "downloads": 739098,
-    "trend": 99,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O5ECJFLJGFMT4F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AIRAP Video",
-    "description": "Turn your photos into AI rap videos",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/e1dcd4e3-4775-4f40-ba6a-868cceb24918.png?auto=format",
-    "downloads": 1017281,
-    "trend": 99,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/X42D56ZMBKWW3K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Project Management Software",
-    "description": "Optimize Project Workflows with Advanced Automation",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b88dbbed-30cf-4247-90b3-6f694689bc4e.jpeg?auto=format",
-    "downloads": 779694,
-    "trend": 35,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M4MPSCV2H4KBJ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Opticalillusions.com",
-    "description": "Free original optical illusions, explained",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6e7bb79d-3c0e-4353-8299-a5f9e4b0beae.png?auto=format",
-    "downloads": 598189,
-    "trend": 57,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/USKYUR3BEJR66R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Spatto",
-    "description": "Staff write availability in plain words, the schedule builds",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/2441fe90-378d-4113-af53-8e46ce347b9d.png?auto=format",
-    "downloads": 545673,
-    "trend": 82,
-    "releasedAt": "2026-11-01T07:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QET2OR3MMWDPCO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
