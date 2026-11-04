@@ -4,12 +4,48 @@
     "description": "Turn voice messages, audio and video into text in Telegram",
     "category": "AI视频",
     "icon": "https://ph-files.imgix.net/1274c22f-4185-4aec-8235-684a289a1be2.jpeg?auto=format",
-    "downloads": 576948,
-    "trend": 25,
+    "downloads": 279177,
+    "trend": 43,
     "releasedAt": "2026-11-03T08:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/5PNBS5GWCBTZP4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "VoiceBrief",
+    "description": "Turn Telegram voice notes and text into 1–3 key points",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/b1d61775-7bcf-49b6-a6c3-06b3bd8a9f1f.jpeg?auto=format",
+    "downloads": 208161,
+    "trend": 36,
+    "releasedAt": "2026-11-03T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AAWREF2B3ZZDMX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PromptDock AI ",
+    "description": "Platform to Discover, Publish and Earn with AI Knowledge",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b0cd3a11-94b1-41b2-a7a0-e9e540a6d453.png?auto=format",
+    "downloads": 339026,
+    "trend": 50,
+    "releasedAt": "2026-11-03T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/KBBI6P6NVXWJOV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Questant",
+    "description": "Real-world lessons, learning games and AI films for kids",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/00484e9a-25ad-4f00-b049-12c8ebee77ff.png?auto=format",
+    "downloads": 906280,
+    "trend": 63,
+    "releasedAt": "2026-11-03T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/3V3UEPZ2XGKVG3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Virtual Staging AI Studio",
@@ -72,30 +108,6 @@
     "url": "https://www.producthunt.com/r/4Q5IR5NQXOZ3PT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "VoiceBrief",
-    "description": "Turn Telegram voice notes and text into 1–3 key points",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/b1d61775-7bcf-49b6-a6c3-06b3bd8a9f1f.jpeg?auto=format",
-    "downloads": 578251,
-    "trend": 39,
-    "releasedAt": "2026-11-03T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AAWREF2B3ZZDMX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PromptDock AI ",
-    "description": "Platform to Discover, Publish and Earn with AI Knowledge",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b0cd3a11-94b1-41b2-a7a0-e9e540a6d453.png?auto=format",
-    "downloads": 129308,
-    "trend": 94,
-    "releasedAt": "2026-11-03T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KBBI6P6NVXWJOV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Xmind 2027",
     "description": "Your mind map is now an AI thinking partner",
     "category": "AI绘画",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/ITN3N4YT7NIKXS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cedric AI for Meetings",
-    "description": "The first AI agent to present your slides and attend for you",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/69d303d3-67c8-4ef1-9d36-fc7c597ace1b.png?auto=format",
-    "downloads": 300140,
-    "trend": 101,
-    "releasedAt": "2026-11-02T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/3WNUZE5QLV6YEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
