@@ -1,5 +1,53 @@
 [
   {
+    "name": "YaseKcal",
+    "description": "Track calories with AI-powered food photo ",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/c26a0906-c2c1-4c87-9672-982af14d2ceb.png?auto=format",
+    "downloads": 984451,
+    "trend": 73,
+    "releasedAt": "2026-11-06T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5BYDFUZPAOR7EV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Litehaus",
+    "description": "AI investor outreach, from your pitch deck to their inbox",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7923b199-4a6b-411b-8f8e-cc31a87ab149.png?auto=format",
+    "downloads": 643866,
+    "trend": 70,
+    "releasedAt": "2026-11-06T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/VUNHHE4RVB6NNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Greensighter AI",
+    "description": "Hire an AI UI/UX Designer",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0f81294e-14aa-4608-9481-2aa06423aab7.png?auto=format",
+    "downloads": 499567,
+    "trend": 76,
+    "releasedAt": "2026-11-06T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4MTLQF4CQ33GGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Graphite Notebook",
+    "description": "The AI notebook for making something of what you learn",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/16d351de-f547-467c-b8f9-e974fd41ecbf.png?auto=format",
+    "downloads": 110284,
+    "trend": 99,
+    "releasedAt": "2026-11-06T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZP5QRFZAH6OUD3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "RandomlyGo",
     "description": "Random topics to talk, write, speak, debate or draw about",
     "category": "AI绘画",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/CKX4HDTMFRMYF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "COSaiL",
-    "description": "COSaiL: AI copilot for sales",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/75160bf9-ce6b-4802-a6e6-4a1de55a3028.png?auto=format",
-    "downloads": 748099,
-    "trend": 52,
-    "releasedAt": "2026-11-05T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TCPE4WYZRTY5DH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "PIXON Technologies",
-    "description": "COB LED Screen in Dubai",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5faaa9f9-c8ed-40ea-af48-e19445e9894f.webp?auto=format",
-    "downloads": 301084,
-    "trend": 40,
-    "releasedAt": "2026-11-05T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GAQIC7UF2RSYU6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "GeminiChat",
-    "description": "Free Gemini chat + AI prompt generator in one place.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/02436626-ab19-4360-bc4f-9093f47e9e78.png?auto=format",
-    "downloads": 988099,
-    "trend": 56,
-    "releasedAt": "2026-11-05T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VHD6YZDVUFBGZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Shelog",
-    "description": "AI Health Diary and Calorie Tracker for Women",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/723313f3-2a31-4c61-ae29-bb79087fb8d8.png?auto=format",
-    "downloads": 417069,
-    "trend": 65,
-    "releasedAt": "2026-11-05T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7BRFEYKNAAKXEV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
