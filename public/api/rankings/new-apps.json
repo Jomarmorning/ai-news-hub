@@ -1,5 +1,53 @@
 [
   {
+    "name": "Kontext Studio",
+    "description": "AI-Native Data Analysis Workspace",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/8e6fe966-b8d8-46fc-a3ca-0b95b2218620.png?auto=format",
+    "downloads": 927284,
+    "trend": 83,
+    "releasedAt": "2026-11-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BVS5GLMOHWFLSH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OSMEXO AI Model Exchange",
+    "description": "The AI Model Exchange that costs less than going direct",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/eae49175-1d45-44f4-968d-974d14741313.png?auto=format",
+    "downloads": 533111,
+    "trend": 46,
+    "releasedAt": "2026-11-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/5P5HEG5XFO3RP2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TrustCheck AI",
+    "description": "Spot scam warning signs before you act.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cdd40aef-0a8e-4a00-9cc2-87ae687956c3.svg?auto=format",
+    "downloads": 201360,
+    "trend": 97,
+    "releasedAt": "2026-11-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EHZPNJ3ZVSEJGV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Statusline Studio",
+    "description": "Design your Claude Code status line with a live preview",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/ff925658-ad4d-4a01-b50a-ea99894f7dce.png?auto=format",
+    "downloads": 855673,
+    "trend": 61,
+    "releasedAt": "2026-11-07T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/P4KOH4QFDUN4IE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "GPT‑6 Cyber",
     "description": "OpenAI’s cyber model, with vetted access for defenders",
     "category": "AI对话",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/MTCEOJZH4PGUFU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Muse Realtime Avatar",
-    "description": "Turn voice chats with Muse into live video calls",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/153572c5-a082-42b4-8128-169e7954b061.svg?auto=format",
-    "downloads": 304126,
-    "trend": 12,
-    "releasedAt": "2026-11-07T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CEQNYNERKKN54Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Front-End Checklist",
-    "description": "Audit any page against a 400-item front-end checklist",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/ae112d6d-f45f-4490-8fea-6c156308d139.png?auto=format",
-    "downloads": 663761,
-    "trend": 18,
-    "releasedAt": "2026-11-07T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/A4BIMQE5Z2KK7M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Lejar",
-    "description": "AI accounting software for Malaysian small businesses",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/01362757-4d79-4318-bd25-9ed55e8b0c1f.png?auto=format",
-    "downloads": 331003,
-    "trend": 108,
-    "releasedAt": "2026-11-07T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/2ETKWZAK5YHEWP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Google Omni 1.2 Flash",
-    "description": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/fbe25412-bf16-4b8c-b60a-d1532c64fbba.png?auto=format",
-    "downloads": 203957,
-    "trend": 108,
-    "releasedAt": "2026-11-07T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EAQRQBPBLUGUTY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
