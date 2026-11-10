@@ -1,5 +1,77 @@
 [
   {
+    "name": "Rowflare",
+    "description": "Open-source Airtable alternative on Cloudflare",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/475a8568-36f1-4434-acbd-05098ee20199.svg?auto=format",
+    "downloads": 457253,
+    "trend": 18,
+    "releasedAt": "2026-11-10T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OY37FO3AYAL7AX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Mosaik",
+    "description": "A calm habit tracker where your habits paint a picture",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/12fe4baf-9006-4e50-90a2-bcf7e4c25957.png?auto=format",
+    "downloads": 747441,
+    "trend": 75,
+    "releasedAt": "2026-11-10T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EYUIAVREY3VSLU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Stadiy",
+    "description": "Your free AI study partner for books and PDFs",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/53cf9d98-ca5e-4471-a7ea-609bc9f02dd4.svg?auto=format",
+    "downloads": 349511,
+    "trend": 39,
+    "releasedAt": "2026-11-10T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/B6KLUJVJJU5OS6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "QuotedPart",
+    "description": "AI quoting for CNC and sheet metal job shops",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/ad8e76c6-cbc9-472e-bb41-b33a25a56c4c.png?auto=format",
+    "downloads": 1025834,
+    "trend": 15,
+    "releasedAt": "2026-11-10T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RENG3JEMXOEAYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "OpenVibe",
+    "description": "A canvas of real terminals for your AI coding agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/22265bd5-1538-41fa-9f53-3da0acff8fb7.svg?auto=format",
+    "downloads": 666679,
+    "trend": 97,
+    "releasedAt": "2026-11-10T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/XL24EUCBWL4M2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Wipecraft",
+    "description": "Mac System Data cleaner with on-device AI mode",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/58ef4cc0-3027-4f42-b3d1-d4184d3d19f3.png?auto=format",
+    "downloads": 784609,
+    "trend": 50,
+    "releasedAt": "2026-11-10T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BOYHONRS77VJK4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Dageno AI 2.0",
     "description": "See why AI recommends your competitors instead of you",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/6NZ7GL4VUHSFPI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Flic Cue",
-    "description": "The AI Voice Button: hold to talk, shake to undo, open SDKs",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/5b8b0208-ca55-4e9f-b062-36c227735694.gif?auto=format",
-    "downloads": 406890,
-    "trend": 91,
-    "releasedAt": "2026-11-09T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YOS4KYUMYVQN4I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Arcjet AI security models",
-    "description": "A family of custom-trained security models for coding agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/9f89ef3a-743d-4f6b-8ae7-146a3f0b637f.jpeg?auto=format",
-    "downloads": 589220,
-    "trend": 78,
-    "releasedAt": "2026-11-09T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VT6JRMB2LSBNQT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cardboard AI",
-    "description": "Best way to edit videos with AI",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/52a253ba-d221-434c-a12d-0e9144012643.png?auto=format",
-    "downloads": 1055300,
-    "trend": 45,
-    "releasedAt": "2026-11-09T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CUFL5L7KXTX4V4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "RACE AI",
-    "description": "Making research accessible to everyone",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/eb210a14-9b9d-4bde-b6a4-98a2d0c2787c.png?auto=format",
-    "downloads": 465666,
-    "trend": 101,
-    "releasedAt": "2026-11-09T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/P6VWNVFCKGMS5I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Reduck",
-    "description": "Fast, reliable web access for your AI agents and n8n",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d5ab2361-a9e0-4320-a495-867ce6f10c9c.vnd.microsoft.icon?auto=format",
-    "downloads": 867122,
-    "trend": 54,
-    "releasedAt": "2026-11-09T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/GGNFB4TISYAQ4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Pawse.ai",
-    "description": "Sound engineered for dogs, not humans",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/172025cd-bf42-44f8-bceb-9e7948da516c.png?auto=format",
-    "downloads": 877451,
-    "trend": 103,
-    "releasedAt": "2026-11-09T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OJSJK4CTR4K5RL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
