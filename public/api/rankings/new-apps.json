@@ -1,5 +1,65 @@
 [
   {
+    "name": "Spacefast by Automattic",
+    "description": "Give your AI agents a place to build, run, and ship",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/74983efe-60a0-4e2f-b04f-bbf40437df85.png?auto=format",
+    "downloads": 905734,
+    "trend": 36,
+    "releasedAt": "2026-11-12T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/O2SFBIBKNXJMBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Omnigraph",
+    "description": "Open source graph database for your AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7dc98c53-4374-466e-97f8-388ca136aad3.png?auto=format",
+    "downloads": 489209,
+    "trend": 36,
+    "releasedAt": "2026-11-12T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FZKF5GOW432WWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Plurai Simulation",
+    "description": "A simulated world that makes your agent improve on every run",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
+    "downloads": 866460,
+    "trend": 19,
+    "releasedAt": "2026-11-12T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZBKQ4BKXEJCORU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Sendr V4: Lovable for GTM",
+    "description": "Your AI GTM engineer to build signal based go-to-market",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/eba1752d-29b5-4fda-944f-faa80b10291f.png?auto=format",
+    "downloads": 1070800,
+    "trend": 109,
+    "releasedAt": "2026-11-12T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4QMYJB4ZG55IBM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Gemini Decisions API",
+    "description": "Fast, calibrated multimodal decisions",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/2ee3d964-198e-481a-a6a7-54a9979a1f37.png?auto=format",
+    "downloads": 801838,
+    "trend": 18,
+    "releasedAt": "2026-11-12T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/SY4NPTW4AZGZGX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "MatchResume.ai",
     "description": "AI resume tailoring for every job, free ATS check to start",
     "category": "AI绘画",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/HSMVMV4QRESDW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Cloakium Link",
-    "description": "Give your real Chrome an AI agent you can command anywhere",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3bbc0f62-dfee-4131-8c94-4d3b5d06ca59.png?auto=format",
-    "downloads": 312572,
-    "trend": 82,
-    "releasedAt": "2026-11-11T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/LSMGDHHI3BLH6M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "tradeagentio",
-    "description": "AI agent that reads crypto charts and writes a trade plan",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/c7630330-3953-428d-91b9-ccf616d50d42.png?auto=format",
-    "downloads": 862584,
-    "trend": 64,
-    "releasedAt": "2026-11-11T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FCWRL5PL6URYN5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Averil",
-    "description": "AI security engineer for teams",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c63c3ad4-d635-4e02-b1e0-55b3bc2b54fa.png?auto=format",
-    "downloads": 960482,
-    "trend": 86,
-    "releasedAt": "2026-11-11T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XLW6O4KOKCH4BE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Flowsona",
-    "description": "Turn your photos into solo or duet AI rap videos",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/2093da3e-7e33-4fe8-82e6-4012ffcada8c.png?auto=format",
-    "downloads": 556612,
-    "trend": 12,
-    "releasedAt": "2026-11-11T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ECCSDCKY26ZL4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "WristGram",
-    "description": "Telegram voice calls and chats on your Apple Watch",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/8429dce9-d75d-4dc4-8b97-cded827c013f.png?auto=format",
-    "downloads": 355781,
-    "trend": 79,
-    "releasedAt": "2026-11-11T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6ZCFXUWWHN7TLO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
