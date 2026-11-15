@@ -1,5 +1,77 @@
 [
   {
+    "name": "LaunchPilotAi",
+    "description": "Turn your idea into a business with AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/27ff4821-0223-4dcf-b6cd-1740288d3733.jpeg?auto=format",
+    "downloads": 843969,
+    "trend": 55,
+    "releasedAt": "2026-11-14T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BLSG2NR7VW7ZJJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Createchz",
+    "description": "Free AI API cost and token tools",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/696fc1db-b041-4cfe-8685-9794ba0e06ea.png?auto=format",
+    "downloads": 173108,
+    "trend": 93,
+    "releasedAt": "2026-11-14T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DRY6IMJ2I6SFC5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "HTML to Image and PDF API",
+    "description": "HTML to Image API & HTML to PDF Converter",
+    "category": "AI绘画",
+    "icon": "https://ph-files.imgix.net/de2bad3d-ccf8-4a46-8b86-049945c812b2.png?auto=format",
+    "downloads": 201324,
+    "trend": 96,
+    "releasedAt": "2026-11-14T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ANRUWRU35MGCQM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Nutaan Commerce",
+    "description": "Run your whole online store from one AI workspace",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/launch-image-uploads/fdd62d0f-1229-41e5-8936-4767500576cc/e27d452bf46fef43af08a24e375abf27d994459567e95967fb533890d8766a47.png?auto=format",
+    "downloads": 231214,
+    "trend": 77,
+    "releasedAt": "2026-11-14T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DIOZXXVMI3RWOH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Orgenix",
+    "description": "Describe your app. An AI team builds it and puts it live.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7cdb3cd2-ca11-42e8-8252-ab0341b0e7c4.png?auto=format",
+    "downloads": 384647,
+    "trend": 54,
+    "releasedAt": "2026-11-14T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LDHIIWM6CRMRAQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "hushtype",
+    "description": "Voice to text that never leaves your Mac",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/d4215776-5795-436a-b078-9ce6cbd0a752.png?auto=format",
+    "downloads": 767746,
+    "trend": 106,
+    "releasedAt": "2026-11-14T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QQMVYX5S5WTLU7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Kokonut UI",
     "description": "Open-source UI components for your AI agent",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/QNA7QJGTCQBSQV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Baru Day",
-    "description": "Daily cycle telemetry powered by NASA JPL & Babylonian math",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/3e9da0d3-e5e2-4bc8-a493-9a2f8f8addf4.png?auto=format",
-    "downloads": 626538,
-    "trend": 40,
-    "releasedAt": "2026-11-14T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Z6PMV4CGCAJZDY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "GEOHATS",
-    "description": "Get your brand recommended by ChatGPT and AI search",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/launch-image-uploads/5f7ea16d-fe62-4822-816b-205af58b446e/768393a522301914164e450370419f6462f3233a1d3cf42bd5185c5a4790d196.png?auto=format",
-    "downloads": 933626,
-    "trend": 75,
-    "releasedAt": "2026-11-14T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/R3DA5FGG6ANZZG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "TynRent",
-    "description": "Rental availability, reservations and returns on Windows",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/35d536ec-0e29-4284-9c62-efad54255dc4.vnd.microsoft.icon?auto=format",
-    "downloads": 974552,
-    "trend": 59,
-    "releasedAt": "2026-11-14T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CQXTHPRAXY3ZHG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Jainya",
-    "description": "Smart CRM Solutions for Stronger Customer Connections",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/f581f9c9-7f12-495d-ac20-32ade11d0808.webp?auto=format",
-    "downloads": 176841,
-    "trend": 38,
-    "releasedAt": "2026-11-14T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/VGEB2GQL7FEML2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "elsai Procure to Pay Agent",
-    "description": "Automate procure-to-pay with governed AI agents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5a25236c-f185-41b7-9233-b98d27718ae7.png?auto=format",
-    "downloads": 179876,
-    "trend": 77,
-    "releasedAt": "2026-11-14T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/N6HE3GY7KJDFTD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Metronome.fm",
-    "description": "A metronome for web, iPhone & iPad with voice control & AI",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/6dcaa55a-fe64-499c-a379-4fc46c7173bc.png?auto=format",
-    "downloads": 331287,
-    "trend": 72,
-    "releasedAt": "2026-11-14T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/FPWJNLRN6RQYGK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
