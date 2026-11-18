@@ -1,5 +1,65 @@
 [
   {
+    "name": "Westgate Auto Glass",
+    "description": "Ancaster auto repair",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9f998a2b-cebb-4041-ab41-44e62fa3b1ee.png?auto=format",
+    "downloads": 233458,
+    "trend": 95,
+    "releasedAt": "2026-11-18T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BQTNIR3NPMCW6M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "PromptForge Pro",
+    "description": "Create better AI prompts, effortlessly.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/65d87e5c-4317-4b76-b6ea-93a0e842473d.png?auto=format",
+    "downloads": 1087765,
+    "trend": 41,
+    "releasedAt": "2026-11-18T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/6FWKBAG4CSUUSZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "WhatsCRM Hub",
+    "description": "AI sales CRM, from ad click to paid commission",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/5f816bb0-8f10-4cef-834a-7eea2fc65fa7.webp?auto=format",
+    "downloads": 608701,
+    "trend": 78,
+    "releasedAt": "2026-11-18T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GHXHK6344U7DHO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The Complete AI Business Series",
+    "description": "Six practical AI guides for small business, one bundle",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e49ac670-79a9-4c02-90e9-bf256668d822.png?auto=format",
+    "downloads": 574632,
+    "trend": 46,
+    "releasedAt": "2026-11-18T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/AHTJ7X5X542RQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Six Hunches",
+    "description": "Daily trivia where a near miss still scores",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/798ae882-387b-454c-91ae-01b39a27df03.png?auto=format",
+    "downloads": 603592,
+    "trend": 104,
+    "releasedAt": "2026-11-18T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/PMF373U45QQKLC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Q8Flow AI",
     "description": "24/7 bilingual WhatsApp AI concierge for GCC businesses.",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/7L22JQED36JYJ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AI Christmas Photo Generator",
-    "description": "Turn 1-4 photos into 300 dpi Christmas cards, preview free",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/8ec9f4f9-266a-4eb4-8680-47dac11d2167.png?auto=format",
-    "downloads": 362551,
-    "trend": 50,
-    "releasedAt": "2026-11-17T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/P4MVVIJCFM3RU5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Diffly",
-    "description": "AI Code Review Benchmark & Training Arena",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/e5408a89-94dc-438f-89ce-a435808098ab.svg?auto=format",
-    "downloads": 610836,
-    "trend": 63,
-    "releasedAt": "2026-11-17T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/OPJY3VD46I45WM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "VSIM SVOIM",
-    "description": "Jobs, housing and services for Ukrainians abroad",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/2f3152c5-9f39-481c-970c-30ccccdae199.png?auto=format",
-    "downloads": 521877,
-    "trend": 104,
-    "releasedAt": "2026-11-17T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SCODV7VAEE6HNL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sheru Bhai AI Photo",
-    "description": "Your AI photo with Sheru Bhai, the viral lion boss",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/4b43cb42-c5e8-403a-9c79-5cf9624eaeb4.png?auto=format",
-    "downloads": 793923,
-    "trend": 107,
-    "releasedAt": "2026-11-17T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AUKQ4H5P5ID4YQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "DailyTube Digest",
-    "description": "Your YouTube, X and Reddit feeds in one daily digest",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/launch-image-uploads/63a83604-89d6-42bf-9d93-a65279053139/7337b3c6898906237205f04636c992851bf33829a74b06074d823d8e1ca677bd.jpeg?auto=format",
-    "downloads": 523233,
-    "trend": 52,
-    "releasedAt": "2026-11-17T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DLKXD3K4XDETRY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
