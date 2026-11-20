@@ -1,5 +1,77 @@
 [
   {
+    "name": "Badya",
+    "description": "Learn languages from real content with an agentic AI tutor",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/15d71483-f8a8-4349-8ba0-b94b7274867a.png?auto=format",
+    "downloads": 590333,
+    "trend": 43,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QIBPWPEF3M6Z43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "TEF Canada AI Speaking Practice Tool",
+    "description": "Practice French Speaking with AI for TEF Canada Prep",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c646a0d0-e0fc-41a4-9310-9df8e7aefac0.png?auto=format",
+    "downloads": 149933,
+    "trend": 93,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HWDPY623SXTDEC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Catholic Prayer Life",
+    "description": "Offline Catholic prayers, intentions and daily reminders",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/15ea9f58-628d-4710-9daf-5d807dce950f.jpeg?auto=format",
+    "downloads": 274585,
+    "trend": 36,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/CN6EP6UVJPW4YI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Qcramai Security",
+    "description": "AI-powered App security testing with expert validation",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/cd1f2c71-403d-4627-8407-003ddcef2723.png?auto=format",
+    "downloads": 242487,
+    "trend": 28,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/BZYRLRHVJL5QII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Querynza",
+    "description": "Querynza: AI answer engine and chatbot for your website",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/1e92dd09-14ca-42d1-8b87-50dbf5a5c4a2.svg?auto=format",
+    "downloads": 1027738,
+    "trend": 46,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/DCZ4NFYK7S3FMA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Tamekoshi",
+    "description": "A Tamagotchi-style AI companion that does real work",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/e2ee370f-50fe-4c77-a7c6-b68166387f7e.svg?auto=format",
+    "downloads": 236112,
+    "trend": 99,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/D7S6JA3X5PKAUF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "CelebrityHai Talent Management",
     "description": "Talent management and career opportunities in one place",
     "category": "AI对话",
@@ -46,77 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/46A2VWQDXR2B3G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Stopover",
-    "description": "The cheapest order for your cities, now inside Claude",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/bcfe96c7-ab04-4e52-b40b-8ab05086cd4c.svg?auto=format",
-    "downloads": 159430,
-    "trend": 18,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ANWC7T4LW6YPKB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Honeybee",
-    "description": "Team chat app with a built-in always on AI agent",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7f1e336d-4a28-4555-850f-d439aa3f36a8.png?auto=format",
-    "downloads": 164688,
-    "trend": 20,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/E7PIL5LYH7XKZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Maya by Pizi",
-    "description": "Your AI Chief of Staff, for work and for life",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/461f7980-826b-47db-a6ac-9a3f330e28ff.png?auto=format",
-    "downloads": 952583,
-    "trend": 53,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/5XLYI63VFDAUNL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ramble for Apple Watch",
-    "description": "One-way voice notes from your Apple Watch to your agent",
-    "category": "AI音频",
-    "icon": "https://ph-files.imgix.net/f258b085-7ae6-44df-80cf-dec341aaef8a.png?auto=format",
-    "downloads": 420535,
-    "trend": 85,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UHVUZDCJAPUT7H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Perceora",
-    "description": "No-code computer vision: train AI models on your own PC",
-    "category": "开发工具",
-    "icon": "https://ph-files.imgix.net/55facc30-fc09-40f8-a7c5-3f31d2507918.png?auto=format",
-    "downloads": 684425,
-    "trend": 13,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/M2PULEY647LAAW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "BinaDesk",
-    "description": "BinaDesk checks AI’s work against your own documents",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b65f1571-9655-4cf2-8d60-0a84a9ace580.png?auto=format",
-    "downloads": 650729,
-    "trend": 74,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/AHWIYKORS7MOLO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
