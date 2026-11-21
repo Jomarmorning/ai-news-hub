@@ -1,5 +1,101 @@
 [
   {
+    "name": "TEF Canada AI Speaking Practice Tool",
+    "description": "Practice French Speaking with AI for TEF Canada Prep",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/c646a0d0-e0fc-41a4-9310-9df8e7aefac0.png?auto=format",
+    "downloads": 468962,
+    "trend": 26,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HWDPY623SXTDEC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NavieAI- An AI Learning Platform",
+    "description": "NavieAI- AI Software Development & Workflow Automation",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/8ede1110-fa32-44df-8a39-8ad7c98e5ab0.png?auto=format",
+    "downloads": 995843,
+    "trend": 31,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LDGMSZKFYBXF7W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Netizn",
+    "description": "Social, Shop, Community, Health & Wellness AI",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/64e32d4c-af0a-4ac4-8e11-4a8e2a68c24d.png?auto=format",
+    "downloads": 313879,
+    "trend": 71,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OZR77QXTIOYPWL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "InteraOne",
+    "description": "Open-source Intercom & Zendesk alternative with AI agents",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/213e83b4-7e6f-4b13-acb0-a65e90cef780.x-icon?auto=format",
+    "downloads": 402874,
+    "trend": 34,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/OV3T342ULSCXYM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Groundwork",
+    "description": "Claude Code plans that re-runs never overwrite",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/d4536e09-a3bd-467e-88e3-bb77c7c7610f.png?auto=format",
+    "downloads": 1054178,
+    "trend": 77,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HIIUYSCAHIBWWS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Clip Studio",
+    "description": "Viral Shorts & Reels Maker",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b8bdcbdf-2429-4472-b7b6-dee72b47f17d.jpeg?auto=format",
+    "downloads": 917566,
+    "trend": 35,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/FMH6PYEEBXRANK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ni8 -Health&Fitness",
+    "description": "​All-in-one dark-mode workout planner & daily habit tracker",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/50fc5ffe-d2a2-43ab-ac39-51f228ec1fb2.jpeg?auto=format",
+    "downloads": 105522,
+    "trend": 96,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/IGSMVY4WMU7TDO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "NextTechCareer",
+    "description": "Scholarships, Jobs & Trainings",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/19f3e7cb-d6b7-4be1-8b92-470578998577.png?auto=format",
+    "downloads": 973653,
+    "trend": 79,
+    "releasedAt": "2026-11-20T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/NXMBRMC5X7VS2M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Badya",
     "description": "Learn languages from real content with an agentic AI tutor",
     "category": "AI写作",
@@ -12,18 +108,6 @@
     "url": "https://www.producthunt.com/r/QIBPWPEF3M6Z43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "TEF Canada AI Speaking Practice Tool",
-    "description": "Practice French Speaking with AI for TEF Canada Prep",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/c646a0d0-e0fc-41a4-9310-9df8e7aefac0.png?auto=format",
-    "downloads": 149933,
-    "trend": 93,
-    "releasedAt": "2026-11-20T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/HWDPY623SXTDEC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "Catholic Prayer Life",
     "description": "Offline Catholic prayers, intentions and daily reminders",
     "category": "AI对话",
@@ -34,89 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/CN6EP6UVJPW4YI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Qcramai Security",
-    "description": "AI-powered App security testing with expert validation",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cd1f2c71-403d-4627-8407-003ddcef2723.png?auto=format",
-    "downloads": 242487,
-    "trend": 28,
-    "releasedAt": "2026-11-20T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/BZYRLRHVJL5QII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Querynza",
-    "description": "Querynza: AI answer engine and chatbot for your website",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/1e92dd09-14ca-42d1-8b87-50dbf5a5c4a2.svg?auto=format",
-    "downloads": 1027738,
-    "trend": 46,
-    "releasedAt": "2026-11-20T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/DCZ4NFYK7S3FMA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Tamekoshi",
-    "description": "A Tamagotchi-style AI companion that does real work",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/e2ee370f-50fe-4c77-a7c6-b68166387f7e.svg?auto=format",
-    "downloads": 236112,
-    "trend": 99,
-    "releasedAt": "2026-11-20T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/D7S6JA3X5PKAUF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "CelebrityHai Talent Management",
-    "description": "Talent management and career opportunities in one place",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/b10dabd0-4609-4f1c-bcc3-4f9ecbfecbcf.png?auto=format",
-    "downloads": 192332,
-    "trend": 109,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SVUKRLJZA6PYFY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Outrun the Neon Sunset",
-    "description": "Instant retro-futuristic supercar videos powered by AI",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/b93ea1b1-bdee-452e-bf41-bccc935131b2.png?auto=format",
-    "downloads": 640056,
-    "trend": 17,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/XSTCDUO22CTYIJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sidest Bar",
-    "description": "Your daily tools, one glance away—desktop side screen",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0968632c-0074-4f63-a3b6-9fca539586b9.jpeg?auto=format",
-    "downloads": 959492,
-    "trend": 106,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/Z4VC7X7PBT6ZOJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ColdEmailProAI",
-    "description": "Agent that researches prospects and writes spam-free emails",
-    "category": "AI搜索",
-    "icon": "https://ph-files.imgix.net/53c655b1-eb97-4c6a-9d89-af639d9fbf65.jpeg?auto=format",
-    "downloads": 275244,
-    "trend": 13,
-    "releasedAt": "2026-11-19T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/46A2VWQDXR2B3G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
