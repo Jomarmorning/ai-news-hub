@@ -1,5 +1,29 @@
 [
   {
+    "name": "BookGrid",
+    "description": "Scheduling & Waitlist Software for Service Teams",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/edd9b14e-cbf7-4fa4-8676-db4c52c65a67.svg?auto=format",
+    "downloads": 892206,
+    "trend": 48,
+    "releasedAt": "2026-11-21T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/GF2KQS5TQQG356?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "RideShell",
+    "description": "Use multiple Claude Code and Codex accounts seamlessly.",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/e807ca5f-e69a-4c54-addf-cc88cb861e48.png?auto=format",
+    "downloads": 1094464,
+    "trend": 31,
+    "releasedAt": "2026-11-21T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/QTAR3S7T7TMLHM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "TEF Canada AI Speaking Practice Tool",
     "description": "Practice French Speaking with AI for TEF Canada Prep",
     "category": "AI对话",
@@ -94,29 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/NXMBRMC5X7VS2M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Badya",
-    "description": "Learn languages from real content with an agentic AI tutor",
-    "category": "AI写作",
-    "icon": "https://ph-files.imgix.net/15d71483-f8a8-4349-8ba0-b94b7274867a.png?auto=format",
-    "downloads": 590333,
-    "trend": 43,
-    "releasedAt": "2026-11-20T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/QIBPWPEF3M6Z43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Catholic Prayer Life",
-    "description": "Offline Catholic prayers, intentions and daily reminders",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/15ea9f58-628d-4710-9daf-5d807dce950f.jpeg?auto=format",
-    "downloads": 274585,
-    "trend": 36,
-    "releasedAt": "2026-11-20T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/CN6EP6UVJPW4YI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
