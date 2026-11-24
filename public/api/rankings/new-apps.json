@@ -1,5 +1,65 @@
 [
   {
+    "name": "PingPong Live by WSOS",
+    "description": "Browser live streaming with a teleprompter and AI presenter",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/580479a3-8eff-4e6b-bbaf-3dc589be6ca8.png?auto=format",
+    "downloads": 414450,
+    "trend": 32,
+    "releasedAt": "2026-11-24T18:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HSOTWLE3CYQNOW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "DarkLM",
+    "description": "The uncensored AI that answers instead of refusing",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/62071f6c-70ad-4a68-a143-9f81b0bdbddf.png?auto=format",
+    "downloads": 1021476,
+    "trend": 66,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/R54U2UE3LTQUNA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "The Good Tracker",
+    "description": "Voice-first symptom, food and medicine tracker",
+    "category": "AI音频",
+    "icon": "https://ph-files.imgix.net/cb67d6ce-a820-4dc8-94ec-f834b59480db.png?auto=format",
+    "downloads": 995851,
+    "trend": 35,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/4YBKE2NZP35WQ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kerryvo",
+    "description": "Invoicing and business management for small teams in Spain",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0768c508-6fb1-4654-9e25-33a933c95bec.png?auto=format",
+    "downloads": 805610,
+    "trend": 51,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZG6X6NCUDIE2UW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Evening Coast",
+    "description": "Take your AI on vacation to a 3D seaside island",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/22857209-7486-478b-ba33-9118e543df96.jpeg?auto=format",
+    "downloads": 960279,
+    "trend": 97,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RPGUZ5V25RUHBX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "ChatGPT and Claude conversation exporter",
     "description": "Export any ChatGPT & Claude chat in one click",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/7DOJW3HHL3QEXJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vision",
-    "description": "Open Source AI Business Observability Platform",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/d63486a5-8fc9-4638-81be-5d059022c41f.png?auto=format",
-    "downloads": 862418,
-    "trend": 58,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/PIWLEBTHAIIZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Replit Missions",
-    "description": "Set a budget, coordinate teams of AI agents,",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5f621a68-2838-4ad2-97a5-fd3fc6dad117.jpeg?auto=format",
-    "downloads": 465970,
-    "trend": 105,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/TDH4FSFWJH5AA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Orpheus",
-    "description": "Run all your Claude subscriptions from one place",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/80968edd-b938-46a1-9c51-a75889c8582f.png?auto=format",
-    "downloads": 431009,
-    "trend": 69,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/KDCSUR3A623FF7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Sourcefly.ai",
-    "description": "Find the right candidates and target accounts with AI.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/05cda141-8d58-4334-8264-bc492708f988.webp?auto=format",
-    "downloads": 426365,
-    "trend": 79,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/YUB6FK3KFVMEEO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "MAI Image 2.7",
-    "description": "Microsoft's image model with precise edits and Canvas",
-    "category": "AI绘画",
-    "icon": "https://ph-files.imgix.net/47e91240-b8cc-4467-95e6-0892e73bbc44.png?auto=format",
-    "downloads": 1041136,
-    "trend": 59,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/33YB7677N3QADD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
