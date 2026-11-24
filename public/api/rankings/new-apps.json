@@ -1,5 +1,65 @@
 [
   {
+    "name": "ChatGPT and Claude conversation exporter",
+    "description": "Export any ChatGPT & Claude chat in one click",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/b99028b1-8770-4458-a193-bc07f909c5cd.png?auto=format",
+    "downloads": 488812,
+    "trend": 17,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/W7NXIC2ESWHZ2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ticks AI",
+    "description": "Learn trading by watching an AI manage real strategies",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/da4bec71-37e5-489e-aadb-cb73c28da672.png?auto=format",
+    "downloads": 325563,
+    "trend": 57,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EJJATXR6ARFJVM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Qorx Void",
+    "description": "Give Claude Code and Codex the exact source lines",
+    "category": "开发工具",
+    "icon": "https://ph-files.imgix.net/5cdeaeea-5947-4edb-a8c5-945c14c8e46e.png?auto=format",
+    "downloads": 411660,
+    "trend": 109,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/YCSXTFHO2QTLYV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Paxora",
+    "description": "Shopify checkout on your own Stripe, Whop or Airwallex",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7d41a91d-145e-47c2-89d2-c943468abab6.png?auto=format",
+    "downloads": 355456,
+    "trend": 97,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/TSNYYSYSO2ZOEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Vice Shift",
+    "description": "One portrait, 15 seconds in a neon game world",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/7f3797c8-3871-408a-ab00-4c0f161f3462.png?auto=format",
+    "downloads": 775314,
+    "trend": 12,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/7DOJW3HHL3QEXJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Vision",
     "description": "Open Source AI Business Observability Platform",
     "category": "AI对话",
@@ -58,65 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/33YB7677N3QADD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "The Bid Suite",
-    "description": "AI bid and grant software, with alerts on your phone",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/launch-image-uploads/b8e13c73-e2f3-468c-9bd9-26e187ebfdee/39e209dd34b234535b9efbaf05a8ee5169356889f2fc50b95d4eb5565a62e748.png?auto=format",
-    "downloads": 664161,
-    "trend": 75,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/UZXXTJQHH3D2ZA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Lorebo",
-    "description": "Build a knowledge graph by talking to your AI",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/launch-image-uploads/7cfb57be-2c8a-4933-88c3-575723687a51/0c17ef2ad08a3106b48a691561cc44feadf0e72cb20c5650e4bb00a2a547ecf1.png?auto=format",
-    "downloads": 836911,
-    "trend": 107,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/4ODKX6JHELRTRS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "ProChat",
-    "description": "Your assistant answers from what you shared",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5c355079-6376-4d56-8022-8b3db8c2673c.png?auto=format",
-    "downloads": 221684,
-    "trend": 25,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/O2KFDCGZJ5ZEUX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "AIBeacon",
-    "description": "Track how ChatGPT & Claude recommend your brand.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cd416301-9d23-45fa-b350-f1838237e20a.png?auto=format",
-    "downloads": 984516,
-    "trend": 18,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RANDQQN7GVCBDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Security Review Ready",
-    "description": "Security Review Automation for vCISOs & SaaS Founders",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/cba25430-9a89-4ce4-b3a0-824118ba86fa.png?auto=format",
-    "downloads": 319943,
-    "trend": 88,
-    "releasedAt": "2026-11-23T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/P2JF4JY5USHQVK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
