@@ -4,24 +4,72 @@
     "description": "Browser live streaming with a teleprompter and AI presenter",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/580479a3-8eff-4e6b-bbaf-3dc589be6ca8.png?auto=format",
-    "downloads": 414450,
-    "trend": 32,
+    "downloads": 978938,
+    "trend": 107,
     "releasedAt": "2026-11-24T18:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/HSOTWLE3CYQNOW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
+    "name": "Authora",
+    "description": "AI that writes, edits and formats your book for Amazon KDP",
+    "category": "AI写作",
+    "icon": "https://ph-files.imgix.net/e4c038c8-1c00-4af9-98a8-42ddeacb4eb4.svg?auto=format",
+    "downloads": 388517,
+    "trend": 96,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/2M4MFT3PRRJ5KY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Ticks AI",
+    "description": "Learn trading by watching an AI manage real strategies",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/da4bec71-37e5-489e-aadb-cb73c28da672.png?auto=format",
+    "downloads": 455724,
+    "trend": 65,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/EJJATXR6ARFJVM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "DarkLM",
     "description": "The uncensored AI that answers instead of refusing",
     "category": "AI对话",
     "icon": "https://ph-files.imgix.net/62071f6c-70ad-4a68-a143-9f81b0bdbddf.png?auto=format",
-    "downloads": 1021476,
-    "trend": 66,
+    "downloads": 616389,
+    "trend": 97,
     "releasedAt": "2026-11-24T08:01:00Z",
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/R54U2UE3LTQUNA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Kerryvo",
+    "description": "Invoicing and business management for small teams in Spain",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/0768c508-6fb1-4654-9e25-33a933c95bec.png?auto=format",
+    "downloads": 258306,
+    "trend": 93,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ZG6X6NCUDIE2UW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Evening Coast",
+    "description": "Take your AI on vacation to a 3D seaside island",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/22857209-7486-478b-ba33-9118e543df96.jpeg?auto=format",
+    "downloads": 250434,
+    "trend": 59,
+    "releasedAt": "2026-11-24T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/RPGUZ5V25RUHBX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "The Good Tracker",
@@ -36,30 +84,6 @@
     "url": "https://www.producthunt.com/r/4YBKE2NZP35WQ7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
-    "name": "Kerryvo",
-    "description": "Invoicing and business management for small teams in Spain",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/0768c508-6fb1-4654-9e25-33a933c95bec.png?auto=format",
-    "downloads": 805610,
-    "trend": 51,
-    "releasedAt": "2026-11-24T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/ZG6X6NCUDIE2UW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Evening Coast",
-    "description": "Take your AI on vacation to a 3D seaside island",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/22857209-7486-478b-ba33-9118e543df96.jpeg?auto=format",
-    "downloads": 960279,
-    "trend": 97,
-    "releasedAt": "2026-11-24T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/RPGUZ5V25RUHBX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
     "name": "ChatGPT and Claude conversation exporter",
     "description": "Export any ChatGPT & Claude chat in one click",
     "category": "AI对话",
@@ -70,18 +94,6 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/W7NXIC2ESWHZ2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Ticks AI",
-    "description": "Learn trading by watching an AI manage real strategies",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/da4bec71-37e5-489e-aadb-cb73c28da672.png?auto=format",
-    "downloads": 325563,
-    "trend": 57,
-    "releasedAt": "2026-11-24T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/EJJATXR6ARFJVM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   },
   {
     "name": "Qorx Void",
@@ -106,17 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/TSNYYSYSO2ZOEN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Vice Shift",
-    "description": "One portrait, 15 seconds in a neon game world",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/7f3797c8-3871-408a-ab00-4c0f161f3462.png?auto=format",
-    "downloads": 775314,
-    "trend": 12,
-    "releasedAt": "2026-11-24T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/7DOJW3HHL3QEXJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
