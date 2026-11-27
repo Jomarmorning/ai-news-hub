@@ -1,5 +1,53 @@
 [
   {
+    "name": "Eagerness",
+    "description": "Private AI for conversations and writing, on your Mac",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/9087e8b5-f29d-4289-af7f-56c00c46333f.svg?auto=format",
+    "downloads": 226038,
+    "trend": 44,
+    "releasedAt": "2026-11-27T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/HT7VWF2W3FZIYO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Magi 2",
+    "description": "AI video generator for 30-second 1080p clips with audio",
+    "category": "AI视频",
+    "icon": "https://ph-files.imgix.net/c0a53941-93be-4668-b686-6abe7dd2309f.png?auto=format",
+    "downloads": 415592,
+    "trend": 107,
+    "releasedAt": "2026-11-27T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/S67IEPW4FNZFM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "AI Automation Playbook course - $79",
+    "description": "AI Automation Playbook",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/de6a2cda-c3f9-4eeb-99b5-7fadc8176f01.png?auto=format",
+    "downloads": 366427,
+    "trend": 84,
+    "releasedAt": "2026-11-27T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/ETU7FJQWZE4T7Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
+    "name": "Serafin",
+    "description": "All your entertainment in one place.",
+    "category": "AI对话",
+    "icon": "https://ph-files.imgix.net/91634c99-8a88-46a0-89ea-bc0c2e933b50.svg?auto=format",
+    "downloads": 481608,
+    "trend": 83,
+    "releasedAt": "2026-11-27T08:01:00Z",
+    "isNew": true,
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/r/LOZUKDDJBEWFV5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
+  },
+  {
     "name": "Hub",
     "description": "Run 100 Claude Code or Codex sessions like 5",
     "category": "开发工具",
@@ -70,53 +118,5 @@
     "isNew": true,
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/r/OLWZAMAHBV5LHB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Astral Inference Server",
-    "description": "Open-source LLM inference in Rust and CUDA, one binary",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/6492d134-02c3-4785-817a-736e84aa1ff3.png?auto=format",
-    "downloads": 989147,
-    "trend": 14,
-    "releasedAt": "2026-11-26T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/6F52VX7EJXTFKE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Waitimo 2.0",
-    "description": "Collect your first users. Build what they ask for.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/5d7c5ed4-ca76-448d-bb8e-6c5ab7adc06c.png?auto=format",
-    "downloads": 1050911,
-    "trend": 63,
-    "releasedAt": "2026-11-26T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/NDDWHVQYHKHIIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Walid AI",
-    "description": "Learn, play, create and explore — all in one place.",
-    "category": "AI对话",
-    "icon": "https://ph-files.imgix.net/4f59921a-bbae-4111-acd4-0e132f251598.png?auto=format",
-    "downloads": 949586,
-    "trend": 99,
-    "releasedAt": "2026-11-26T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/JUID2OLBBBYX4I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
-  },
-  {
-    "name": "Magi2 Studio",
-    "description": "MAGI-2 AI video generator: 30s 1080p clips with audio",
-    "category": "AI视频",
-    "icon": "https://ph-files.imgix.net/0b95753d-d05d-44ce-b2b6-c6622a19badd.png?auto=format",
-    "downloads": 854776,
-    "trend": 33,
-    "releasedAt": "2026-11-26T08:01:00Z",
-    "isNew": true,
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/r/SCYW5XXPCSKFZG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+aihubfire+%28ID%3A+277693%29"
   }
 ]
